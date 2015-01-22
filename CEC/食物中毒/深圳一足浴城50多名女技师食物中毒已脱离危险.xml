@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>深圳一足浴城50多名女技师食物中毒 已脱离危险</Title>
+	<ReportTime type="absTime">2007年1月10日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">新华网</Participant><Location lid="l1">深圳</Location><Time tid="t1" type="relTime">1月10日</Time><Denoter did="d1" type="statement">电</Denoter></Event>（记者王传真）</Sentence><Sentence><Event eid="e2"><Location lid="l2">深圳市南山美都足浴城</Location><Participant sid="s2,s3,s4,s5">50多名女技师</Participant><Time tid="t2" type="relTime">9日午饭后</Time>相继<Denoter did="d2" type="stateChange">出现</Denoter>胸闷、恶心等<Object oid="o2">中毒现象</Object></Event>，<Event eid="e3">被紧急<Denoter did="d3" type="movement">送往</Denoter><Location lid="l3" type="destination">医院</Location></Event><Event eid="e4"><Denoter did="d4" type="operation">救治</Denoter></Event>后，<Event eid="e5">已全部<Denoter did="d5" type="stateChange">脱离危险</Denoter></Event>。</Sentence></Paragraph>
+    
+　　<Paragraph><Sentence><Event type="thoughtevent" eid="e6">据<Denoter did="d6" type="statement">了解</Denoter></Event>，<Event eid="e7">这<Participant sid="s7,s8,s9,s10">50多名女工</Participant><Time tid="t7" type="relTime">9日</Time>午饭可能因<Denoter type="action" did="d7">食用</Denoter><Object oid="o7">问题四季豆</Object></Event><Event eid="e8">而引起<Denoter did="d8" type="emergency">中毒</Denoter>反应</Event>，<Event eid="e9">被及时<Denoter did="d9" type="movement">送到</Denoter><Location lid="l9">深圳市南山蛇口人民医院</Location></Event><Event eid="e10">紧急<Denoter did="d10" type="operation">抢救</Denoter></Event>后，全部脱离危险，<Event eid="e11"><Participant sid="s11">医院</Participant>从各科室<Denoter did="d11" type="operation">调集</Denoter><Participant sid="s11">骨干人员</Participant></Event><Event eid="e12">对<Participant sid="s12">中毒女工</Participant>进行<Denoter did="d12" type="operation">治疗</Denoter></Event>和<Event eid="e13"><Denoter did="d13" type="operation">护理</Denoter></Event>，目前患者情绪稳定。</Sentence></Paragraph>
+	</Content>	
+                <eRelation thoughtcontent_eids="e2-e13" thoughtevent_eid="e1" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e7-e13" thoughtevent_eid="e6" relType="Thoughtcontent"/>
+		<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+		<eRelation relType="Follow" aevent_eid="e5" bevent_eid="e4"/>
+		<eRelation relType="Follow" aevent_eid="e8" bevent_eid="e7"/>
+		<eRelation relType="Follow" aevent_eid="e10" bevent_eid="e9"/>
+		<eRelation relType="Follow" aevent_eid="e12" bevent_eid="e11"/>
+		<eRelation relType="Accompany" accompanyb_eid="e12" accompanya_eid="e13"/>
+	
+</Body>

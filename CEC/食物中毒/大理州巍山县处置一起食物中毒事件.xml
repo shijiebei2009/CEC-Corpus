@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>大理州巍山县处置一起食物中毒事件</Title>
+	<ReportTime type="absTime">2008-08-13 </ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="absTime">2008年7月5日</Time>，<Location lid="l1">巍山县大仓镇甸中村委会一村民家中</Location>因办丧事酬客，引发一起较大<Denoter did="d1" type="emergency">食物中毒</Denoter>事件</Event>，<Event eid="e2">有<Participant sid="s2">286人</Participant><Denoter did="d2" type="emergency">中毒</Denoter></Event>。</Sentence><Sentence><Event eid="e3"><Participant sid="s3">巍山县委</Participant>、<Participant sid="s3">政府</Participant>及<Participant sid="s3">相关部门</Participant>高度<Denoter did="d4" type="action">重视</Denoter></Event>。</Sentence><Sentence>在大理州疾病预防控制中心专家及巍山县疾病预防控制中心相关工作人员的共同努力下，<Event eid="e4">经过大量的流行病学<Denoter did="d4" type="operation">调查</Denoter></Event>和<Event eid="e5">实验室<Denoter did="d5" type="operation">检查</Denoter></Event>，认定此次事件为沙门氏菌引起的细菌性食物中毒事件。</Sentence><Sentence><Event eid="e6">经对症支持<Denoter did="d" type="operation">治疗</Denoter></Event>，<Event eid="e7"><Participant oid="o7">286名中毒者</Participant>己于<Time tid="t7" type="relTime">7月11日</Time>全部<Denoter did="d7" type="stateChange">治愈</Denoter></Event>，愈后情况良好。</Sentence><Sentence>在现场处置的同时，<Event eid="e8"><Participant sid="s8">疾控工作人员</Participant>向<Participant oid="o8">村民们</Participant><Denoter did="d8" type="statement">讲解</Denoter>了预防食物中毒的措施</Event>，<Event eid="e9">并且通过电视等媒体广泛<Denoter did="d9" type="statement">宣传</Denoter>了预防食物中毒和肠道传染病发生的知识</Event>，提高了群众注重食品卫生的意识。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>
+	<eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>
+</Body>

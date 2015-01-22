@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>近两千名医护人员参与昆明暴力恐怖袭击事件医疗救援</Title>
+	<ReportTime type="absTime">2014年03月03日</ReportTime>
+	<Content><Paragraph><Sentence><Event eid="e1" type="thoughtevent">据<Participant sid="s1">云南省卫生厅</Participant>最新<Denoter did="d1" type="statement">通报</Denoter></Event>，
+        <Event eid="e2">针对<Location lid="l2">昆明</Location>暴力<Denoter did="d2" type="emergency">恐怖袭击</Denoter>事件</Event>，
+        <Event eid="e3"><Participant sid="s3">国家卫生计生委</Participant>从<Location lid="l3" type="origin">北京和成都</Location>紧急<Denoter did="d3" type="movement">派出</Denoter><Participant oid="o3" sid="s4,s5,s6,s7">国家医疗队四批、27人</Participant></Event>，
+        <Event eid="e4">于<Time tid="t4" type="relTime">2日</Time>全部<Denoter did="d4" type="movement">抵达</Denoter><Location lid="l4" type="destination">昆明</Location></Event>，
+        <Event eid="e5"><Denoter did="d5" type="action">帮助</Denoter></Event>
+        <Event eid="e6"><Denoter did="d6" type="action">指导</Denoter></Event>
+        <Event eid="e7"><Participant oid="o7">伤员</Participant>医疗<Denoter did="d7" type="action">救治</Denoter>工作</Event>。</Sentence>
+			<Sentence><Event eid="e8"><Time tid="t8" type="timeInterval">截至2日18：00</Time>，<Participant sid="s8">各级医疗机构</Participant>直接<Denoter did="d8" type="action">参与</Denoter></Event>
+                        <Event eid="e9"><Participant oid="o9">伤员</Participant><Denoter did="d9" type="operation">救治</Denoter>的<Participant sid="s9,s10,s11,s12">医护人员达1916名</Participant></Event>，
+                        已<Event eid="e10">开展急诊<Denoter did="d10" type="operation">手术</Denoter>104台次</Event>，
+                        <Event eid="e11">应急<Denoter did="d11" type="operation">采血</Denoter><Participant oid="o11">1000多人次</Participant></Event>，
+                        <Event eid="e12"><Denoter did="d12" type="operation">使用</Denoter><Object oid="o12">血液754袋</Object></Event>（1008.5单位）。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event eid="e13" type="thoughtevent">据<Denoter did="d13" type="statement">通报</Denoter></Event>，
+<Event eid="e14"><Denoter did="d14" type="emergency">事件</Denoter>发生后</Event>，
+<Event eid="e15"><Participant sid="s15">刘延东副总理</Participant>高度重视，对救治工作作出重要<Denoter did="d15" type="statement">批示</Denoter>。</Event></Sentence>
+			<Sentence><Event eid="e16"><Participant sid="s16,s17,s18">云南省领导</Participant>、<Participant sid="s16,s17,s18">国家卫生计生委领导</Participant>也<Denoter did="d16" type="movement">赶赴</Denoter><Location lid="l16" type="destination">现场</Location></Event>
+                        <Event eid="e17">或作出<Denoter did="d17" type="statement">批示</Denoter></Event>
+                        <Event eid="e18"><Denoter did="d18" type="operation">指导</Denoter></Event>
+                        <Event eid="e19"><Denoter did="d19" type="operation">救治</Denoter>工作</Event>。</Sentence>
+                        
+			<Sentence><Event eid="e20" type="thoughtevent"><Participant sid="s20">云南省卫生厅</Participant><Denoter did="d20" type="statement">表示</Denoter></Event>，
+                        <Event eid="e21"><Time tid="t21" type="relTime">3月1日21:17</Time>，<Participant sid="s21,s22,s23">云南省急救中心</Participant><Denoter did="d21" type="action">接到</Denoter>呼救<Object oid="o21">电话</Object></Event>，
+                        <Event eid="e22">立即<Denoter did="d22" type="operation">指挥</Denoter></Event>
+                        <Event eid="e23"><Denoter did="d23" type="operation">调度</Denoter><Object oid="o23" sid="s24">救护车辆</Object>和<Participant oid="o23" sid="s24">医护人员</Participant></Event>，于
+                        <Event eid="e24"><Time tid="t24" type="relTime">21:28</Time>即<Denoter did="d24" type="movement">到达</Denoter><Location lid="l24" type="destination">现场</Location></Event>；
+                        共计<Event eid="e25"><Denoter did="d25" type="operation">出动</Denoter><Object oid="o25">救护车13辆</Object>次</Event>、
+                        <Event eid="e26"><Denoter did="d26" type="operation">派出</Denoter><Participant oid="o26">医护人员80人</Participant>次</Event>
+                        <Event eid="e27"><Denoter did="d27" type="operation">转送</Denoter><Participant oid="o27">伤亡人员</Participant>。</Event></Sentence>
+			<Sentence><Event eid="e28"><Time tid="t28" type="relTime">目前</Time>，各<Participant sid="s28">医院</Participant><Denoter did="d28" type="operation">成立</Denoter>以院长为组长的救治<Participant oid="o28" sid="s29,s30">专家组</Participant></Event>，
+                        <Event eid="e29"><Denoter did="d29" type="operation">组织</Denoter><Participant oid="o29" sid="s30">医务人员</Participant></Event><Event eid="e30">全力<Denoter did="d30" type="operation">抢救</Denoter></Event>。</Sentence></Paragraph></Content>
+                        
+
+
+
+
+                        
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e12"/>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>
+<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>
+<eRelation relType="Accompany" accompanya_eid="e5" accompanyb_eid="e6"/>
+<eRelation relType="Accompany" accompanya_eid="e6" accompanyb_eid="e7"/>
+
+<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e8"/>
+<eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>
+<eRelation relType="Composite" fevent_eid="e9" sevent_eids="e10-e12"/>
+<eRelation relType="Accompany" accompanya_eid="e1" accompanyb_eid="e13"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e13" thoughtcontent_eids="e14-e30"/>
+<eRelation relType="Follow" bevent_eid="e14" aevent_eid="e15"/>
+<eRelation relType="Follow" bevent_eid="e15" aevent_eid="e16"/>
+<eRelation relType="Follow" bevent_eid="e16" aevent_eid="e17"/>
+<eRelation relType="Accompany" accompanya_eid="e17" accompanyb_eid="e18"/>
+<eRelation relType="Accompany" accompanya_eid="e18" accompanyb_eid="e19"/>
+
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e20" thoughtcontent_eids="e21-30"/>
+<eRelation relType="Follow" bevent_eid="e21" aevent_eid="e22"/>
+<eRelation relType="Accompany" accompanya_eid="e22" accompanyb_eid="e23"/>
+<eRelation relType="Follow" bevent_eid="e23" aevent_eid="e24"/>
+<eRelation relType="Follow" bevent_eid="e24" aevent_eid="e25"/>
+<eRelation relType="Accompany" accompanya_eid="e25" accompanyb_eid="e26"/>
+<eRelation relType="Accompany" accompanya_eid="e26" accompanyb_eid="e27"/>
+<eRelation relType="Follow" bevent_eid="e21" aevent_eid="e28"/>
+<eRelation relType="Follow" bevent_eid="e28" aevent_eid="e29"/>
+<eRelation relType="Accompany" accompanya_eid="e29" accompanyb_eid="e30"/>
+
+
+
+
+
+
+                        
+                        
+                        </Body>

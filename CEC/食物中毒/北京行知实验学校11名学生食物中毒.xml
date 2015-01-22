@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>北京行知实验学校11名学生食物中毒</Title>
+	<ReportTime type="absTime">2007年9月4日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="relTime">9月4日下午2：20</Time>北京行知实验学校的<Participant  oid="o1">11名学生</Participant>因食物中毒被<Denoter did="d1" type="movement">送进</Denoter><Location lid="l1">武警总医院儿科</Location></Event>，其中最大的12岁，最小的只有6岁，目前患儿的心率、血压和脉搏平稳，没有生命危险，<Event eid="e2">只有病情稍重的<Participant sid="s2">两名孩子</Participant>需要<Denoter did="d2" type="operation">住院观察</Denoter></Event>。</Sentence></Paragraph>　　
+    
+    <Paragraph><Sentence>北京行知实验学校共有1000余名学生，大多数为打工子弟，平时在学校订餐的学生共有300人。</Sentence><Sentence><Event eid="e3">据<Participant sid="s3">学校负责人</Participant><Denoter did="d3" type="statement">介绍</Denoter></Event>，<Event eid="e4"><Participant sid="s4">他们</Participant>是按照教育部门规定在<Location lid="l4">某配餐公司</Location><Denoter did="d4" type="operation">订</Denoter>的<Object oid="o4">餐</Object></Event>。</Sentence><Sentence><Event eid="e5">三年级中毒学生<Participant sid="s5">小芳</Participant><Denoter did="d5" type="statement">说</Denoter></Event>，午饭除了米饭有点儿黏，也没有尝出来啥怪味。</Sentence><Sentence><Event eid="e6">等<Participant sid="s6">学校</Participant>广播<Denoter did="d6" type="statement">通知</Denoter></Event><Event eid="e7">将<Object oid="o7">饭菜</Object><Denoter did="d7" type="operation">收回</Denoter>时</Event>，<Event eid="e8"><Participant sid="s8">她</Participant>已经<Denoter did="d8" type="action">吃了</Denoter><Object oid="o8">半碗米饭</Object></Event>。</Sentence></Paragraph> 
+　　
+    <Paragraph><Sentence>据悉，<Event eid="e9">全校共有<Participant sid="s9">20余名孩子</Participant><Denoter did="d9" type="action">报告</Denoter><Participant  oid="o9">老师</Participant>说不舒服</Event>，<Event eid="e10"><Participant  oid="o10">小芳</Participant>和<Participant  oid="o10">其他10名症状较重的孩子</Participant>被<Denoter did="d10" type="movement">送到</Denoter><Location  lid="l10">武警总医院</Location></Event>。</Sentence><Sentence>检查结果初步表明，孩子们是食物中毒引起的急性胃肠炎，<Event eid="e11"><Participant sid="s11" type="agent">医生</Participant>马上给予<Participant  oid="o11" type="recipient">孩子</Participant>催吐<Denoter did="d11" type="operation">治疗</Denoter></Event>，<Event eid="e12">同时<Denoter did="d12" type="action">输入</Denoter><Object oid="12">抗感染液体</Object></Event>，<Event eid="e13">并且<Denoter did="d13" type="action">补充</Denoter><Object oid="13">糖盐水</Object>防止电解质紊乱</Event>。</Sentence><Sentence><Event eid="e14"><Time tid="t14" type="relTime">下午3：30</Time>，<Participant sid="s14">孩子们</Participant>基本都<Denoter did="d14" type="action">吐</Denoter>出了胃内残留的<Object oid="o14">食物</Object></Event>，无生命危险。</Sentence></Paragraph>
+     
+　　<Paragraph><Sentence><Event eid="e15">据武警总医院儿科主任<Participant sid="s15">刘秋玲</Participant><Denoter did="d15" type="statement">说</Denoter></Event>，<Event eid="e16">已经给中毒的<Participant  oid="o16">孩子</Participant>做了<Denoter did="d16" type="operation">心电图检查</Denoter></Event>和<Event eid="e17">相关<Denoter did="d17" type="operation">血液检查</Denoter></Event>，<Event eid="e18">但在<Time tid="t18" type="timeInterval">近日内</Time><Participant sid="s18" type="agent">家长</Participant>、<Participant sid="s18" type="agent">老师</Participant>还要注意<Denoter did="d18" type="perception">观察</Denoter><Participant  oid="o18" type="recipient">孩子</Participant>有无迟发反应</Event>，一旦有身体不适症状，要尽早就医治疗。</Sentence><Sentence>虽然已经入秋，但白日气温较高，学校、家长和配餐公司应该特别注意学生的饮食安全，避免腐败变质食物端上孩子们的餐桌。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Follow" bevent_eid="e1" aevent_eid="e2"/>
+	<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+	<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10"/>
+	<eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eid="e12"/>
+	<eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eid="e13"/>
+	<eRelation relType="Causal" cause_eid="e11" effect_eid="e14"/>
+</Body>

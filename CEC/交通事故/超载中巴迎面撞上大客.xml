@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>超载中巴迎面撞上大客</Title>
+	<ReportTime type="absTime">2006-8-22 8:47:24 </ReportTime>   作者：佚名    新闻来源：新京报    
+<Content>
+	<Paragraph><Sentence><Event eid="e1" type="thoughtevent"><Participant sid="s1">本报</Participant><Denoter did="d1" type="statement">讯</Denoter></Event></Sentence> <Sentence><Event eid="e2"><Time tid="t2" type="relTime">8月21日7时40分</Time>，在<Location lid="l2">307国道河北黄骅市滕庄子乡康庄子路口</Location>，<Object sid="s2">一辆大客车</Object>和<Object sid="s2">一辆中巴客车</Object>迎头<Denoter did="d3" type="action">相撞</Denoter>。</Event></Sentence><Sentence><Event eid="e3"><Time tid="t3" type="timeInterval">截至昨日18时</Time>，已有<Participant sid="s3">9人</Participant><Denoter did="d3" type="stateChange">死亡</Denoter></Event>，<Event eid="e4">另有<Participant sid="s4">52人</Participant><Denoter did="d4" type="stateChange">受伤</Denoter></Event>，其中9人伤势较重。<Event eid="e5"><Time tid="t5" type="relTime">目前</Time><Participant oid="o5">这些伤者</Participant>正在<Location lid="l5">医院</Location>进行<Denoter did="d5" type="operation">救治</Denoter>。</Event></Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e5"/>
+        <eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>
+	<eRelation relType="Causal" cause_eid="e4" effect_eid="e5"/>
+	
+</Body>

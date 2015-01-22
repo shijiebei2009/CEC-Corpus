@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+   <Title>智利8.2级地震引发2米高海啸 多国发布预警</Title> 
+   <ReportTime type="absTime">2014-04-02 08:03</ReportTime>
+   <Content>
+      <Paragraph>
+         <Sentence>
+            <Event type="thoughtevent" eid="e1">
+               <Participant sid="s1">中新网</Participant>
+               <Time type="relTime" tid="t1">4月2日</Time>
+               <Denoter type="statement" did="d1">电</Denoter>
+            </Event> 
+            <Event type="thoughtevent" eid="e2">
+               据
+               <Object sid="s2">美国地质勘探局网站</Object>
+               <Denoter type="statement" did="d2">消息</Denoter>
+            </Event>
+            ，
+            <Event eid="e3">
+               <Time type="relTime" tid="t3">北京时间4月2日7时46分45秒</Time>
+               ，
+               <Location lid="l3">南美多国</Location>
+               <Denoter type="statement" did="d3">发布</Denoter>
+               <Object oid="o3">海啸预警</Object>
+            </Event>
+            ，
+            <Event type="thoughtevent" eid="e4">
+               <Participant sid="s4">当局</Participant>
+               <Denoter type="statement" did="d4">下令</Denoter>
+            </Event>
+            <Event eid="e5">
+               <Location lid="l5">沿海地区</Location>
+               紧急
+               <Denoter type="operation" did="d5">疏散</Denoter>
+            </Event>
+            。
+         </Sentence>
+         <Sentence>
+            <Event type="thoughtevent" eid="e6">
+               据
+               <Denoter type="statement" did="d6">报道</Denoter>
+            </Event>
+            ，
+            <Event eid="e7">
+               <Denoter type="emergency" did="d7">地震</Denoter>
+            </Event>
+            <Event eid="e8">
+               还造成
+               <Location lid="l8">南美国家玻利维亚和秘鲁部分地区</Location>
+               <Object oid="o8">建筑</Object>
+               <Denoter type="action" did="d8">摇晃</Denoter>
+            </Event>
+            。
+         </Sentence>
+         <Sentence>
+            <Event type="thoughtevent" eid="e9">
+               经
+               <Denoter type="operation" did="d9">测量</Denoter>
+            </Event>
+            ，
+            <Event eid="e10">
+               此次
+               <Denoter type="emergency" did="d10">地震</Denoter>
+            </Event>
+            <Event eid="e11">
+               引发的
+               <Denoter type="emergency" did="d11">海啸</Denoter>
+               约有2米高
+            </Event>
+            。
+         </Sentence>
+      </Paragraph>
+
+      <Paragraph>
+         <Sentence>此次震中位于智利北部城市伊基克西北方向99公里，距离智利北部海岸83公里。</Sentence>
+         <Sentence>
+            <Event eid="e12">
+               <Denoter type="emergency" did="d12">地震</Denoter>
+               发生时为
+               <Time type="relTime" tid="t12">智利当地时间晚间8时46分</Time>
+            </Event>
+            。
+         </Sentence>
+      </Paragraph>
+
+      <Paragraph>
+         <Sentence>
+            <Event eid="e13">
+               位于
+               <Participant sid="s13">夏威夷的太平洋海啸预警中心</Participant>
+               <Denoter type="action" did="d13">发</Denoter>
+               出
+               <Object oid="o13">警告</Object>
+            </Event>
+            ，
+            <Event eid="e14">
+               <Location lid="l14">智利、秘鲁和厄瓜多尔</Location>
+               已经
+               <Denoter type="statement" did="d14">发布</Denoter>
+               <Object oid="o14">海啸预警</Object>
+            </Event>
+            。
+         </Sentence>
+         <Sentence>
+            <Event eid="e15">
+               <Denoter type="emergency" did="d15">地震</Denoter>
+            </Event>
+            <Event eid="e16">
+               还造成
+               <Location lid="l16">南美国家玻利维亚和秘鲁部分地区</Location>
+               <Object oid="o16">建筑</Object>
+               <Denoter type="action" did="d16">摇晃</Denoter>
+            </Event>
+            。
+         </Sentence>
+      </Paragraph>
+
+      <Paragraph>
+         <Sentence>
+            <Event type="thoughtevent" eid="e17">
+               经
+               <Denoter type="operation" did="d17">测量</Denoter>
+            </Event>
+            ，
+            <Event eid="e18">
+               此次
+               <Denoter type="emergency" did="d18">地震</Denoter>
+            </Event>
+            <Event eid="e19">
+               引发的
+               <Denoter type="emergency" did="d19">海啸</Denoter>
+               约有2米高
+            </Event>
+            ，
+            <Event type="thoughtevent" eid="e20">
+               <Participant sid="s20">智利应急办公室</Participant>
+               <Denoter type="statement" did="d20">称</Denoter>
+            </Event>
+            ，
+            <Event eid="e21">
+               预计一个大的
+               <Object sid="s21">海啸</Object>
+               将在
+               <Time type="relTime" tid="t21">当地时间午夜前</Time>
+               <Denoter type="movement" did="d21">到达</Denoter>
+               位于
+               <Location type="destination" lid="l21">南太平洋上的胡安·费尔南德斯岛</Location>
+            </Event>
+            ，该岛距离智利本土大约有667公里。
+         </Sentence>
+      </Paragraph>
+
+      <Paragraph>   
+         <Sentence>
+            <Event type="thoughtevent" eid="e22">
+               <Object sid="s22">报道</Object>
+               <Denoter type="statement" did="d22">指出</Denoter>
+            </Event>
+            ，智利是世界上地震最为多发的国家之一，
+            <Event type="thoughtevent" eid="e23">
+               <Time type="relTime" tid="t23">此前</Time>
+               有
+               <Object sid="s23">预测</Object>
+               <Denoter type="statement" did="d23">称</Denoter>
+            </Event>
+            ，
+            <Event eid="e24">
+               <Location lid="l24">智利北部</Location>
+               可能发生
+               <Denoter type="emergency" did="d24">大地震</Denoter>
+            </Event>
+            。         
+         </Sentence>
+      </Paragraph>
+
+      <Paragraph>  
+         <Sentence>
+            <Event eid="e25">
+               <Time type="relTime" tid="t25">2010年2月</Time>
+               ，
+               <Location lid="l25">智利中部和南部</Location>
+               遭8.8级
+               <Denoter type="emergency" did="d25">强震</Denoter>
+               袭击
+            </Event>
+            ，
+            <Event eid="e26">
+               随后引发的
+               <Denoter type="emergency" did="d26">海啸</Denoter>
+            </Event>
+            <Event eid="e27">
+               <Denoter type="stateChange" did="d27">摧毁</Denoter>
+               了
+               <Object oid="o27">许多城镇</Object>
+            </Event>
+            ，
+            <Event eid="e28">
+               共造成超过
+               <Participant oid="o28">500人</Participant>
+               <Denoter type="stateChange" did="d28">死亡</Denoter>
+            </Event>
+            <Event eid="e29">
+               及约
+               <Object oid="o29">300亿美元</Object>
+               的
+               <Denoter type="stateChange" did="d29">损失</Denoter>
+            </Event>
+            。           
+         </Sentence>
+      </Paragraph>
+   </Content>                  
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e29"/>
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e4"/>
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7-e8"/>
+   <eRelation relType="Causal" cause_eid="e7" effect_eid="e8"/>
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e9" thoughtcontent_eids="e10-e11"/>
+   <eRelation relType="Causal" cause_eid="e10" effect_eid="e11"/>
+   <eRelation relType="Causal" cause_eid="e15" effect_eid="e16"/>
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e17" thoughtcontent_eids="e18-e19"/>
+   <eRelation relType="Causal" cause_eid="e18" effect_eid="e19"/>
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e20" thoughtcontent_eids="e21"/>
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e23" thoughtcontent_eids="e24"/>
+   <eRelation relType="Causal" cause_eid="e25" effect_eid="e26"/>
+   <eRelation relType="Causal" cause_eid="e26" effect_eid="e27"/>
+   <eRelation relType="Causal" cause_eid="e26" effect_eid="e28"/>
+   <eRelation relType="Causal" cause_eid="e26" effect_eid="e29"/>
+</Body>

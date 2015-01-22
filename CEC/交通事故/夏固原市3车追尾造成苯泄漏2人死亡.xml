@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body><Title>宁夏固原市3车追尾造成苯泄漏2人死亡</Title>
+<ReportTime type="abscomTime">2011-11-29 13:11:16</ReportTime>
+<Content><Paragraph><Sentence><Event eid="e1" type="thoughtevent"><Participant sid="s1">中广网</Participant><Location lid="l1">银川</Location><Time tid="t1" type="relTime">11月29日</Time><Denoter did="d1" type="statement">消息</Denoter></Event>(记者许新霞 通讯员韩鹏) <Event eid="e2">宁夏固原因受雨夹雪天气影响，<Time tid="t2" type="relTime">上午约九时左右</Time>，<Location lid="l2">312国道固原汽车站附近路段</Location>，<Object sid="s2">三辆车</Object>发生连环<Denoter did="d2" type="action">相撞</Denoter>事故</Event>，<Event eid="e3">造成<Participant sid="s3">两人</Participant><Denoter did="d3" type="stateChange">死亡</Denoter></Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event eid="e4" type="thoughtevent">据现场<Participant sid="s4">救援人员</Participant><Denoter did="d4" type="statement">介绍</Denoter></Event>，<Event eid="e5"><Denoter did="d5" type="action">相撞</Denoter>的<Object sid="s5">三辆车</Object>中</Event>，<Event eid="e6"><Object sid="s6">第一辆</Object>车是<Denoter did="d6" type="action">停靠</Denoter><Location lid="l6">路边</Location></Event><Event eid="e7"><Denoter did="d7" type="operation">修理</Denoter>中的<Object oid="o7">中巴客车</Object></Event>，<Event eid="e8">中间一辆是<Denoter did="d8" type="statement">装有</Denoter><Object oid="o8">化学危险品苯</Object>的<Object sid="s8">槽车</Object></Event>。</Sentence><Sentence><Event eid="e9">剧烈<Denoter did="d9" type="action">撞击</Denoter></Event><Event eid="e10">造成<Object sid="s10,s11">苯</Object><Denoter did="d10" type="action">泄漏</Denoter></Event>、<Event eid="e11">并<Denoter did="d11" type="action">起火</Denoter></Event>，<Event eid="e12"><Denoter did="d12" type="action">引燃</Denoter>了前面的<Object oid="o12">中巴车</Object></Event>。</Sentence><Sentence><Event eid="e13">后面一辆装有大米的<Object sid="s13,s14">货车车头</Object><Denoter did="d13" type="action">起火</Denoter></Event>，<Event eid="e14">严重<Denoter did="d14" type="stateChange">变形</Denoter></Event>，
+<Event eid="e15">货车驾驶位和副驾驶位<Participant sid="s15">两人</Participant><Denoter  did="d15" type="stateChange">死亡</Denoter></Event>。</Sentence><Sentence><Event eid="e16"><Participant sid="s16,s17,s18">消防官兵</Participant>通过<Means mid="m16" type="method">冷却、稀释</Means>等方法紧急<Denoter did="d16" type="operation">处理</Denoter></Event>，<Event eid="e17">已经将<Object oid="o17">明火</Object><Denoter did="d17" type="action">扑灭</Denoter></Event>，<Event eid="e18"><Denoter did="d18" type="action">控制</Denoter>住了苯泄漏带来的<Object oid="o18">危害</Object></Event>。</Sentence><Sentence><Event eid="e19"><Time tid="t19" type="relTime">目前</Time>，<Object sid="s19">路政吊车</Object>正在对<Object oid="o19">事故车辆</Object>进行<Denoter did="d19" type="action">清障</Denoter>处理</Event></Sentence></Paragraph>
+
+　　<Paragraph><Sentence>因为事故路段距离居民点较远，<Event eid="e20" polarity="negative">没有引起<Participant sid="s20">人员</Participant><Denoter did="d20" type="perception">恐慌</Denoter></Event>。</Sentence><Sentence><Event eid="e21">但自<Denoter did="d21" type="emergency">事故</Denoter>发生后</Event>，<Event eid="e22"><Object oid="o22">所在路段</Object>已经全面<Denoter did="d22" type="action">封锁</Denoter></Event>，<Event eid="e23">据<Location lid="l23">现场</Location><Denoter did="d23" type="action">目测</Denoter></Event>，<Event eid="e24">被<Denoter did="d24" type="action">堵</Denoter>车辆达<Object oid="o24">上百辆</Object></Event>。</Sentence></Paragraph></Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e24"/>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5-e19"/>
+<eRelation relType="Causal" cause_eid="e9" effect_eid="e10"/>
+<eRelation relType="Causal" cause_eid="e9" effect_eid="e11"/>
+<eRelation relType="Follow" bevent_eid="e11" aevent_eid="e12"/>
+<eRelation relType="Causal" cause_eid="e9" effect_eid="e14"/>
+<eRelation relType="Causal" cause_eid="e9" effect_eid="e15"/>
+<eRelation relType="Follow" bevent_eid="e16" aevent_eid="e17"/>
+<eRelation relType="Follow" bevent_eid="e17" aevent_eid="e18"/>
+<eRelation relType="Follow" bevent_eid="e18" aevent_eid="e19"/>
+<eRelation relType="Follow" bevent_eid="e21" aevent_eid="e22"/>
+<eRelation relType="Follow" bevent_eid="e22" aevent_eid="e23"/>
+</Body>

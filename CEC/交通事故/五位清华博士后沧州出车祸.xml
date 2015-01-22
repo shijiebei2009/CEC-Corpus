@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+	<Title>五位清华博士后沧州出车祸</Title>
+	<ReportTime type="absTime">2006-08-26 10:41:45</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1"><Time tid="t" type="relTime">8月23日上午9时40分</Time>，<Location lid="l2">京沪高速公路沧州服务区附近</Location>，<Object  sid="s1">一辆由北向南行驶的金杯面包车</Object><Denoter did="d1" type="action">撞</Denoter>到<Object oid="o1">高速公路护栏</Object>上</Event>，<Event eid="e2">车上<Participant sid="s2" oid="o3,o4">5名清华大学博士后研究人员</Participant>及<Participant sid="s2" oid="o3,o4">1名司机</Participant><Denoter did="d2" type="stateChange">受伤</Denoter></Event>，<Event eid="e3">被紧急<Denoter did="d3" type="movement">送往</Denoter><Location lid="l3">沧州二医院</Location></Event><Event eid="e4"><Denoter did="d4" type="operation">抢救</Denoter></Event>。</Sentence><Sentence>截至<Event eid="e5"><Denoter did="d5" type="operation">发稿</Denoter></Event>时，<Event polarity="negative" eid="e6">仍有<Participant sid="s6">一名张姓博士后研究人员</Participant>尚未<Denoter did="d6" type="stateChange">脱离</Denoter><Object oid="o6">危险</Object></Event>。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>
+	<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>
+        <eRelation relType="Accompany" accompanya_eid="e5" accompanyb_eid="e6"/>
+</Body>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>新疆察布查尔锡伯自治县5.0级地震 末有人员伤亡</Title>
+	<ReportTime type="absTime">2009年01月25日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1">据<Participant sid="s1">国家地震台网</Participant><Denoter type="operation" did="d1">测定</Denoter></Event>，<Event eid="e2"><Time type="absTime" tid="t1">北京时间2009年01月25日09时47分</Time>，在<Location lid="l1">新疆维吾尔自治区伊犁哈萨克自治州察布查尔锡伯自治县</Location>(北纬43.3度，东经080.9度)发生5.0级<Denoter type="emergency" did="d1">地震</Denoter>，震源深度约10公里。</Event></Sentence></Paragraph>
+
+    新疆察布查尔县5.0级地震 未接到人员伤亡报告
+
+    <Paragraph><Sentence><Event type="thoughtevent" eid="e3"><Participant sid="s3">新华社</Participant><Location lid="l3">乌鲁木齐</Location><Time tid="t3" type="relTime">1月25日</Time><Denoter did="d3" type="statement">电</Denoter></Event>(记者曹志恒)<Event eid="e4"><Time type="relTime" tid="t4">今天上午</Time><Location lid="l4">新疆察布查尔县</Location>5.0级<Denoter type="emergency" did="d4">地震</Denoter>发生后</Event>，<Event eid="e5"><Participant sid="s5">当地党政部门</Participant>已<Denoter type="operation" did="d5">组织</Denoter><Object oid="o5" sid="s6">救援队</Object></Event><Event eid="e6"><Denoter type="movement" did="d6">赶赴</Denoter>震中</Event>，<Event polarity="negative" eid="e7"><Time type="relTime" tid="t7">目前</Time>尚未<Denoter type="action" did="d7">接到</Denoter>人员伤亡<Object oid="o7">报告</Object></Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e8" type="thoughtevent">据<Participant sid="s8">当地政府</Participant><Denoter  type="statement" did="d8">介绍</Denoter></Event>，震中在琼博乐乡小博乐村，距县城还有64公里。</Sentence><Sentence><Event eid="e9">当地党政部门负责人和医疗、公安、民政等部门组成的<Participant sid="s9">救援队</Participant>正在<Denoter type="movement" did="d9">赶赴</Denoter><Location type="destination" lid="l9">震中</Location>路中</Event>，<Event eid="e10"><Object oid="o10">详细灾情</Object>还在进一步<Denoter type="operation" did="d10">统计</Denoter>中</Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence> 察布查尔锡伯自治县是我国唯一一个锡伯族自治县，面积4488平方公里，地处新疆北部天山支脉乌孙山以北、伊犁河以南的河谷盆地，距乌鲁木齐700公里。</Sentence></Paragraph>
+
+    新疆察布查尔县５级地震末造成人员伤亡
+
+    <Paragraph>新华社乌鲁木齐１月２５日电（记者曹志恒）<Sentence><Event eid="e11"><Time type="relTime" tid="t11">１月２５日９时４７分</Time><Location lid="l11">新疆察布查尔锡伯自治县</Location>发生里氏５．０级<Denoter type="emergency" did="d11">地震</Denoter>，</Event><Event eid="e12"><Location lid="l12">伊犁河谷地区伊宁市</Location>、<Location lid="l12">昭苏县</Location>和<Location lid="l12">博尔塔拉蒙古自治州</Location>部分市县<Denoter type="emergency" did="d12">震感</Denoter>强烈。</Event></Sentence></Paragraph>
+		<Paragraph>
+			<Sentence>
+				<Event eid="e13"><Denoter type="emergency" did="d13">地震</Denoter>灾害发生后</Event>，
+                <Event eid="e14" type="thoughtevent"><Participant sid="s14">伊犁州党委、人民政府</Participant>高度<Denoter  type="perception"  did="d14">重视</Denoter></Event>，立即
+                <Event eid="e15"><Denoter type="operation" did="d15">派</Denoter>察布查尔县委书记<Participant oid="o15" sid="s16">李永兴</Participant>及州<Participant oid="o15" sid="s16">地震局领导</Participant></Event>
+				<Event eid="e16"><Denoter type="operation" did="d16">率</Denoter><Participant oid="o16" sid="s17">民政，卫生、公安</Participant>等部门</Event>
+				<Event eid="e17"><Denoter type="movement" did="d17">赶赴</Denoter><Location type="destination" lid="l17">震区</Location></Event>，
+                <Event eid="e18"><Denoter type="perception" did="d18">了解</Denoter>地震受灾情况</Event>，
+                <Event eid="e19">开展抗震救灾<Denoter type="operation" did="d19">工作</Denoter></Event>。
+                </Sentence>
+		</Paragraph>
+		<Paragraph>
+			<Sentence>
+				<Event eid="e20">据初步<Denoter type="operation" did="d20">统计</Denoter>，<Location lid="l20">察布查尔，昭苏两县</Location></Event>除<Event eid="e21"><Object oid="o21">部分居民房屋</Object>因地震发生墙体<Denoter type="stateChange" did="d21">裂缝</Denoter>外</Event>，<Event polarity="negative" eid="e22">尚未<Denoter type="action" did="d22">接到</Denoter>人员、牲畜伤亡及房屋倒塌的<Object oid="o22">情况报告</Object></Event>。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eids="e4-e7"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eids="e9"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e11" thoughtcontent_eids="e12"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e14" thoughtcontent_eids="e15-e19"/>
+	<eRelation relType="Causal" cause_eid="e10" effect_eid="e11"/>
+	<eRelation relType="Causal" cause_eid="e10" effect_eid="e20"/>
+</Body>

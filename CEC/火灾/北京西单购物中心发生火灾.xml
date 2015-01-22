@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+   
+  <Title>北京西单购物中心发生火灾 未有人员伤亡</Title>
+<ReportTime type="absTime">2009年06月14日</ReportTime>　
+<Content>
+
+   <Paragraph>
+     <Sentence>
+        <Event  type="thoughtevent"  eid="e1" >
+          <Participant  sid="s1">中新社</Participant>
+          <Location  lid="l1">北京</Location>
+          <Time  type="relTime" tid="t1">六月十四日</Time>
+          <Denoter  type="statement"  did="d1">电</Denoter>
+          </Event>
+          (记者 杜燕)
+          <Event eid="e2">
+            <Location  lid="l2">北京市西单购物中心</Location>
+               <Time type="relTime" tid="t2">十四日凌晨</Time>
+               发生
+               <Denoter type="emergency"  did="d2">火灾</Denoter>
+          </Event>
+          ，
+          <Event polarity="negative" eid="e3">
+          所幸
+          <Participant sid="s3">未有人员</Participant>
+          <Denoter type="stateChange"  did="d3">伤亡</Denoter>
+          </Event>
+          。
+    </Sentence>
+ </Paragraph>
+
+<Paragraph>
+  <Sentence>
+    <Event eid="e4">
+      <Denoter type="emergency" did="d4">火灾</Denoter>
+        发生于
+      <Time type="relTime" tid="t4">十四日凌晨一时四十五分左右</Time>
+      </Event>
+      ，过火面积约一百一十平方米。
+  </Sentence>
+  <Sentence>
+  <Event eid="e5">
+     <Participant sid="s5,s6,s7,s8,s9">北京市一一九消防指挥中心</Participant>
+       <Denoter type="operation" did="d5">接到报警</Denoter>
+  </Event>     
+       后，立即
+   <Event eid="e6">  
+       <Denoter type="operation" did="d6">调派</Denoter>
+       九个中队的
+       <Object oid="o6,s7,s8,s9">四十部消防车</Object>
+       、共
+       <Participant oid="o6,s7,s8,s9">二百六十名官兵</Participant>
+   </Event>
+   <Event eid="e7">
+     <Denoter type="movement" did="d7">赶赴</Denoter>
+       <Location  lid="l7">现场</Location>
+   </Event>
+   <Event eid="e8">
+     实施紧急
+      <Denoter type="operation" did="d8">扑救</Denoter>
+   </Event>
+   。
+</Sentence>
+<Sentence>
+   <Event eid="e9">
+     <Time type="relTime" tid="t9">凌晨二时四十五分左右</Time>
+      ，
+      <Object oid="o9">明火</Object>
+      被全部
+      <Denoter type="stateChange" did="d9">扑灭</Denoter>
+   </Event>
+    。
+</Sentence>
+</Paragraph>
+
+<Paragraph>
+  <Sentence>
+    <Event type="thoughtevent" eid="e10">据<Denoter type="statement" did="d10">了解</Denoter></Event>，
+   <Event eid="e11">
+      造成
+     <Location lid="l11">西单购物中心一楼</Location>
+     部分
+     <Object oid="o11">商铺</Object>
+     被
+     <Denoter type="stateChange" did="d11">毁</Denoter>
+     </Event>
+     ，最先冒烟起火的是位于中心一层西侧的育青食品。
+ </Sentence>
+ <Sentence>
+   <Event eid="e12">
+     <Participant sid="s12,s13">消防部门</Participant>
+       <Denoter type="movement" did="d12">赶赴</Denoter>
+         <Location type="destination"  lid="l12">现场</Location>
+   </Event>
+   后，
+ <Event eid="e13">
+   在第一时间对
+   <Location lid="l13">商场内</Location>
+    <Participant  oid="o13">七十九名值班工作人员</Participant>
+    进行了快速
+    <Denoter type="operation" did="d13">疏散</Denoter>
+ </Event>
+  。
+  </Sentence>
+</Paragraph>
+
+<Paragraph>
+ <Sentence>
+   <Event eid="e14">
+      <Time type="relTime" tid="t14">十四日上午</Time>
+      ，
+      <Location lid="l14">西单购物中心外围</Location>
+      <Denoter type="action" did="d14">拉起</Denoter>
+      <Object oid="o14">警戒线</Object>
+   </Event>
+   ，
+ <Event eid="e15">
+   并用
+   <Means mid="m15" type="tool">绿色布围</Means>
+   将
+   <Object oid="o15">整个购务中心一、二层</Object>
+   <Denoter type="action" did="d15">围</Denoter>
+   起
+   </Event>
+   ，多处赫然贴上了印有“内部装修 暂停营业”的字样，
+<Event eid="e16">
+ 而 
+  <Location lid="l16"> 中心临街</Location>
+  <Object sid="o16">多个小商铺</Object>
+  也都
+  <Denoter type="stateChange" did="d16">大门紧闭</Denoter>
+ </Event>
+ 。
+ </Sentence>
+ <Sentence>
+    不过，购物中心门前的西单北大街交通并未受到影响，与之相邻的西单商场亦未受到影响，照常营业。
+ </Sentence>
+ </Paragraph>
+ 
+
+
+ </Content>
+ <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e16"/>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e5"/>
+<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>
+<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+<eRelation relType="Causal" cause_eid="e8" effect_eid="e9"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eids="e11-e13"/>
+<eRelation relType="Follow" bevent_eid="e12" aevent_eid="e13"/>
+<eRelation relType="Accompany" accompanya_eid="e15" accompanyb_eid="e14"/>	
+</Body>

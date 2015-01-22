@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>重庆市区有明显震感 电线杆在摇晃</Title>
+	<ReportTime type="absTime">2008年05月12日16:15</ReportTime>　   
+<Content>
+		<Paragraph><Sentence>
+		<Event eid="e1"><Time type="relTime"  tid="t1">5月12日</Time><Location  lid="l1">重庆市区</Location>也感受到明显<Denoter type="emergency"  did="d1">地震</Denoter></Event>。</Sentence><Sentence>
+		<Event eid="e2"  type="thoughtevent"><Participant  sid="s2">记者</Participant>在<Location  lid="l2">街头</Location><Denoter  type="perception" did="d2">看到</Denoter>，</Event>
+		<Event eid="e3"><Object  oid="o3">电线杆</Object>在<Denoter type="action"  did="d3">摇晃</Denoter>，</Event>
+		<Event eid="e4"><Object  oid="o4">南开中学附近楼房</Object>发生轻微<Denoter type="action"  did="d4">摇晃</Denoter></Event>，
+		<Event eid="e5"><Participant  oid="o5">千余市民</Participant><Denoter type="movement"  did="d5">走</Denoter>上<Location type="destination"  lid="l5">街头</Location></Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence>
+		<Event eid="e6">在<Location  lid="l6">龙湖花园一带</Location>，<Participant  sid="s6">政府机关工作人员</Participant>都<Denoter type="movement"  did="d6">走</Denoter>出来</Event>，
+		<Event eid="e7"><Denoter type="action"  did="d7">站</Denoter>在<Location  lid="l7">街边</Location></Event>。
+		<Event eid="e8">一些居民家里的<Object  oid="o8">家具</Object><Denoter type="stateChange"  did="d8">倒下</Denoter></Event>，但路面交通正常。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e8"/>
+	<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>
+	<eRelation relType="Accompany" accompanya_eid="e3" accompanyb_eid="e4"/>
+</Body>

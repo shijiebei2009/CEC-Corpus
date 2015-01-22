@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+       	<Title>京珠高速郑州往焦作方向19辆车连环相撞</Title>
+	<ReportTime type="absTime">2008-4-16 10:58:56</ReportTime>
+<Content>
+
+    <Paragraph>
+    	<Sentence>
+      <Event eid="e1"><Participant sid="s1">中新网</Participant><Time type="relTime" tid="t1">4月15日</Time><Denoter type="statement" did="d1">电</Denoter></Event> 
+    		<Event eid="e2">据中国消防在线消息，
+    			<Time type="relTime" tid="t2">4月14日</Time>，
+    			<Location lid="l2">京珠高速郑州往焦作方向28公里处</Location>，发生一起
+    			<Object oid="o2">19车</Object>
+    			<Denoter type="action" did="d2">连撞</Denoter>事故
+    		</Event>，造成
+    		<Event eid="e3">
+    			<Participant oid="o3">50余人</Participant>
+    			<Denoter type="stateChange" did="d3">被困</Denoter>
+    		</Event>，
+    		<Event eid="e4">
+    			<Object oid="o4">道路</Object>一度
+    			<Denoter type="stateChange" did="d4">堵塞</Denoter>近
+    			<Time type="timeInterval" tid="t4">5个小时</Time>
+    		</Event>。
+    	</Sentence>
+    <Sentence>
+    	<Event eid="e5">
+    		<Participant sid="s5">河南焦作武陟消防官兵</Participant>闻警
+    		<Denoter type="movement" did="d5">出动</Denoter>
+    	</Event>，
+    	<Event eid="e6">
+    		<Denoter type="operation" did="d6">奋战</Denoter>
+    		<Time type="timeInterval" tid="t6">4个小时</Time>
+    	</Event>，
+    	<Event eid="e7">成功
+    		<Denoter type="operation" did="d7">解救</Denoter>
+    		<Participant oid="o7">所有被困人员</Participant>
+    	</Event>。
+    </Sentence>
+  </Paragraph>
+</Content>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>
+	<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e2"/>
+	<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e5"/>
+	<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e6"/>
+</Body>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>                                                    
+ <Title>疑似食物中毒 二十多工人送医</Title>
+
+    <ReportTime type="absTime">日期：2014年3月13日</ReportTime>  稿源：[南方都市报]
+
+
+<Content>    
+<Paragraph>
+<Sentence>
+<Event eid="e1" type="thoughtevent">
+<Participant sid="s1">南都</Participant><Denoter did="d1" type="statement">讯</Denoter></Event></Sentence>
+ 见习记者易海军 实习生束亚男 
+ <Sentence><Event eid="e2" type="thoughtevent"><Time tid="t2" type="relTime">前晚</Time>，<Participant sid="s2">龙华大浪天诚家具公司的多名工人</Participant>
+ <Denoter did="d2" type="statement">反映称</Denoter></Event>
+ ，<Event eid="e3"><Participant sid="s3">他们</Participant>
+ <Time tid="t3" type="relTime">10日晚</Time>在<Location lid="l3">食堂</Location>
+ <Denoter did="d3" type="action">食用</Denoter>过<Object oid="o3">饭菜</Object></Event>后，于
+ <Event eid="e4"><Time tid="t4" type="timeInterval">11日上午至中午</Time>有<Participant sid="s4">数十人</Participant>
+ <Denoter did="d4" type="stateChange">出现</Denoter>不同程度<Object oid="o4">腹痛呕吐的现象</Object></Event>
+ ，<Event eid="e5">有<Participant sid="s5,s6">个别</Participant>甚至出现<Denoter did="d5" type="action">身体抽搐</Denoter></Event>，
+ <Event eid="e6">疑似<Denoter did="d6" type="emergency">食物中毒</Denoter></Event>。</Sentence>
+ <Sentence>
+ <Event eid="e7"><Time tid="t7" type="relTime">事发之后</Time>，<Participant sid="s7">大浪街道办</Participant>及<Participant sid="s7">龙华疾控中心</Participant>
+ 均介入<Denoter did="d7" type="operation">调查</Denoter></Event>
+ ，<Event eid="e8"><Time tid="t8" type="relTime">目前</Time>仍在
+ <Denoter did="d8" type="action">等待</Denoter><Object oid="o8">官方定性</Object></Event>。</Sentence></Paragraph>
+
+<Paragraph>    
+<Sentence><Event eid="e9" type="thoughtevent">据<Participant sid="s9">天诚家具有限公司的一位不愿具名的工人</Participant><Denoter did="d9" type="statement">介绍</Denoter></Event>
+，<Event eid="e10"><Time tid="t10" type="timeInterval">11日上午至中午</Time>，<Location lid="l10">床垫车间</Location>陆续有<Participant sid="s10,s11">十余名工友</Participant>反映<Denoter did="d10" type="stateChange">肚子痛</Denoter></Event>，<Event eid="e11">并<Denoter did="d11" type="stateChange">伴有</Denoter>呕吐腹泻的<Object oid="o11">症状</Object></Event>。</Sentence>
+<Sentence><Event eid="e12" type="thoughtevent">据<Denoter did="d12" type="statement">介绍</Denoter></Event>
+，工业园内共有4个食堂，包括家具厂、床垫厂、苹果园及钓鱼台在内。</Sentence>
+<Sentence><Event eid="e13"><Participant sid="s13,s14">他所在车间的工人</Participant><Time tid="t13" type="relTime">10日晚上</Time>均在<Location lid="l13">家具厂食堂</Location><Denoter did="d13" type="action">食用</Denoter><Object oid="o13">饭菜</Object></Event>
+，<Event eid="e14"><Time tid="t14" type="relTime">第二日</Time>便出现<Denoter did="d14" type="emergency">疑似食物中毒</Denoter>的现象</Event>。</Sentence>
+<Sentence><Event eid="e15" type="thoughtevent"><Participant sid="s15,s16,s17">工人刘小姐</Participant><Denoter did="d15" type="statement">介绍</Denoter></Event>
+，<Event eid="e16"><Time tid="t16" type="relTime">10日晚上</Time>在<Location lid="l16">苹果园食堂</Location>
+<Denoter did="d16" type="action">吃</Denoter>过<Object oid="o16">饭</Object></Event>
+后，<Event eid="e17"><Time tid="t17" type="relTime">第二天早上</Time>一起来便感觉<Denoter did="d17" type="perception">头晕腹痛</Denoter></Event>，<Event eid="e18"><Participant sid="s18">身体</Participant>还不时<Denoter did="d18" type="action">抽搐</Denoter></Event>。</Sentence>
+<Sentence><Event eid="e19" type="thoughtevent"><Participant sid="s19">她</Participant><Denoter did="d19" type="statement">称</Denoter>，与她出现类似状况的有20余人</Event>。</Sentence></Paragraph>
+
+<Paragraph>    
+<Sentence>
+<Event eid="e20">对于食堂出现的<Object oid="o20">疑似中毒现象</Object>，<Participant sid="s20">天诚家具有限公司分管食堂的负责人林先生</Participant><Time tid="t20" type="relTime">昨日</Time><Denoter did="d20" type="statement">回应</Denoter></Event>
+，<Event eid="e21">确有<Participant sid="s21">员工</Participant><Denoter did="d21" type="stateChange">出现</Denoter>腹痛呕吐的<Object oid="o21">情况</Object></Event>，总共有20余人。</Sentence>
+<Sentence>“<Event eid="e22"><Time tid="t22" type="relTime">事故出现后</Time>，<Participant sid="s22">我们</Participant>就将这批<Participant oid="o22">病人</Participant><Denoter did="d22" type="movement">送往</Denoter><Location lid="l22" type="destination">龙华人民医院</Location></Event>，医院的诊断结果是肠胃炎。”</Sentence>
+<Sentence><Event eid="e23" type="thoughtevent">据<Participant sid="s23">他</Participant><Denoter did="d23" type="statement">介绍</Denoter></Event>
+，<Event eid="e24">这些<Participant sid="s24">病人</Participant><Time tid="t24" type="relTime">经过治疗后</Time>已经<Denoter did="d24" type="stateChange">好转</Denoter></Event>，
+<Event eid="e25"><Time tid="t25" type="relTime">昨天上午</Time>均已正常<Denoter did="d25" type="action">开工</Denoter></Event>。</Sentence>
+<Sentence><Event eid="e26"><Time tid="t26" type="relTime">事发之后</Time>
+<Participant sid="s26">市场监督局管理所及龙华疾控中心的工作人员</Participant>
+均已介入<Denoter did="d26" type="operation">调查</Denoter></Event>，
+<Event eid="e27"><Time tid="t27" type="relTime">目前</Time>还在<Denoter did="d27" type="action">等待</Denoter><Object oid="o27">对事故的进一步定性</Object></Event>。</Sentence>
+</Paragraph>
+</Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e27"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e6"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e9" thoughtcontent_eids="e10-e11"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e12" thoughtcontent_eids="e13-14"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e15" thoughtcontent_eids="e16-e19"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e23" thoughtcontent_eids="e24-e25"/>
+<eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5"/>
+<eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11"/>
+<eRelation relType="Accompany" accompanya_eid="e17" accompanyb_eid="e18"/>
+<eRelation relType="Causal" cause_eid="e24" effect_eid="e25"/>
+
+</Body>

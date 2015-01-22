@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>连云港大货车高速上轮胎起火 火光冲天</Title>
+	<ReportTime type="absTime">2014-04-09 15:44</ReportTime>
+	<Content><Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="relTime">昨天凌晨1时40分许</Time>，<Location lid="l1">长深高速灌南服务区往南1758公里附近</Location>，<Object sid="s1">一辆满载17吨的袋装塑料颗粒的大货车轮胎</Object>突然<Denoter did="d1" type="emergency">起火</Denoter></Event>，<Event eid="e2"><Participant sid="s2-s5">驾驶员</Participant>急忙<Denoter did="d2" type="operation">停车</Denoter></Event>，<Event eid="e3"><Denoter did="d3" type="action">取出</Denoter><Object oid="o3">灭火器</Object></Event><Event eid="e4"><Denoter did="d4" type="operation">灭火</Denoter></Event>。</Sentence><Sentence>无奈车载灭火器太小，
+        <Event eid="e5" polarity="negative">两个灭火器喷完了仍无法将<Object oid="o5">大火</Object><Denoter did="d5" type="action">扑灭</Denoter></Event>。<Event eid="e6"><Participant sid="s6,s7,s8,s9">灌南县消防中队官兵</Participant><Denoter did="d6" type="perception">接到</Denoter><Object oid="o6">报警</Object></Event>后，<Event eid="e7">经过<Time tid="t7" type="timeInterval">半个多小时</Time>的紧张<Denoter did="d7" type="operation">扑救</Denoter></Event>，<Event eid="e8"><Object oid="o8">火灾</Object>被彻底<Denoter did="d8" type="operation">扑灭</Denoter></Event>，<Event eid="e9"><Denoter did="d9" type="operation">保住</Denoter>了<Location lid="l9">车上</Location>的大量<Object oid="o9">货物</Object></Event>。</Sentence></Paragraph></Content>
+        
+         <eRelation relType="Follow" bevent_eid="e1" aevent_eid="e2"/>
+         <eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>
+         <eRelation relType="Accompany" accompanya_eid="e3" accompanyb_eid="e4"/>
+         <eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>
+        
+        </Body>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>巴基斯坦首都万豪酒店爆炸 至少60死逾200伤</Title>
+	<ReportTime type="absTime">2008年09月21日</ReportTime>
+	<Content>
+		<Paragraph><Sentence>中新网9月21日电 <Event eid="e1"><Location lid="l1">巴基斯坦首都伊斯兰堡万豪酒店外</Location><Time tid="t1" type="relTime">21日晚</Time>发生怀疑自杀式<Denoter did="d1" type="emergency">炸弹爆炸</Denoter></Event>，<Event eid="e2">至少<Participant oid="o2">60人</Participant><Denoter did="d2" type="stateChange">死亡</Denoter></Event>，<Event eid="e3">另<Participant oid="o3">200多人</Participant><Denoter did="d3" type="stateChange">受伤</Denoter></Event>。</Sentence>
+                <Sentence><Event eid="e4" type="thoughtevent"><Participant sid="s4">伊斯兰堡警察局长</Participant><Denoter did="d4" type="statement">称</Denoter></Event>：“<Event eid="e5"><Object sid="s5">一辆载有炸药的汽车</Object><Denoter did="d5" type="action">撞向</Denoter><Object oid="o5">万豪酒店的大门</Object></Event>，<Event eid="e6"><Participant sid="s6">我们</Participant>已<Denoter did="d6" type="perception">找出</Denoter><Object oid="o6">40具尸体</Object></Event>，(死亡)数字可能会更多。”</Sentence>
+                <Sentence><Event eid="e7"><Denoter did="d7" type="emergency">爆炸</Denoter></Event>后<Event eid="e8"><Object oid="o8">酒店</Object>发生<Denoter did="d8" type="emergency">大火</Denoter></Event>，不少人被困。<Event eid="e9" type="thoughtevent"><Participant sid="s9">警方</Participant><Denoter did="d9" type="statement">警告</Denoter></Event><Event eid="e10"><Object oid="o10">酒店</Object>可能会<Denoter did="d10" type="action">坍塌</Denoter></Event>。</Sentence></Paragraph>
+        
+                
+		<Paragraph><Sentence><Event eid="e11" type="thoughtevent">据<Participant sid="s11">香港文汇报综合外电</Participant><Denoter did="d11" type="statement">报道</Denoter></Event>，<Event eid="e12" type="thoughtevent"><Participant sid="s12">目击者</Participant>和<Participant sid="s12">官员</Participant><Denoter did="d12" type="statement">称</Denoter></Event>，<Event eid="e13"><Time tid="t13" type="relTime">当地时间昨晚8时许</Time>，<Object sid="s13">一辆大型卡车</Object><Denoter did="d13" type="action">撞向</Denoter>酒店的<Object oid="o13">金属大门</Object></Event>。</Sentence><Sentence><Event eid="e14">酒店的<Object oid="o14">路障区</Object>，被<Denoter did="d14" type="emergency">炸</Denoter>出一个约10米深的巨坑</Event>。<Event eid="e15"><Denoter did="d15" type="emergency">爆炸</Denoter></Event>还<Event eid="e16"><Denoter did="d16" type="action">掀塌</Denoter>一间宴会厅的<Object oid="o16">天花</Object></Event>，<Event eid="e17"><Time tid="t17" type="relTime">当时</Time>有<Participant sid="s17">200至300人</Participant>在<Denoter did="d17" type="action">就餐</Denoter></Event>。</Sentence><Sentence><Event eid="e18" type="thoughtevent"><Location lid="l18">现场</Location><Participant sid="s18">一名记者</Participant><Denoter did="d18" type="statement">称</Denoter></Event>，<Event eid="e19"><Denoter did="d19" type="perception">见到</Denoter></Event><Event eid="e20"><Participant sid="s20">许多死伤者</Participant><Denoter did="d20" type="action">躺</Denoter>在<Location lid="l20">地上</Location></Event>。</Sentence></Paragraph>
+
+        	
+
+　　<Paragraph><Sentence><Event eid="e21" type="thoughtevent"><Participant sid="s21">目击者</Participant><Denoter did="d21" type="statement">称</Denoter>发生两次爆炸</Event>。</Sentence><Sentence><Event eid="e22"><Participant sid="s22">一名美国国务院官员</Participant>领着<Participant  sid="s22">3名同事</Participant><Denoter did="d22" type="action">走</Denoter>出<Location lid="l22" type="origin">爆炸废墟</Location></Event>，<Event eid="e23">其中<Participant oid="o23">一人</Participant>头部<Denoter did="d23" type="action">流血</Denoter>不止</Event>。</Sentence><Sentence>他们中有位自称叫托尼，<Event eid="e24" type="thoughtevent"><Participant sid="s24">他</Participant><Denoter did="d24" type="statement">说</Denoter></Event><Event eid="e25"><Denoter did="d25" type="emergency">第一次爆炸</Denoter>发生</Event>后，<Event eid="e26"><Participant sid="s26">他们</Participant>开始向<Location lid="l26" type="destination">中餐厅后面</Location><Denoter did="d26" type="movement">转移</Denoter></Event>，但第二次爆炸却炸到后墙上，接着<Event eid="e27" type="thoughtevent"><Participant sid="s27">他们</Participant><Denoter did="d27" type="perception">见到</Denoter></Event><Event eid="e28"><Object sid="s28">卡车</Object><Denoter did="d28" type="action">冲</Denoter>过大门</Event>。</Sentence></Paragraph>
+
+
+
+
+　　<Paragraph><Sentence>就在<Event eid="e29"><Denoter did="d29" type="emergency">爆炸</Denoter>发生</Event>前，<Event eid="e30">新任总统<Participant sid="s30">扎尔达里</Participant>在<Location lid="l30">距离酒店数百米的国会</Location>首次发表<Denoter did="d30" type="statement">演讲</Denoter></Event>，声称必须铲除恐怖主义。</Sentence></Paragraph>
+
+
+　　<Paragraph><Sentence>
+<Event eid="e31">有290个房间的<Location lid="l31">万豪酒店</Location>是外国人最爱聚集和居住的地方，守卫森严，但<Time tid="t31" type="relTime">21日</Time>发生<Denoter did="d31" type="emergency">大爆炸</Denoter></Event>。</Sentence><Sentence>
+<Event eid="e32" type="thoughtevent"><Participant sid="s32">警方</Participant><Denoter did="d32" type="statement">表示</Denoter></Event>，
+
+<Event eid="e33"><Object sid="s33">一辆汽车</Object><Denoter did="d33" type="movement">驶到</Denoter><Location lid="l33" type="destination">酒店外的路障</Location></Event>时<Event eid="e34">发生<Denoter did="d34" type="emergency">爆炸</Denoter></Event>，相信是一宗自杀式袭击事件。</Sentence><Sentence>万豪酒店过去曾是武装分子的袭击目标。</Sentence></Paragraph>
+
+
+　　<Paragraph><Sentence><Event eid="e35" type="thoughtevent"><Participant sid="s35">目击者</Participant><Denoter did="d35" type="perception">看见</Denoter></Event>酒店至少两处地方受大火波及，<Event eid="e36">至少20辆停在<Location lid="l36">外面街道</Location>的<Object oid="o36">车辆</Object>受<Denoter did="d36" type="stateChange">破坏</Denoter></Event>，<Event eid="e37"><Object oid="o37">车窗</Object><Denoter did="d37" type="stateChange">爆开</Denoter></Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence>爆炸声音巨大，远处都可听得见，<Event eid="e38"  type="thoughtevent">甚至<Participant sid="s40">有人</Participant><Denoter did="d38" type="perception">看见</Denoter></Event><Event eid="e39">酒店数百米外的<Object oid="o39">建筑物窗户</Object><Denoter did="d39" type="stateChange">爆裂</Denoter></Event>。</Sentence><Sentence><Event eid="e40"><Denoter did="d40" type="emergency">爆炸</Denoter></Event><Event eid="e41"><Participant sid="s41">很多人</Participant>包括外国人从<Location lid="l41" type="origin">酒店</Location>内<Denoter did="d41" type="action">跑</Denoter>出来</Event>，部分人身上沾有鲜血。</Sentence><Sentence><Event eid="e42"><Participant sid="s42">其它人</Participant>则<Denoter did="d42" type="action">躺卧</Denoter><Location lid="l42">地上</Location></Event>，不是昏迷便是已死亡。</Sentence></Paragraph>
+
+
+　　<Paragraph><Sentence><Event eid="e43"><Location lid="l43">爆炸现场</Location><Denoter did="d43" type="emergency">起火</Denoter></Event>，<Event eid="e44"><Denoter did="d44" type="action">冒</Denoter>出<Object oid="o44">浓烟</Object></Event>，汽车残骸四散。</Sentence><Sentence><Event eid="e45"><Object sid="s45">多架救伤车</Object><Denoter did="d45" type="movement">赶抵</Denoter><Location lid="l45" type="destination">现场</Location></Event>，<Event eid="e46" type="thoughtevent">电视台片段<Denoter did="d46" type="perception">看见</Denoter></Event><Event eid="e47"><Participant  oid="o47">多人</Participant>被<Denoter did="d47" type="action">抬走</Denoter></Event>，暂时未有死伤者的确实数字，亦未有组织或人承认发动袭击。</Sentence></Paragraph>
+	</Content>
+
+	
+	
+	
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+<eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5-e6"/>
+<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+<eRelation relType="Causal" cause_eid="e8" effect_eid="e9"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e9" thoughtcontent_eids="e10"/>
+
+
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e11" thoughtcontent_eids="e12"/>
+        <eRelation relType="Thoughtcontent" thoughtevent_eid="e12" thoughtcontent_eids="e13-e17"/>
+        <eRelation relType="Causal" cause_eid="e13" effect_eid="e14"/>
+        <eRelation relType="Causal" cause_eid="e15" effect_eid="e16"/>
+        <eRelation relType="Accompany" accompanya_eid="e15" accompanyb_eid="e17"/>
+        <eRelation relType="Thoughtcontent" thoughtevent_eid="e18" thoughtcontent_eids="e19-e20"/>
+        
+        <eRelation relType="Thoughtcontent" thoughtevent_eid="e21" thoughtcontent_eids="e21-e22"/>
+<eRelation relType="Follow" bevent_eid="e23" aevent_eid="e22"/>
+<eRelation relType="Follow" bevent_eid="e22" aevent_eid="e24"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e24" thoughtcontent_eids="e25-e28"/>
+<eRelation relType="Follow" bevent_eid="e25" aevent_eid="e26"/>
+<eRelation relType="Follow" bevent_eid="e26" aevent_eid="e27"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e27" thoughtcontent_eids="e28"/>
+
+<eRelation relType="Follow" bevent_eid="e30" aevent_eid="e29"/>
+
+<eRelation relType="Follow" bevent_eid="e31" aevent_eid="e32"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e32" thoughtcontent_eids="e33-e34"/>
+<eRelation relType="Follow" bevent_eid="e33" aevent_eid="e34"/>
+
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e35" thoughtcontent_eids="e36-e37"/>
+<eRelation relType="Causal" cause_eid="e36" effect_eid="e37"/>
+
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e38" thoughtcontent_eids="e39-e42"/>
+<eRelation relType="Accompany" accompanya_eid="e39" accompanyb_eid="e40"/>
+<eRelation relType="Follow" bevent_eid="e40" aevent_eid="e41"/>
+<eRelation relType="Accompany" accompanya_eid="e41" accompanyb_eid="e42"/>
+
+	<eRelation relType="Follow" bevent_eid="e43" aevent_eid="e44"/>
+	<eRelation relType="Follow" bevent_eid="e43" aevent_eid="e45"/>
+	<eRelation relType="Accompany" accompanya_eid="e45" accompanyb_eid="e46"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e46" thoughtcontent_eids="e47"/>
+
+	
+	
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+</Body>

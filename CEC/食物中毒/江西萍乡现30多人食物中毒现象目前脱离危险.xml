@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+ <Title>江西萍乡现30多人食物中毒现象 目前脱离危险</Title>
+ <ReportTime type="absTime">2014-03-19 13:56</ReportTime>
+ 来源：中国新闻网
+ <Content>
+  <Paragraph>
+   <Sentence>
+    <Event eid="e1" type="thoughtevent">
+     <Participant sid="s1">中新网</Participant>
+     <Location lid="l1">南昌</Location>
+     <Time tid="t1" type="relTime">3月19日</Time>
+     <Denoter did="d1" type="statement">电</Denoter>
+    </Event> 
+    <Event eid="e2" type="thoughtevent">
+     <Participant sid="s2">(王姣)中新网记者</Participant>
+     <Time tid="t2" type="relTime">19日</Time>
+     从
+     <Participant oid="o2">江西萍乡市委宣传部</Participant>
+     <Denoter did="d2" type="action">证实</Denoter>
+    </Event>
+    ，
+    <Event eid="e3">
+     <Time tid="t3" type="relTime"> 18日下午16时</Time>
+     ，萍乡市湘东区老关镇平安花炮厂
+     <Participant sid="s3">30多名职工</Participant>
+     因食艾米古(清明果)出现
+     <Denoter did="d3" type="emergency">食物中毒</Denoter>
+     迹象
+    </Event>
+    。
+   </Sentence>
+  </Paragraph>
+  <Paragraph>
+   <Sentence>
+   <Event eid="e4">
+    <Time tid="t4" type="relTime">事发后</Time>
+    ，    
+    <Participant sid="s">当地政府</Participant>
+    立即
+    <Denoter did="d4" type="action">组织</Denoter>
+    <Participant oid="o4" sid="s5">人员</Participant>
+   </Event>
+   <Event eid="e5">
+    <Denoter did="d5" type="action">成立</Denoter>
+    事故处置组
+   </Event>。
+   </Sentence>
+   <Sentence>
+    <Event eid="e6">
+     凡是吃过艾米古(清明果)的
+     <Participant oid="o6">职工</Participant>
+     ，被
+     <Denoter did="d6" type="movement">接到</Denoter>
+     <Location lid="l6">当地老关镇卫生院</Location>
+    </Event>
+     <Event eid="e7">
+      进行
+      <Denoter did="d7" type="operation">体检</Denoter>
+     </Event>
+     。
+   </Sentence>
+   <Sentence>
+    <Event eid="e8">
+     经
+     <Denoter did="d8" type="operation">检查</Denoter>
+    </Event>
+    ，
+    <Event eid="e9">
+     <Participant sid="s9">部分职工身体</Participant>
+     有轻微
+     <Denoter did="d9" type="emergency">中毒</Denoter>
+    </Event>。
+   </Sentence>
+   <Sentence>
+   随即，
+    <Event eid="e10">
+     <Participant sid="s10">当地政府</Participant>
+     还
+     <Denoter did="d10" type="action">派出</Denoter>
+     <Object oid="o10" sid="s11">专门车辆</Object>
+    </Event>
+    <Event eid="e11">
+     将
+     <Participant oid="o11" sid="s12">中毒人员</Participant>
+     <Denoter did="d11" type="movement">送往</Denoter>
+     <Location lid="l11" type="destination">萍乡市医院</Location>
+     、
+     <Location lid="l11" type="destination">湘东区医院</Location>
+    </Event>
+    <Event eid="e12">
+     进行
+     <Denoter did="d12" type="operation">治疗</Denoter>
+    </Event>
+    ，并
+    <Event eid="e13">
+     <Denoter did="d13" type="action">安排</Denoter>
+     <Participant oid="o13" sid="s14">工作人员</Participant>
+     留守各
+     <Location lid="l13">医院</Location>
+    </Event>    
+    <Event eid="e14">
+     为
+     <Participant oid="o14">患者</Participant>
+     <Denoter did="d14" type="action">协调服务</Denoter>
+    </Event>。
+   </Sentence>
+   <Sentence>
+    <Event eid="e15">
+     <Time tid="t15" type="relTime">目前</Time>
+     ，
+     <Participant sid="s15">就医人员</Participant>
+     均已
+     <Denoter did="d15" type="stateChange">脱离</Denoter>
+     危险
+    </Event>
+    ，
+    <Event eid="e16">
+     <Object oid="o16">中毒原因</Object>
+     正在进一步
+     <Denoter did="d16" type="operation">调查</Denoter>
+     中
+    </Event>
+    。
+   </Sentence>
+   (完)
+  </Paragraph>
+ </Content>
+ <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2"/>
+ <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e16"/>
+ <eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>
+ <eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>
+ <eRelation relType="Accompany" accompanya_eid="e6" accompanyb_eid="e7"/>
+ <eRelation relType="Follow" bevent_eid="e11" aevent_eid="e12"/>
+ <eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e13"/>
+ <eRelation relType="Follow" bevent_eid="e13" aevent_eid="e14"/>
+</Body>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>  <Title>昆石高速21车连环相撞</Title>
+	<ReportTime type="absTime">2006年08月30日 08:26:08</ReportTime> 
+<Content>
+	　
+	<Paragraph>
+		<Sentence>
+			<Event eid="e1">
+				<Time type="relTime" tid="t1">当日</Time>，
+				<Location lid="l1">云南石林风景区至昆明的高速公路</Location>上连续发生
+				<Denoter type="emergency" did="d1">6起交通事故</Denoter>
+			</Event>，共有
+			<Event eid="e2">
+				<Object oid="o2">21辆汽车</Object>
+				<Denoter type="action" did="d2">相撞</Denoter>
+			</Event>，目前
+			<Event eid="e3">已造成
+				<Participant oid="o3">至少1人</Participant>
+				<Denoter type="stateChange" did="d3">死亡</Denoter>
+			</Event>，
+			<Event eid="e4">
+				<Participant oid="o4">多人</Participant>
+				<Denoter type="stateChange" did="d4">重伤</Denoter>
+			</Event>。
+		</Sentence>
+		<Sentence>
+			<Event eid="e5">
+				<Object oid="o5">事故原因</Object>正在
+				<Denoter type="operation" did="d5">调查</Denoter>中
+			</Event>。
+		</Sentence>
+	</Paragraph>
+	</Content>
+
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e4"/>
+</Body>

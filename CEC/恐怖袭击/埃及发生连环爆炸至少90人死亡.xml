@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>2005年7月23日 埃及发生连环爆炸至少90人死亡</Title>
+	<ReportTime type="absTime">2005年7月24日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1"><Time  tid="t1" type="absTime">2005年7月23日凌晨</Time>，埃及红海沿岸旅游胜地<Location lid="l1">沙姆沙伊赫</Location>发生<Denoter did="d1" type="emergency">连环爆炸</Denoter></Event>，<Event eid="e2"><Time tid="t2" type="relTime">目前</Time>已造成包括9名外国人在内的<Participant oid="o2">至少90人</Participant><Denoter did="d2" type="stateChange">死亡</Denoter></Event>、<Event eid="e3"><Participant oid="o3">240多人</Participant><Denoter did="d3" type="stateChange">受伤</Denoter></Event>。</Sentence><Sentence><Event eid="e4" type="thoughtevent"><Participant sid="s4">埃及官方和目击者</Participant><Denoter did="d4" type="statement">证实</Denoter></Event>，<Event eid="e5"><Location lid="l5">沙姆沙伊赫</Location>连环<Denoter did="d5" type="emergency">爆炸</Denoter>事件</Event><Event eid="e6">似乎经过精心<Denoter did="d6" type="operation">策划</Denoter></Event>，其中<Event eid="e7">两起大规模<Object oid="o7">汽车炸弹</Object><Denoter did="d7" type="emergency">爆炸</Denoter></Event>可能由<Event eid="e8"><Participant sid="8">自杀袭击者</Participant><Denoter did="d8" type="operation">实施</Denoter> 。</Event></Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e9" type="thoughtevent"><Participant  sid="s9">埃及安全部队官员</Participant><Denoter did="d9" type="statement">告诉</Denoter><Participant  oid="o9">美联社记者</Participant></Event>，<Event eid="e10">一辆装有300公斤爆炸物的<Object sid="s10">汽车</Object><Denoter did="d10"  type="movement">冲入</Denoter><Location lid="l10">贾扎拉花园饭店</Location></Event>。</Sentence><Sentence><Event eid="e11"><Time tid="t11" type="relTime">与此同时</Time>，一辆装有大约200公斤爆炸物的<Object oid="o11">汽车</Object>在<Location lid="l11">城区旅游商品市场</Location><Denoter did="d11" type="emergency">爆炸</Denoter></Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e12"><Denoter did="d12" type="emergency">第3起爆炸</Denoter>发生在<Location lid="l12">海滨人行道附近</Location></Event>。</Sentence><Sentence><Event eid="e13" type="thoughtevent"><Participant sid="s13">路透社</Participant>援引第3起爆炸目击者的话<Denoter did="d13" type="statement">说</Denoter></Event>，<Event eid="e14"><Participant sid="s14,s15,s16">一名男子</Participant><Denoter did="d14" type="action">携带</Denoter><Object oid="o14">一个大包</Object></Event><Event eid="e15"><Denoter did="d15" type="action">走到</Denoter>游客中间</Event>，<Event eid="e16" type="thoughtevent"><Time tid="t16" type="relTime">然后</Time><Means mid="m16" type="tool">用埃及口音的阿拉伯语</Means><Denoter did="d16" type="statement">说</Denoter></Event>：“我有一枚炸弹”。</Sentence><Sentence><Event eid="e17"><Participant sid="s17">一些人</Participant>立即<Denoter did="d17"  type="movement">离开</Denoter></Event>，但仍有人认为这名男子在开玩笑。</Sentence><Sentence><Event eid="e18"><Time tid="t18" type="relTime">两分钟后</Time>，<Denoter did="d18" type="emergency">爆炸</Denoter>在<Location lid="l18">这名男子放包的地方</Location>发生</Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e19"><Denoter did="d19" type="emergency">袭击事件</Denoter>发生</Event>后，<Event eid="e20" type="thoughtevent"><Participant sid="s20">一个自称“阿卜杜拉·阿扎姆旅”的组织</Participant>在<Location lid="l20">一家网站</Location>上发表<Denoter did="d20" type="statement">声明</Denoter></Event>，声称对这起事件负责。</Sentence><Sentence>该组织自称为“基地”组织在埃及和叙利亚等地的分支机构。</Sentence></Paragraph>
+		<Paragraph><Sentence>数小时后，另一个自称“埃及圣战者”的组织否认了“阿卜杜拉·阿扎姆旅”的说法，说是5名“埃及圣战者”成员制造了这起连环爆炸事件。</Sentence></Paragraph>
+		<Paragraph><Sentence>埃及内政部长哈比卜·易卜拉欣·阿德利认为，目前把袭击事件与“基地”组织或其他极端组织挂钩还为时尚早。</Sentence><Sentence><Event eid="e21" type="thoughtevent">据<Participant sid="s21">埃及警方官员</Participant>发表<Denoter did="d21" type="statement">声明</Denoter></Event>，<Event eid="e22"><Participant  sid="s22">警方</Participant>于<Time tid="t22" type="relTime">周六</Time><Denoter did="d22" type="action">逮捕</Denoter>了<Participant  oid="o22">35名嫌疑人员</Participant></Event>，虽然目前还不清楚这些人是否与爆炸案有密切关系。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5-e8"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e9" thoughtcontent_eids="e10-e11"/> 
+        <eRelation relType="Follow" bevent_eid="e11" aevent_eid="e12"/>
+        <eRelation relType="Thoughtcontent" thoughtevent_eid="e13" thoughtcontent_eids="e14-e18"/>
+        <eRelation relType="Follow" bevent_eid="e14" aevent_eid="e15"/>
+        <eRelation relType="Follow" bevent_eid="e15" aevent_eid="e16"/>
+        <eRelation relType="Follow" bevent_eid="e16" aevent_eid="e17"/>
+        <eRelation relType="Follow" bevent_eid="e17" aevent_eid="e18"/>
+        <eRelation relType="Follow" bevent_eid="e19" aevent_eid="e20"/>
+        <eRelation relType="Thoughtcontent" thoughtevent_eid="e21" thoughtcontent_eids="e22"/>
+	
+</Body>

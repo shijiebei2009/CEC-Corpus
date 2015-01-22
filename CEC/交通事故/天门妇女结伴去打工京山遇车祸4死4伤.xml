@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>天门妇女结伴去打工京山遇车祸4死4伤</Title>
+	<ReportTime type="absTime">2007年08月13日06:36</ReportTime>
+	<Content>
+		<Paragraph><Sentence>
+                <Event eid="e1"><Time type="relTime" tid="t1">前日凌晨</Time>，
+                <Location lid="l1">汉宜线京山段</Location>发生特大<Denoter type="emergency" did="d1">交通事故</Denoter></Event>，
+                <Event eid="e2"><Object sid="s2">一辆三轮车</Object>与<Object sid="s2">大货车</Object><Denoter type="action" did="d2">相撞</Denoter></Event>，
+                导致<Event eid="e3"><Participant sid="s3">4人</Participant>当场<Denoter type="stateChange" did="d3">死亡</Denoter></Event>，
+                <Event eid="e4"><Participant sid="s4">两人</Participant>受<Denoter type="stateChange" did="d4">重伤</Denoter></Event>，
+                <Event eid="e5"><Participant sid="s5">两人</Participant>受<Denoter type="stateChange" did="d5">轻伤</Denoter></Event>。</Sentence>
+                <Sentence><Event eid="e6" type="thoughtevent">据<Denoter did="d6" type="statement">了解</Denoter></Event>，
+                <Event eid="e7"><Participant sid="s7,s8,s9">天门市石河镇的8名妇女</Participant>于<Time type="relTime" tid="t7">前日</Time><Denoter type="action" did="d7">相约</Denoter></Event>
+                <Event eid="e8">一起到<Location lid="l8">京山县的雁门口</Location>去<Denoter type="operation" did="d8">打零工</Denoter></Event>，
+                <Event eid="e9">帮当地的农户<Denoter type="action" did="d9">摘</Denoter><Object oid="o9">花生</Object></Event>，
+                <Event eid="e10"><Time type="relTime" tid="t10">当晚</Time><Denoter type="action" did="d10">请</Denoter>了邻村冯某的<Object oid="o10" sid="s11">一辆货三轮</Object></Event>
+                <Event eid="e11"><Denoter type="movement" did="d11">送</Denoter><Participant oid="o11">她们</Participant>到<Location type="destination" lid="l11">京山雁门口</Location></Event>。</Sentence></Paragraph>  
+　　<Paragraph><Sentence>
+<Event eid="e12"><Time type="relTime" tid="t12">前日凌晨4时左右</Time>，<Participant sid="s12">8名妇女</Participant><Denoter type="action" did="d">上</Denoter>了<Object  oid="o12" sid="s13">货三轮</Object></Event>，
+<Event eid="e13">当车行至<Location lid="l">汉宜线京山钱场段(107省道)97kM+650M处</Location>时，与迎面而来的一辆拖石灰的<Object sid="s13">京山籍大货车</Object><Denoter type="action" did="d13">相撞</Denoter></Event>。</Sentence>
+<Sentence>“<Event eid="e14"><Time type="relTime" tid="t14">当时</Time>只<Denoter type="perception" did="d14">觉得</Denoter><Object oid="o14">一阵轰响</Object></Event>，
+<Event eid="e15"><Object sid="s15">三轮车</Object>突然<Denoter type="action" did="d15">翻滚</Denoter></Event>，
+<Event eid="e16"><Time type="relTime" tid="t16">随后</Time>就<Denoter type="stateChange" did="d16">失去</Denoter><Object oid="o16">知觉</Object></Event>。”
+<Event eid="e17" type="thoughtevent">伤势较轻的<Participant sid="s17,s18,19">龚小香</Participant><Denoter type="action" did="d17">回忆</Denoter></Event>。</Sentence>
+<Sentence><Event eid="e18">等<Denoter type="action" did="d18">醒来</Denoter>时</Event>，
+才<Event eid="e19"><Denoter type="perception" did="d19">发现</Denoter></Event>
+<Event eid="e20"><Object sid="s20">三轮车</Object>已<Denoter type="action" did="d20">翻</Denoter><Location lid="l20">到路边</Location></Event>，
+<Event eid="e21"><Participant sid="s21">4名同伴</Participant>已血肉模糊，<Time type="relTime" tid="t21">当场</Time><Denoter type="stateChange" did="d21">死亡</Denoter></Event>。</Sentence>
+<Sentence><Event eid="e22">另<Participant sid="s22">两名同伴</Participant>受<Denoter type="stateChange" did="d22">重伤</Denoter></Event>，她与在一旁呻吟的刘某还较清醒。</Sentence></Paragraph>   
+　　<Paragraph><Sentence>
+<Event eid="e23"><Denoter type="emergency" did="d23">事</Denoter>发</Event>后，
+<Event eid="e24">路过的<Participant sid="s24">司机</Participant>帮忙<Denoter type="action" did="d24">拨打</Denoter><Object oid="o24">110</Object>报警</Event>。</Sentence>
+<Sentence><Event eid="e25">随后，<Participant sid="s25，s26，s27">京山交警</Participant><Denoter type="movement" did="d25">赶到</Denoter><Location type="destination" lid="l25">现场</Location></Event>
+<Event eid="e26"><Denoter type="operation" did="d26">施救</Denoter></Event>，
+<Event eid="e27">将伤势较重的<Participant sid="s27">王某</Participant>、<Participant sid="s27">贾某</Participant><Denoter type="movement" did="d27">送入</Denoter><Location type="destination" lid="l27">当地医院</Location></Event><Event eid="e28"><Denoter type="operation" did="d28">救治</Denoter></Event>。</Sentence>
+<Sentence><Event eid="e29"><Time type="relTime" tid="t29">日前</Time>，<Participant oid="o29">肇事大货车司机和货三轮司机</Participant>被<Participant sid="s29">警方</Participant><Denoter type="operation" did="d29">控制</Denoter></Event>，<Event eid="e30"><Object oid="o30">事故原因</Object>尚在<Denoter type="operation" did="d30">调查</Denoter>中</Event>。</Sentence></Paragraph>
+	</Content>  	
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>  	
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>   	
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e5"/>
+	<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+	<eRelation relType="Follow" bevent_eid="e8" aevent_eid="e9"/>
+	<eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>
+	<eRelation relType="Causal" cause_eid="e13" effect_eid="e14"/>
+	<eRelation relType="Causal" cause_eid="e13" effect_eid="e15"/>
+	<eRelation relType="Causal" cause_eid="e13" effect_eid="e16"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e17" thoughtcontent_eids="e14-e16"/>
+	<eRelation relType="Follow" bevent_eid="e18" aevent_eid="e19"/>
+	<eRelation relType="Follow" bevent_eid="e23" aevent_eid="e24"/>
+	<eRelation relType="Follow" bevent_eid="e24" aevent_eid="e25"/>
+	<eRelation relType="Follow" bevent_eid="e25" aevent_eid="e26"/>
+	<eRelation relType="Follow" bevent_eid="e26" aevent_eid="e27"/>
+	<eRelation relType="Follow" bevent_eid="e27" aevent_eid="e28"/>        
+</Body>

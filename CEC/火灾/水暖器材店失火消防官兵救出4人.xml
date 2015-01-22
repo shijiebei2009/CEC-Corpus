@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+
+<Title>水暖器材店失火消防官兵救出4人</Title>
+ 
+<ReportTime type="absTime">2014-03-31 01:57:00　</ReportTime>来源: 城市晚报(长春)
+<Content>
+<Paragraph>
+<Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">城市晚报四平</Participant><Denoter type="statement" did="d1">讯</Denoter></Event>
+
+ <Event eid="e2"><Time type="relTime" tid="t2">3月29日早</Time>，<Location lid="l2">位于四平市铁东区南一纬与南二纬路之间南八经街的一家水暖器材商店</Location>发生<Denoter type="emergency" did="d2">火灾</Denoter></Event>，
+ <Event eid="e3"><Participant sid="s3">消防官兵</Participant><Denoter type="movement" did="d3">到达</Denoter><Location type="destination" lid="l3">现场</Location></Event>后，
+ 很快<Event eid="e4">将<Object oid="o4">火</Object><Denoter type="stateChange" did="d4">扑灭</Denoter></Event>，
+ <Event eid="e5">成功<Denoter type="operation" did="d5">救出</Denoter><Participant oid="o5">四名被困人员</Participant></Event>。</Sentence></Paragraph>
+
+<Paragraph><Sentence><Event eid="e6"><Denoter type="emergency" did="d6">火灾</Denoter>发生在<Time tid="t6" type="relTime">当日早</Time></Event>，119指挥中心接警时间是6点57分，失火的是梓祥水暖器材商店，位置在铁东区富仁缘小区七号楼门市房，火是从一楼着起的，有四个人被困在二楼，其中有一个三四岁的小女孩。</Sentence>
+<Sentence><Event eid="e7"><Participant sid="s7">记者</Participant><Denoter type="movement" did="d7">赶到</Denoter><Location type="destination" lid="l7">现场</Location>时</Event>，
+<Event eid="e8"><Object oid="o8">明火</Object>已被<Participant sid="s8">消防官兵</Participant><Denoter type="stateChange" did="d8">扑灭</Denoter></Event>，
+<Event eid="e9"><Participant sid="s9">一位消防战士</Participant>正在用<Means type="tool" mid="m9">专业器具</Means><Denoter type="operation" did="d9">破拆</Denoter><Location lid="l9">二楼窗户上</Location>的<Object oid="o9">防盗网</Object></Event>。</Sentence>
+<Sentence><Event eid="e10"><Object oid="o10">防盗网</Object>被<Denoter type="operation" did="d10">拆开</Denoter></Event>后，<Event eid="e11"><Participant sid="s11">消防战士</Participant>进入<Location lid="l11">屋内</Location>，首先将<Participant oid="o11">小女孩</Participant><Denoter type="operation" did="d11">救出</Denoter></Event>，随后，<Event eid="e12"><Participant sid="s12">一对老年夫妇和一名中年男子</Participant><Location lid="l12">从消防二节拉梯上</Location><Denoter type="action" did="d12">逃</Denoter>了出来</Event>。</Sentence></Paragraph>
+
+<Paragraph>据那名老年妇女讲，火灾是由于她家人早上做饭时，使用液化石油气罐不慎造成的，若不是消防队员们来得快，后果可就不敢想了。（记者 高德臣/报道）</Paragraph>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e12"/>
+<eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>
+<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>
+<eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5"/>
+<eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>
+<eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>
+<eRelation relType="Follow" bevent_eid="e10" aevent_eid="e111"/>
+<eRelation relType="Follow" bevent_eid="e11" aevent_eid="e12"/>
+
+
+
+
+
+</Content></Body>

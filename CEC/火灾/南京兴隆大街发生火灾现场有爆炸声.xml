@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+<Title>南京兴隆大街发生火灾 现场有爆炸声</Title>
+<ReportTime  type="absTime">2014年01月15日 12:25</ReportTime>
+<Content><Paragraph>
+<Sentence>
+<Event  eid="e1">
+<Participant  sid="s1">现代快报</Participant>
+<Denoter  did="d1"  type="statement">快讯</Denoter>：
+</Event>南京兴隆大街现场有爆炸声。
+</Sentence>
+
+<Sentence>
+<Event  eid="e2">现代快报
+<Participant  sid="s2">马晶晶</Participant>
+在
+<Location  type="destination"  lid="l2">现场</Location>，
+<Denoter  did="d2"  type="perception">听到</Denoter>
+前后
+<Object  oid="o2">三声爆炸</Object>，
+火还在烧。
+</Event>
+</Sentence>
+
+<Sentence>
+<Event  eid="e3">
+<Location  lid="l3">兴隆大街</Location>
+<Participant   oid="o3">一小作坊</Participant>发生
+<Denoter  type="emergency"  did="d3">火灾</Denoter>，
+</Event>
+
+<Event  eid="e4">
+虽然救火队来了很多，但是由于堵塞加上消防通道缺失，使得
+<Object  oid="o4">火势</Object>一直难得到有效
+<Denoter  did="d4"  type="operation">控制</Denoter>。
+</Event>
+</Sentence>
+
+<Sentence>
+<Event  eid="e5">
+里面隐隐还有
+<Object  oid="o5">鞭炮声</Object>不断
+<Denoter  type="movement"  did="d5">传出</Denoter>。
+</Event>
+</Sentence>
+
+<Sentence>
+<Event  eid="e6">
+<Time  type="relTime"  tid="t6">11时26分</Time>，
+<Location  lid="l6">建邺区兴隆大街80号</Location>
+<Participant  sid="s6">一民房</Participant>
+<Denoter  did="d6"  type="emergency">失火</Denoter>，
+</Event>
+
+<Event  eid="e7">
+<Participant  sid="s7,s8">消防部门</Participant>
+<Denoter  did="d7"  type="action">接警</Denoter>后，
+</Event>
+
+<Event  eid="e8">
+立即
+<Denoter  type="operation"  did="d8">调集</Denoter>
+<Participant  oid="o8,s9">兴隆、特一、汉中门共3个消防中队</Participant>
+</Event>
+
+<Event  eid="e9">
+<Denoter  type="movement"  did="d9">赶赴</Denoter>
+<Location  type="destination"  lid="l9">现场</Location>。
+</Event>
+</Sentence>
+
+<Sentence>失火建筑为大跨度单层厂房结构，总面积约1000平方米，内部分割成多个隔断房间用于居住或储存物品。</Sentence>
+<Sentence>
+<Event  eid="e10">
+<Time  tid="t10"  type="relTime">目前</Time>，
+<Location  type="destination"  lid="l10">现场</Location>
+<Object  oid="o10">明火</Object>已基本
+<Denoter  did="d10"  type="operation">扑灭</Denoter>，
+</Event>
+
+<Event  eid="e11">
+<Participant  sid="s11">消防官兵</Participant>正在进一步
+<Denoter  did="d11"  type="operation">清理</Denoter>，
+</Event>
+<Event  eid="e12"  polarity="negative">暂无人员
+<Denoter  did="d12"  type="emergency">伤亡</Denoter>。
+</Event>
+</Sentence>
+</Paragraph></Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e11"/>
+<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>
+<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+<eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>
+</Body>

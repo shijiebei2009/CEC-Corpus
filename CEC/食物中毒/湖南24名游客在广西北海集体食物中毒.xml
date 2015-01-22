@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>湖南24名游客在广西北海集体食物中毒</Title>
+	<ReportTime type="absTime">2008年10月19日</ReportTime>
+	<Content>　
+
+    <Paragraph><Sentence><Event type="thoughtevent" eid="e1"><Location lid="l1">中新社</Location><Time tid="t1" type="relTime">9月22日</Time><Denoter did="d1" type="statement">信息</Denoter></Event>：(邓玲 李红林)</Sentence> <Sentence><Event type="thoughtevent" eid="e2"><Participant sid="s1">广西北海市旅游质量监督管理所相关负责人</Participant><Time tid="t1" type="relTime">22日</Time><Denoter did="d1" type="statement">透露</Denoter></Event>，<Event type="action" eid="e3">2个来自湖南的旅游观光团共<Participant sid="s3">79人</Participant>，<Time tid="t3" type="relTime">21日</Time>在<Location lid="l3">北海市一酒楼</Location><Denoter did="d3" type="action">用</Denoter>完<Object oid="o3">午餐</Object>后</Event>，<Event eid="e4">其中<Participant sid="s4,s5,s6">24人</Participant>先后<Denoter did="d4" type="stateChange">出现</Denoter>呕吐及腹泻等<Object oid="o4">疑似食物中毒症状</Object></Event>，<Event eid="e5">遂被<Denoter did="d5" type="movement">送往</Denoter><Location lid="l5" type="destination">当地医院</Location></Event><Event eid="e6"><Denoter did="d6" type="operation">救治</Denoter></Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e7">接治部分病患的<Participant sid="s7">北海市博铧医院</Participant><Denoter did="d7" type="statement">证实</Denoter></Event>，<Event eid="e8"><Participant sid="s8" type="recipient">这些观光客</Participant>经<Denoter did="d8" type="operation">诊断</Denoter>确为食物中毒</Event>。</Sentence><Sentence><Event eid="e9"><Participant sid="s9">院方</Participant><Denoter did="d9" type="statement">表示</Denoter></Event>，由于<Event eid="e10"><Object oid="o10">食物中毒</Object><Denoter did="d10" type="stateChange">存在</Denoter><Time tid="t10" type="timeInterval">半个小时至6个小时</Time>左右的<Object oid="o10">潜伏期</Object></Event>，因此<Event eid="e11">目前尚无法<Denoter did="d11" type="perception" polarity="negative">确定</Denoter>此次食物中毒事件的<Object oid="o11">具体原因</Object></Event>。</Sentence></Paragraph>
+ 
+　　<Paragraph><Sentence><Event type="thoughtevent" eid="e12">病情较重的<Participant sid="s12">唐姓观光客</Participant><Denoter did="d12" type="statement">介绍</Denoter></Event>，<Event eid="e13">她参加的这个观光共有<Participant sid="s13">38人</Participant>，均为政府职员，于<Time tid="t13" type="relTime">20日</Time><Denoter did="d13" type="movement">抵达</Denoter><Location lid="l13" type="destination">北海</Location>展开他们的“碧海蓝天”之旅。</Event></Sentence></Paragraph> 
+
+　　<Paragraph><Sentence><Event type="thoughtevent" eid="e14"><Participant sid="s14">这位观光客</Participant><Denoter did="d14" type="statement">称</Denoter></Event>，<Event eid="e15"><Time tid="t15" type="relTime">21日中午</Time>，<Participant sid="s15">她所在的观光团与另一个同样来自湖南的观光团</Participant>在<Location lid="l15">北海市一酒楼</Location><Denoter did="d15" type="action">用</Denoter>完<Object oid="o15">午餐</Object>半个时辰后</Event>，<Event eid="e16"><Participant sid="s16,s17">她</Participant>开始感觉<Denoter did="d16" type="perception">腹痛</Denoter></Event>，<Event eid="e17">并伴有<Denoter did="d17" type="emergency">上吐下泻</Denoter>的症状</Event>。</Sentence><Sentence>“因<Event eid="e18"><Object oid="o18">天气</Object><Denoter did="d18" type="statement">炎热</Denoter></Event>，<Event eid="e19"><Participant sid="s19">我</Participant>就以为是自己<Denoter did="d18" type="statement">中暑</Denoter>了</Event>。</Sentence><Sentence><Event eid="e20"><Time tid="t20" type="relTime">随后</Time>，又陆续有<Participant sid="s20">几名同伴</Participant><Denoter did="d20" type="stateChange">出现</Denoter>相同<Object oid="o20">症状</Object></Event>。”</Sentence></Paragraph> 
+
+　　<Paragraph><Sentence><Event type="thoughtevent" eid="e21"><Participant sid="s21">这位观光客</Participant>介绍<Denoter type="statement" did="d21">说</Denoter></Event>，<Event eid="e22">她所在的观光团共有<Participant sid="s22,s23,s24">九个人</Participant><Denoter did="d22" type="stateChange">出现</Denoter>呕吐及腹泻<Object oid="o22">症状</Object></Event>，<Event eid="e23"><Time tid="t23" type="relTime">21日下午</Time><Denoter did="d23" type="stateChange">病</Denoter>发</Event>后被<Event eid="e24"><Denoter did="d24" type="movement">送往</Denoter><Location lid="l24">北海市人民医院</Location></Event><Event eid="e25"><Denoter did="d25" type="operation">救治</Denoter></Event>，但由于该医院设备及人手不足，<Event eid="e26"><Participant sid="s26">他们9人</Participant>遂<Denoter did="d26" type="movement">转到</Denoter><Location lid="l26" type="destination">该市博铧医院</Location></Event>。</Sentence></Paragraph> 
+
+　　<Paragraph><Sentence>据悉，<Event eid="e27">在博铧医院接受治疗的病患有<Participant sid="s27">五名病患</Participant>已于<Time tid="t27" type="relTime">21日晚间</Time><Denoter did="d27" type="operation">出院</Denoter></Event>。</Sentence><Sentence><Event eid="e28">余下的<Participant sid="s28">四名病患</Participant><Denoter did="d28" type="statement">称</Denoter></Event>，<Event eid="e29">由于不<Denoter did="d29" type="statement" polarity="negative">喜欢</Denoter>吃<Object oid="o29">海鲜</Object></Event>，<Event eid="e30"><Participant sid="s30">他们</Participant><Time tid="t30" type="relTime">21日中午</Time><Denoter did="d30" type="action">吃</Denoter>的食物多为<Object oid="o30">小白菜及豆角等蔬菜</Object></Event>。</Sentence></Paragraph> 
+
+　　<Paragraph><Sentence><Event eid="e31"><Denoter did="d31" type="emergency">中毒事件</Denoter>发生</Event>后，<Event eid="e32">北<Participant sid="s32,s33">海市相关部门负责人</Participant>于<Time tid="t32" type="relTime">第一时间</Time><Denoter did="d32" type="movement">赶往</Denoter><Location lid="l32">医院</Location></Event><Event eid="e33"><Denoter did="d33" type="operation">处理</Denoter>相关事宜</Event>，<Event eid="e34">地接的<Participant sid="s34">当地旅行</Participant>社亦<Denoter did="d34" type="action">承诺</Denoter></Event><Event eid="e35">对此次<Object oid="o35">食中毒事件的医疗费用</Object><Denoter did="d35" type="action">负责</Denoter></Event>。</Sentence><Sentence>截至<Event eid="e36"><Denoter did="d36" type="action">发稿</Denoter></Event>时，发<Event eid="e37">生食物中毒的<Participant sid="s37,s38">观光客</Participant>已陆续<Denoter did="d37" type="operation">出院</Denoter></Event>并<Event eid="e38">踏上<Denoter did="d38" type="action">返家</Denoter>行程</Event>。</Sentence></Paragraph>   
+	</Content>
+		<eRelation thoughtcontent_eids="e2-e38" thoughtevent_eid="e1" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e3-e11" thoughtevent_eid="e2" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e13" thoughtevent_eid="e12" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e15-e20" thoughtevent_eid="e14" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e22-e26" thoughtevent_eid="e21" relType="Thoughtcontent"/>
+		<eRelation relType="Follow" aevent_eid="e4" bevent_eid="e3"/>
+		<eRelation relType="Follow" aevent_eid="e6" bevent_eid="e5"/>
+		<eRelation relType="Causal" cause_eid="e11" effect_eid="e10"/>
+		<eRelation relType="Follow" aevent_eid="e16" bevent_eid="e15"/>
+		<eRelation relType="Accompany" accompanyb_eid="e16" accompanya_eid="e17"/>
+		<eRelation relType="Causal" cause_eid="e18" effect_eid="e19"/>
+		<eRelation relType="Follow" aevent_eid="e23" bevent_eid="e24"/>
+		<eRelation relType="Follow" aevent_eid="e25" bevent_eid="e24"/>
+		<eRelation relType="Causal" cause_eid="e29" effect_eid="e30"/>
+		<eRelation relType="Follow" aevent_eid="e32" bevent_eid="e31"/>
+		<eRelation relType="Follow" aevent_eid="e33" bevent_eid="e32"/>
+		<eRelation relType="Follow" aevent_eid="e38" bevent_eid="e37"/>
+
+</Body>

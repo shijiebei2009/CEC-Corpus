@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>俄罗斯地震死亡人数升至12人</Title>
+	<ReportTime type="absTime">2008年10月12日</ReportTime>
+	<Content>
+		<Paragraph>
+			<Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">新华社莫斯科</Participant><Time tid="t1" type="relTime">１０月１１日</Time><Denoter did="d1" type="statement">电</Denoter></Event></Sentence>（记者高帆）
+			<Sentence>
+				<Event eid="e2"><Location lid="l2">俄罗斯南方５个地区</Location><Time type="relTime" tid="t2">１１日</Time>发生的<Denoter type="emergency" did="d2">地震</Denoter></Event>
+				<Event eid="e3">已造成<Participant oid="o3">１２人</Participant><Denoter type="stateChange" did="d3">死亡</Denoter></Event>。
+			</Sentence>
+		</Paragraph>
+		<Paragraph>
+			<Sentence>
+				<Event type="thoughtevent" eid="e4"><Participant sid="s4">俄塔社</Participant>援引车臣共和国卫生部长阿赫玛托夫的话报道<Denoter type="statement" did="d4">说</Denoter></Event>，
+				<Event eid="e5"><Denoter type="emergency" did="d5">地震</Denoter></Event>目前已造成
+				<Event eid="e6"><Location lid="l6">该共和国</Location><Participant oid="o6">１２人</Participant><Denoter type="stateChange" did="d6">死亡</Denoter></Event>，
+				<Event eid="e7"><Participant sid="s7">当地医院</Participant>已<Denoter type="action" did="d7">接收</Denoter><Participant oid="o7">伤员１０５人</Participant>。</Event>
+			</Sentence>
+			<Sentence>
+				俄罗斯紧急情况部车臣分部提供的<Event type="thoughtevent" eid="e8"><Participant sid="s8">数据</Participant><Denoter did="d8" type="statement">显示</Denoter></Event>，
+				<Event eid="e9"><Denoter type="emergency" did="d9">地震</Denoter></Event>还造成
+				<Event eid="e10"><Object oid="o10">该地区部分医院</Object>、<Object oid="o10">超市</Object>及<Object oid="o10">民房</Object><Denoter type="stateChange" did="d10">倒塌</Denoter></Event>，
+				<Event eid="e11"><Object oid="o11">山区多条道路</Object><Denoter type="stateChange" did="d11">损毁</Denoter>严重。</Event>
+			</Sentence>
+		</Paragraph>
+		<Paragraph>
+			<Sentence>
+				<Event eid="e12">位于俄南部的<Location lid="l12">达吉斯坦</Location>、<Location lid="l12">车臣</Location>、<Location lid="l12">印古什</Location>、<Location lid="l12">北奥塞梯共和国</Location>及<Location lid="l12">斯塔夫罗波尔边疆区</Location><Time type="relTime" tid="t12">当日</Time>均发生不同程度<Denoter type="emergency" did="d12">地震</Denoter>，震中位于车臣共和国。</Event>
+			</Sentence>
+			<Sentence>
+				<Event eid="e13"><Time type="relTime" tid="t13">目前</Time><Denoter type="operation" did="d13">救援</Denoter>工作正在紧张进行中</Event>。
+			</Sentence>
+		</Paragraph>
+	</Content>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e12"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5-e7"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eids="e9-e11"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e4" effect_eid="e5"/>
+	<eRelation relType="Causal" cause_eid="e9" effect_eid="e10"/>
+	<eRelation relType="Causal" cause_eid="e9" effect_eid="e11"/>
+</Body>

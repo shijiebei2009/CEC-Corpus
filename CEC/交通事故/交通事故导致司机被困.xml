@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>交通事故导致司机被困 消防队员赶赴现场紧急营救</Title>
+	<ReportTime type="absTime">2014-04-18 15:26:01　来源: 中国网</ReportTime>
+	<Content><Paragraph>
+			<Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">中国网</Participant><Time type="relTime" tid="t1">4月18日</Time><Denoter type="statement" did="d1">讯</Denoter></Event>
+				<Event eid="e2"><Time type="absTime" tid="t2">4月17日上午10时59分</Time>，<Location lid="l2">晋江市灵源街道好日子超市门口</Location>，<Object sid="s2">一辆平板载货车</Object>与<Object sid="s2">一辆货车</Object>发生<Denoter type="action" did="d2">碰撞</Denoter></Event>，
+                                <Event eid="e3">致使<Participant oid="o3">货车司机</Participant>被<Denoter type="action" did="d3">困</Denoter></Event>。</Sentence>
+                                <Sentence><Event eid="e4"><Denoter type="action" did="d4">接警</Denoter>后</Event>，
+                                <Event eid="e5"><Participant sid="s5,s4">灵源派出所民警</Participant><Denoter type="action" did="d5">带领</Denoter>该所<Participant oid="o5">消防队员</Participant></Event>
+                                <Event eid="e6">迅速<Denoter type="action" did="d6">赶赴</Denoter><Location type="destination" lid="l6">现场</Location></Event>。
+</Sentence></Paragraph>
+		<Paragraph><Sentence>
+                <Event eid="e7"><Denoter type="movement" did="d7">到达</Denoter><Location type="destination" lid="l7">现场</Location>后</Event>，
+                <Event eid="e8"><Participant sid="s8">民警</Participant>发现<Object oid="o8">两车</Object><Denoter type="action" did="d8">碰撞</Denoter>后</Event>，
+                <Event eid="e9"><Object sid="s9">货车驾驶室</Object>严重<Denoter type="stateChange" did="d9">变形</Denoter></Event>，
+                <Event eid="e10"><Participant oid="o10">司机</Participant>被<Denoter type="action" did="d10">困</Denoter>在<Location lid="l10">驾驶室内</Location></Event>，
+                <Event eid="e11"><Object oid="o11">司机右腿</Object>被<Object sid="s11">车头变形的零部件</Object><Denoter type="action" did="d11">卡住</Denoter></Event>，
+                <Event eid="e12">只要将<Object oid="o12">变形的车门</Object><Denoter type="operation" did="d12">切割</Denoter>掉</Event>，<Event eid="e13">就可以将<Participant oid="o13">被困司机</Participant><Denoter type="operation" did="d13">救出</Denoter></Event>。
+</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e14"><Denoter type="action" did="d14">了解</Denoter><Object oid="o14">情况</Object>后</Event>，
+                <Event eid="e15"><Participant sid="s15,s22">消防官兵</Participant>立即展开<Denoter type="operation" did="d15">救援</Denoter></Event>。
+                <Event eid="e16"><Participant sid="s16,s17">救援人员</Participant>首先利用<Means mid="m16" type="tool">液压扩张器、撬棍</Means>将<Object oid="o16">变形的车门</Object><Denoter type="action" did="d16">撬开</Denoter></Event>，
+                <Event eid="e17">再用<Means mid="m17" type="tool">液压扩张器</Means>对<Object oid="o17">司机右腿的地方</Object>进行了<Denoter type="action" did="d17">扩张</Denoter></Event>。</Sentence>
+			<Sentence><Event eid="e18"><Denoter type="operation" did="d18">营救</Denoter>过程中</Event>，
+                        <Event eid="e19"><Participant sid="s19,s20">民警</Participant>积极与<Participant oid="o19">被困司机</Participant><Denoter type="action" did="d19">交谈</Denoter></Event>，
+                        <Event eid="e20"><Denoter type="action" did="d20">稳定</Denoter><Participant oid="o20">其</Participant><Object oid="20o">紧张情绪</Object></Event>。</Sentence>
+			<Sentence><Event eid="e21">经过<Time type="timeInterval" tid="t21">10分钟</Time>的奋力<Denoter type="operation" did="d21">营救</Denoter></Event>，
+                        <Event eid="e22"><Participant oid="o22">被困司机</Participant>被成功<Denoter type="operation" did="d22">解救</Denoter></Event>，
+                        <Event eid="e23"><Denoter type="action" did="d23">等候</Denoter>在一旁的<Participant sid="s23,s24,s25,s26">120救护车</Participant></Event>
+                        <Event eid="e24">迅速对<Participant oid="o24">其</Participant>进行简单<Denoter type="action" did="d24">包扎</Denoter></Event>后
+                        <Event eid="e25"><Denoter type="movement" did="d25">送往</Denoter><Location type="destination" lid="l25">医院</Location></Event>
+                        <Event eid="e26"><Denoter type="action" did="d26">救治</Denoter></Event>。</Sentence>
+（冷竹 陈晖万 颜显冰）
+</Paragraph></Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e26"/>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>
+<eRelation relType="Accompany" accompanya_eid="e5" accompanyb_eid="e6"/>
+<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+<eRelation relType="Follow" bevent_eid="e8" aevent_eid="e9"/>
+<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10"/>
+<eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11"/>
+<eRelation relType="Causal" cause_eid="e12" effect_eid="e13"/>
+<eRelation relType="Follow" bevent_eid="e14" aevent_eid="e15"/>
+<eRelation relType="Accompany" accompanya_eid="e15" accompanyb_eid="e16"/>
+<eRelation relType="Accompany" accompanya_eid="e16" accompanyb_eid="e17"/>
+<eRelation relType="Accompany" accompanya_eid="e18" accompanyb_eid="e19"/>
+<eRelation relType="Accompany" accompanya_eid="e19" accompanyb_eid="e20"/>
+<eRelation relType="Follow" bevent_eid="e21" aevent_eid="e22"/>
+<eRelation relType="Accompany" accompanya_eid="e22" accompanyb_eid="e23"/>
+<eRelation relType="Follow" bevent_eid="e23" aevent_eid="e24"/>
+<eRelation relType="Follow" bevent_eid="e24" aevent_eid="e25"/>
+<eRelation relType="Follow" bevent_eid="e25" aevent_eid="e26"/>       
+</Body>

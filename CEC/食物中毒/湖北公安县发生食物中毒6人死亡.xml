@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>湖北公安县发生食物中毒6人死亡</Title>
+	<ReportTime type="absTime">2007年11月12日</ReportTime>
+	<Content>
+		<Paragraph>
+			<Sentence>
+				<Event type="thoughtevent" eid="e1">
+					<Participant sid="s1">东方网</Participant>(来源：长江商报)<Time tid="t1" type="relTime">11月12日</Time><Denoter did="d1" type="statement">信息</Denoter>：
+               </Event>   </Sentence>
+			 <Sentence>	<Event eid="e2"><Time tid="t2" type="relTime">昨日中午11时45分左右</Time>，<Location lid="l2">荆州市公安县甘家厂乡</Location>发生特大<Denoter did="d2" type="emergency">食物中毒</Denoter>事件
+                </Event>。
+                </Sentence>
+			<Sentence>
+				<Event eid="e3"><Location lid="l3">一废品收购站</Location><Participant sid="s3,s4">8名工人</Participant>集体<Denoter did="d3" type="action">吃</Denoter>完<Object oid="o3">午饭</Object>后
+                </Event>，
+                <Event eid="e4"><Denoter did="d4" type="stateChange">出现</Denoter><Object oid="o4">食物中毒</Object>
+				</Event>，
+                <Event eid="e5"><Participant sid="s5">两人</Participant>当场<Denoter did="d5" type="stateChange">死亡</Denoter>
+				</Event>，
+                <Event eid="e6">另<Participant sid="s6">6人</Participant>被<Denoter did="d6" type="movement">送住</Denoter><Location lid="l6" type="destination">医院</Location>
+				</Event>，
+                <Event eid="e7">其中<Participant sid="s7">4人</Participant>因抢救无效<Denoter did="d7" type="stateChange">死亡</Denoter>
+				</Event>。
+     </Sentence>
+			<Sentence>
+				<Event eid="e8"><Denoter did="d8" type="emergency">事</Denoter>发后
+                </Event>，
+                <Event eid="e9"><Participant sid="s9">省委书记、省长罗清泉</Participant><Denoter did="d9" type="statement">指示</Denoter>
+				</Event>
+				<Event eid="e10">全力<Denoter did="d10" type="operation">抢救</Denoter><Participant sid="s10" type="recipient">中毒人员</Participant>
+				</Event>，
+                <Event eid="e11"><Participant sid="s11">省政府副秘书长周贤启</Participant><Denoter did="d11" type="movement">赶赴</Denoter><Location lid="l11" type="destination">现场</Location>
+				</Event>
+				<Event eid="e12"><Denoter did="d12" type="operation">调查处理</Denoter>
+				</Event>。
+                </Sentence>
+		</Paragraph> 
+　　
+    <Paragraph>
+			<Sentence>
+				<Event eid="e13"><Time tid="t13" type="relTime">目前</Time>，<Participant sid="s13">当地政府</Participant>已经<Denoter did="d13" type="operation">启动</Denoter>了<Object oid="o13">应急预案</Object>
+				</Event>，
+                <Event eid="e14"><Denoter did="d14" type="operation">成立</Denoter>了<Object oid="o14">4个小组</Object>
+				</Event>
+				<Event eid="e15"><Denoter did="d15" type="operation">调查</Denoter><Object oid="o15">事故原因</Object>
+				</Event>和
+                <Event eid="e16"><Denoter did="d16" type="operation">处理</Denoter><Object oid="o16">善后工作</Object>
+				</Event>。
+    </Sentence>
+			<Sentence>截至
+               <Event eid="e17"><Participant sid="s17">记者</Participant><Time tid="t17" type="relTime">昨晚10时</Time><Denoter did="d17" type="action">发稿</Denoter>
+				</Event>，
+               <Event eid="e18"><Participant sid="s18" type="recipient">两名中毒者</Participant>仍在<Denoter did="d18" type="operation">抢救</Denoter>之中
+               </Event>。
+    </Sentence>
+		</Paragraph>
+	
+	</Content> 
+        	<eRelation thoughtcontent_eids="e2-e18" thoughtevent_eid="e1" relType="Thoughtcontent"/>
+		<eRelation relType="Follow" aevent_eid="e3" bevent_eid="e4"/>
+		<eRelation relType="Accompany" accompanyb_eid="e5" accompanya_eid="e6"/>
+		<eRelation relType="Follow" aevent_eid="e7" bevent_eid="e8"/>
+		<eRelation relType="Follow" aevent_eid="e9" bevent_eid="e8"/>
+		<eRelation relType="Follow" aevent_eid="e12" bevent_eid="e11"/>
+		<eRelation relType="Accompany" accompanyb_eid="e13" accompanya_eid="e14"/>
+		<eRelation relType="Follow" aevent_eid="e15" bevent_eid="e14"/>
+		<eRelation relType="Accompany" accompanyb_eid="e15" accompanya_eid="e16"/>
+</Body>

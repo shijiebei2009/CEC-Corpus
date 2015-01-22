@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+<Title>兰坪“12·2”大火基本扑灭</Title>
+<ReportTime  type="absTime">2013年12月08日</ReportTime>
+<Content>
+<Paragraph><Sentence>
+<Event  eid="e1"  type="statement">
+<Participant  sid="s1">本报</Participant>
+<Denoter  type="statement"  did="d1">讯</Denoter>（记者 付雪晖 通讯员和树芳）
+</Event>
+
+<Event  eid="e2">
+<Object  oid="o2">兰坪拉古村委会“12·2”大火</Object>
+<Time  type="relTime"  tid="t2">目前</Time>已基本
+<Denoter  type="stateChange"  did="d2">扑灭</Denoter>，
+</Event>
+
+<Event  eid="e3">
+<Participant  oid="o3">受灾农户</Participant>
+<Object  oid="o3">安置工作</Object>正有序
+<Denoter  did="d3"  type="operation">开展</Denoter>，
+</Event>
+
+<Event  eid="e4">
+<Participant  oid="o4">受灾群众</Participant>的
+<Object  oid="o4">吃、穿、住</Object>
+等基本生活得到
+<Denoter  type="operation"  did="d4">保障</Denoter>，
+</Event>
+
+<Event  eid="e5">
+<Object  oid="o5">火灾原因</Object>正在
+<Denoter  type="operation"  did="d5">调查</Denoter>中。
+</Event>
+</Sentence>
+<Sentence>
+<Event  eid="e6">
+<Time  tid="t6"  type="relTime">2日18时25分</Time>左右，
+<Location  lid="l6"  type="destination">怒江傈僳族自治州兰坪白族普米族自治县营盘镇拉古村委会三组和四组交界处</Location>发生
+<Denoter  type="emergency"  did="d6">火灾</Denoter>，
+</Event>
+造成
+<Event  eid="e7">
+<Object  oid="o7">72户280间房屋</Object>被
+<Denoter  did="d7"  type="emergency">烧毁</Denoter>，
+</Event>
+
+<Event  eid="e8">
+<Participant  sid="s8">370余人</Participant>
+<Denoter  did="d8"  type="emergency">受灾</Denoter>，
+</Event>无人员伤亡。
+</Sentence>
+<Sentence>
+<Event  eid="e9">火灾发生后，
+<Participant  sid="s9,s10,s11,s12">怒江州、兰坪县</Participant>迅速
+<Denoter  type="action"  did="d9">启动</Denoter>
+<Object  oid="o9">应急预案</Object>，
+</Event>
+
+<Event  eid="e10">
+<Denoter  did="d10"  type="operation">成立</Denoter>
+<Participant  oid="o10">事故处置领导小组</Participant>，
+</Event>
+
+<Event  eid="e11">紧急
+<Denoter  did="d11"  type="operation">下拨</Denoter>
+<Object  oid="o11">救灾应急资金和物资</Object>，
+</Event>
+
+<Event  eid="e12">迅速
+<Denoter  did="d12"  type="operation">组织</Denoter>
+<Participant  oid="o12,s13,s14">人员</Participant>
+</Event>
+
+<Event  eid="e13">
+<Denoter  type="movement"  did="d13">赶赴</Denoter>
+<Location  type="destination"  lid="l13">现场</Location>
+</Event>
+
+<Event  eid="e14">
+<Denoter  did="d14"  type="operation">开展</Denoter>
+<Object  oid="o14">善后处置工作</Object>。
+</Event>
+</Sentence></Paragraph>
+</Content>
+ <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e14"/>
+ <eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>
+ <eRelation relType="Causal" cause_eid="e6" effect_eid="e7"/>
+ <eRelation relType="Causal" cause_eid="e6" effect_eid="e8"/>
+ <eRelation relType="Composite" fevent_eid="e9" sevent_eids="e10-14"/>
+ <eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eid="e12"/>
+ <eRelation relType="Follow" bevent_eid="e13" aevent_eid="e14"/>
+</Body>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>家里的浴霸着火了 幸好浴室里没有人</Title>
+	<ReportTime type="absTime">2014-04-09 15:40</ReportTime>
+	<Content>　　<Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="relTime">今天上午8点43分</Time>，<Location lid="l1">租住在市区接官亭小区</Location>的<Participant sid="s1,s3-s5">蔡女士</Participant>正<Denoter did="d1" type="action">准备出门上班</Denoter></Event>，<Event eid="e2">突然<Location lid="l2">家中浴室</Location>飘出<Denoter did="d2" type="emergency">阵阵浓烟</Denoter></Event>，这可把她<Event eid="e3"><Denoter did="d3" type="perception">吓</Denoter>了一跳</Event>。</Sentence><Sentence><Event eid="e4"><Denoter did="d4" type="action">推</Denoter><Object oid="o4">门</Object></Event><Event eid="e5">一<Denoter did="d5" type="perception">瞧</Denoter></Event>，原来是<Event eid="e6"><Object sid="s6">浴霸</Object><Denoter did="d6" type="emergency">着火</Denoter></Event>了！</Sentence></Paragraph></Content>
+        
+        <eRelation relType="Accompany" accompanya_eid="e1" accompanyb_eid="e2"/>
+        <eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+        <eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>
+        <eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5"/>
+        <eRelation relType="Causal" cause_eid="e6" effect_eid="e2"/>
+        
+        
+        </Body>

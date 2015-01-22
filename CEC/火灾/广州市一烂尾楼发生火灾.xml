@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+<Title>广州市一烂尾楼发生火灾</Title>
+<ReportTime  type="absTime">2013-12-16</ReportTime>
+<Content><Paragraph>
+<Sentence>
+<Event  type="thoughtevent"  eid="e1">
+<Participant  sid="s1">本报</Participant>
+<Denoter  did="d1"  type="thoughtevent">讯</Denoter>
+</Event> （记者毕征 通讯员史伟宗、龚宣）
+
+<Event  eid="e2">
+<Time  tid="t2"  type="relTime">昨日18时50分</Time>许，
+<Location  lid="l2">越秀区起义路217号</Location>
+<Object  sid="s2">建业大厦</Object>（25层高，系烂尾楼，部分楼层存放货物）发生
+<Denoter  did="d2"  type="emergency">火灾</Denoter>。
+</Event>
+</Sentence>
+
+<Sentence>
+<Event  eid="e3">
+<Participant  sid="s3">省委书记胡春华</Participant>作出
+<Denoter  did="d3"  type="operation">指示</Denoter>，
+</Event>
+
+<Event  eid="e4">
+<Participant  sid="s4">广州市委书记万庆良，副省长、省公安厅长李春生，市长陈建华，市委常委、常务副市长陈如桂，副市长、市公安局长谢晓丹</Participant>
+等到<Location  type="destination"  lid="l4">现场</Location>
+<Denoter  type="operation"  did="d4">指挥</Denoter>
+</Event>
+
+<Event  eid="e5">
+<Denoter  did="d5"  type="operation">灭火</Denoter>
+</Event>
+
+<Event  eid="e6">
+<Denoter  did="d6"  type="operation">救援</Denoter>
+</Event>
+
+和
+<Event  eid="e7">
+<Participant  oid="o7,o8">群众</Participant>
+<Denoter  type="movement"  did="d7">疏散</Denoter>
+</Event>
+
+<Event  eid="e8">
+<Denoter  did="d8"  type="operation">安置</Denoter>工作。
+</Event>
+</Sentence>
+</Paragraph>
+
+<Paragraph>
+<Sentence>
+<Event  eid="e9">
+<Participant  sid="s9">市公安局组织消防支队、交警支队及越秀区公安分局</Participant>等单位到场
+<Denoter  type="operation"  did="d9">开展</Denoter>
+<Object  oid="o9">灭火救援工作</Object>。
+</Event>
+</Sentence>
+
+<Sentence>
+<Event  eid="e10">
+<Participant  sid="s10">消防部门</Participant>紧急
+<Denoter  type="operation"  did="d10">调集</Denoter>
+<Participant  oid="o10,s11">28个消防中队、58台消防车、380多名消防官兵</Participant>
+</Event>
+
+<Event  eid="e11">
+<Location  type="destination"  lid="l11">到场</Location>
+<Denoter  type="operation"  did="d11">扑救</Denoter>。
+</Event>
+</Sentence>
+<Sentence>
+
+<Event eid="e12">
+<Time  type="timeInterval"  tid="t12">期间</Time>，
+<Participant  sid="s12">越秀区</Participant>共
+<Denoter  type="operation"  did="d12">疏散</Denoter>
+<Participant  oid="o12,o13">1600多名群众</Participant>，
+</Event>
+
+<Event  eid="e13">分别
+<Denoter  did="d13"  type="operation">安置</Denoter>在周边5个
+<Location  type="destination"  lid="l3">临时安置点</Location>，
+</Event>
+
+<Event  eid="e14">并
+<Denoter  did="d14"  type="operation">提供</Denoter>
+<Object  oid="o14">食品和御寒物品</Object>等物资。
+</Event>
+</Sentence>
+<Sentence>经环保部门现场监测，目前火灾对周边环境影响轻微。</Sentence>
+</Paragraph></Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e14"/>
+<eRelation relType="Composite" fevent_eid="e4" sevent_eids="e5-e8"/>
+<eRelation relType="Accompany" accompanya_eid="e5" accompanyb_eid="e6"/>
+<eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>
+<eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>
+<eRelation relType="Follow" bevent_eid="e12" aevent_eid="e13"/>
+<eRelation relType="Accompany" accompanya_eid="e13" accompanyb_eid="e14"/>
+</Body>

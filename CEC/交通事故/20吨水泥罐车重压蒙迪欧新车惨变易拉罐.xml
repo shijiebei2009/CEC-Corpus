@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>20吨水泥罐车重压 蒙迪欧新车惨变易拉罐</Title>
+	<ReportTime type="absTime">2006-8-10 9:16:36</ReportTime>    作者：王菲菲    新闻来源：太平洋汽车网
+<Content>
+		<Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="relTime">8月5日中午2点10分</Time>，<Location lid="l1">重庆财富中心斜对面十字路口</Location>又发生一起重大<Denoter did="d1" type="emergency">交通事故</Denoter></Event>，<Event eid="e2"><Denoter did="d2" type="stateChange">死亡</Denoter><Participant sid="s2">一人</Participant></Event>。</Sentence><Sentence>在事发现场，<Event eid="e3">车牌号为渝A23225的<Object sid="s3,s4">水泥罐车</Object>，头东尾西<Denoter did="d3" type="action">翻</Denoter>在<Location lid="l3">路口中央</Location></Event>，<Event eid="e4">紧紧<Denoter did="d4" type="action">压住</Denoter><Object oid="o4">一辆白色蒙迪欧</Object></Event>，而蒙迪欧已成了挤瘪的"易拉罐"。</Sentence><Sentence><Event eid="e5" type="thoughtevent">据<Denoter did="d5" type="statement">了解</Denoter></Event>，轿车是一辆还未来得及上牌照的新车。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+	<eRelation relType="Accompany" accompanya_eid="e3" accompanyb_eid="e4"/>
+</Body>

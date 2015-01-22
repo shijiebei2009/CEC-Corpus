@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>  
+	<Title>两车追尾当场1死7伤</Title>
+        	<ReportTime type="absTime">2008-6-7</ReportTime>
+<Content>
+
+
+	<Paragraph>
+		<Sentence>
+			<Event eid="e1">
+				<Time type="relTime" tid="t1">昨日清晨７时许</Time>，
+				<Location lid="l1">新３１２国道锡沪路段</Location>发生一起
+				<Denoter type="emergency" did="d1">交通事故</Denoter>
+			</Event>，
+			<Event eid="e2">
+				<Object oid="o2">一辆卡车</Object>与
+				<Object oid="o2">一辆面包车</Object>发生
+				<Denoter type="emergency" did="d2">追尾</Denoter>
+			</Event>，
+			<Event eid="e3">事故共造成车内
+				<Participant oid="o3">１人</Participant>
+				<Denoter type="stateChange" did="d3">死亡</Denoter>，
+			</Event>
+			<Event eid="e4">其余
+				<Participant oid="o4">７人</Participant>不同程度
+				<Denoter type="stateChange" did="d4">受伤</Denoter>
+			</Event>。
+		</Sentence>
+		<Sentence>至
+			<Event eid="e5">
+				<Time type="relTime" tid="t5">下午５点</Time>
+				<Denoter type="action" did="d5">发稿</Denoter>
+			</Event>时，
+			<Event eid="e6">７名伤员中有
+				<Participant oid="o6">１人</Participant>仍在
+				<Denoter type="operation" did="d6">抢救</Denoter>中
+			</Event>。
+		</Sentence>
+	</Paragraph>
+	<Paragraph>
+		<Sentence>在事故现场，面包车被撞得面目全非，地上全是玻璃碎片。
+		</Sentence>
+		<Sentence>
+			<Event eid="e7">受轻伤的
+				<Participant sid="s7">卡车司机</Participant>慌张地
+				<Denoter type="statement" did="d7">说</Denoter>
+			</Event>，当时卡车内就其一人，车子下坡时前方车辆很多，
+			<Event eid="e8">不知怎么回事
+				<Object oid="o8">两车</Object>就
+				<Denoter type="action" did="d8">撞</Denoter>在一起了
+			</Event>。
+		</Sentence>
+		<Sentence>
+			<Event eid="e9">面包车里的
+				<Participant sid="s9">受伤乘客</Participant>
+				<Denoter type="statement" did="d9">说</Denoter>
+			</Event>，他们车内当时有７人，
+			<Event eid="e10">
+				<Time type="relTime" tid="t10">一早</Time>从
+				<Location lid="l10">张泾</Location>
+				<Denoter type="action" did="d10">出发</Denoter>的
+			</Event>，不料却遭此意外，面包车内的那名死者来自四川。
+		</Sentence>
+		<Sentence>
+			<Event eid="e11">
+				<Denoter type="emergency" did="d11">车祸</Denoter>发生
+			</Event>后，
+			<Event eid="e12">
+				<Participant oid="o12">伤员</Participant>被
+				<Time type="relTime" tid="t12">立即</Time>
+				<Denoter type="movement" did="d12">送往</Denoter>
+				<Location lid="l12">锡山人民医院</Location>
+			</Event>
+			<Event eid="e13">
+				<Denoter  type="operation" did="d13">抢救</Denoter>
+			</Event>。
+		</Sentence>
+	</Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>
+	<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e4"/>
+	<eRelation relType="Follow" bevent_eid="e12" aevent_eid="e11"/>
+	<eRelation relType="Follow" bevent_eid="e13" aevent_eid="e12"/>
+	
+	
+</Body>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>新疆伊犁5名儿童食用自制酸菜食物中毒</Title>
+	<ReportTime type="absTime">2009年2月11日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">亚心网</Participant><Denoter did="d1" type="statement">讯</Denoter></Event>：</Sentence><Sentence><Event eid="e2"><Time tid="t2" type="relTime">2月8日</Time>，<Location lid="l2">新疆伊犁霍城县清水河镇牧场村</Location>的<Participant sid="s2">8名女孩</Participant><Denoter did="d2" type="action">吃</Denoter>过<Object oid="o2">饭</Object>后</Event>，<Event eid="e3">其中<Participant sid="s3,s4,s5">5人</Participant><Denoter did="d3" type="stateChange">出现</Denoter><Object oid="o3">食物中毒症状</Object></Event>后<Event eid="e4"><Denoter did="d4" type="stateChange">昏迷</Denoter></Event>。</Sentence><Sentence><Event eid="e5">经过<Denoter did="d5" type="operation">救治</Denoter></Event>，<Event eid="e6"><Participant sid="s6">5人</Participant><Time tid="t6" type="relTime">目前</Time>已<Denoter did="d6" type="stateChange">脱离生命危险</Denoter></Event>。<Event type="thoughtevent" eid="e7">经<Participant sid="s7">伊犁州疾病预防控制中心</Participant>初步<Denoter did="d7" type="statement">鉴定</Denoter></Event>，<Event eid="e8"><Participant sid="s8">5名孩子</Participant>是<Denoter did="d8" type="action">食用</Denoter>了自家腌制的<Object oid="o8">酸菜</Object></Event>后<Event eid="e9">引起的<Denoter did="d9" type="emergency">中毒</Denoter>症状</Event>。</Sentence></Paragraph> 
+ 
+　　<Paragraph><Sentence><Event type="thoughtevent" eid="e10">伊犁州疾病预防控制中心副主任<Participant sid="s1">范德生</Participant>介绍<Denoter did="d1" type="statement">说</Denoter></Event>，<Event eid="e11"><Denoter did="d11" type="emergency">事</Denoter>发</Event>之后，<Event eid="e12"><Participant sid="s12">他们</Participant>联合相关卫生防疫部门在事发<Location lid="l12">孩子家</Location><Denoter did="d12" type="perception">发现</Denoter>自家腌制的<Object oid="o12">酸菜</Object></Event>。</Sentence><Sentence><Event eid="e13">经过<Denoter did="d13" type="operation">检测</Denoter></Event>，酸菜的主要原料为豇豆。</Sentence><Sentence>而豇豆放在热的房间内容易发酵变质，食用后会产生中毒现象。</Sentence><Sentence><Event eid="e14"><Time tid="t14" type="relTime">目前</Time>，<Participant sid="s14">他们</Participant>正在对<Object oid="o14">酸菜原材料的来源</Object>进行<Denoter did="d14" type="operation">调查</Denoter></Event>。</Sentence></Paragraph>
+	</Content>
+        	<eRelation thoughtcontent_eids="e2-e14" thoughtevent_eid="e1" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e11-e14" thoughtevent_eid="e10" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e8-e9" thoughtevent_eid="e7" relType="Thoughtcontent"/>
+		<eRelation relType="Follow" aevent_eid="e2" bevent_eid="e3"/>
+		<eRelation relType="Follow" aevent_eid="e3" bevent_eid="e4"/>
+		<eRelation relType="Follow" aevent_eid="e5" bevent_eid="e6"/>
+		<eRelation relType="Causal" cause_eid="e8" effect_eid="e9"/>
+		<eRelation relType="Follow" aevent_eid="e11" bevent_eid="e12"/>
+		<eRelation relType="Accompany" accompanyb_eid="e12" accompanya_eid="e13"/>
+		<eRelation relType="Causal" cause_eid="e13" effect_eid="e14"/>
+	
+</Body>

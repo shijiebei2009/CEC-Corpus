@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>四川广邻高速发生连环追尾交通事故 致1死6伤</Title>
+	<ReportTime type="absTime">2014年03月13日 19:21　</ReportTime>
+　　<Content><Paragraph><Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">中新网成都</Participant><Time type="relTime" tid="t1">3月13日</Time><Denoter type="statement" did="d1">电</Denoter></Event> (刘忠俊陈勇)
+<Event eid="e2"><Time type="relTime" tid="t2">13日</Time>，<Location lid="l2">四川广邻高速邻水至广安方向华蓥清溪口大桥路段</Location>发生<Object sid="s2">多车</Object>连环<Denoter type="action" did="d2">追尾</Denoter></Event>的
+<Event eid="e3"><Denoter type="emergency" did="d3">交通事故</Denoter></Event>，
+<Event eid="e4">致<Participant sid="s4">1人</Participant><Denoter type="stateChange" did="d4">死亡</Denoter></Event>，
+<Event eid="e5"><Participant sid="s5">6人</Participant><Denoter type="stateChange" did="d5">受伤</Denoter></Event>。</Sentence></Paragraph>
+　　<Paragraph><Sentence><Event type="thoughtevent" eid="e6"><Location lid="l6">现场</Location><Participant sid="s6">一位张姓目击者</Participant><Denoter type="statement" did="d6">称</Denoter></Event>，
+<Event eid="e7"><Location lid="l7">事发路段阴雨绵绵</Location>，公路上<Object sid="s7">车辆</Object>已<Denoter type="action" did="d7">堵</Denoter>成长龙</Event>，
+<Event eid="e8"><Denoter type="emergency" did="d8">车祸</Denoter><Location lid="l8">现场</Location></Event>
+				<Event eid="e9"><Participant sid="s9">围观者</Participant><Denoter type="action" did="d9">聚集</Denoter></Event>。</Sentence>
+			<Sentence><Event eid="e10"><Location lid="l10">一段事故现场地上</Location>横七竖八的<Denoter did="d10" type="stateChange">散落</Denoter>着<Object oid="o10">一些木板</Object></Event>，
+          <Event eid="e11"><Object oid="o11">一辆白色面包车</Object><Denoter type="stateChange" did="d11">受伤</Denoter>严重</Event>，
+          <Event eid="e12"><Location lid="l12">车上</Location>还有<Participant oid="o12">人员</Participant>被<Denoter type="action" did="d12">困</Denoter></Event>。</Sentence>
+		</Paragraph>
+　　<Paragraph><Sentence>
+				<Event eid="e13"><Denoter type="emergency" did="d13">事故</Denoter>发生后</Event>，
+<Event eid="e14"><Participant sid="s14">高速交警、路政、高速公路管理方</Participant>迅速<Denoter type="movement" did="d14">赶到</Denoter><Location type="thoughtevent" lid="l14">现场</Location></Event>
+				<Event eid="e15"><Denoter type="operation" did="d15">处置</Denoter></Event>，并
+<Event eid="e16"><Denoter type="operation" did="d16">关闭</Denoter><Location lid="l16">该段道路</Location></Event>。</Sentence><Sentence><Event eid="e17"><Denoter type="action" did="d17">接到</Denoter></Event>
+				<Event eid="e18"><Denoter type="action" did="d18">报警</Denoter></Event>
+				<Event eid="e19"><Denoter type="action" did="d19">求助</Denoter></Event>的
+<Event eid="e20"><Participant sid="s20">当地消防部门</Participant>也迅速<Denoter type="operation" did="d20">调集</Denoter><Object oid="o20,s21">2辆消防车</Object></Event>
+				<Event eid="e21"><Denoter type="movement" did="d21">赶赴</Denoter><Location type="destination" lid="l21">现场</Location></Event><Event eid="e22"><Denoter type="operation" did="d22">营救</Denoter><Participant oid="o22">受伤被困者</Participant></Event>。</Sentence>
+			<Sentence><Event eid="e23"><Location lid="l23">事故现场</Location>，先前<Denoter type="action" did="d23">抵达</Denoter>的<Participant sid="s23">救援人员</Participant></Event>已
+<Event eid="e24"><Denoter type="operation" did="d24">营救</Denoter>出<Participant oid="o24,o25">部分被困者</Participant></Event>，并<Event eid="e25">被<Participant sid="s25">120急救人员</Participant><Denoter type="movement" did="d25">送往</Denoter><Location type="destination" lid="l25">当地医院</Location></Event>
+				<Event eid="e26"><Denoter type="operation" did="d26">救治</Denoter></Event>。</Sentence>
+			<Sentence><Event eid="e27"><Object sid="s27">一辆长安面包车</Object>出现<Denoter type="stateChange" did="d27">漏油</Denoter></Event>，<Event eid="e28"><Location lid="l28">车内</Location><Participant oid="o28">一受伤的被困者</Participant>因<Object sid="s28">车辆</Object><Denoter type="stateChange" did="d28">变形</Denoter></Event>
+				<Event polarity="negative" eid="e29">无法<Denoter type="operation" did="d29">救出</Denoter></Event>，情况十分危急。</Sentence></Paragraph>
+　　<Paragraph><Sentence><Event eid="e30"><Participant sid="s30">救援官兵</Participant>一边<Denoter type="action" did="d30">疏散</Denoter><Participant oid="o30">围观民众</Participant></Event>
+				<Event eid="e31">一边用<Means mid="m31" type="tool">水</Means>对<Object oid="o31">车辆漏油</Object>进行<Denoter type="operation" did="d31">稀释</Denoter></Event>。</Sentence>
+			<Sentence><Event eid="e32"><Participant sid="s32">救援组官兵</Participant>使用<Means mid="m32" type="tool">破拆工具</Means>对<Object oid="o32">长安车</Object>进行<Denoter type="action" did="d32">破拆</Denoter></Event>，并
+<Event eid="e33">将<Object sid="s33">面包车</Object>与<Object sid="s33">槽车</Object>进行<Denoter type="stateChange" did="d33">分离</Denoter></Event>，
+<Event eid="e34"><Denoter type="stateChange" did="d34">增大</Denoter><Object oid="o34">救援空间</Object></Event>，通过
+<Event eid="e35"><Denoter type="stateChange" did="d35">扩大</Denoter><Object oid="o35">车内空间</Object></Event>成功
+<Event eid="e36">将<Participant oid="o36">被困的伤者</Participant><Denoter type="operation" did="d36">救出</Denoter></Event>。</Sentence><Sentence><Event eid="e37">经<Participant sid="s37">120急救医护人员</Participant><Location lid="l37">现场</Location><Denoter type="operation" did="d37">查验</Denoter></Event>，伤者已无生命迹象。</Sentence>　　　</Paragraph>
+　　<Paragraph><Sentence><Event eid="e38"><Time tid="t38" type="relTime">目前</Time>，<Location lid="l38">事故现场</Location>交通已恢复<Denoter type="stateChange" did="d38">通行</Denoter></Event>，<Event eid="e39"><Object oid="o39">事故具体原因</Object><Participant sid="s39">高速交警</Participant>正在<Denoter type="operation" did="d39">调查</Denoter>中</Event>。</Sentence></Paragraph>
+	</Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e39"/>
+<eRelation relType="Accompany" accompanya_eid="e2" accompanyb_eid="e3"/>  
+<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>  
+<eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7-e12"/>
+<eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e9"/>
+<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10"/>
+<eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eid="e12"/>
+<eRelation relType="Follow" bevent_eid="e13" aevent_eid="e14"/>
+<eRelation relType="Accompany" accompanya_eid="e14" accompanyb_eid="e15"/>
+<eRelation relType="Accompany" accompanya_eid="e15" accompanyb_eid="e16"/>
+<eRelation relType="Accompany" accompanya_eid="e17" accompanyb_eid="e18"/>
+<eRelation relType="Accompany" accompanya_eid="e18" accompanyb_eid="e19"/>
+<eRelation relType="Follow" bevent_eid="e20" aevent_eid="e21"/>
+<eRelation relType="Follow" bevent_eid="e21" aevent_eid="e22"/>
+<eRelation relType="Follow" bevent_eid="e23" aevent_eid="e24"/>
+<eRelation relType="Follow" bevent_eid="e24" aevent_eid="e25"/>
+<eRelation relType="Accompany" accompanya_eid="e25" accompanyb_eid="e26"/>
+<eRelation relType="Accompany" accompanya_eid="e27" accompanyb_eid="e28"/>
+<eRelation relType="Causal" cause_eid="e28" effect_eid="e29"/>
+<eRelation relType="Accompany" accompanya_eid="e31" accompanyb_eid="e32"/>
+<eRelation relType="Accompany" accompanya_eid="e32" accompanyb_eid="e33"/>
+<eRelation relType="Accompany" accompanya_eid="e34" accompanyb_eid="e35"/>
+<eRelation relType="Follow" bevent_eid="e36" aevent_eid="e37"/>
+<eRelation relType="Accompany" accompanya_eid="e38" accompanyb_eid="e39"/>               
+</Body>

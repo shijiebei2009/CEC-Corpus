@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>                                                      
+<Title>山西女篮赛前食物中毒</Title>
+
+   <ReportTime type="absTime"> 2014年01月03日05:12</ReportTime> 
+   来源：沈阳晚报  作者：李庆实
+
+<Content>　　
+<Paragraph><Sentence><Event eid="e1" type="thoughtevent"><Participant sid="s1">沈阳晚报</Participant>、<Participant sid="s1">沈阳网</Participant><Denoter did="d1" type="statement">讯</Denoter></Event>（记者 李庆实）
+<Event eid="e2"><Time tid="t2" type="relTime">2014年的第一天</Time>，<Participant sid="s2,s3">辽宁女篮</Participant>在联赛中不仅<Denoter did="d2" type="action">终结</Denoter>了<Participant oid="o2">山西女篮</Participant>的<Object oid="o2">12连胜</Object></Event>，同时也<Event eid="e3"><Denoter did="d3" type="action">送</Denoter>给了<Participant oid="o3">对手</Participant><Object oid="o3">赛季首败</Object></Event>。</Sentence><Sentence>不过，<Event eid="e4"><Participant sid="s4">山西女篮大部分球员</Participant>在<Time tid="t4" type="relTime">赛前</Time>出现了<Denoter did="d4" type="emergency">食物中毒</Denoter>的症状</Event>，<Event eid="e5">这也<Denoter did="d5" type="action">影响</Denoter>了<Participant oid="o5">她们</Participant>的整体状态</Event>。</Sentence></Paragraph>
+
+<Paragraph><Sentence><Event eid="e6"><Object oid="o6">辽宁与山西的比赛</Object>原<Denoter did="d6" type="action">计划</Denoter>在<Time tid="t6" type="relTime">本周二</Time>进行</Event>，但是在
+<Event eid="e7"><Time tid="t7" type="relTime">赛前</Time><Denoter did="d7" type="stateChange">出现</Denoter>了<Object oid="o7">突发状况</Object></Event>—
+<Event eid="e8"><Participant sid="s8">山西女篮大部分成员</Participant>出现了集体<Denoter did="d8" type="emergency">食物中毒</Denoter>的症状</Event>，除了外援摩尔，以及马良、周君珊、吴迪之外，
+<Event eid="e9"><Participant sid="s9">其他队员</Participant>均<Denoter did="d9" type="stateChange">出现</Denoter>不同程度的呕吐以及腹泻等<Object oid="o9">症状</Object></Event>，
+并<Event eid="e10">前往<Location lid="l10" type="destination">医院</Location>进行<Denoter did="d10" type="operation">治疗</Denoter></Event>。</Sentence></Paragraph>
+
+<Paragraph><Sentence>
+<Event eid="e11"><Time tid="t10" type="relTime">昨天</Time>，<Participant sid="s11">沈阳晚报、沈阳网记者</Participant>从<Participant oid="o11">辽宁省篮协一位官员</Participant>那里<Denoter did="d11" type="action">了解</Denoter>到</Event>，这次出现食物中毒症状的源头并不是在辽宁这边，而是她们之前在宁波时下榻的酒店。</Sentence></Paragraph>
+</Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e10"/>
+<eRelation relType="Accompany" accompanya_eid="e2" accompanyb_eid="e3"/>
+<eRelation relType="Causal" cause_eid="e4" effect_eid="e5"/>
+<eRelation relType="Causal" cause_eid="e9" effect_eid="e10"/>
+</Body>

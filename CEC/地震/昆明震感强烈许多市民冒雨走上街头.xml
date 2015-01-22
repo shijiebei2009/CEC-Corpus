@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>昆明震感强烈 许多市民冒雨走上街头</Title>
+	<ReportTime type="absTime">2008年08月30日18:00</ReportTime>
+	<Content>
+		<Paragraph>
+			<Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">中新社昆明</Participant><Time tid="t1" type="relTime">八月三十日</Time><Denoter did="d1" type="statement">电</Denoter></Event></Sentence>(记者 甘娜 刘子倩)
+			<Sentence>
+				<Event eid="e2"><Time type="relTime" tid="t2">八月三十日十六时三十分许</Time>，<Location lid="l2">四川省攀枝花市仁和区、四川省凉山彝族自治州会理县交界处</Location>发生六点一级<Denoter type="emergency" did="d2">地震</Denoter></Event>，
+				<Event eid="e3"><Location lid="l3">昆明</Location>有强烈<Denoter type="emergency" did="d3">震感</Denoter></Event>。
+			</Sentence>
+		</Paragraph>
+		<Paragraph>
+			<Sentence>
+				<Event eid="e4"><Participant sid="s4">记者</Participant><Denoter type="action" did="d4">致电</Denoter><Participant oid="o3">云南省地震局相关负责人</Participant></Event>，
+				<Event eid="e5" type="thoughtevent"><Participant sid="s5">该负责人</Participant><Denoter  type="statement" did="d5">表示</Denoter></Event>，
+				<Event eid="e6">关于地震的<Object oid="o6">相关情况</Object>及<Object oid="o6">数据</Object>收集正在<Denoter type="operation" did="d6">统计</Denoter>中</Event>。
+			</Sentence>
+			<Sentence>
+				<Event eid="e7">此次<Denoter type="emergency" did="d7">地震</Denoter></Event>，
+				<Event eid="e8"><Location lid="l8">昆明</Location><Denoter type="emergency" did="d8">震感</Denoter>强烈</Event>，
+				<Event eid="e9"><Participant sid="s9">许多市民</Participant>冒雨<Denoter type="movement" did="d9">走</Denoter>上<Location type="destination" lid="l9">街头</Location></Event>，
+				<Event eid="e10"><Object oid="o10">通讯</Object>短暂<Denoter type="stateChange" did="d10">中断</Denoter>，</Event>
+				<Event eid="e11"><Time type="relTime" tid="t11">现</Time>已<Denoter type="stateChange" did="d11">恢复</Denoter>正常。</Event>
+			</Sentence>(完)
+		</Paragraph>
+	</Content>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e11"/>
+         <eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eids="e6"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e7" effect_eid="e8"/>
+	<eRelation relType="Causal" cause_eid="e7" effect_eid="e9"/>
+	<eRelation relType="Causal" cause_eid="e7" effect_eid="e10"/>
+</Body>

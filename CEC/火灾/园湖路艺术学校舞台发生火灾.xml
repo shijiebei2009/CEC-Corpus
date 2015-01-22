@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+<Title>园湖路艺术学校舞台发生火灾</Title>
+<ReportTime  type="absTime">2013-12-29 14:08</ReportTime>
+<Content>
+<Paragraph>
+<Sentence>
+<Event  eid="e1">
+<Time  tid="t1"  type="absTime">2013年12月29日早上8点41分</Time>，
+<Participant  sid="s1">南宁消防</Participant>接到
+<Denoter  type="action"  did="d1">报警</Denoter>
+</Event>
+
+<Event  eid="e2"  type="thoughtevent">
+<Denoter  did="d2" type="statement">称</Denoter>，
+</Event>
+
+<Event  eid="e3">
+<Location  lid="l3">圆湖路艺术学校</Location>
+舞台发生
+<Denoter  type="emergency"  did="d3">火灾</Denoter>，
+</Event>
+
+<Event  eid="e4">
+<Participant  sid="s4">指挥中心</Participant>
+一次性
+<Denoter  did="d4"  type="operation">调派</Denoter>了
+<Participant  oid="o4,s5">特勤、朝阳两个中队9辆消防车50名官兵</Participant>
+</Event>
+<Event  eid="e5">
+<Denoter  did="d5"  type="movement">赶赴</Denoter>
+<Location  lid="l5"  type="destination">现场</Location>处置。
+</Event>
+</Sentence>
+<Sentence>
+<Event  eid="e6"  type="thoughtevent">
+<Participant  sid="s6">校园君</Participant>温馨
+<Denoter  type="statement"  did="d6">提醒</Denoter>，
+</Event>
+<Event  eid="e7">临近期末年底，各大院校节庆活动较多，在节目排练和道具选择上一定要
+<Denoter  did="d7"  type="action">注意</Denoter>
+<Object  oid="o7">防火安全</Object>！
+</Event>
+</Sentence>
+</Paragraph>
+</Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e5"/>
+<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7"/>
+</Body>

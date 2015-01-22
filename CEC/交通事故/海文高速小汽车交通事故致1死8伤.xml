@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body> <Title>海文高速小汽车交通事故致1死8伤</Title>
+<ReportTime type="absTime">2007年12月10日08:15</ReportTime> 
+<Content> 
+
+<Paragraph>
+	<Sentence>
+		<Event type="thoughtevent" eid="e1">
+				<Participant sid="s1">南海网</Participant> 
+				<Time type="relTime" tid="t1">12月9日</Time> 
+				<Denoter type="statement" did="d1">消息</Denoter>：
+		</Event>
+		<Event eid="e2">
+			<Time type="relTime" tid="t2">12月9日下午3时左右</Time>，
+			<Location lid="l2">海文高速公路文昌至海口方向37公里处</Location>发生一起重大
+			<Denoter type="emergency" did="d2">交通事故</Denoter>
+		</Event>，
+		<Event eid="e3">酿成1
+			<Denoter type="stateChange" did="d3">死</Denoter>
+		</Event>
+		<Event eid="e4">8
+			<Denoter type="stateChange" did="d4">伤</Denoter>
+			的惨剧
+		</Event>。
+	</Sentence>
+</Paragraph>
+<Paragraph>
+	<Sentence>
+		<Event eid="e5">
+			<Time type="relTime" tid="t5">9日下午2时55分</Time>，
+			<Participant oid="o5">文昌市公安消防支队</Participant>
+			<Denoter type="action" did="d5">接到</Denoter>增援海口支队的
+			<Object oid="o5">命令</Object>
+		</Event>：
+		<Event eid="e6">在
+			<Location lid="l6">>海文高速文昌至海口方向37公里处</Location>，一辆车牌号为琼A19097的
+			<Object oid="o6">小汽车</Object>发生
+			<Denoter type="emergency" did="d6">交通事故</Denoter>
+		</Event>，
+		<Event eid="e7">
+                        <Location lid="l7">车上</Location>
+			<Participant oid="o7">8名乘客</Participant>被
+			<Denoter type="stateChange" did="d7">困</Denoter>，情况紧急。
+		</Event>
+	</Sentence>
+</Paragraph>
+<Paragraph>
+	<Sentence>
+		<Event eid="e8">
+			<Time type="relTime"  tid="t8">下午3时42分</Time>，
+			<Participant sid="s8,s9">文昌消防支队官兵</Participant>
+			<Denoter type="movement" did="d8">到达</Denoter>
+			<Location type="destination" lid="l8">现场</Location>
+		</Event>。
+		<Event eid="e9">经过现场
+			<Denoter type="perception" did="d9">观察了解</Denoter>
+		</Event>，车上包括司机在内共有9人，
+		<Event eid="e10">
+			<Participant oid="o10">司机</Participant>已当场
+			<Denoter type="stateChange" did="d10">死亡</Denoter>
+		</Event>，另有
+		<Event eid="e11">
+			<Participant oid="o11,o12">2名儿童</Participant>、
+			<Participant oid="o11,o12">6名成人</Participant>
+			<Denoter type="stateChange" did="d11">受伤</Denoter>
+		</Event>
+		<Event eid="e12">被
+			<Denoter type="stateChange" did="d12">困</Denoter>
+			<Location lid="l12">车中</Location>
+		</Event>。
+	</Sentence>
+	<Sentence>在海口消防支队与文昌消防支队官兵的共同努力下，
+		<Event eid="e13">
+			<Participant oid="o13,o14,o15">所有受困人员</Participant>最终被全部
+			<Denoter type="operation" did="d13">解救</Denoter>出来
+		</Event>，
+		<Event eid="e14">并
+			<Denoter type="movement" did="d14">送往</Denoter>
+			<Location type="destination" lid="l14">医院</Location>
+			</Event>
+		<Event eid="e15">进行
+			<Denoter type="operation" did="d15">治疗</Denoter>
+		</Event>。
+	</Sentence>
+</Paragraph>
+<Paragraph>
+	<Sentence>
+		<Event eid="e16">
+			<Time type="relTime" tid="t16">目前</Time>，
+			<Object oid="o16">事故发生的具体原因</Object>，
+			<Participant sid="s16">交警部门</Participant>仍在进一步
+			<Denoter type="operation" did="d16">调查</Denoter>中
+		</Event>。
+	</Sentence>
+</Paragraph>
+</Content>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>
+	<eRelation relType="Causal" cause_eid="e6" effect_eid="e7"/>
+	<eRelation relType="Causal" cause_eid="e6" effect_eid="e10"/>
+	<eRelation relType="Causal" cause_eid="e6" effect_eid="e11"/>
+	<eRelation relType="Causal" cause_eid="e6" effect_eid="e12"/>
+	<eRelation relType="Follow" aevent_eid="e9" bevent_eid="e8"/>
+	<eRelation relType="Follow" aevent_eid="e14" bevent_eid="e13"/>
+	<eRelation relType="Follow" aevent_eid="e15" bevent_eid="e14"/>
+</Body>

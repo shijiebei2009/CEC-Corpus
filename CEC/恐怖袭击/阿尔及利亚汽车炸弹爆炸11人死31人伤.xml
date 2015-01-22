@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>  
+ <Title>阿尔及利亚汽车炸弹爆炸　11人死31人伤</Title>
+<ReportTime type="absTime">2008年08月20日 20:21:20</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1" type="thoughtevent"><Participant sid="s1">新快报</Participant><Denoter did="d1"  type="statement">讯</Denoter></Event>　<Event eid="e2"><Time tid="t2" type="absTime">8月20日</Time>，<Location lid="l2">阿尔及利亚</Location>发生两起汽车炸弹<Denoter did="d2" type="emergency">爆炸</Denoter>事件，</Event><Event eid="e3">造成<Participant oid="o3">11人</Participant><Denoter did="d3" type="statement">死亡</Denoter>。</Event></Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e4">据<Participant sid="s4">阿尔及利亚内政部长</Participant><Denoter did="d4" type="statement">称</Denoter>，</Event>这是近一年来该国最为血腥的一个星期。</Sentence><Sentence><Event eid="e5"><Denoter did="d5" type="emergency">爆炸</Denoter>发生在<Location lid="l5">首都阿尔及尔以东150公里的卜伊拉。</Location></Event></Sentence>
+                <Sentence><Event eid="e6"  type="thoughtevent" polarity="negative"><Time tid="t6" type="relTime">目前</Time>尚无<Participant sid="s6">人</Participant><Denoter did="d6" type="statement">声称</Denoter></Event>对<Event eid="e7">这两次<Denoter did="d7" type="emergency">爆炸</Denoter>事件</Event><Event eid="e8"><Denoter did="d8" type="operation">负责</Denoter></Event>。</Sentence>
+                <Sentence><Event eid="e9" type="thoughtevent"><Location lid="l9">当地</Location><Participant sid="s9">媒体</Participant><Denoter did="d9" type="statement">报道称</Denoter>,</Event>
+                <Event eid="e10">包括<Participant oid="o10">4名军事人员在内的31人</Participant><Denoter did="d10" type="stateChange">受伤</Denoter>。</Event>
+                <Event eid="e11">11名<Denoter did="d11" type="stateChange">死</Denoter>者都是<Participant oid="o11">平民</Participant>。</Event></Sentence>
+                </Paragraph>
+		<Paragraph><Sentence><Event eid="e12"><Time  tid="t12" type="relTime">当天上午6点，</Time>第一次<Denoter did="d12" type="emergency">爆炸</Denoter>在<Location lid="l12">一个军事区域</Location>发生。</Event><Event eid="e13">第二次<Denoter did="d13" type="emergency">爆炸</Denoter><Time tid="t13" type="relTime">15分钟后</Time>发生<Location lid="l13">在一家旅馆附近</Location></Event>，<Event eid="e14"><Time tid="t14" type="relTime">当时</Time><Object sid="s14">一辆公共汽车</Object>正<Denoter did="d14" type="movement">载着</Denoter>上班的<Participant oid="o114">工人</Participant>经过。</Event></Sentence><Sentence>伤者多是公共汽车上的乘客
+	<Event eid="e15">两次<Denoter did="d15" type="emergency">爆炸</Denoter></Event>似乎标志着<Event eid="e16"><Participant sid="s16">武装分子</Participant>开始<Denoter did="d16" type="stateChange">转变攻击策略</Denoter>。</Event></Sentence><Sentence><Event eid="e17"><Time tid="t17" type="relTime">此前</Time><Participant sid="s17">武装分子</Participant>一直致力于<Denoter did="d17" type="action">打击</Denoter><Participant oid="o17">边远地区的军事单位。</Participant></Event></Sentence><Sentence><Event eid="e18">实施这些<Object sid="s18">炸弹</Object><Denoter did="d18" type="action">攻击</Denoter>的<Participant sid="s18">武装分子</Participant></Event><Event eid="e19"><Denoter did="d19" type="operation">接受</Denoter></Event>了来自<Event eid="e20"><Participant sid="s20">伊拉克的恐怖分子</Participant>的<Denoter did="d20" type="operation">训练</Denoter></Event>。</Sentence></Paragraph>
+        
+      
+        
+        
+        
+        </Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2,e3"/>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5-e8"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e9" thoughtcontent_eids="e10-e11"/>
+<eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11"/>
+<eRelation relType="Follow" bevent_eid="e12" aevent_eid="e13"/>
+<eRelation relType="Accompany" accompanya_eid="e13" accompanyb_eid="e14"/>
+
+<eRelation relType="Causal" cause_eid="e15" effect_eid="e16"/>	
+	
+	
+	
+</Body>

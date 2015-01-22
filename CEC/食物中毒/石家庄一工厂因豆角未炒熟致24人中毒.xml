@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>石家庄一工厂因豆角未炒熟致24人中毒</Title>
+	<ReportTime type="absTime">2009年3月19日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">本网</Participant><Denoter did="d1" type="statement">讯</Denoter></Event>（记者孟祥超）</Sentence><Sentence><Event eid="e2"><Time tid="t2" type="relTime">17日下午</Time>，<Location lid="l2">石家庄市卓达服装城一工厂</Location><Participant sid="s2,s3,s4">20余名工人</Participant>陆续<Denoter did="d2" type="stateChange">出现</Denoter>四肢无力、恶心、呕吐等<Object oid="o2">食物中毒症状</Object></Event>，<Event eid="e3"><Time tid="t3" type="relTime">当晚</Time>被<Denoter did="d3" type="movement">送</Denoter><Location lid="l3">医院</Location></Event><Event eid="e4"><Denoter did="d4" type="operation">救治</Denoter></Event>。</Sentence><Sentence><Event type="thoughtevent" eid="e5"><Participant sid="s5">多名患者</Participant><Denoter did="d5" type="statement">称</Denoter></Event>，<Event eid="e6"><Participant sid="s6">他们</Participant>午餐<Denoter did="d6" type="action">进食</Denoter>了<Object oid="o6">半熟的炒豆角</Object></Event><Event eid="e7">导致“<Denoter did="d7" type="emergency">食物中毒</Denoter>”</Event>。</Sentence><Sentence><Event eid="e8"><Participant sid="s8">卫生部门</Participant>事发当晚<Denoter did="d8" type="operation">介入调查</Denoter></Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event eid="e9"><Time tid="t9" type="relTime">17日21时许</Time>，<Location lid="l9">河北朝仁医院急诊科</Location>内，<Participant oid="o9" type="recipient">十几名年青男女</Participant>面色凝重，依次坐在椅子上<Denoter did="d9" type="action">打吊瓶</Denoter></Event>。</Sentence><Sentence><Event eid="e10">另两间<Location lid="l10">治疗室内</Location>的床位上也<Denoter did="d10" type="statement">有</Denoter>几名同样症状的<Participant oid="o10">患者</Participant></Event>，<Event eid="e11"><Participant sid="s11">一男子</Participant><Location lid="l11">床位旁</Location><Denoter did="d11" type="statement">安放</Denoter>了<Object oid="o11">重症监护仪</Object></Event>。</Sentence></Paragraph>
+	</Content>
+        	<eRelation thoughtcontent_eids="e2-e11" thoughtevent_eid="e1" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e6-e8" thoughtevent_eid="e5" relType="Thoughtcontent"/>
+		<eRelation relType="Causal" cause_eid="e6" effect_eid="e7"/>
+		<eRelation relType="Accompany" accompanyb_eid="e9" accompanya_eid="e10"/>
+		<eRelation relType="Accompany" accompanyb_eid="e10" accompanya_eid="e11"/>
+	
+</Body>

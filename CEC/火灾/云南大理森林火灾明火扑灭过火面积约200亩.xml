@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>云南大理森林火灾明火扑灭 过火面积约200亩</Title>
+	<ReportTime type="absTime">2014-04-30</ReportTime>
+	<Content>　　 <Paragraph><Sentence><Event eid="e1" type="movement"><Participant sid="s1">新华网</Participant><Location lid="l1">昆明</Location><Time tid="t1" type="relTime">4月30日</Time><Denoter did="d1" type="statement">电</Denoter></Event>（记者　吉哲鹏）<Event eid="e2" type="thoughtevent"><Participant sid="s2">记者</Participant>从云南省大理市委宣传部<Denoter did="d2" type="perception">获悉</Denoter></Event>，经过<Event eid="e3"><Participant sid="s3,s5-s6">1120名专业扑火队员</Participant><Time tid="t3" type="timeInterval">16个小时</Time>的奋力<Denoter did="d3" type="operation">扑救</Denoter></Event>，<Event eid="e4">发生在<Location lid="l4">大理市下关镇温泉村委会南面山坡</Location>的<Denoter did="d4" type="emergency">森林火灾</Denoter></Event><Event eid="e5"><Object sid="s5">明火</Object>已于<Time tid="t5" type="relTime">30日8时10分</Time>全部<Denoter did="d5" type="operation">扑灭</Denoter></Event>，现已转入<Event eid="e6"><Object oid="o6">余火</Object><Denoter did="d6" type="operation">清理</Denoter>阶段</Event>，<Event eid="e7"><Participant sid="s7">森防部门</Participant>也<Denoter did="d7" type="operation">调派</Denoter><Object oid="o7" sid="s8">直升机</Object></Event><Event eid="e8">参加<Object oid="o8">余火</Object><Denoter did="d8" type="operation">清理</Denoter></Event>。</Sentence></Paragraph>
+　　 <Paragraph><Sentence><Event eid="e9"><Time tid="t9" type="relTime">29日15时50分</Time>，<Location lid="l9">大理市下关镇温泉村委会南面山坡</Location>发生<Denoter did="d9" type="emergency">森林火灾</Denoter></Event>。经<Event eid="e10" type="thoughtevent"><Participant sid="s10">大理市森林公安局</Participant>初步<Denoter did="d10" type="perception">调查</Denoter></Event>，<Event eid="e11"><Denoter did="d11" type="emergency">起火</Denoter></Event>原因为<Event eid="e12"><Participant sid="s12">村民</Participant><Denoter did="d12" type="action">烧</Denoter><Object oid="o12">杂草</Object></Event>引发。初步统计过火面积约200亩，<Event eid="e13"><Object oid="o13">案件</Object>正进一步<Denoter did="d13" type="operation">调查</Denoter>中</Event>。</Sentence></Paragraph></Content>
+
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e13"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e13"/>
+<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+<eRelation relType="Accompany" accompanya_eid="e6" accompanyb_eid="e7"/>
+<eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eids="e11-e12"/>
+<eRelation relType="Causal" cause_eid="e12" effect_eid="e11"/>
+
+
+</Body>

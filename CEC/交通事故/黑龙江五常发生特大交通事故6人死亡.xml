@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>    	<Title>黑龙江五常发生特大交通事故6人死亡</Title>
+	<ReportTime type="absTime">2008-05-28 14:04:55</ReportTime>
+	<Content>
+
+	<Paragraph>
+		<Sentence>
+			<Event eid="e1">
+				<Time type="relTime" tid="t1">26日16时许</Time>，<Location lid="l1">五常市沙河镇北沙河村</Location>的
+				<Participant sid="s1">18名农民</Participant>上山
+				<Denoter type="action" did="d1">采</Denoter>完
+				<Object oid="o1">山野菜</Object>
+			</Event>后，
+			<Event eid="e2">
+				<Denoter type="action" did="d2">搭载</Denoter>
+				<Object oid="o2">一辆农用时锋三轮车</Object>回家途中
+			</Event>，在
+			<Event eid="e3">
+				<Location lid="l3">雪乡公路78公里处</Location>与对向来
+				<Object oid="o3">车</Object>
+				<Denoter type="action" did="d3">会车</Denoter>
+			</Event>时
+			<Event eid="e4">发生
+				<Denoter type="action" did="d4">侧翻</Denoter>
+			</Event>，致使
+			<Event eid="e5">
+				<participant oid="o5">6人</participant>当场
+				<Denoter type="stateChange" did="d5">死亡</Denoter>
+			</Event>，
+			<Event eid="e6">
+				<participant oid="o6">11人</participant>不同程度
+				<Denoter type="stateChange" did="d6">受伤</Denoter>
+			</Event>。
+		</Sentence>
+	</Paragraph>
+	<Paragraph>
+		<Sentence>
+			<Event eid="e7">
+				<Time type="relTime" tid="t7">目前</Time>，
+				<Participant oid="o7">伤者</Participant>已被
+				<Denoter type="movement" did="d7">送至</Denoter>
+				<Location type="destination" lid="l7">五常市人民医院</Location>
+			</Event>，
+			<Event eid="e8">其中2名伤势较轻的
+				<Participant oid="o8">伤者</Participant>经
+				<Denoter type="operation" did="d8">处置</Denoter>
+			</Event>，
+			<Event eid="e9">已自行
+				<Denoter type="movement" did="d9">返回</Denoter>
+				<Location type="destination" lid="l9">家中</Location>。
+			</Event>
+		</Sentence>
+		<Sentence>
+			<Event eid="e10">还有<Participant oid="o10">一人</Participant>伤势严重，肩胛骨、锁骨、颈椎等多处
+				<Denoter type="stateChange" did="d10">骨折</Denoter>
+			</Event>，
+			<Event eid="e11">于
+				<Time type="relTime" tid="t11">昨天凌晨1时许</Time>，被
+				<Denoter type="movement" did="d11">送到</Denoter>
+				<Location type="destination" lid="l11">哈尔滨市第五医院</Location>
+			</Event>
+			<Event eid="e12">
+				<Denoter type="operation" did="d12">治疗</Denoter>
+			</Event>。
+		</Sentence>
+	</Paragraph>
+	</Content>
+<eRelation relType="Causal" cause_eid="e4" effect_eid="e5"/>	
+<eRelation relType="Causal" cause_eid="e4" effect_eid="e6"/>
+<eRelation relType="Follow" bevent_eid="e8" aevent_eid="e7"/>
+<eRelation relType="Follow" bevent_eid="e9" aevent_eid="e8"/>
+<eRelation relType="Causal" cause_eid="e10" effect_eid="e11"/>
+<eRelation relType="Follow" bevent_eid="e12" aevent_eid="e11"/>
+</Body>

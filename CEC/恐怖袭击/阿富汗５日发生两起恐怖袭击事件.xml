@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="GB2312" ?>
+
+<Body>	
+    <Title>阿富汗５日发生两起恐怖袭击事件</Title>
+<ReportTime type="absTime">2002-09-06 14:33:03</ReportTime>
+<Content>
+
+
+		<Paragraph><Sentence><Event eid="e1"><Time  type="relTime" tid="t1">在“９·１１”事件周年即将来临之际，</Time><Location lid="l1">阿富汗</Location><Time  tid="t1" type="absTime">５日</Time>发生了两起令人震惊的<Denoter did="d1" type="emergency">恐怖袭击</Denoter>事件。</Event></Sentence><Sentence><Event eid="e2"><Object sid="s2">一枚汽车炸弹</Object>在<Location lid="l2">阿富汗首都喀布尔</Location>发生<Denoter did="d2" type="emergency">爆炸</Denoter></Event>，造成至少<Event eid="e3"><Participant oid="o3">３０人</Participant><Denoter did="d3" type="stateChange">死亡</Denoter></Event>，<Event eid="e4"><Participant oid="o4">１５０人</Participant><Denoter did="d4" type="stateChange">受伤</Denoter>。</Event></Sentence><Sentence><Event eid="e5"><Time  tid="t5" type="relTime">与此同时</Time>，正在<Location lid="l5">阿富汗南方坎大哈</Location><Denoter did="d5" type="stateChange">参加</Denoter>弟弟婚礼的<Participant sid="s5" oid="o6">阿富汗过渡政府总统卡尔扎伊</Participant></Event>遭到<Event eid="e6"><Denoter did="d6" type="operation">暗杀袭击</Denoter></Event>，但<Event eid="e7"><Participant sid="s7">卡尔扎伊</Participant><Denoter did="d7" type="stateChange">逃过</Denoter>一劫。</Event></Sentence></Paragraph>
+ 
+
+              
+                
+                
+                
+                </Content>
+    <eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+ <eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+ <eRelation relType="Causal" cause_eid="e1" effect_eid="e4"/>
+
+ <eRelation relType="Accompany" accompanya_eid="e5" accompanyb_eid="e6"/>            
+                </Body>

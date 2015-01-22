@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>  	<Title>河北国道两客车相撞</Title>
+	<ReportTime type="absTime">2007-8-21</ReportTime>
+	<Content>
+
+	 <Paragraph>
+	 	<Sentence>
+	 		<Event type="thoughtevent" eid="e1"><Participant sid="s1">晨报河北</Participant><Denoter type="statement" did="d1">专讯 </Denoter></Event>
+	 		<Event eid="e2">
+	 			<Time type="relTime" tid="t2">８月２１日７时４０分左右</Time>，在
+	 			<Location lid="l2">３０７国道河北省黄骅市一个路口</Location>，
+	 			<Object oid="o2">两辆客车</Object>
+	 			<Denoter type="action" did="d2">相撞</Denoter>
+	 		</Event>引发
+	 		<Event eid="e3">严重
+	 			<Denoter type="emergency" did="d3">车祸</Denoter>事故
+	 		</Event>，目前已造成
+	 		<Event eid="e4">
+	 			<Participant oid="o4">９人</Participant>
+	 			<Denoter type="stateChange" did="d4">死亡</Denoter>
+	 		</Event>、
+	 		<Event eid="e5">
+	 			<Participant oid="o5">５２人</Participant>
+	 			<Denoter type="stateChange" did="d5">受伤</Denoter>
+	 		</Event>，其中９人伤势严重。
+		 </Sentence>
+	</Paragraph>
+	</Content>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>	
+<eRelation relType="Causal" cause_eid="e3" effect_eid="e5"/>
+</Body>

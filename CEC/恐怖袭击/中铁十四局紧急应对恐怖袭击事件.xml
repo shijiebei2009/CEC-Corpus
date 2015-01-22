@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>中铁十四局紧急应对恐怖袭击事件</Title>
+	<ReportTime type="absTime">2004年6月11日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1"><Time type="relTime" tid="t1">6月10日晚11时</Time>，<Participant sid="s1">记者</Participant>在位于<Location lid="l1">山东济南的中铁十四局办公大楼</Location>前<Denoter type="perception" did="d1">看到</Denoter></Event>，<Event eid="e2"><Object oid="o2">办公楼的大门</Object><Denoter type="stateChange" did="d2">紧闭</Denoter></Event>，<Event eid="e3"><Location lid="l3">院子的围栏上</Location><Denoter type="operation" did="d3">悬挂</Denoter>着悼念在阿遇难员工的<Object oid="o3">布幅</Object></Event>，办公楼2楼的灯光很亮。</Sentence><Sentence><Event eid="e4"><Time type="relTime" tid="t4">阿富汗当地时间6月10日凌晨</Time>，<Location lid="l4">中国中铁十四局集团公司援建阿富汗的公路建设项目盖劳盖尔工地</Location>遭到<Participant sid="s4">一伙武装分子</Participant>的<Denoter type="emergency" did="d4">袭击</Denoter></Event>，<Event eid="e5">造成<Participant oid="o5">11名中国工人</Participant><Denoter type="stateChange" did="d5">死亡</Denoter></Event>，另有<Event eid="e6"><Participant oid="o6">4名工人</Participant><Denoter type="stateChange" did="d6">受伤</Denoter></Event>。</Sentence></Paragraph> （王鸿光）
+
+</Content>
+	<eRelation relType="Causal" cause_eid="e4" effect_eid="e5"/>
+	<eRelation relType="Causal" cause_eid="e4" effect_eid="e6"/>
+</Body>

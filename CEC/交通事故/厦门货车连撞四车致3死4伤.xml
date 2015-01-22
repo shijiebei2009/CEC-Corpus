@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>厦门货车连撞四车致3死4伤 涉案人员被警方控制</Title>
+	<ReportTime type="absTime">2013年12月1日08:18</ReportTime>  
+　　<Content><Paragraph>
+			<Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">厦门网-厦门日报</Participant><Denoter type="statement" did="d1">讯</Denoter></Event>(记者 应洁 曾嫣艳 通讯员 厦公宣)
+<Event eid="e2"><Time type="absTime" tid="t2">11月30日14时21分许</Time>，在<Location lid="l2">国道324线集美坂头路段</Location>发生一起因<Object sid="s2">大货车</Object><Denoter type="action" did="d2">碰撞</Denoter><Object oid="o2">小轿车</Object>、<Object oid="o2">公交车</Object>及<Object oid="o2">两辆摩托车</Object></Event>，
+<Event eid="e3">造成<Participant sid="s3">3人</Participant><Location lid="l3">当场</Location><Denoter type="stateChange" did="d3">死亡</Denoter></Event>、
+<Event eid="e4"><Participant sid="s4">4人</Participant><Denoter type="stateChange" did="d4">受伤</Denoter></Event>的
+<Event eid="e5">道路<Denoter type="emergency" did="d5">交通事故</Denoter></Event>。</Sentence>
+			<Sentence><Event eid="e6"><Participant oid="o6">相关涉案人员</Participant>已被<Participant sid="s6">集美警方</Participant><Denoter type="operation" did="d6">控制</Denoter></Event>。
+                        </Sentence>
+		</Paragraph>    
+　　<Paragraph><Sentence>
+				<Event type="thoughtevent" eid="e7">经初步<Denoter type="statement" did="d7">调查</Denoter></Event>，
+<Event eid="e8"><Time type="relTime" tid="t8">11月30日下午</Time>，<Participant sid="s8">驾驶人张某双</Participant>(男，49岁，湖北人)<Denoter type="operation" did="d8">驾驶</Denoter><Object oid="o8">厦门锕伟建材有限公司的闽D/**308重型大货车</Object></Event>，
+<Event eid="e9">从<Location type="origin" lid="l9">同安往漳州方向</Location><Denoter type="movement" did="d9">行驶</Denoter>至<Location type="destination" lid="l9">国道324线274KM+600M</Location>时</Event>，
+<Event eid="e10">在<Location lid="l10">交叉路口</Location>处<Denoter type="action" did="d10">碰撞</Denoter><Object oid="o10">闽C/**W26小轿车</Object></Event>，
+<Event eid="e11">后向左方<Denoter type="operation" did="d11">避让</Denoter>时</Event>，
+<Event eid="e12">又<Denoter type="action" did="d12">碰撞</Denoter></Event>
+				<Event eid="e13">对向<Denoter type="action" did="d13">行驶</Denoter>的<Object sid="s13">两辆摩托车</Object>及<Object sid="s13">闽D/Y**72公交车</Object></Event>，
+<Event eid="e14"><Location lid="l14">当场</Location>造成<Participant sid="s14">3人</Participant>(均为摩托车驾乘人员)<Denoter type="stateChange" did="d14">死亡</Denoter></Event>、
+<Event eid="e15"><Participant sid="s15">4人</Participant><Denoter type="stateChange" did="d15">受伤</Denoter></Event>。</Sentence></Paragraph>   
+　　<Paragraph><Sentence>
+				<Event eid="e16"><Denoter type="emergency" did="d16">事故</Denoter>发生后</Event>，
+<Event eid="e17"><Participant sid="s17,s19,s20,s21,s22">集美交警大队</Participant>立即<Denoter type="action" did="d17">启动</Denoter></Event><Event eid="e18">重大道路交通事故<Denoter type="action" did="d18">处置</Denoter>预案</Event>，
+<Event eid="e19"><Denoter type="operation" did="d19">组织</Denoter><Participant oid="o19">警力</Participant></Event>
+				<Event eid="e20"><Denoter type="movement" did="d20">赶赴</Denoter><Location type="destination" lid="l20">现场</Location></Event><Event eid="e21"><Denoter type="action" did="d21">处置</Denoter></Event>
+				<Event eid="e22"><Denoter type="operation" did="d22">救援</Denoter></Event>。
+</Sentence>
+			<Sentence>
+				<Event eid="e23">市<Participant sid="s23,s24,s25,s26">长助理、市公安局局长林锐</Participant><Denoter type="movement" did="d23">亲临</Denoter><Location type="destination" lid="l23">现场</Location></Event>
+				<Event eid="e24"><Denoter type="action" did="d24">指挥</Denoter></Event>、
+                <Event eid="e25"><Denoter type="action" did="d25">协调</Denoter><Location lid="l25">现场</Location></Event><Event eid="e26"><Denoter type="operation" did="d26">救援</Denoter>工作</Event>。</Sentence>
+			<Sentence>
+				<Event eid="e27"><Participant sid="s27,s28">市公安局、市安监局、集美区和交警支队等市区相关部门主要领导</Participant>先后<Denoter type="movement" did="d27">到达</Denoter><Location type="destination" lid="l27">现场</Location></Event>，
+                        <Event eid="e28"><Denoter type="operation" did="d28">组织</Denoter><Location lid="l28">现场</Location><Object oid="o28">各项应急处置工作</Object></Event>。</Sentence>
+			<Sentence><Event eid="e29">由于现场<Denoter type="action" did="d29">指挥</Denoter></Event>、
+                        <Event eid="e30"><Denoter type="action" did="d30">协调</Denoter>有力</Event>，
+                        <Event eid="e31"><Participant sid="s31">各部门单位</Participant>密切<Denoter type="operation" did="d31">协作</Denoter></Event>、
+                        形成合力，
+                        <Event eid="e32"><Denoter type="action" did="d32">确保</Denoter>了<Object oid="o32">应急救援工作</Object>有条不紊地进行</Event>，
+                        <Event eid="e33"><Participant oid="o33">伤者</Participant>及时得到<Denoter type="operation" did="d33">救治</Denoter></Event>，
+                        <Event eid="e34">
+					<Location lid="l34">事故现场</Location>的<Denoter type="operation" did="d34">勘察</Denoter></Event>、
+                        <Event eid="e35"><Participant oid="o35">死者</Participant>的善后<Denoter type="operation" did="d35">处理</Denoter></Event>以及
+                        <Event eid="e36">交通<Denoter type="operation" did="d36">组织</Denoter></Event>、
+                        <Event eid="e37">现场<Denoter type="action" did="d37">清理</Denoter>工作</Event>
+                        顺利完成。</Sentence>
+                        </Paragraph>     
+　　<Paragraph>
+<Sentence><Event eid="e38"><Time tid="t38" type="relTime">目前</Time>，<Object oid="o38">事故路段交通</Object>已经<Denoter type="stateChange" did="d38">恢复</Denoter>正常</Event>，
+<Event eid="e39"><Participant oid="o39,s40,o41">4名伤员</Participant><Denoter type="action" did="d39">送医</Denoter></Event>
+<Event eid="e40"><Denoter type="action" did="d40">接受</Denoter></Event>
+<Event eid="e41"><Denoter type="operation" did="d41">治疗</Denoter></Event>。</Sentence>
+<Sentence><Event eid="e42"><Object oid="o42">案件</Object>正在进一步<Denoter type="operation" did="d42">调查</Denoter>中</Event>。</Sentence></Paragraph>
+	</Content>
+	
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e42"/>	
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>
+<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8-e15"/>
+<eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>
+<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10"/>
+<eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>
+<eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eid="e12"/>
+<eRelation relType="Accompany" accompanya_eid="e12" accompanyb_eid="e13"/>
+<eRelation relType="Causal" cause_eid="e12" effect_eid="e14"/>
+<eRelation relType="Accompany" accompanya_eid="e14" accompanyb_eid="e15"/>
+<eRelation relType="Follow" bevent_eid="e16" aevent_eid="e17"/>
+<eRelation relType="Accompany" accompanya_eid="e17" accompanyb_eid="e18"/>
+<eRelation relType="Accompany" accompanya_eid="e18" accompanyb_eid="e19"/>
+<eRelation relType="Follow" bevent_eid="e19" aevent_eid="e20"/>
+<eRelation relType="Follow" bevent_eid="e20" aevent_eid="e21"/>
+<eRelation relType="Accompany" accompanya_eid="e21" accompanyb_eid="e22"/>
+<eRelation relType="Accompany" accompanya_eid="e23" accompanyb_eid="e24"/>
+<eRelation relType="Accompany" accompanya_eid="e24" accompanyb_eid="e25"/>
+<eRelation relType="Accompany" accompanya_eid="e25" accompanyb_eid="e26"/>
+<eRelation relType="Follow" bevent_eid="e27" aevent_eid="e28"/>
+<eRelation relType="Accompany" accompanya_eid="e29" accompanyb_eid="e30"/>
+<eRelation relType="Accompany" accompanya_eid="e30" accompanyb_eid="e31"/>
+<eRelation relType="Accompany" accompanya_eid="e31" accompanyb_eid="e32"/>
+<eRelation relType="Accompany" accompanya_eid="e32" accompanyb_eid="e33"/>
+<eRelation relType="Accompany" accompanya_eid="e33" accompanyb_eid="e34"/>
+<eRelation relType="Accompany" accompanya_eid="e34" accompanyb_eid="e35"/>
+<eRelation relType="Accompany" accompanya_eid="e35" accompanyb_eid="e36"/>
+<eRelation relType="Accompany" accompanya_eid="e36" accompanyb_eid="e37"/>
+<eRelation relType="Accompany" accompanya_eid="e38" accompanyb_eid="e39"/>
+<eRelation relType="Accompany" accompanya_eid="e39" accompanyb_eid="e40"/>
+<eRelation relType="Accompany" accompanya_eid="e40" accompanyb_eid="e41"/>
+</Body>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>四川汶川县发生7.8级地震 西安城区有强烈震感</Title>
+	<ReportTime type="absTime">2008年05月12日17:12</ReportTime>　   
+<Content>
+		<Paragraph><Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">西部网</Participant><Denoter did="d1" type="statement">讯</Denoter></Event></Sentence>
+			<Sentence>
+				<Event eid="e2"><Time type="relTime" tid="t2">12日下午14时28分左右</Time>，一场突如其来的<Denoter type="emergency" did="d2">地震</Denoter></Event>给西安市民造成了不小的惊慌，
+		<Event eid="e3"><Participant sid="s3">不少市民</Participant>纷纷<Denoter type="movement" did="d3">离开</Denoter><Location type="origin" lid="l3">建筑</Location></Event>。</Sentence></Paragraph>
+    
+　　<Paragraph><Sentence>
+				<Event eid="e4"><Participant sid="s4">西部网记者</Participant>在<Denoter type="emergency" did="d4">地震</Denoter>发生</Event>后，
+		<Event eid="e5"><Time type="relTime" tid="t5">第一时间</Time><Denoter type="movement" did="d5">赶到</Denoter><Location lid="l5">陕西省地震局</Location></Event>
+				<Event eid="e6"><Denoter  type="perception" did="d6">了解</Denoter><Object oid="o6">情况</Object></Event>，
+		<Event eid="e7" type="thoughtevent">据<Participant sid="s7">陕西省地震局</Participant><Denoter  type="statement" did="d7">介绍</Denoter></Event>，                                                                                                
+		<Event eid="e8">根据<Participant sid="s8">国家地震台网</Participant>的<Denoter type="operation" did="d8">测定</Denoter></Event>，
+		<Event eid="e9">此次影响西安和陕西大部分地区的有感<Denoter type="emergency" did="d9">地震</Denoter>发生于<Time type="absTime" tid="t9">北京时间2008年5月12日下午14点28分</Time>，震中位于北纬31.0度、东经104.1度，大致位于<Location lid="l9">四川省汶川县</Location>境内</Event> ，
+		<Event eid="e10"><Location lid="l10">四川全境</Location>及<Location lid="l10">陕西</Location>、<Location lid="l10">甘肃</Location>、<Location lid="l10">湖北</Location>等周边省区也有明显<Denoter type="emergency" did="d10">震感</Denoter>。</Event></Sentence></Paragraph>
+
+　　<Paragraph><Sentence>我省汉中地区由于距震中较近，可能造成一定损失。</Sentence><Sentence>对西安及周遍地区影响不大。</Sentence><Sentence>由于通讯系统受到很大影响，
+		<Event eid="e11"><Object oid="o11">详细情况</Object>仍在<Denoter  type="statement" did="d11">了解</Denoter>中</Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence>
+				<Event eid="e12" type="thoughtevent"><Participant sid="s12">记者</Participant>在<Location lid="l12">西安市区</Location><Denoter type="perception" did="d12">看</Denoter>到</Event>，
+		<Event eid="e13"><Location lid="l13">高大建筑下</Location>和<Location lid="l13">道路边</Location>都<Denoter type="action" did="d13">聚</Denoter>满了刚从建筑物中疏散出来的<Participant sid="s13">群众</Participant></Event>，
+		<Event eid="e14"><Participant sid="s14">各建筑工地</Participant>已经<Denoter type="stateChange" did="d14">停止</Denoter><Object>施工</Object></Event>，市内有线和无线通讯网络受到很大影响，手机和固定电话都很难拨通。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence>不过由于红绿灯等交通指挥系统仍保持正常运做，市区主要道路虽然车流量较大，交通秩序仍基本正常，公交系统也在正常运行。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence>此外，
+		<Event eid="e15"><Denoter type="emergency" did="d15">地震</Denoter></Event>还在
+		<Event eid="e16"><Location lid="l16">南郊八里村</Location>引发一起<Denoter type="emergency" did="d16">火灾</Denoter></Event>，
+		<Event eid="e17">由于<Participant sid="s17">消防队</Participant>及时<Denoter type="movement" did="d17">赶到</Denoter></Event>，
+		<Event eid="e18"><Object oid="o18">火势</Object>很快得到<Denoter type="operation" did="d18">控制</Denoter></Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence>截止到
+		<Event eid="e19"><Participant sid="s19">记者</Participant><Denoter type="action" did="d19">发稿</Denoter></Event>时，
+		<Event polarity="negative" eid="e20"><Location lid="l20">西安市</Location>容市貌没有受到<Denoter type="stateChange" did="d20">破坏</Denoter></Event>，群众情绪基本稳定。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e20"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8-e12"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e12" thoughtcontent_eids="e13-e14"/>
+	<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e9" effect_eid="e10"/>
+	<eRelation relType="Causal" cause_eid="e15" effect_eid="e16"/>
+	<eRelation relType="Causal" cause_eid="e17" effect_eid="e18"/>
+</Body>

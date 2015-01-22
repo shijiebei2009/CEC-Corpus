@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>昆明火车站恐怖袭击27人遇难 一百多人受伤</Title>
+	<ReportTime type="absTime">2014年3月2日</ReportTime>
+	<Content><Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="relTime">1日晚</Time>，<Participant sid="s1">一伙歹徒</Participant>持<Means mid="m1" type="tool">械</Means>在<Location lid="l1">昆明火车站</Location><Denoter did="d1" type="action">砍杀</Denoter><Participant oid="o1">路人</Participant>。</Event></Sentence>
+			<Sentence><Event eid="e2" type="thoughtevent"><Participant sid="s2">官方</Participant><Denoter did="d2" type="statement">证实</Denoter></Event>，
+<Event eid="e3"><Time tid="t3" type="timeInterval">截至2日零时许</Time>已造成<Participant sid="s3">27人</Participant><Denoter did="d3" type="stateChange">死亡</Denoter></Event>
+，<Event eid="e4"><Participant sid="s4">一百多人</Participant><Denoter did="d4" type="stateChange">受伤</Denoter></Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence>受<Event eid="e5">中共中央总书记、国家主席<Participant sid="s5">习近平</Participant>和国务院总理<Participant sid="s5">李克强</Participant><Denoter did="d5" type="operation">委派</Denoter></Event>，
+<Event eid="e6">中央政治局委员、中央政法委书记<Participant oid="o5" sid="s6,s7,s8,s10">孟建柱</Participant><Time tid="t6" type="relTime">3月2日凌晨</Time><Denoter did="d6" type="movement">赴</Denoter><Location lid="l6" type="destination">云南昆明</Location></Event>
+				<Event eid="e7"><Denoter did="d7" type="operation">指导</Denoter></Event>
+				<Event eid="e8"><Denoter did="d8" type="operation">处置</Denoter></Event>
+				<Event eid="e9"><Time tid="t9" type="relTime">3月1日晚</Time>发生在<Location lid="l9">昆明火车站</Location>的暴力<Denoter did="d9" type="emergency">恐怖袭击</Denoter>事件</Event>
+，<Event eid="e10">并<Denoter did="d10" type="perception">慰问</Denoter><Participant oid="o10">受伤群众</Participant>和<Participant oid="o10">受害者家属</Participant>。</Event></Sentence></Paragraph></Content>
+<eRelation relType="Follow" bevent_eid="e1" aevent_eid="e2"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e4"/>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>
+<eRelation relType="Follow" bevent_eid="e2" aevent_eid="e5"/>
+<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>
+<eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>
+<eRelation relType="Follow" bevent_eid="e9" aevent_eid="e3"/> 
+<eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e10"/>
+
+
+
+
+</Body>

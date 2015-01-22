@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body><Title>济青高速潍坊段百余辆车因大雪相撞 致1人死亡</Title>
+<ReportTime type="absTime">2011-12-9 9:03:48</ReportTime>
+<Content><Paragraph><Sentence><Event eid="e1" type="thoughtevent"><Participant sid="s1">中新网</Participant><Location lid="l1">济南</Location><Time tid="t1" type="relTime">12月8日</Time><Denoter did="d1" type="statement">电</Denoter></Event>(孔凡元 刘耀辉)<Event eid="e2"><Time tid="t2" type="relTime">今天中午</Time>，<Location lid="l2">济青高速潍坊段</Location>发生<Object sid="s2">数十辆车</Object><Denoter did="d2" type="action">相撞</Denoter>事故</Event>。</Sentence><Sentence><Event eid="e3" type="thoughtEvent"><Denoter did="d3" type="statement">据悉</Denoter></Event>，本次事故发生路段为青银高速公路63—176公里处，因<Event eid="e4">大雪<Object sid="s4">路面</Object><Denoter did="d4" type="stateChange">结冰</Denoter></Event>，<Event eid="e5">造成30余起<Denoter did="d5" type="emergency">交通事故</Denoter></Event>，<Event eid="e6">导致<Participant sid="s6">1人</Participant><Denoter did="d6" type="stateChange">死亡</Denoter> </Event>，<Event eid="e7"><Participant sid="s7">5人</Participant><Denoter did="d7" type="stateChange">受伤</Denoter></Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event eid="e8" type="thoughtEvent"><Participant sid="s8">记者</Participant>从<Participant oid="o8">山东省公安厅交管局</Participant>及<Participant oid="o8">高速公路交警支队</Participant><Denoter did="d8" type="statement">了解</Denoter></Event>到，<Event eid="e9">经过<Time tid="t9" type="timeInterval">5个多小时</Time>的紧张<Denoter did="d9" type="action">救援</Denoter></Event>，<Event eid="e10"><Time tid="t10" type="relTime">8日中午</Time>发生在<Location lid="l10">济青高速潍坊往高密附近</Location>的<Object sid="s10">百余辆车</Object>因大雪<Denoter did="d10" type="action">相撞</Denoter>事故</Event>，<Event eid="e11"><Time tid="t11" type="relTime">目前</Time>已<Denoter did="d11" type="action">救出</Denoter><Participant oid="o11">5名被困人员</Participant></Event>，<Event eid="e12"><Denoter did="d12" type="action">疏散</Denoter><Participant oid="o12">220余名民众</Participant></Event>，<Event eid="e13"> <Object oid="o13">事故路段</Object>已<Denoter did="d13" type="action">抢通</Denoter></Event>，<Event eid="e14"><Object sid="s13">车辆</Object>可缓慢<Denoter did="d13" type="movement">通行</Denoter></Event>，<Event eid="e15">高速公路交警支队<Participant sid="s15,s16,s17,s18,s19,s20,s21">全警</Participant><Denoter did="d15" type="action">上路</Denoter></Event>，<Event eid="e16">采取<Denoter did="d16" type="action">封闭</Denoter><Object oid="o16">收费站</Object></Event>、<Event eid="e17"><Object oid="o17">主线</Object><Denoter did="d17" type="action">分流</Denoter></Event>、<Event eid="e18"> 间断<Denoter did="d18" type="action">放行</Denoter>等方式</Event><Event eid="e19">进行<Object oid="o19">交通</Object><Denoter did="d19" type="action">疏导</Denoter></Event>。</Sentence><Sentence><Event eid="e20"><Time tid="t20" type="relTime">同时</Time>，<Location lid="l20">现场</Location>已经全部<Denoter did="d20" type="operation">勘查</Denoter>完毕</Event>，<Event eid="e21"><Object oid="o21">事故车辆</Object>正在全力<Denoter did="d21" type="action">清理</Denoter>过程中</Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event eid="e22" type="thoughtEvent">据<Participant sid="s22">潍坊消防支队</Participant><Denoter did="d22" type="statement">介绍/v </Denoter></Event>，<Event eid="e23"><Location lid="l23">事故路段</Location><Denoter did="d23" type="action">滞留</Denoter>的车辆有<Participant sid="s23">100余辆</Participant></Event>，延绵约4公里。</Sentence><Sentence>现场随处可见撞在一起的事故车辆，车窗玻璃碎片、撞落的汽车零部件和散落的货物、泄漏的油迹满地都是，一片狼藉 。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event eid="e24" type="thoughtEvent"><Denoter did="d24" type="statement">据悉</Denoter></Event>，<Event eid="e25"><Time tid="t25" type="relTime">当日</Time>参与救援的<Participant sid="s25,s26,s27,s28,s29">官兵</Participant>分段在<Location lid="l25">长达4公里、多个事故点</Location><Denoter did="d25" type="action">展开</Denoter><Object oid="o25">行动</Object></Event>。</Sentence><Sentence>根据各起车辆追尾的情况和严重程度，采取<Event eid="e26">用<Object oid="o26">车</Object><Denoter did="d26" type="action">牵引</Denoter></Event>、<Event eid="e27"><Means mid="m27" type="tool">液压剪扩钳</Means><Denoter did="d27" type="action">扩张</Denoter></Event>、<Event eid="e28"><Means mid="m28" type="tool">机动链锯和无齿锯</Means><Denoter did="d28" type="action">切割</Denoter></Event>等方法，<Event eid="e29"><Denoter did="d29" type="action">营救</Denoter><Participant oid="o29">被困人员</Participant></Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event eid="e30" type="thoughtEvent"><Participant sid="s30">记者</Participant>从<Participant oid="o30">山东高速公路管理部门</Participant><Denoter did="d30" type="statement">获悉</Denoter></Event>，<Event eid="e31"><Time tid="t31" type="relTime">目前</Time><Object oid="o31">事故路段</Object>已<Denoter did="d31" type="action">抢通</Denoter></Event>，<Event eid="e32"><Object sid="s32">车辆</Object>已可缓慢<Denoter did="d32" type="movement">通行</Denoter></Event>。</Sentence><Sentence><Event eid="e33">但<Object oid="o33">济青高速青岛方向近20个高速入口</Object>仍处于<Denoter did="d33" type="stateChange">封闭</Denoter>状态</Event>。</Sentence></Paragraph></Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e33"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eids="e4-e7"/>
+<eRelation relType="Causal" cause_eid="e4" effect_eid="e5"/>
+<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>
+<eRelation relType="Causal" cause_eid="e5" effect_eid="e7"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eids="e9-e21"/>
+<eRelation relType="Follow" bevent_eid="e9" aevent_eid="e11"/>
+<eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eid="e12"/>
+<eRelation relType="Accompany" accompanya_eid="e13" accompanyb_eid="e14"/>
+<eRelation relType="Follow" bevent_eid="e15" aevent_eid="e19"/>
+<eRelation relType="Accompany" accompanya_eid="e19" accompanyb_eid="e20"/>
+<eRelation relType="Follow" bevent_eid="e20" aevent_eid="e21"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e22" thoughtcontent_eids="e23"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e24" thoughtcontent_eids="e25-e29"/>
+<eRelation relType="Follow" bevent_eid="e25" aevent_eid="e29"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e30" thoughtcontent_eids="e31-32"/>
+<eRelation relType="Accompany" accompanya_eid="e31" accompanyb_eid="e32"/>
+<eRelation relType="Accompany" accompanya_eid="e32" accompanyb_eid="e33"/>
+</Body>

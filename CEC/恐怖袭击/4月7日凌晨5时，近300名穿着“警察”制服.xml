@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>兰州300人穿“警服”持警棍凌晨袭击工地</Title>
+	<ReportTime type="absTime">2014年4月11日07:00</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1" type="thoughtevent">据<Participant sid="s1">新华社</Participant><Denoter did="d1" type="statement">电</Denoter></Event>,
+                <Event eid="e2"><Time tid="t2" type="absTime">4月7日凌晨5时</Time>，近300名穿着“警察”制服的<Participant sid="s2">不明身份人员与近百名社会人员</Participant>持<Means mid="m2" type="tool">棍棒、器械</Means>，<Denoter did="d2" type="emergency">袭击</Denoter>了<Object oid="o2">兰州军区五里铺干休所的军民共建项目</Object>—<Location lid="l2">兰州创意国际商贸城施工工地</Location></Event>，
+                <Event eid="e3">造成<Participant oid="o3">70余名农民工</Participant>不同程度<Denoter did="d3" type="stateChange">受伤</Denoter></Event>，其<Event eid="e4">中<Participant oid="o4">3人</Participant>正在<Location lid="l4">重症监护室</Location><Denoter did="d4" type="action">抢救</Denoter></Event>，<Event eid="e5">有关<Object oid="o5">财物损失</Object>还在<Denoter did="d5" type="action">统计</Denoter>当中</Event></Sentence>。<Sentence><Event eid="e6"><Participant sid="s6">警方</Participant>目前已经<Denoter did="d6" type="operation">刑拘</Denoter><Participant oid="o6">3名涉案人员</Participant></Event></Sentence>。</Paragraph>
+		<Paragraph><Sentence><Event eid="e7" type="thoughtevent">工地施工方<Participant sid="s7">法人代表李某</Participant><Denoter did="d7" type="statement">告诉</Denoter><Participant oid="o7">记者</Participant></Event>，<Event eid="e8"><Time tid="t8" type="relTime">当日凌晨5时左右</Time>，<Participant sid="s8">一伙身着配有肩章、臂章制式服装，并头戴钢盔的男子</Participant>要求<Denoter did="d8" type="movement">进入</Denoter><Location lid="l8">施工现场</Location></Event>，
+                <Event eid="e9" type="thoughtevent"><Participant sid="s9" oid="o10">门卫</Participant>误<Denoter did="d9" type="perception">以为</Denoter>其是公安人员办案</Event>，
+                <Event eid="e10">但随后却遭到<Participant sid="s10,s11">这伙人</Participant>的<Denoter did="d10" type="action">殴打</Denoter></Event></Sentence>。<Sentence><Event eid="e11"><Denoter did="d11" type="movement">进入</Denoter><Location lid="l11">工地</Location>后</Event>，<Event eid="e12"><Participant sid="s12,s13">这些人</Participant>对工地宿舍内正在睡觉的<Participant oid="o12">工人</Participant>强行<Denoter did="d12" type="action">驱离</Denoter></Event>，<Event eid="e13">期间致使<Participant oid="o13">多人</Participant><Denoter did="d13" type="stateChange">受伤</Denoter></Event></Sentence>。</Paragraph>
+　　<Paragraph><Sentence><Event eid="e14">目前，<Participant sid="s14">甘肃省兰州市公安局与城关区分局</Participant>已<Denoter did="d14" type="operation">成立</Denoter><Participant oid="o14" sid="s15">联合专案组</Participant></Event>，<Event eid="e15">对<Object oid="o15">此次暴力事件</Object>进行<Denoter did="d15" type="action">调查</Denoter></Event>。</Sentence></Paragraph>
+　　<Paragraph><Sentence><Event eid="e16" type="thoughtevent">警方的最新消息<Denoter did="d16" type="statement">称</Denoter></Event>，<Event eid="e17">参与作案的甘肃永瑞房地产开发有限公司工作人员<Participant sid="s17" oid="o18">李某、薛某、张某</Participant>因涉嫌聚众<Denoter did="d17" type="action">扰乱</Denoter>社会秩序罪</Event>已被<Event eid="e18">依法刑事<Denoter did="d18" type="stateChange">拘留</Denoter></Event>，案<Event eid="e19">件的<Denoter did="d19" type="operation">侦查</Denoter></Event>及<Event eid="e20"><Denoter did="d20" type="action">追捕</Denoter>其他嫌疑人的工作仍在继续之中</Event>。</Sentence></Paragraph>
+	</Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e6"/>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+<eRelation relType="Accompany" accompanya_eid="e3" accompanyb_eid="e4"/>
+<eRelation relType="Accompany" accompanya_eid="e2" accompanyb_eid="e5"/>
+<eRelation relType="Accompany" accompanya_eid="e2" accompanyb_eid="e6"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8-e13"/>
+<eRelation relType="Follow" bevent_eid="e8" aevent_eid="e10"/>
+<eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>
+<eRelation relType="Follow" bevent_eid="e11" aevent_eid="e12"/>
+
+<eRelation relType="Causal" cause_eid="e10" effect_eid="e13"/>
+<eRelation relType="Follow" bevent_eid="e2" aevent_eid="e14"/>
+<eRelation relType="Follow" bevent_eid="e14" aevent_eid="e15"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e16" thoughtcontent_eids="e17-e20"/>
+<eRelation relType="Causal" cause_eid="e17" effect_eid="e18"/>
+</Body>

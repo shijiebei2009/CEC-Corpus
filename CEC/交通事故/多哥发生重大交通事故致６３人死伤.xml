@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body><Title>多哥发生重大交通事故致６３人死伤</Title>
+	<ReportTime>2014年04月16日 02:31:52</ReportTime>
+	<Content>
+		<Paragraph>
+                <Sentence><Event type="thoughtevent" eid="e1"> <Participant sid="s1">新华网洛美</Participant><Time type="relTime" tid="t1">４月１５日</Time><Denoter type="statement" did="d1">电</Denoter></Event>（记者张改萍）
+                <Event eid="e2"><Participant type="thoughtevent" sid="s2">多哥官员</Participant><Time type="relTime" tid="t2">１５日</Time><Denoter type="statement" did="d2">说</Denoter></Event>，
+                <Event eid="e3"><Object sid="s3">一辆大客车</Object><Time type="relTime" tid="t3">１４日晚</Time>在<Location lid="l3">多哥横跨南北的国家一号公路上</Location>与迎面而来的<Object oid="o3">载重拖车</Object><Denoter type="action" did="d3">相撞</Denoter></Event>，<Event eid="e4">造成<Participant sid="s4">４７人</Participant><Denoter type="stateChange" did="d4">死亡</Denoter></Event>、<Event eid="e5"><Participant sid="s5">１６人</Participant><Denoter type="stateChange" did="d5">重伤</Denoter></Event>。</Sentence>
+                </Paragraph>
+		<Paragraph>
+			<Sentence><Event type="thoughtevent" eid="e6"><Participant sid="s6">当地官员</Participant>对<Participant oid="o6">此媒体</Participant><Denoter type="statement" did="d6">说</Denoter></Event>，
+                        <Event eid="e7"><Denoter type="emergency" did="d7">事故</Denoter>发生在<Time type="relTime" tid="t7">当地时间１４日２３时</Time></Event>，<Event eid="e8"><Object sid="s8">一辆５６座的大客车</Object>在<Location lid="l8">距首都洛美以北１６０公里的高原区阿塔帕梅南部的公路上</Location>与迎面而来的<Object oid="o8">载重拖车</Object><Denoter type="action" did="d8">相撞</Denoter></Event>，
+                        <Event eid="e9">造成<Object sid="s9">３辆车</Object>连环<Denoter type="action" did="d9">相撞</Denoter></Event>。</Sentence><Sentence><Event eid="e10">据初步<Denoter type="operation" did="d10">统计</Denoter></Event>，<Event eid="e11"><Denoter type="stateChange" did="d11">死亡</Denoter>的<Participant sid="s11">４７人</Participant>中有４５人是大客车上的乘客</Event>，其中有１５名布基纳法索人，１名尼日利亚人，其余为多哥人；另两名死者是载重拖车上的乘员。<Event eid="e12">另有<Participant sid="s12">１６人</Participant><Denoter type="stateChange" did="d12">伤势严重</Denoter></Event>，包括４名另一辆小巴上的乘客。
+                        </Sentence></Paragraph>
+		<Paragraph>
+			<Sentence>
+	<Event eid="e13">这是<Location lid="l13">多哥</Location><Time type="timeInterval" tid="t13">２０１４年年初以来</Time>发生的第三起严重<Denoter type="emergency" did="d13">交通事故</Denoter></Event>。
+	 <Event eid="e14"><Time type="relTime" tid="t14">今年２月</Time>，<Location lid="l14">多哥北部卡拉区代法莱市山区</Location>发生<Object sid="s14">客车</Object>与<Object sid="s14">卡车</Object><Denoter type="action" did="d14">相撞</Denoter>事故</Event>，
+         <Event eid="e15">造成至少<Participant sid="s15">１９人</Participant><Denoter type="stateChange" did="d15">丧生</Denoter></Event>、
+         <Event eid="e16"><Participant sid="s16">５０多人</Participant><Denoter type="stateChange" did="d16">受伤</Denoter>
+         </Event>。
+         </Sentence>
+    <Sentence>
+    <Event eid="e17"><Time type="relTime" tid="t17">３月</Time>，一辆行驶在<Location lid="l17">代法莱附近</Location>的<Object sid="s17">小巴制动系统</Object>出现<Denoter type="stateChange" did="d17">故障</Denoter></Event>，
+    <Event eid="e18">在<Location lid="l18">坡道上</Location>连续３次<Denoter type="action" did="d18">翻滚</Denoter></Event>， 
+    <Event eid="e19">造成<Participant sid="s19">５人</Participant><Location lid="l19">当场</Location><Denoter type="stateChange" did="d19">死亡</Denoter></Event>、
+    <Event eid="e20"><Participant sid="s20">２１人</Participant><Denoter type="stateChange" did="d20">受伤</Denoter></Event>。
+    </Sentence>
+    </Paragraph>
+</Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e20"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e2-e5"/>
+<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>
+<eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7-e12"/>
+<eRelation relType="Causal" cause_eid="e8" effect_eid="e9"/>
+<eRelation relType="Causal" cause_eid="e9" effect_eid="e11"/>
+<eRelation relType="Causal" cause_eid="e9" effect_eid="e12"/>
+<eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eid="e12"/>
+<eRelation relType="Causal" cause_eid="e14" effect_eid="e15"/>
+<eRelation relType="Causal" cause_eid="e14" effect_eid="e16"/>
+<eRelation relType="Accompany" accompanya_eid="e15" accompanyb_eid="e16"/>
+<eRelation relType="Causal" cause_eid="e17" effect_eid="e18"/>
+<eRelation relType="Causal" cause_eid="e18" effect_eid="e19"/>
+<eRelation relType="Causal" cause_eid="e18" effect_eid="e20"/> 
+<eRelation relType="Accompany" accompanya_eid="e19" accompanyb_eid="e20"/>         
+</Body>

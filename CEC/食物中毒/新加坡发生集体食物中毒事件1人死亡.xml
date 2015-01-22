@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>新加坡发生集体食物中毒事件1人死亡</Title>
+	<ReportTime type="absTime">2009年4月6日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">新华网</Participant><Location lid="l1">新加坡</Location><Time tid="t1" type="relTime">４月６日</Time><Denoter did="d1" type="statement">电</Denoter></Event>（记者张永兴）</Sentence><Sentence><Event type="thoughtevent" eid="e2">据<Participant sid="s2">新加坡媒体</Participant><Denoter did="d2" type="statement">报道</Denoter></Event>，<Event eid="e3"><Location lid="l3">新加坡</Location><Participant sid="s3">百余人</Participant><Time tid="t3" type="relTime">日前</Time>发生集体<Denoter did="d3" type="emergency">食物中毒</Denoter></Event>，<Event eid="e4">其中<Participant sid="s4">一名马来族妇女</Participant>经医治无效于<Time tid="t4" type="relTime">６日</Time><Denoter did="d4" type="stateChange">死亡</Denoter></Event>。 </Sentence></Paragraph>
+		<Paragraph><Sentence><Event type="thoughtevent" eid="e5">据<Denoter did="d5" type="statement">报道</Denoter></Event>，<Event eid="e6"><Participant sid="s6">这些人</Participant><Time tid="t6" type="relTime">３日</Time>先后在<Location lid="l6">新加坡一家临时摊位</Location>上<Denoter did="d6" type="action">食用</Denoter>了印度食物<Object oid="o6">罗惹</Object></Event>，<Event eid="e7"><Denoter did="d7" type="stateChange">发生</Denoter><Object oid="o7">食物中毒症状</Object></Event>，其中一名５７岁的马来族妇女情况最为严重。</Sentence><Sentence><Event eid="e8"><Time tid="t8" type="relTime">目前</Time>，还有<Participant sid="s8">２９人</Participant>在<Location lid="l8">医院</Location>接受<Denoter did="d8" type="operation">观察治疗</Denoter></Event>。</Sentence></Paragraph>
+	</Content>
+                <eRelation thoughtcontent_eids="e2-e8" thoughtevent_eid="e1" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e3-e4" thoughtevent_eid="e2" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e6-e8" thoughtevent_eid="e5" relType="Thoughtcontent"/>
+		<eRelation relType="Causal" cause_eid="e4" effect_eid="e5"/>
+		<eRelation relType="Follow" aevent_eid="e7" bevent_eid="e6"/>
+		<eRelation relType="Causal" cause_eid="e7" effect_eid="e8"/>
+
+</Body>

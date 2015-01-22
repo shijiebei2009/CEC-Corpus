@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+   <Title>墨西哥强烈地震致800栋房屋受损 首都高楼晃动</Title> 
+   <ReportTime type="absTime">2012年03月21日10:38</ReportTime>
+   <Content>
+      <Paragraph>
+         <Sentence>
+            <Event type="thoughtevent" eid="e1">
+               <Participant sid="s1">中新网</Participant>
+               <Time type="relTime" tid="t1">3月21日</Time>
+               <Denoter type="statement" did="d1">电</Denoter>
+            </Event> 
+            <Event type="thoughtevent" eid="e2">
+               据
+               <Participant sid="s2">外电</Participant>
+               <Denoter type="statement" did="d2">报道</Denoter>
+            </Event>
+            ，
+            <Event eid="e3">
+               <Time type="relTime" tid="t3">当地时间20日中午12点02分</Time>
+               (北京时间21日凌晨2点02分)，
+               <Location lid="l3">墨西哥南部</Location>
+               发生里氏7.6级
+               <Denoter type="emergency" did="d3">地震</Denoter>
+            </Event>
+            ，
+            <Event eid="e4">
+               造成
+               <Location lid="l4">震中附近</Location>
+               的
+               <Object sid="s4">约800栋房屋</Object>
+               <Denoter type="stateChange" did="d4">受损</Denoter>
+            </Event>
+            。
+         </Sentence>
+         <Sentence>
+            首都墨西哥城有明显震感，
+            <Event eid="e5">
+               <Location lid="l5">市内</Location>
+               <Object sid="s5">高楼</Object>
+               发生
+               <Denoter type="action" did="d5">晃动</Denoter>
+            </Event>
+            ，
+            <Event eid="e6">
+               在
+               <Participant oid="o6">市民</Participant>
+               中引发
+               <Denoter type="perception" did="d6">恐慌</Denoter>
+            </Event>
+            。
+         </Sentence>
+      </Paragraph>
+      <Paragraph>
+         <Sentence>
+            <Event type="thoughtevent" eid="e7">
+               据
+               <Denoter type="statement" did="d7">悉</Denoter>
+            </Event>
+            ，这是墨西哥自1985年以来发生的震级最高的地震之一。
+         </Sentence>
+         <Sentence>此次震中位于南部瓦哈卡州附近地区，震源深度17.5公里，震中首都墨西哥城300多公里。</Sentence>
+         <Sentence>
+            <Event type="thoughtevent" eid="e8">
+               <Location lid="l8">震区</Location>
+               <Participant sid="s8">格雷罗州的官员</Participant>
+               <Denoter type="statement" did="d8">称</Denoter>
+            </Event>
+            ，
+            <Event eid="e9">
+               有
+               <Object sid="s9">约800栋房屋</Object>
+               <Denoter type="stateChange" did="d9">受损</Denoter>
+            </Event>
+            ，
+            <Event eid="e10">
+               <Object sid="s10">60栋房屋</Object>
+               <Denoter type="stateChange" did="d10">倒塌</Denoter>
+            </Event>
+            。
+         </Sentence>
+      </Paragraph>
+      <Paragraph>
+         <Sentence>
+            <Event eid="e11">
+               此后在
+               <Location lid="l11">震中地区</Location>
+               又发生包括一次5.1级地震在内的数次
+               <Denoter type="emergency" did="d1">余震</Denoter>
+            </Event>
+            。
+         </Sentence>
+         <Sentence>
+            <Event polarity="negative" eid="e12">
+               <Time type="relTime" tid="t12">目前</Time>
+               还没有人员死亡或严重伤情的
+               <Denoter type="statement" did="d12">报告</Denoter>
+            </Event>
+            。
+         </Sentence>
+      </Paragraph>
+      <Paragraph>
+         <Sentence>
+            <Event eid="e13">
+               <Participant sid="s13,s14,s15">格雷罗州州长</Participant>
+               已
+               <Denoter type="movement" did="d13">赶往</Denoter>
+               <Location type="destination" lid="l13">震区</Location>
+            </Event>
+            <Event eid="e14">
+               <Denoter type="operation" did="d14">检查</Denoter>
+               <Object oid="o14">受损情况</Object>
+            </Event>
+            ，
+            <Event type="thoughtevent" eid="e15">
+               并
+               <Denoter type="statement" did="d15">要求</Denoter>
+            </Event>
+            <Event eid="e16">
+               <Participant oid="s16">抢修队员和民防部门</Participant>
+               全力
+               <Denoter type="operation" did="d16">救</Denoter>
+               <Object oid="o16">灾</Object>
+            </Event>
+            。
+            </Sentence>
+            <Sentence>
+               <Event polarity="negative" eid="e17">
+                  <Participant sid="s17">该州</Participant>
+                  并未
+                  <Denoter type="statement" did="d17">说明</Denoter>
+                  <Object oid="o17">被疏散的人数</Object>
+               </Event>
+               。
+            </Sentence>
+         </Paragraph>
+         <Paragraph>
+            <Sentence>
+               <Event eid="e18">
+                  在
+                  <Location lid="l18">首都墨西哥城</Location>
+                  ，
+                  正在上班的
+                  <Participant sid="s18,s19">公司职员和居民</Participant>
+                  纷纷
+                  <Denoter type="movement" did="d18">逃出</Denoter>
+                  <Object oid="o18">建筑</Object>
+               </Event>
+               ，
+               <Event eid="e19">
+                  到
+                  <Location type="destination" lid="l19">大街上</Location>
+                  <Denoter type="operation" did="d19">躲避</Denoter>
+               </Event>
+               。
+            </Sentence>
+            <Sentence>
+               <Event eid="e20">
+                  <Location lid="l20">部分地区</Location>
+                  <Object sid="s20">手机信号等电信通讯</Object>
+                  受到
+                  <Denoter type="stateChange" did="d20">影响</Denoter>
+               </Event>
+               ，
+               <Event eid="e21">
+                  <Location lid="l21">震区</Location>
+                  <Object sid="s21">部分家庭电力</Object>
+                  <Denoter type="stateChange" did="d21">中断</Denoter>
+               </Event>
+               。
+            </Sentence>
+            <Sentence>
+               <Event type="thoughtevent" eid="e22">
+                  <Participant sid="s22">墨西哥市长</Participant>
+                  <Denoter type="statement" did="d22">称</Denoter>
+               </Event>
+               ，
+               <Event eid="e23">
+                  已
+                  <Denoter type="operation" did="d23">设立</Denoter>
+                  <Object oid="o23">热线</Object>
+               </Event>
+               <Event eid="e24">
+                  供
+                  <Participant sid="s24">人们</Participant>
+                  <Denoter type="statement" did="d24">报告</Denoter>
+                  <Object oid="o24">损失情况</Object>
+               </Event>
+               。
+            </Sentence>
+         </Paragraph>
+         <Paragraph>
+            <Sentence>
+               <Event eid="e25"> 
+                  <Location lid="l25">墨西哥城机场</Location>
+                  一度
+                  <Denoter type="operation" did="d25">关闭</Denoter>
+               </Event>
+               ，
+               <Event type="thoughtevent" eid="e26">
+                  但
+                  <Participant sid="s26">官员</Participant>
+                  <Denoter type="statement" did="d26">称</Denoter>
+               </Event>
+               <Event polarity="negative" eid="e27">
+                  <Object sid="s27,s28">机场跑道</Object>
+                  没有
+                  <Denoter type="stateChange" did="d27">受损</Denoter>
+               </Event>
+               ，
+               <Event eid="e28">
+                  并已
+                  <Denoter type="action" did="d28">恢复运行</Denoter>
+               </Event>
+               。
+         </Sentence>
+      </Paragraph>
+   </Content>
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e28"/>
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e4"/>
+   <eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>
+   <eRelation relType="Causal" cause_eid="e3" effect_eid="e5"/>
+   <eRelation relType="Causal" cause_eid="e3" effect_eid="e6"/>
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eids="e9-e10"/>
+   <eRelation relType="Accompany" accompanya_eid="e13" accompanyb_eid="e14"/>
+   <eRelation relType="Accompany" accompanya_eid="e14" accompanyb_eid="e15"/>
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e15" thoughtcontent_eids="e16"/>
+   <eRelation relType="Accompany" accompanya_eid="e18" accompanyb_eid="e19"/>
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e22" thoughtcontent_eids="e23-e24"/>
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e26" thoughtcontent_eids="e27-e28"/>
+</Body>

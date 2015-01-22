@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+   <Title>斐济附近海域发生6.5级地震</Title> 
+   <ReportTime type="absTime">2014-03-27 01:55:08</ReportTime>
+   <Content>
+      <Paragraph>
+         <Sentence>
+            <Event type="thoughtevent" eid="e1">
+               <Participant sid="s1">新华社苏瓦</Participant>
+               <Time type="relTime" tid="t1">3月26日</Time>
+               <Denoter type="statement" did="d1">电</Denoter>
+            </Event>（记者 刘鹏）
+            <Event type="thoughtevent" eid="e2">
+               据
+               <Participant sid="s2">美国地质勘探局</Participant>
+               <Denoter type="statement" did="d2">消息</Denoter>
+            </Event>
+            ，
+            <Event eid="e3">
+               <Location lid="l3">南太平洋岛国斐济附近海域</Location>
+               <Time type="relTime" tid="t3">当地时间26日下午</Time>
+               发生6.5级
+               <Denoter type="emergency" did="d3">地震</Denoter>
+            </Event>
+            。
+         </Sentence>
+         <Sentence>
+            <Event eid="e4" polarity="negative">
+               <Time type="relTime" tid="t4">目前</Time>
+               尚无人员伤亡和财产损失
+               <Denoter type="statement" did="d4">报告</Denoter></Event>。
+         </Sentence>
+      </Paragraph>
+
+      <Paragraph>
+         <Sentence>
+            <Event type="thoughtevent" eid="e5">
+               <Object sid="s5">美国地质勘探局地震监测网数据</Object>
+               <Denoter type="statement" did="d5">显示</Denoter>
+            </Event>
+            ，
+            <Event eid="e6">
+               这次
+               <Denoter type="emergency" did="d6">地震</Denoter>
+               发生在
+               <Time type="relTime" tid="t6">当地时间26日15时29分</Time>
+              （北京时间11时29分）
+            </Event>
+            ，震中位于斐济首都苏瓦以南885公里处海域，震源深度475.1公里。
+         </Sentence>
+         <Sentence>
+            <Event eid="e7" polarity="negative">
+               <Participant sid="s7">太平洋海啸预警中心</Participant>
+               没有针对这次地震
+               <Denoter type="statement" did="d7">发布</Denoter>
+               <Object oid="o7">海啸预警</Object>。
+            </Event>
+         </Sentence>
+         <Sentence>斐济位于环太平洋火山地震带，因地壳板块相互碰撞地震频发。
+         </Sentence>
+      </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e7"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eids="e6"/>
+</Body>

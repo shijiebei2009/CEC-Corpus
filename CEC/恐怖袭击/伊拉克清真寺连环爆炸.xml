@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>伊拉克清真寺连环爆炸</Title>
+<ReportTime type="absTime">2004-03-03</ReportTime> 
+	<Content>
+		<Paragraph><Sentence><Event eid="e1"><Time type="relTime" tid="t1">3月2日</Time>是伊斯兰教什叶派最重要的节日之一阿舒拉节，上百万来自伊拉克、伊朗及世界各地的<Participant sid="s1">什叶派穆斯林</Participant><Denoter type="movement" did="d1">云集</Denoter><Location lid="l1">卡尔巴拉</Location>和<Location lid="l1">巴格达</Location></Event>，<Event eid="e2">举行庆祝<Denoter type="action" did="d2">活动</Denoter></Event>。</Sentence><Sentence>然而，就在庆祝活动进入高潮时，惨剧发生了。</Sentence><Sentence><Event eid="e3"><Time type="relTime" tid="t3">上午10时许</Time>，几乎在<Location lid="l3">卡尔巴拉和巴格达两地</Location>同时发生了针对什叶派穆斯林的13起<Denoter type="emergency" did="d3">自杀性爆炸袭击</Denoter>，</Event><Event eid="e4">共造成<Participant oid="o4">271人</Participant><Denoter type="stateChange" did="d4">丧生</Denoter></Event>，<Event eid="e5"><Participant oid="o5">600多人</Participant><Denoter type="stateChange" did="d5">受伤</Denoter></Event>。</Sentence><Sentence>这是伊拉克战争后针对平民的最血腥、最残暴的恐怖事件,　<Event eid="e6"><Denoter type="emergency" did="d6">爆炸</Denoter>发生</Event>后仅1天，<Event eid="e7">驻伊拉克的<Participant sid="s7">美军</Participant>就把爆炸事件的幕后指使<Denoter type="action" did="d7">锁定</Denoter>在“基地”组织三号头目<Participant oid="o7">扎卡维</Participant>身上</Event>。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e5"/>
+</Body>

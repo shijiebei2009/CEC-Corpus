@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>   
+<Title>法国、西班牙和希腊等多国爆发森林大火</Title>
+     <ReportTime type="absTime">25/07/2009</ReportTime>
+  <Content>
+   
+	
+<Paragraph>
+  <Sentence>南欧各国由于夏季高温，各地森林大火频传，数以千计的消防人员全力抢救，试图控制火势。</Sentence>
+  <Sentence>
+   <Event eid="e1">
+    在
+    <Location lid="l1">西班牙、法国、希腊、及意大利南部“萨丁尼亚岛”</Location>
+    的
+    <Denoter type="emergency" did="d1">山林火灾</Denoter>
+   </Event>
+   <Event eid="e2">
+    至少造成
+    <Participant sid="s2">八人</Participant>
+    <Denoter type="stateChange" did="d2">死亡</Denoter>
+   </Event>
+  。
+</Sentence>
+<Sentence>
+  其中西班牙的受灾情况最严重。
+  <Event eid="e3">
+    <Location lid="l3">西班牙</Location>
+    在
+    <Time type="timeInterval" tid="t3">过去的四天里</Time>
+    ，已经有
+    <Participant sid="s3">六名消防人员</Participant>
+    <Denoter type="stateChange" did="d3">殉职</Denoter>
+  </Event>
+  。
+</Sentence>
+<Sentence>
+  <Event eid="e4">
+   另外在
+   <Location lid="l4">意大利的“萨丁尼亚岛”</Location>
+   ，也有
+   <Participant sid="s4">两人</Participant>
+   因为丛林起火而
+   <Denoter type="stateChange" did="d4">丧生</Denoter>
+  </Event>
+。
+</Sentence>
+</Paragraph>
+
+ </Content> 	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e4"/>
+</Body>

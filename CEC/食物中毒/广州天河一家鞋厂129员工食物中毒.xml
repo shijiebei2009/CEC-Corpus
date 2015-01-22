@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>广州天河一家鞋厂129员工食物中毒</Title>
+	<ReportTime type="absTime">2008年1月19日</ReportTime>
+	<Content>
+		<Paragraph>
+			<Sentence><Event eid="e1"><Participant sid="s1">时报</Participant><Denoter did="d1" type="statement">讯</Denoter>（记者 张立璞 实习生 罗阳辉 罗伊珊）</Event></Sentence><Sentence><Event eid="e2"><Time tid="t2" type="relTime">昨日下午3时许</Time>，在<Location lid="l2">天河区小新塘附近的濬安鞋厂</Location>工作的员工们突然感觉身体<Denoter did="d2" type="stateChange">出现</Denoter><Object oid="o2">不适</Object></Event>，<Event eid="e3"><Participant sid="s3">上百人</Participant>不同程度<Denoter did="d3" type="stateChange">出现</Denoter>呕吐、头晕等<Object oid="o3">食物中毒症状</Object></Event>，<Event eid="e4"><Denoter did="d4" type="emergency">事件</Denoter>发生</Event>以后，<Event eid="e5"><Participant sid="s5">工厂</Participant>方面立即<Denoter did="d5" type="operation">安排</Denoter><Object oid="o5">车辆</Object></Event><Event eid="e6">将<Participant oid="o6">这些员工</Participant><Denoter did="d6" type="movement">送往</Denoter><Location lid="l6" type="destination">附近的社区医疗服务中心</Location></Event><Event eid="e7"><Denoter did="d7" type="operation">救治</Denoter></Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence>有关部门初步怀疑<Event eid="e8">是<Denoter did="d8" type="action">进食</Denoter>了未煮熟的四季豆引起的生物性中毒</Event>，<Event eid="e9"><Participant sid="s9" type="agent">医院</Participant>对<Participant oid="o9" type="recipient">入院员工</Participant>及时进行了补液、护肝等对症<Denoter did="d9" type="operation">治疗</Denoter></Event>。</Sentence><Sentence><Event eid="e10">据现场<Participant sid="s10">一位区卫生部门工作人员</Participant><Denoter did="d10" type="statement">透露</Denoter></Event>，<Event eid="e11">目前在<Location lid="l11">社区服务中心</Location>接受<Denoter did="d11" type="operation">治疗</Denoter>的员工共有<Participant sid="s11">129人</Participant></Event>，经过治疗所有患者情况都基本稳定，<Event polarity="negative" eid="e12">没有<Denoter type="stateChange" did="d12">生命危险</Denoter></Event>。</Sentence></Paragraph>
+	</Content>
+<eRelation relType="Causal" cause_eid="e3" effect_eid="e6"/>
+	<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>
+</Body>

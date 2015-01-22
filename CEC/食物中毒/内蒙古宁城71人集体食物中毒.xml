@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>内蒙古宁城71人集体食物中毒</Title>
+	<ReportTime type="absTime">2008年4月2日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event type="thoughtevent" eid="e1">据<Participant sid="s1">新华网</Participant><Time tid="t1" type="relTime">4月1日</Time><Denoter did="d1" type="statement">信息</Denoter></Event>：(宋景军) </Sentence><Sentence><Event type="thoughtevent" eid="e2">据内<Participant sid="s2">蒙古自治区宁城县人民政府</Participant><Time tid="t2" type="relTime">4月1日</Time><Denoter did="d2" type="statement">介绍</Denoter></Event>，<Event eid="e3"><Time tid="t3" type="relTime">3月30日下午</Time><Location lid="l3">宁城县甸子镇黑城村</Location>四组发生<Participant oid="o3">73人</Participant>集体<Denoter did="d3" type="emergency">食物中毒</Denoter>事件</Event>，<Event eid="e4"><Time tid="t4" type="relTime">目前</Time>已有<Participant sid="s4">71人</Participant><Denoter did="d4" type="operation">出院</Denoter></Event>。</Sentence></Paragraph>
+     
+　　<Paragraph><Sentence><Event type="thoughtevent" eid="e5">据<Denoter did="d5" type="statement">了解</Denoter></Event>，<Event eid="e6"><Time tid="t6" type="relTime">3月30日中午</Time>，<Participant sid="s6">宁城县甸子镇黑城村四组一户农民</Participant>在<Location lid="l6">家中</Location><Denoter did="d6" type="operation">办丧宴</Denoter></Event>，<Event eid="e7"><Participant  sid="s7">73人</Participant><Denoter did="d7" type="stateChange">出现</Denoter><Object oid="o7">食物中毒症状</Object></Event>，<Event eid="e8">经<Participant sid="s8">当地医院</Participant>对症<Denoter did="d8" type="operation">治疗</Denoter></Event><Event eid="e9"><Participant sid="s9">患者</Participant>陆续<Denoter did="d9" type="operation">出院</Denoter></Event>。</Sentence>
+<Sentence><Event type="thoughtevent" eid="e10">据<Denoter did="d10" type="statement">介绍</Denoter></Event>，<Event eid="e11">事件发生后，<Participant sid="s11">宁城县委、县政府、公安局、卫生局、医院等部门</Participant><Denoter did="d11" type="action">采取</Denoter>积极<Object oid="o11">有效措施</Object></Event>，<Event eid="e12">迅速展开<Denoter did="d12" type="operation">抢救</Denoter><Participant oid="o12">病人</Participant></Event>、<Event eid="e13"><Denoter did="d13" type="perception">了解</Denoter><Object oid="o13">情况</Object></Event>、<Event eid="e14"><Denoter did="d14" type="operation">勘察</Denoter><Object oid="o14">现场</Object></Event>、<Event eid="e15"><Denoter did="d15" type="operation">调查取样</Denoter></Event>等工作。</Sentence></Paragraph>
+ 
+　　<Paragraph><Sentence>截至<Event eid="e16"><Participant sid="s16">记者</Participant><Denoter did="d16" type="operation">发稿</Denoter></Event>时，<Event eid="e17">已有<Participant sid="s17">71人</Participant>痊愈<Denoter did="d17" type="operation">出院</Denoter></Event>，<Event eid="e18">住院<Participant sid="s18">2人</Participant>病情稳定，预计<Time tid="t18" type="relTime">4月2日</Time>可<Denoter did="d18" type="operation">出院</Denoter></Event>。</Sentence></Paragraph>
+	</Content>
+        	<eRelation thoughtcontent_eids="e2-e18" thoughtevent_eid="e1" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e3-e4" thoughtevent_eid="e2" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e6-e9" thoughtevent_eid="e5" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e11-e15" thoughtevent_eid="e10" relType="Thoughtcontent"/>
+		<eRelation relType="Follow" aevent_eid="e9" bevent_eid="e8"/>
+		<eRelation relType="Accompany" accompanyb_eid="e11" accompanya_eid="e12"/>
+		<eRelation relType="Accompany" accompanyb_eid="e17" accompanya_eid="e18"/>
+	
+</Body>

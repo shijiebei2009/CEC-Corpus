@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>山西高速隧道交通事故已确认16名遇难者身份</Title>
+	<ReportTime type="absTime">2014年03月11日20:56</ReportTime>
+　　<Content><Paragraph><Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">新华网太原</Participant><Time type="relTime" tid="t1">3月11日</Time><Denoter type="statement" did="d1">电</Denoter></Event> (记者晏国政 吕梦琦)
+<Event type="thoughtevent" eid="e2"><Participant sid="s2">记者</Participant><Time type="relTime" tid="t2">11日20时</Time>从<Participant oid="o2">山西省晋城市政府新闻办</Participant><Denoter type="statement" did="d2">获悉</Denoter></Event>，
+<Event eid="e3">截至<Time type="relTime" tid="t3">11日10时</Time>，通过<Object oid="o3">DNA</Object><Denoter type="action" did="d3">鉴定</Denoter></Event>，
+<Event eid="e4"><Location lid="l4">二广高速晋城段岩后隧道</Location>“3·1”<Denoter type="emergency" did="d4">事故</Denoter></Event><Event eid="e5"><Time tid="t5" type="relTime">目前</Time><Denoter type="statement" did="d5">确认</Denoter>了<Participant oid="o5">16名遇难</Participant>者身份</Event>。</Sentence></Paragraph>     
+　　<Paragraph><Sentence><Event eid="e6"><Participant sid="s6,s7,s8">有关部门</Participant>反复<Denoter type="operation" did="d6">勘验</Denoter></Event><Event eid="e7"><Denoter type="operation" did="d7">调查</Denoter></Event>，
+<Event eid="e8"><Denoter type="statement" did="d8">确认</Denoter></Event>
+				<Event eid="e9"><Denoter type="action" did="d9">损毁</Denoter><Object oid="o9">车辆42部</Object></Event>，
+<Event eid="e10"><Location lid="l10">现场</Location>有<Participant sid="s10">48人</Participant><Denoter type="action" did="d10">逃生</Denoter></Event>，
+<Event eid="e11">其中<Participant oid="o11,s12">1人</Participant><Denoter type="action" did="d11">抢救</Denoter>无效</Event>
+				<Event eid="e12"><Denoter type="stateChange" did="d12">死亡</Denoter></Event>。</Sentence>
+			<Sentence><Event eid="e13"><Denoter type="emergency" did="d13">事故</Denoter>发生以来</Event>，
+<Event eid="e14">陆续有<Participant sid="s14">群众</Participant><Denoter type="operation" did="d14">申报</Denoter></Event>
+				<Event eid="e15"><Denoter type="stateChange" did="d15">失踪</Denoter></Event>
+				<Event eid="e16"><Denoter type="stateChange" did="d16">失联</Denoter><Participant sid="s15,s16">人员39名</Participant></Event>。</Sentence></Paragraph>
+		<Paragraph>
+　　<Sentence>因现场情况极其复杂，<Event eid="e17"><Denoter type="statement" did="d17">确认</Denoter>遇难人数难度很大</Event>，鉴于
+<Event eid="e18"><Location lid="l18">现场</Location><Denoter type="operation" did="d18">搜集</Denoter>的大部分<Object oid="o18,s19">遗体残骸</Object></Event>
+				<Event eid="e19">高度<Denoter type="stateChange" did="d19">碳化</Denoter></Event>，
+<Event eid="e20"><Participant sid="s20,s21">有关专家</Participant>已<Denoter type="movement" did="d20">赶赴</Denoter><Location type="destination" lid="l20">现场</Location></Event>
+				<Event eid="e21"><Denoter type="action" did="d21">给予</Denoter>技术支持</Event>。</Sentence>
+			<Sentence><Event eid="e22">同时，<Participant sid="s22">公安机关</Participant>已<Denoter type="action" did="d22">组织</Denoter><Participant oid="o22,s23">专门力量</Participant></Event>，
+<Event eid="e23">通过<Means mid="m23" type="method">车辆信息、户籍资料、亲属印证、同乘人员证实</Means>等措施，进一步<Denoter type="statement" did="d23">确认</Denoter></Event>
+				<Event eid="e24">其他<Denoter type="stateChange" did="d24">失踪</Denoter></Event><Event eid="e25"><Denoter type="stateChange" did="d25">失联</Denoter><Object oid="o23">人员身份</Object></Event>。</Sentence></Paragraph>    
+　　<Paragraph><Sentence><Event eid="e26"><Time type="relTime" tid="t26">1日14时50分</Time>，<Location lid="l26">二广高速晋城段岩后隧道</Location>内两辆<Denoter type="action" did="d26">载有</Denoter>液态甲醇的<Object sid="s26,s27">重型罐车</Object></Event><Event eid="e27">发生<Denoter type="action" did="d27">追尾</Denoter></Event>，
+并<Event eid="e28">引发<Denoter type="action" did="d28">起火</Denoter></Event>
+<Event eid="e29"><Denoter type="action" did="d29">爆炸</Denoter></Event>。</Sentence>
+<Sentence><Event type="thoughtevent" eid="e30"><Participant sid="s30">晋城市政府新闻办</Participant><Time type="relTime" tid="t30">5日</Time>曾<Denoter type="statement" did="d30">通报称</Denoter></Event>，
+<Event eid="e31"><Location lid="l31">事故现场</Location><Denoter type="operation" did="d31">搜救</Denoter>工作结束</Event>，<Event eid="e32"><Location lid="l32">现场</Location><Denoter type="operation" did="d32">发现</Denoter><Participant oid="o32">12具遇难者遗体</Participant></Event>，
+<Event eid="e33"><Participant oid="o33">1名伤者</Participant>因<Denoter type="operation" did="d33">抢救</Denoter>无效</Event><Event eid="e34"><Denoter type="stateChange" did="d34">死亡</Denoter></Event>。</Sentence></Paragraph>
+</Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e34"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e5"/>
+<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>
+<eRelation relType="Accompany" accompanya_eid="e6" accompanyb_eid="e7"/>
+<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+<eRelation relType="Causal" cause_eid="e4" effect_eid="e9"/>
+<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10"/>
+<eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11"/>
+<eRelation relType="Causal" cause_eid="e11" effect_eid="e12"/>
+<eRelation relType="Follow" bevent_eid="e13" aevent_eid="e14"/>
+<eRelation relType="Follow" bevent_eid="e13" aevent_eid="e15"/>
+<eRelation relType="Follow" bevent_eid="e13" aevent_eid="e16"/>
+<eRelation relType="Follow" bevent_eid="e20" aevent_eid="e21"/>    
+<eRelation relType="Accompany" accompanya_eid="e21" accompanyb_eid="e22"/>  
+<eRelation relType="Follow" bevent_eid="e22" aevent_eid="e23"/>
+<eRelation relType="Accompany" accompanya_eid="e24" accompanyb_eid="e25"/>
+<eRelation relType="Accompany" accompanya_eid="e26" accompanyb_eid="e27"/>
+<eRelation relType="Causal" cause_eid="e27" effect_eid="e28"/>
+<eRelation relType="Accompany" accompanya_eid="e28" accompanyb_eid="e29"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e30" thoughtcontent_eids="e31-e34"/>
+<eRelation relType="Follow" bevent_eid="e31" aevent_eid="e32"/>
+<eRelation relType="Causal" cause_eid="e33" effect_eid="e34"/>    
+</Body>

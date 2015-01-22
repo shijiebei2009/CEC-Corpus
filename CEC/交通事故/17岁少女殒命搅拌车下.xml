@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>17岁少女　殒命搅拌车下</Title>
+	<ReportTime type="absTime">2006-8-14 9:34:32</ReportTime> 作者：佚名    新闻来源：北京青年报
+<Content>
+　
+    <Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="relTime">8月12日上午11时许</Time>，在<Location lid="l1">八大处公园附近的实兴北街和八大处街交叉口</Location>，<Object sid="s1">一辆水泥搅拌车</Object>将<Participant oid="o1">一骑自行车女孩</Participant><Denoter did="d1" type="action">卷进</Denoter>车轮下，</Event><Event eid="e2"><Participant sid="s2">女孩</Participant>不幸<Denoter did="d2" type="stateChange">身亡</Denoter>。</Event></Sentence><Sentence>女孩17岁，是从浙江老家来京看望在京养蜂的父母的。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e3"><Time tid="t3" type="relTime">昨天上午11时20分许</Time>，在事发现场，<Object sid="s3">一辆印有“北京恒坤”字样的水泥搅拌车</Object>车头向东<Denoter did="d3" type="stateChange">停</Denoter>在<Location lid="l3">十字路口</Location></Event>，<Event eid="e4"><Location lid="l4">后车轮下</Location><Object sid="s4">一辆自行车</Object>已经<Denoter did="d4" type="statement">扭曲变形</Denoter></Event>,地上还有几摊血迹。</Sentence><Sentence><Event eid="e5"><Participant sid="s5">警察</Participant><Time tid="t5" type="relTime">正在</Time><Denoter did="d5" type="operation">勘查</Denoter><Location lid="l5">现场</Location></Event>，<Event eid="e6"><Participant sid="s6,s7">一名40岁左右的男子</Participant><Denoter did="d6" type="action">坐</Denoter>在<Location lid="l6">地上</Location></Event><Event eid="e7"><Denoter did="d7" type="action">痛哭</Denoter>不止</Event>。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e4"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e6"/>
+	<eRelation relType="Accompany" accompanya_eid="e6" accompanyb_eid="e7"/>
+</Body>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>丽景北街发生一起交通事故 一环卫工被撞身亡</Title>
+　<ReportTime type="absTime">2014年03月19日 12:17:48 来源： 宁夏日报</ReportTime>
+	<Content>
+		<Paragraph><Sentence>
+				<Event eid="e1"><Time type="absTime" tid="t1">3月18日上午8时30分</Time>，<Location lid="l1">兴庆区丽景北街</Location>发生一起<Denoter type="emergency" did="d1">交通事故</Denoter></Event>。</Sentence>
+			<Sentence><Event eid="e2"><Object sid="s2,s3">一辆大众途观车</Object>沿<Location type="origin" lid="l2">丽景街</Location>由南向北<Denoter type="movement" did="d2">行驶</Denoter>至<Location type="destination" lid="l2">上海大众金富源4S店门前路段</Location>处</Event>，
+                        <Event eid="e3"><Denoter type="action" did="d3">撞上</Denoter>了正在<Location lid="l3">此处</Location></Event>
+				<Event eid="e4">进行<Location lid="l4">路面</Location><Denoter type="action" did="d4">清扫</Denoter>的<Participant oid="o4">环卫工人周某</Participant></Event>，
+                        <Event eid="e5">致<Participant sid="s5">周某</Participant><Location lid="l5">当场</Location><Denoter type="stateChange" did="d5">死亡</Denoter></Event>。</Sentence>
+		</Paragraph>
+		<Paragraph>
+			<Sentence><Event type="thoughtevent" eid="e6">据<Participant sid="s6">交警</Participant><Denoter type="statement" did="d6">介绍</Denoter></Event>，
+                <Event eid="e7"><Participant sid="s7">驾驶员张某</Participant>，女，25岁，<Denoter type="operation" did="d7">持有</Denoter><Object oid="o7">“C1”型机动车驾驶证</Object></Event>；
+                <Event eid="e8"><Participant sid="s8">环卫工人周某</Participant>，女，54岁，家<Denoter type="operation" did="d8">住</Denoter><Location lid="l8">银川市兴庆区大新镇新水桥村</Location></Event>。</Sentence>
+			<Sentence><Event eid="e9"><Time tid="t9" type="relTime">目前</Time>，<Object oid="o9">涉案车辆</Object>已<Denoter type="operation" did="d9">暂扣</Denoter></Event>，
+                        <Event eid="e10"><Participant oid="o10">驾驶员张某</Participant>已被<Participant sid="s10,s11">警方</Participant><Denoter type="action" did="d10">控制</Denoter></Event>，
+                        <Event eid="e11"><Object oid="o11">案件</Object>还在进一步<Denoter type="operation" did="d11">审理</Denoter>当中</Event>。</Sentence>
+		</Paragraph>
+		<Paragraph>
+			<Sentence>
+			<Event type="thoughtevent" eid="e12">据<Denoter type="statement" did="d12">了解</Denoter></Event>，
+                        <Event eid="e13"><Time type="timeInterval" tid="t13">近几年</Time>，随着银川市车辆保有量的增加，<Participant sid="s13">环卫工人</Participant>在进行<Location lid="l13">路面</Location><Denoter type="operation" did="d13">清扫作业</Denoter>时</Event>，
+                        <Event eid="e14">极易发生<Denoter type="emergency" did="d14">交通事故</Denoter></Event>。</Sentence><Sentence><Event eid="e15">据<Participant sid="s15">兴庆区交警二大队民警</Participant><Denoter type="operation" did="d15">统计</Denoter></Event>，
+                        <Event eid="e16"><Time type="timeInterval" tid="t16">近3年</Time>已有<Participant sid="s16">5名环卫工人</Participant><Denoter type="stateChange" did="d16">死于</Denoter><Object oid="o16">交通事故</Object></Event>。</Sentence><Sentence><Event eid="e17">对此，<Participant sid="s17">交警</Participant><Denoter type="action" did="d17">提醒</Denoter><Participant oid="o17">全市环卫工人</Participant></Event>，
+                        <Event eid="e18">要<Denoter type="operation" did="d18">加强</Denoter><Object oid="o18">自我保护意识</Object></Event>，
+                        <Event polarity="negative" eid="e19">切勿在<Time tid="t19" type="relTime">交通高峰期</Time>进行<Location lid="l19">路面</Location><Denoter type="action" did="d19">清洁</Denoter></Event>。</Sentence>
+		</Paragraph>
+（记者 张佳怡）</Content>
+<eRelation relType="Accompany" accompanya_eid="e2" accompanyb_eid="e3"/>
+<eRelation relType="Accompany" accompanya_eid="e3" accompanyb_eid="e4"/>
+<eRelation relType="Causal" cause_eid="e3" effect_eid="e5"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7-e8"/>
+<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10"/>
+<eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e12" thoughtcontent_eids="e13-e14"/>
+<eRelation relType="Accompany" accompanya_eid="e13" accompanyb_eid="e14"/>
+<eRelation relType="Causal" cause_eid="e16" effect_eid="e17"/>
+<eRelation relType="Accompany" accompanya_eid="e18" accompanyb_eid="e19"/> 
+</Body>

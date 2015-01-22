@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body><Title>埃及西奈半岛发生恐怖袭击 4名韩国人死亡</Title>
+<ReportTime type="absTime">2014年2月16日</ReportTime>
+<Content><Paragraph><Sentence><Event eid="e1" type="thoughtevent">据<Participant sid="s1">韩联社</Participant><Denoter did="d1" type="statement">援引</Denoter></Event><Event eid="e2" type="thoughtevent"><Participant sid="s2">埃及当地媒体</Participant><Time tid="t2" type="relTime">16日</Time><Denoter did="d2" type="statement">报道</Denoter></Event>，<Event eid="e3"><Location lid="l3">埃及东北部西奈半岛</Location><Time tid="t3" type="relTime">当天</Time>发生<Denoter did="d3" type="emergency">恐怖袭击</Denoter>事件</Event>，造成<Event eid="e4"><Participant sid="s4">4名韩国人</Participant><Denoter did="d4" type="stateChange">死亡</Denoter></Event>，<Event eid="e5"><Participant sid="s5">21人</Participant><Denoter did="d5" type="stateChange">受伤</Denoter></Event>。</Sentence><Sentence>受伤人员中的大部分是韩国游客。</Sentence></Paragraph>
+　　
+　　 <Paragraph><Sentence><Event eid="e6" type="thoughtevent"><Denoter did="d6" type="statement">据悉</Denoter></Event>，<Event eid="e7"><Participant oid="o7,o8">受伤人员</Participant>已被<Denoter did="d7" type="movement">送往</Denoter>附近的<Location lid="l7">医院</Location></Event>
+接受<Event eid="e8"><Denoter did="d8" type="operation">治疗</Denoter></Event>。</Sentence><Sentence><Event eid="e9">这起<Denoter did="d9" type="emergency">恐怖袭击</Denoter>事件发生在<Location lid="l9">埃及和以色列的边境地区</Location></Event>，<Event eid="e10">一辆<Participant sid="s10">多名韩国游客</Participant><Denoter did="d10" type="action">乘坐</Denoter>的<Object oid="o10,o11">巴士</Object></Event><Event eid="e11">遭到<Denoter did="d11" type="emergency">袭击</Denoter></Event>。</Sentence></Paragraph></Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e5"/>
+<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>
+<eRelation relType="Causal" cause_eid="e3" effect_eid="e5"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7-e11"/>
+<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e7"/>
+<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e11"/>
+<eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>
+
+
+
+</Body>

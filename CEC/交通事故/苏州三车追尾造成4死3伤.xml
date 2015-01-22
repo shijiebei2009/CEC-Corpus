@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>苏州三车追尾造成4死3伤</Title>
+	<ReportTime type="absTime">2007-7-30</ReportTime>
+	<Content>
+		<Paragraph><Sentence>
+                <Event eid="e1"><Time type="relTime" tid="t1">7月30日晚11时许</Time>，
+                位于<Location lid="l1">苏州吴江市苏震桃公路与天鹅荡路十字路口</Location>
+                发生<Object sid="s1">三车</Object><Denoter type="emergency" did="d1">追尾</Denoter>特大交通事故</Event>，
+                共造成<Event eid="e2"><Participant sid="s2">4</Participant><Denoter type="stateChange" did="d2">死</Denoter></Event>
+                <Event eid="e3"><Participant sid="s3">3</Participant><Denoter type="stateChange" did="d3">伤</Denoter></Event>。</Sentence>
+                <Sentence><Event eid="e4"><Denoter type="emergency" did="d3">事故</Denoter>发生</Event>后，<Event eid="e5"><Participant sid="s5，s6">公安、消防、120等多部门</Participant>迅速<Denoter type="operation" did="d5">出动</Denoter></Event>，<Event eid="e6">全力实施<Denoter type="operation" did="d6">救援</Denoter></Event>。</Sentence></Paragraph>
+	</Content>
+	
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+	<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>
+	<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+
+</Body>

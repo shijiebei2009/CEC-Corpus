@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+<Title>老小区深夜突发大火 辅警冲进火场救出两老人</Title>
+<ReportTime  type="absTime">2013-12-31</ReportTime>
+<Content>
+<Paragraph><Sentence>
+<Event  eid="e1">
+<Time  tid="t1"  type="relTime">12月26日凌晨</Time>，
+<Location  lid="l1">吴江区盛泽镇心开弄</Location>
+<Object  oid="o1">一幢住宅楼</Object>
+<Denoter  type="emergency"  did="d1">着火</Denoter>，
+</Event>
+且火势很猛，有蔓延的趋势。
+</Sentence>
+
+<Sentence>
+<Event  eid="e2">接到
+<Denoter  did="d2"  type="action">报警</Denoter>后，
+</Event>
+
+<Event  eid="e3">
+<Participant  sid="s3">盛泽公安分局治安巡逻队的队员</Participant>们
+立即第一时间
+<Denoter  type="movement"  did="d3">赶至</Denoter>
+<Location  type="destination"  lid="l3">现场</Location>，
+</Event>
+
+<Event  eid="e4">
+<Participant  sid="s4">其他队员</Participant>也纷纷
+<Denoter  type="movement"  did="d4">赶来</Denoter>
+<Object  oid="o4">支援</Object>。
+</Event>
+</Sentence>
+
+<Sentence>
+由于这是一个老住宅区，附近都是老房子，有的甚至是木质房，
+<Event  eid="e5">当队员
+<Denoter  did="d5"  type="movement">赶到</Denoter>时，
+</Event>
+
+<Event  eid="e6">熊熊的
+<Object  sid="s6">大火</Object>已经将
+<Object  oid="o6">3间屋子</Object>
+<Denoter  did="d6"  type="operation">吞噬</Denoter>，
+</Event>
+
+瓦片和椽木全都掉落下来，还能听到“砰”的一声巨响，顿时火光四射。
+</Sentence>
+<Sentence>
+<Event  eid="e7">面对此情景，
+<Participant  sid="s7,s8,s9,s10">队员们</Participant>立即
+<Denoter  did="d7"  type="operation">展开</Denoter>
+<Object  oid="o7">分工</Object>，
+</Event>
+
+<Event  eid="e8">有的挨家挨户拍门
+<Denoter  did="d8"  type="movement">叫醒</Denoter>还在
+<Participant  oid="o8">沉睡中的住户</Participant>，
+</Event>
+
+<Event  eid="e9">有的负责
+<Denoter  did="d9"  type="operation">抢救</Denoter>
+<Object  oid="o9">物品</Object>，
+</Event>
+
+<Event  eid="e10">有的借盆装水
+<Denoter  type="stateChange"  did="d10">灭火</Denoter>。
+</Event>
+</Sentence></Paragraph>   </Content>
+<eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>
+<eRelation relType="Accompany" accompanya_eid="e3" accompanyb_eid="e4"/>
+<eRelation relType="Causal" cause_eid="e6" effect_eid="e7"/>
+<eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>
+<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10"/>
+</Body>

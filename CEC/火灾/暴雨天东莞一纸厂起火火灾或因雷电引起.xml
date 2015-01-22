@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+
+<Title>暴雨天东莞一纸厂起火 火灾或因雷电引起</Title> 
+<ReportTime type="absTime">2014年3月31日</ReportTime>
+ <Content>
+<Paragraph>
+<Sentence>
+<Event type="thoughtevent" eid="e1"><Participant sid="s1">本报</Participant><Location lid="l1">东莞</Location><Denoter type="statement" did="d1">讯</Denoter></Event>（记者陈臣、吴城华）
+<Event eid="e2"><Time type="relTime" tid="t2">昨日7时许</Time>，<Location lid="l2">东莞万江新村卢屋工业区的一家纸品厂</Location>突发<Denoter type="emergency" did="d2">大火</Denoter></Event>，过火面积1200余平方米，
+<Event eid="e3"><Object oid="o3">浓烟</Object><Location lid="l3">周围十余公里外</Location>都能<Denoter type="perception" did="d3">见到</Denoter></Event>。</Sentence>
+
+<Sentence>
+由于仓库纸品堆积较多，加上<Event eid="e4"><Object sid="s4">风势</Object>助<Denoter type="emergency" did="d4">燃</Denoter></Event>，
+<Event eid="e5"><Participant sid="s5,s6,s7,s8">消防部门</Participant>前后<Denoter type="action" did="d5">出动</Denoter>了<Object oid="o5">8辆消防车</Object></Event>，
+<Event eid="e6">共<Denoter type="action" did="d6">派出</Denoter><Participant oid="o6">33名指战员</Participant></Event>
+<Event eid="e7"><Denoter type="operation" did="d7">驰援</Denoter></Event>，
+<Event eid="e8">最终于<Time type="relTime" tid="t8">上午10时许</Time>将<Object oid="o8">火情</Object><Denoter did="d8" type="operation">控制</Denoter></Event>。
+<Event polarity="negative" eid="e9">所幸大火没有造成<Participant sid="s9">人员</Participant><Denoter type="stateChange" did="d9">伤亡</Denoter></Event>。</Sentence></Paragraph>
+
+<Paragraph>
+<Sentence>
+<Event eid="e10"><Time type="relTime" tid="t10">昨日上午9时许</Time>，<Participant sid="s10">记者</Participant>接报<Denoter type="movement" did="d10">赶往</Denoter><Location type="destination" lid="l10">现场</Location></Event>，
+<Event eid="e11"><Location lid="l11">在南城与万江的交界处</Location>，已能<Denoter type="perception" did="d11">看见</Denoter>十余公里外的<Object oid="o11">滚滚浓烟</Object></Event>。</Sentence>
+
+<Sentence>
+“<Event type="thoughtevent" eid="e12"><Time type="relTime" tid="t12">7点不到</Time>，<Participant sid="s12">我</Participant>就<Denoter type="perception" did="d12">听到</Denoter></Event>
+<Event eid="e13"><Object sid="s13">报警器</Object>不停地<Denoter  type="action" did="d12">响</Denoter></Event>，一开始还以为是有贼偷车。起来一看才知道，
+<Event eid="e14">原来<Object sid="s14">纸厂</Object><Denoter type="emergency" did="d14">起火</Denoter>了</Event>。”</Sentence>
+<Sentence>
+<Event type="thoughtevent" eid="e15"><Location lid="l15">起火纸品厂附近</Location><Participant sid="s15">居民徐先生</Participant><Denoter type="statement" did="d15">说</Denoter></Event>，
+<Event eid="e16"><Time type="relTime" tid="t16">当时</Time><Object sid="s16">浓烟</Object>像云雾一样，把<Location lid="l16">周围</Location>的<Object oid="o16">天空</Object>都<Denoter type="action" did="d16">笼罩</Denoter>了</Event>。</Sentence></Paragraph>
+
+<Paragraph>
+<Sentence>
+<Event eid="e17"><Participant sid="s17">记者</Participant>向<Location lid="l17">现场</Location>消防人员<Denoter type="perception" did="d17">了解</Denoter></Event>
+<Event type="thoughtevent" eid="e18"><Denoter type="perception" did="d18">得知</Denoter></Event>，
+<Event eid="e19"><Denoter type="emergency" did="d19">大火</Denoter>大概发生于<Time type="relTime" tid="t19">早晨7点多钟</Time></Event>，
+虽然不时下雨，但仓库内纸品堆放较多，加上大风的天气使得火势加大，
+<Event polarity="negative" eid="e20">很难彻底<Denoter type="stateChange" did="d20">扑灭</Denoter></Event>。</Sentence></Paragraph>
+
+<Paragraph>
+<Sentence>“加上顶部铁架随时有坍塌的危险，所以一时不敢靠得太近，这些因素也给灭火工作带来了很大的麻烦。”一名消防人员告诉记者。</Sentence>
+<Sentence>
+<Event type="thoughtevent" eid="e21"><Time type="relTime" tid="t21">9时30分许</Time>，隐约还能<Denoter type="perception" did="d21">看见</Denoter></Event>
+<Event eid="e22"><Location lid="l22">仓库内</Location>有<Object sid="s22">明火</Object><Denoter type="emergency" did="d22">燃烧</Denoter></Event>，不时发出“噼噼啪啪”声。</Sentence></Paragraph>
+
+<Paragraph>
+<Sentence>
+至于大火发生的原因，<Event type="thoughtevent" eid="e23"><Location lid="l23">现场</Location><Participant sid="s23">一位指挥灭火工作的相关负责人</Participant><Denoter type="statement" did="d23">称</Denoter></Event>，
+<Event eid="e24">可能是<Object sid="s24">雷电</Object><Denoter type="stateChange" did="d24">击坏</Denoter>了<Object oid="o24">电表或其他设备</Object></Event>，
+<Event eid="e25">进而引发<Denoter type="emergency" did="d25">大火</Denoter></Event>，
+<Event eid="e26"><Object oid="o26">具体原因</Object>还有待<Denoter type="operation" did="d26">调查</Denoter></Event>。</Sentence>
+<Sentence>
+<Event type="thoughtevent" eid="e27"><Time type="relTime" tid="t27">同时</Time>，<Participant sid="s27">记者</Participant>也<Denoter type="perception" did="d27">了解</Denoter>到</Event>，
+起火点为一纸品厂的仓库，平时堆放着该厂的一些半成品和回收的废旧纸张等，除了看管该仓库的工作人员外，
+并无其他员工在此居住或工作，
+<Event polarity="negative" eid="e28">因此大火幸未造成<Participant sid="s28">人员</Participant><Denoter type="stateChange" did="d28">伤亡</Denoter></Event>。</Sentence></Paragraph>
+
+<Paragraph>
+<Sentence>不过，
+<Event eid="e29"><Time type="relTime" tid="t29">直至昨日下午1时许</Time>，<Participant sid="s29">记者</Participant><Denoter type="action" did="d29">离开</Denoter><Location lid="l29">起火现场</Location></Event>时，
+<Event eid="e30"><Object oid="o30">大火</Object>才基本<Denoter type="stateChange" did="d30">熄灭</Denoter></Event>。</Sentence></Paragraph>
+
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e30"/>
+<eRelation relType="Causal" cause_eid="e2,e4" effect_eid="e5,e6,e7"/>
+<eRelation relType="Causal" cause_eid="e5,e6,e7" effect_eid="e8,e9"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e12" thoughtcontent_eids="e13"/>
+<eRelation relType="Causal" cause_eid="e14" effect_eid="e13"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e15" thoughtcontent_eids="e16"/>
+<eRelation relType="Follow" bevent_eid="e17" aevent_eid="e18"/>
+ <eRelation relType="Thoughtcontent" thoughtevent_eid="e19" thoughtcontent_eids="e19-e20"/>
+ <eRelation relType="Thoughtcontent" thoughtevent_eid="e21" thoughtcontent_eids="e22"/>
+ <eRelation relType="Thoughtcontent" thoughtevent_eid="e23" thoughtcontent_eids="e24-e26"/>
+ <eRelation relType="Causal" cause_eid="e24" effect_eid="e25"/>
+ <eRelation relType="Thoughtcontent" thoughtevent_eid="e27" thoughtcontent_eids="e28"/>
+ <eRelation relType="Accompany" accompanya_eid="e29" accompanyb_eid="e30"/>
+</Content></Body>

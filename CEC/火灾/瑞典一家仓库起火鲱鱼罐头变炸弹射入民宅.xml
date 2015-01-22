@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>瑞典一家仓库起火 鲱鱼罐头变炸弹射入民宅</Title>
+	<ReportTime type="absTime">2014-05-04 14:47:00</ReportTime>
+	<Content><Paragraph><Sentence><Event eid="e1" type="thoughtevent"><Participant sid="s1">中新网</Participant><Time tid="t1" type="relTime">5月4日</Time><Denoter did="d1" type="statement">电</Denoter></Event>
+				<Event eid="e2" type="thoughtevent">据<Participant sid="s2">外媒</Participant><Denoter did="d2" type="statement">报道</Denoter></Event>，<Event eid="e3"><Time tid="t3" type="relTime">近日</Time><Location lid="l3">瑞典东海岸一所仓库</Location>突发<Denoter did="d3" type="emergency">大火</Denoter></Event>，导致<Event eid="e4"><Location lid="l4">仓库内</Location>的<Object sid="s4">鲱鱼罐头</Object>发生<Denoter did="d4" type="stateChange">爆炸</Denoter></Event>并<Event eid="e5">被炸<Denoter did="d5" type="movement">飞出</Denoter><Location lid="l5" type="origin">仓库</Location>数百米</Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e6" type="thoughtevent"><Object sid="s6">报道</Object><Denoter did="d6" type="statement">称</Denoter></Event>，起火时，<Event eid="e7"><Location lid="l7">仓库内</Location>有<Participant sid="s7-s9">四名管理员</Participant>正在<Denoter did="d7" type="operation">休息</Denoter></Event>，在<Event eid="e8"><Denoter did="d8" type="perception">发现</Denoter><Object oid="o8">火情</Object></Event>后，<Event eid="e9">迅速<Denoter did="d9" type="movement">逃离</Denoter>了<Location lid="l9" type="origin">现场</Location></Event>，所幸没有受到任何伤害。</Sentence></Paragraph></Content>
+                
+                
+ <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e9"/>             
+ <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e9"/> 
+ <eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/> 
+ <eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5"/>
+ <eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7-e9"/>
+ <eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+ <eRelation relType="Follow" bevent_eid="e8" aevent_eid="e9"/>
+                </Body>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>昆明发生森林火灾 市民称烟雾笼罩市区</Title>
+	<ReportTime type="absTime">2014年04月17日11:37</ReportTime>
+	<Content><Paragraph><Sentence><Event eid="e1" type="thoughtevent"><Participant sid="s1">中新网</Participant><Location lid="l1">昆明</Location><Time tid="t1" type="relTime">4月16日</Time><Denoter did="d1" type="statement">电</Denoter></Event> (记者 史广林)<Event eid="e2"><Time tid="t2" type="relTime">16日下午</Time>，<Location lid="l2">昆明市西山区棋台山</Location>发生<Denoter did="d2" type="emergency">森林火灾</Denoter></Event>，目前火势较大。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e3"><Time tid="t3" type="relTime">当日16时许</Time>，<Location lid="l3">昆明市城区西边</Location>突然升起一团<Denoter did="d3" type="emergency">浓烟</Denoter></Event>。住在主城区的一位市民称，“浓烟遮天蔽日，笼罩了市区大半个天空。”</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e4" type="thoughtevent"><Participant sid="s4">记者</Participant>从昆明市森林防火指挥部<Denoter did="d4" type="perception">获悉</Denoter></Event>，<Event eid="e5"><Location lid="l5">西山区团结镇棋台社区棋台山</Location>发生<Denoter did="d5" type="emergency">森林火灾</Denoter></Event>，<Event eid="e6"><Participant sid="s6-s7">森林消防人员</Participant>已<Denoter did="d6" type="movement">赶赴</Denoter><Location lid="l6">火场</Location></Event><Event eid="e7"><Denoter did="d7" type="operation">扑救</Denoter></Event>。</Sentence></Paragraph></Content>
+                
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e7"/>       
+<eRelation relType="Accompany" accompanya_eid="e2" accompanyb_eid="e3"/>  
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5-e7"/> 
+<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>
+      
+                </Body>

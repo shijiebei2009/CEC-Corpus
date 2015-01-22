@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>埃及西奈半岛爆炸案</Title>
+	<ReportTime type="absTime">2004年10月8日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="relTime">10月7日晚10时</Time>，<Location lid="l1">埃及红海旅游胜地西奈半岛</Location>接连发生<Denoter did="d1" type="emergency">3起爆炸</Denoter></Event>，<Event eid="e2">至少造成<Participant oid="o2">35名以色列游客</Participant><Denoter did="d2" type="stateChange">死亡</Denoter></Event>，<Event eid="e3"><Participant oid="o3">160多人</Participant><Denoter did="d3" type="stateChange">受伤</Denoter></Event>。</Sentence><Sentence>这是巴以冲突4年来，埃及境内首次发生针对以色列平民的袭击事件。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event eid="e4">距埃以塔巴边界检查站仅200米远的<Location lid="l4">埃及塔巴希尔顿饭店</Location>首先发生剧烈<Denoter did="d4" type="emergency">爆炸</Denoter></Event>，<Event eid="e5">另外<Denoter did="d5" type="emergency">两起爆炸</Denoter>分别发生在塔巴南部的<Location lid="l5">希塔尼角</Location>和<Location lid="l5">苏尔坦角</Location>两个旅游度假村</Event>。</Sentence><Sentence>爆炸发生的当天是犹太人“住棚节”的最后一天，<Event eid="e6"><Participant sid="s6">许多以色列人</Participant>当时都在<Location lid="l6">西奈半岛</Location><Denoter did="d6" type="action">度假</Denoter></Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event eid="e7" type="thoughtevent"><Participant sid="s7">埃及安全部门</Participant><Time tid="t7" type="relTime">10月25日</Time><Denoter did="d7" type="statement">宣布</Denoter></Event>，一名对巴以冲突不满的巴勒斯坦人是塔巴希尔顿饭店爆炸事件的主谋。</Sentence><Sentence><Event eid="e8">这个名叫<Participant sid="s8">伊亚德·赛义德·萨拉赫</Participant>的巴勒斯坦人与另一个名叫<Participant sid="s8">苏莱曼·艾哈迈德·萨利赫</Participant>的埃及人<Denoter did="d8" type="operation">实施</Denoter>了<Object oid="o8">爆炸</Object></Event>。</Sentence><Sentence><Event eid="e9">由于<Object oid="o9">汽车炸弹</Object>提前<Denoter did="d9" type="emergency">爆炸</Denoter></Event>，<Event eid="e10"><Participant oid="o10">两人</Participant>均在爆炸中<Denoter did="d10" type="stateChange">丧生</Denoter></Event>。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+	<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>
+	<eRelation relType="Accompany" accompanya_eid="e5" accompanyb_eid="e6"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8-e10"/>
+	<eRelation relType="Causal" cause_eid="e9" effect_eid="e10"/>
+</Body>

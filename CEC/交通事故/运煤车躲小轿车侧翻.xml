@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>运煤车躲小轿车侧翻</Title>
+	<ReportTime type="absTime">2008-4-15 13:47:03</ReportTime>
+ 
+        <Content>
+        <Paragraph>
+ <Sentence><Event eid="e1" type="thoughtevent"><Participant sid="s1">本报</Participant><Denoter type="statement" did="d1">讯 </Denoter></Event>(记者雷娜)
+     </Sentence>
+   <Sentence><Event eid="e2"><Time type="relTime" tid="t2">昨天上午11时许</Time>，<Location lid="l2">顺平路北窑上桥南两公里处</Location>，<Object sid="s2，s3">一辆满载煤炭的大货车</Object>为<Denoter type="action" did="d2">躲避</Denoter>前方突然并线的<Object oid="o2">小轿车</Object></Event>，
+   <Event eid="e3">失控<Denoter type="action" did="d3">侧翻</Denoter>到<Location lid="l3">逆行车道</Location>。</Event></Sentence>
+   <Sentence><Event eid="e4">事故中<Participant sid="s4">司机</Participant><Denoter type="stateChange" did="d4">受伤</Denoter></Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e5" type="thoughtevent"><Time type="relTime" tid="t5">昨天上午</Time>，<Participant sid="s5">记者</Participant>在<Location lid="l5">现场</Location><Denoter type="perception" did="d5">看到</Denoter></Event>，<Event eid="e6">一辆挂着“京G35824”牌照的<Object sid="s6">黄色大货车</Object>向左<Denoter type="action" did="d6">侧翻</Denoter>在<Location lid="l6">顺平路由北向南车道</Location></Event>。</Sentence>
+                <Sentence><Event eid="e7"><Object oid="o7">车前风挡玻璃</Object><Denoter type="stateChange" did="d7">碎落</Denoter>一地</Event>，
+                <Event eid="e8">车上的<Object oid="o8">煤</Object><Denoter type="action" did="d8">倾倒</Denoter>在<Location lid="l8">地上</Location></Event>。
+                <Event eid="e9"><Participant sid="s9">几名工人</Participant>正在向前来救援的<Object oid="o9">铲车上</Object><Denoter type="action" did="d9">装煤</Denoter></Event>，
+                <Event eid="e10">准备<Denoter type="action" did="d10">拉走</Denoter></Event>。</Sentence>
+                <Sentence><Event eid="e11" type="thoughtevent">目击者<Participant sid="s11">李先生</Participant><Denoter type="statement" did="d11">说</Denoter></Event>，
+                <Event eid="e12">装煤的<Object sid="s12">货车</Object>本是由南向北行驶，为了<Denoter type="action" did="d12">躲避</Denoter>前面突然并线的<Object sid="s12">小轿车</Object></Event>
+                而<Event eid="e13"><Denoter type="action" did="d13">侧翻</Denoter>。</Event></Sentence>
+                <Sentence>“<Event eid="e14"><Object sid="s14">车</Object><Denoter type="action" did="d14">翻</Denoter></Event>后，<Event eid="e15"><Denoter type="action" did="d15">滑行</Denoter>到了<Location lid="l15">逆行车道</Location></Event>，<Event eid="e16"><Object oid="o16">车头</Object>还<Denoter type="action" did="d16">转</Denoter>了90度</Event>。”</Sentence>
+                <Sentence><Event eid="e17"><Denoter type="emergency" did="d17">事</Denoter></Event>后，
+                <Event eid="e18"><Participant sid="s18，s19，s20">交警</Participant><Denoter type="movement" did="d18">赶到</Denoter><Location type="destination" lid="l18">现场</Location></Event>
+                <Event eid="e19"><Denoter type="operation" did="d19">封锁</Denoter>了由北向南的<Object oid="o19">车道</Object></Event>，<Event eid="e20">并<Denoter type="operation" did="d20">疏导</Denoter><Object oid="o20">出京车辆</Object></Event>改道非机动车道行驶。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e20"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>
+	<eRelation relType="Causal" cause_eid="e6" effect_eid="e7"/>
+	<eRelation relType="Causal" cause_eid="e6" effect_eid="e8"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e11" thoughtcontent_eids="e12-e16"/>
+	<eRelation relType="Causal" cause_eid="e12" effect_eid="e13"/>
+	<eRelation relType="Accompany" accompanya_eid="e14" accompanyb_eid="e15"/>
+	<eRelation relType="Accompany" accompanya_eid="e15" accompanyb_eid="e16"/>
+	<eRelation relType="Follow" bevent_eid="e17" aevent_eid="e18"/>
+	<eRelation relType="Follow" bevent_eid="e18" aevent_eid="e19"/>
+	<eRelation relType="Accompany" accompanya_eid="e19" accompanyb_eid="e20"/>
+
+</Body>

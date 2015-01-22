@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>洪都拉斯首都一市场发生火灾</Title>
+	<ReportTime type="absTime">2009-07-31</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1"><Location lid="l1">洪都拉斯首都特古西加尔巴市中心一个市场</Location><Time tid="t1" type="relTime">３０日</Time>发生<Denoter type="emergency" did="d1">大火</Denoter></Event>，<Event eid="e2"><Object sid="s2">火势</Object>随即<Denoter did="d2" type="action">蔓延</Denoter>到<Location lid="l2">附近的商业区和银行区</Location></Event>，但目前尚未有人员死伤的报告。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event eid="e3"><Time tid="t3" type="relTime">当地时间清晨５点３０分左右</Time>，<Location lid="l3">位于洪首都特古西加尔巴市中心位置的科隆市场</Location>突然<Denoter did="d3" type="action">起火</Denoter></Event>，<Event eid="e4"><Object sid="s4,s5">火势</Object>很快<Denoter did="d4" type="action">蔓延</Denoter>到<Location lid="l4">附近一家以经营服装为主的街道</Location></Event>，并<Event eid="e5"><Denoter did="d5" type="stateChange">影响</Denoter>到了周边的<Object oid="o5">银行</Object>和<Object oid="o5">学校</Object></Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event type="thoughtevent" eid="e6"><Participant sid="s6">记者</Participant><Denoter did="d6" type="perception">看到</Denoter></Event>，<Event eid="e7">历史悠久的<Object oid="o7">克隆市场</Object>几乎完全<Denoter did="d7" type="stateChange">毁</Denoter>于<Object oid="o7">火灾</Object></Event>。</Sentence><Sentence><Event eid="e8"><Location lid="l8">火灾现场附近的数十条街区</Location>都<Denoter did="d8" type="action">笼罩</Denoter>在<Object oid="o8">浓烟</Object>之中</Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event eid="e9"><Participant oid="o9" sid="s10">洪首都消防总队发言人奥斯卡</Participant>在接受<Participant sid="s10">新华社记者</Participant><Denoter did="d9" type="operation">采访</Denoter></Event>的时<Event type="thoughtevent" eid="e10"><Denoter did="d10" type="statement">说</Denoter></Event>，为了<Event eid="e11"><Denoter did="d11" type="operation">控制</Denoter><Object oid="o11">火势</Object></Event>，<Event eid="e12"><Participant sid="s12">他们</Participant><Denoter did="d12" type="operation">出动</Denoter>了附近消防站全部的<Object oid="o12" sid="s13">１８辆消防车</Object>和<Participant oid="o12" sid="s13">２５０名消防员</Participant></Event>，<Event eid="e13">经过数小时的<Denoter did="d13" type="operation">紧急扑救</Denoter></Event>，<Event eid="e14"><Object oid="o14">火势</Object>已经基本得到了<Denoter did="d14" type="operation">控制</Denoter></Event>，但是<Event eid="e15" polarity="negative">暂时还未<Denoter did="d15" type="operation">探明</Denoter><Object oid="o15">起火原因</Object></Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event type="thoughtevent" eid="e16"><Participant oid="o17">奥斯卡</Participant><Denoter type="statement" did="d16">说</Denoter></Event>，由于火灾发生在清晨，市场内商贩不多，因此目前尚未有人员死伤的报告。</Sentence><Sentence>不过根据洪首都消防总队的记录，本次火灾是首都地区近十年历史上最为严重的一次。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence>由于洪都拉斯因军事政变正处于敏感时期，<Event eid="e17">为<Denoter type="operation" did="d17">防止</Denoter><Participant oid="o17">激进分子</Participant>借机滋事</Event>，
+<Event eid="e18"><Participant sid="s18">洪警方</Participant>已经<Denoter did="d18" type="operation">派遣</Denoter><Participant oid="o18" sid="s19,s20,s21">大量警力</Participant></Event>
+<Event eid="e19"><Denoter did="d19" type="movement">前往</Denoter><Location lid="l19" type="destination">现场</Location></Event>
+<Event eid="e20"><Denoter did="d20" type="operation">维持</Denoter><Object oid="o20">秩序</Object></Event>并
+<Event eid="e21">开始<Denoter did="d21" type="operation">调查</Denoter>火灾的真正<Object oid="o21">原因</Object></Event>。</Sentence></Paragraph>    
+        
+	</Content><eRelation relType="Follow" bevent_eid="e1" aevent_eid="e2"/>
+	<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>
+	<eRelation relType="Causal" cause_eid="e4" effect_eid="e5"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7-e8"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eids="e11-e15"/>
+	<eRelation relType="Causal" cause_eid="e13" effect_eid="e14"/>
+	<eRelation relType="Follow" bevent_eid="e18" aevent_eid="e19"/>
+	<eRelation relType="Follow" bevent_eid="e19" aevent_eid="e20"/>
+	<eRelation relType="Accompany" accompanya_eid="e20" accompanyb_eid="e21"/>	
+</Body>

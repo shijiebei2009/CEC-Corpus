@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>四川攀枝花与凉山会理县交界发生6.1级地震</Title>
+	<ReportTime type="absTime">2008年08月30日17:08</ReportTime>
+	<Content>
+		<Paragraph>
+			<Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">新华网北京</Participant><Time tid="t1" type="relTime">8月30日</Time><Denoter did="d1" type="statement">电</Denoter></Event></Sentence>
+			<Sentence>
+				<Event eid="e2">据<Participant sid="s2">中国国家地震台网</Participant><Denoter type="operation" did="d2">测定</Denoter></Event>，
+				<Event eid="e3"><Time type="absTime" tid="t3">北京时间2008年8月30日16时30分</Time>，在<Location lid="l3">四川省攀枝花市仁和区、凉山彝族自治州会理县交界处</Location>（北纬26．2度，东经101．9度）发生6．1级<Denoter type="emergency" did="d3">地震</Denoter></Event>，震中位于攀枝花市区东南约50公里。
+			</Sentence>
+			<Sentence>
+				震源深度10公里。
+			</Sentence>
+		</Paragraph>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e3"/>	
+	</Content>
+</Body>

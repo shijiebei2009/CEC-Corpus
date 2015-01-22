@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+  
+<Title>保加利亚索非亚市一华商集中商城发生火灾</Title>
+ <ReportTime type="absTime">2009年03月06日</ReportTime>	
+ <Content>
+ 
+    <Paragraph> 
+       <Sentence>
+          <Event type="thoughtevent" eid="e1">
+            <Participant sid="s1">新华网</Participant> 
+            <Location lid="l1"> 索非亚</Location>
+            <Time type="relTime" tid="t1">３月５日</Time>
+            <Denoter type="statement" did="d1">电</Denoter> 
+          </Event>
+          （记者王蒙）
+          <Event eid="e2">
+            保加利亚首都索非亚华商较集中的
+            <Location lid="l2">伊连齐商城一个销售厅</Location>
+            <Time type="relTime" tid="t2">５日清晨</Time>
+            发生
+            <Denoter type="emergency" did="d2">火灾</Denoter>
+            。
+          </Event>
+      </Sentence>
+      <Sentence>
+        <Event polarity="negative" eid="e3">
+          <Time type="relTime" tid="t3">目前</Time>
+          <Participant oid="o3">没有人员</Participant>
+          伤亡的
+          <Denoter type="statement" did="d3">报道</Denoter>
+        </Event>
+           。
+   </Sentence>
+ </Paragraph>
+		
+ <Paragraph>
+   <Sentence>
+      <Event  type="thoughtevent" eid="e4">
+        据保加利亚中国商会副会长
+        <Participant sid="s4">陈建军</Participant>
+        <Denoter type="statement" did="d4">介绍</Denoter>
+      </Event>
+      ，销售厅一楼是店面，二楼是仓库。
+   </Sentence>
+   <Sentence>除两家阿拉伯商户外，其余均为华商。</Sentence>
+   <Sentence>经初步统计，受灾商户大约有３０多家。</Sentence>
+   <Sentence>
+      <Event eid="e5">
+         <Object oid="o5">大火</Object>
+         是在
+         <Time type="relTime" tid="t5">当地时间８时左右</Time>
+         被
+         <Denoter type="perception" did="d5">发现</Denoter>
+         的
+      </Event>
+      ，
+      <Event eid="e6">
+         <Time tid="t6" type="relTime">当时</Time>
+         <Participant sid="s6,s7">许多商户</Participant>
+         刚刚
+         <Denoter type="movement" did="d6">来到</Denoter>
+         <Location lid="l6">市场</Location>
+      </Event>
+      <Event eid="e7">
+        准备开始
+        <Denoter type="operation" did="d7">营业</Denoter>
+      </Event>
+      。
+   </Sentence>
+ </Paragraph>
+		
+ <Paragraph>
+    <Sentence>
+       <Event eid="e8">
+          <Time type="timeInterval" tid="t8">截至当地时间１２时</Time>
+          ，
+          <Object oid="o8">大火</Object>
+          已基本被
+          <Denoter type="stateChange" did="d8">扑灭</Denoter>
+       </Event>
+       ，
+       <Event polarity="negative" eid="e9">
+         <Location lid="l9">市场周边</Location>
+         的
+         <Object oid="o9">交通管制</Object>
+          仍没有
+         <Denoter type="stateChange" did="d9">解除</Denoter>
+       </Event>
+       ，
+       <Event eid="e10">
+          <Object oid="o10">整个市场</Object>
+          也已
+          <Denoter type="stateChange" did="d10">停业</Denoter>
+       </Event>
+       。
+    </Sentence>
+    <Sentence>据初步估计，过火面积有可能近４０００平方米。</Sentence>
+</Paragraph>
+
+<Paragraph>
+   <Sentence>
+     <Event eid="e11">
+      华商的
+        <Object oid="o11">损失情况</Object>
+        正在
+        <Denoter type="operation" did="d11">统计</Denoter>
+        中
+      </Event>
+      ，
+      <Event  type="thoughtevent" eid="e12">
+        但据一位来自浙江的
+        <Participant sid="s12">受灾商户</Participant>
+        <Denoter type="statement" did="d12">介绍</Denoter>
+      </Event>
+      ，
+      <Event eid="e13">
+      仅
+        <Participant sid="s13">他一家</Participant>
+        <Location lid="l13">在销售厅内</Location>
+        就
+        <Denoter type="action" did="d13">存放</Denoter>
+        有价值１０多万欧元的
+        <Object oid="o13">货物</Object>
+      </Event>
+      。
+   </Sentence>
+</Paragraph>
+
+<Paragraph>
+  <Sentence>
+    <Event type="thoughtevent" eid="e14">
+      据索非亚消防部门负责人
+      <Participant sid="s14">伊万·伊利耶夫</Participant>
+      <Denoter type="statement" did="d14">介绍</Denoter>
+    </Event>
+    ，由于销售厅内堆积的货物主要是纺织品，火势很难控制住。
+  </Sentence>
+  <Sentence>
+    <Event eid="e15">
+      尽管
+      <Participant sid="s15,s19">消防部门</Participant>
+       在第一时间
+      <Denoter type="operation" did="d15">派</Denoter>
+      <Object oid="o15,s16,s17">３辆消防车</Object>
+    </Event>
+    <Event eid="e16">
+      <Denoter type="movement" did="d16">赶到</Denoter>
+      <Location type="destination" lid="l16">现场</Location>
+    </Event>
+    <Event eid="e17">
+      <Denoter type="operation" did="d17">灭火</Denoter>
+    </Event>
+    ，但由于
+    <Event eid="e18">
+      <Location lid="l18">市场内</Location>
+      的
+      <Object oid="s18">供水系统</Object>
+      <Denoter type="perception" did="d18">出现</Denoter>
+      <Object oid="o18">问题</Object>
+    </Event>
+    ，
+    <Event eid="e19">
+      不得不
+      <Denoter type="operation" did="d19">增派</Denoter>
+      <Object oid="o19,s20,s21">更多消防车</Object>     
+    </Event>  
+    <Event eid="e20">
+     <Denoter type="operation" did="d20">支援</Denoter>
+    </Event>
+    ，
+    <Event eid="e21">
+      并不断从
+      <Location lid="l21">附近</Location>
+      <Denoter type="action" did="d21">接</Denoter>
+      <Object oid="o21">水</Object>
+    </Event>
+    <Event eid="e22">
+      <Denoter type="operation" did="d22">灭火</Denoter>
+    </Event>
+    。
+  </Sentence>
+</Paragraph>
+
+<Paragraph>
+   <Sentence>
+    <Event type="thoughtevent" eid="e23">
+      <Participant  sid="s23">伊利耶夫</Participant>
+      <Denoter type="statement" did="d23">说</Denoter>
+    </Event>
+    ，
+    <Event polarity="negative" eid="e24">
+      <Time tid="t24" type="relTime">目前</Time> 
+        尚不
+       <Denoter type="perception" did="d24">清楚</Denoter>
+       <Object oid="o24">人员伤亡情况</Object>
+    </Event>
+    ，
+    <Event eid="e25">
+      <Participant sid="s25">消防部门</Participant>
+      将
+      <Denoter type="operation" did="d25">配合</Denoter>
+      <Participant oid="o25">警方</Participant>
+    </Event>
+      在
+    <Event eid="e26">
+      <Object oid="o26">大火</Object>
+        彻底
+      <Denoter type="operation" did="d26">扑灭</Denoter>
+    </Event>
+    后
+    <Event eid="e27">
+      对
+      <Object oid="o27">火灾原因</Object>
+      进行
+      <Denoter type="operation" did="d27">调查</Denoter>
+    </Event>
+    。
+   </Sentence>
+</Paragraph>
+
+<Paragraph>
+  <Sentence>
+   中国驻保加利亚大使馆获悉此事后高度重视，
+    <Event eid="e28">
+      政务参赞
+      <Participant sid="s28,29,30,31,32">陈岚、商务参赞陆永明等使馆人员</Participant>
+      第一时间
+      <Denoter type="movement" did="d28">赶赴</Denoter>
+      <Location type="destination"  lid="l28">现场</Location>
+    </Event>
+    <Event type="thoughtevent" eid="e29">
+     <Denoter type="operation" did="d29">了解</Denoter>
+     <Object oid="o29">情况</Object>
+    </Event>
+      ，
+    <Event eid="e30">
+      与
+      <Participant oid="o30">保方</Participant>
+      <Denoter type="operation" did="d30">交涉</Denoter> 
+      加强消防力量
+    </Event>
+    ，
+    <Event eid="e31">
+      <Denoter type="operation" did="d31">协助</Denoter>
+      <Object oid="o31">组织灭火</Object>
+    </Event>
+    和
+    <Event eid="e32">
+      <Denoter type="operation" did="d32">安排</Denoter>
+      <Object oid="o32">善后工作</Object>
+    </Event>
+    。
+   </Sentence>
+  </Paragraph>
+
+  </Content>
+  <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-31"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5-e7"/>
+<eRelation relType="Accompany" accompanya_eid="e6" accompanyb_eid="e5"/>
+<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e12" thoughtcontent_eids="e13"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e14" thoughtcontent_eids="e15-e21"/>
+<eRelation relType="Follow" bevent_eid="e15" aevent_eid="e16"/>
+<eRelation relType="Follow" bevent_eid="e16" aevent_eid="e17"/>
+<eRelation relType="Causal" cause_eid="e18" effect_eid="e19"/>
+<eRelation relType="Causal" cause_eid="e18" effect_eid="e20"/>
+<eRelation relType="Causal" cause_eid="e18" effect_eid="e21"/>
+<eRelation relType="Causal" cause_eid="e18" effect_eid="e22"/>
+<eRelation relType="Follow" bevent_eid="e19" aevent_eid="e20"/>
+<eRelation relType="Concurrency" concurrencya_eid="e21" concurrencyb_eid="e19"/>
+<eRelation relType="Follow" bevent_eid="e21" aevent_eid="e22"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e23" thoughtcontent_eids="e24-e27"/>
+<eRelation relType="Follow" bevent_eid="e26" aevent_eid="e27"/>
+<eRelation relType="Follow" bevent_eid="e28" aevent_eid="e29"/>
+<eRelation relType="Accompany" accompanya_eid="e30" accompanyb_eid="e29"/>
+<eRelation relType="Accompany" accompanya_eid="e31" accompanyb_eid="e30"/>
+<eRelation relType="Accompany" accompanya_eid="e32" accompanyb_eid="e31"/>
+</Body>

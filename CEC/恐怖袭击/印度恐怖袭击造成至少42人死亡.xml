@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>印度恐怖袭击造成至少42人死亡</Title>
+	<ReportTime type="absTime">2007年8月26日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1"><Time type="absTime" tid="t1">2007年8月25日夜</Time>，<Location lid="l1">印度南部安得拉邦首府海得拉巴</Location>发生4起<Denoter type="emergency" did="d1">恐怖爆炸</Denoter></Event>，<Event eid="e2">造成<Participant oid="o2">42人</Participant><Denoter type="stateChange" did="d2">死亡</Denoter></Event>，<Event eid="e3"><Participant oid="o3">50多人</Participant><Denoter type="stateChange" did="d3">受伤</Denoter></Event>。</Sentence>
+               <Sentence> <Event type="thoughtevent" eid="e4"><Participant sid="s4">印度中央情报机构</Participant >和<Participant sid="s4">印度内政部</Participant>以及<Participant sid="s4">当地警方</Participant>均<Denoter type="statement" did="d4">称</Denoter></Event>，</Sentence>
+                这是一起精心策划的恐怖袭击事件。</Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+</Body>

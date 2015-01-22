@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>英国官员称机场袭击事件为自杀恐怖袭击</Title>
+	<ReportTime type="absTime">2007年7月1日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event type="thoughtevent" eid="e1"><Object sid="s1">中新网</Object><Location lid="l1">伦敦</Location><Time tid="t1" type="relTime">7月1日</Time><Denoter type="statement" did="d1">电</Denoter>
+				</Event><Event type="thoughtevent" eid="e2"><Participant sid="s2">英国安全官员</Participant><Denoter type="statement" did="d2">称</Denoter></Event>，有证据显示，<Event eid="e3"><Location lid="l3">格拉斯哥机场</Location><Time type="relTime" tid="t3">6月30日</Time>遭<Object sid="s3">燃烧汽车</Object><Denoter type="action" did="d3">撞击</Denoter>事件</Event>是一起自杀式恐怖袭击事件。</Sentence><Sentence><Event type="thoughtevent" eid="e4"><Participant sid="s4">警方</Participant><Denoter type="statement" did="d4">称</Denoter></Event>，他们认为这起袭击事件与<Event polarity="negative" eid="e5"><Location lid="l5">伦敦</Location><Time type="relTime" tid="t5">29日</Time>发生的未遂汽车<Denoter type="emergency" did="d5">炸弹袭击</Denoter>事件</Event>有关联，<Event eid="e6">已有<Participant oid="o6">两人</Participant>在<Location lid="l6">英格兰北部</Location>因与伦敦和苏格兰发生的恐怖阴谋有关而被<Denoter type="operation" did="d6">逮捕</Denoter></Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event type="thoughtevent" eid="e7"><Participant sid="s7">警方</Participant><Denoter type="statement" did="d7">称</Denoter></Event>，<Event eid="e8">有<Participant oid="o8">五名旁观者</Participant>在<Location lid="l8">格拉斯哥机场</Location>袭击事件中<Denoter type="stateChange" did="d8">受伤</Denoter></Event>，但他们的伤势都不严重。</Sentence><Sentence>英国已将其恐怖预警等级升至最高等级，<Event type="thoughtevent" eid="e9"><Participant sid="s9">美国布什政府</Participant>也<Denoter type="statement" did="d9">宣布</Denoter></Event>在机场和主要交通枢纽加强安保措施。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event eid="e10"><Object sid="s10">一辆绿色的大切诺基</Object><Time type="relTime" tid="t10">6月30日下午三点半(北京时间下午十一点半)</Time>向<Object oid="o10">格拉斯哥机场的主停机楼</Object><Denoter type="action" did="d10">撞</Denoter>去</Event>，大楼入口处的安全栏使司机无法驾车闯入繁忙的停机楼，<Event eid="e11">但<Object sid="s11">车首</Object><Denoter type="stateChange" did="d11">撞毁</Denoter>了<Object oid="o11">玻璃门</Object></Event>。</Sentence><Sentence><Event type="thoughtevent" eid="e12"><Participant sid="s12">一名官员</Participant><Denoter type="statement" did="d12">称</Denoter></Event>：“如果他闯入停机楼，他将使<Event polarity="negative" eid="e13"><Participant oid="o13">数百人</Participant><Denoter type="stateChange" did="d13">丧生</Denoter></Event>，这很明显。”</Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event type="thoughtevent" eid="e14">苏格兰警局局长<Participant sid="s14">威利-拉埃</Participant><Denoter type="statement" did="d14">称</Denoter></Event>，<Event eid="e15">涉案车辆中的<Participant oid="o15">一名男子</Participant>正在<Location lid="l15">医院</Location>接受<Denoter type="operation" did="d15">治疗</Denoter></Event>，他由于被严重烧伤而生命垂危。</Sentence><Sentence><Event eid="e16"><Participant  sid="s16" oid="o16">另一人</Participant>则被<Participant sid="s16">警方</Participant><Denoter type="operation" did="d16">拘留</Denoter></Event>。<Event type="thoughtevent" eid="e17"><Participant sid="s17">他</Participant><Denoter type="statement" did="d17">说</Denoter></Event>，<Event eid="e18"><Participant sid="s18">警方</Participant>在那名入院男子的身上<Denoter type="perception" did="d18">发现</Denoter>了一<Object oid="o18">“可疑装置”</Object></Event>，<Event eid="e19"><Object oid="o19,o20">“可疑装置”</Object>已被<Denoter type="movement" did="d19">带往</Denoter><Location lid="l19">一个安全地点</Location></Event>以<Event eid="e20">进行<Denoter type="operation" did="d20">调查</Denoter></Event>。</Sentence><Sentence><Event polarity="negative" type="thoughtevent" eid="e21"><Participant sid="s21">拉埃</Participant>拒绝<Denoter type="statement" did="d21">披露</Denoter>这一装置是否是自杀式腰带</Event>。</Sentence><Sentence><Event type="thoughtevent" eid="e22"><Participant sid="s22">他</Participant><Denoter type="statement" did="d22">说</Denoter></Event>：“我可以证实，我们认为格拉斯哥机场事件与伦敦昨天(6月29)日发生的事件有关。</Sentence><Sentence>这两者之间有非常显然的共性，我们可以确认，<Event eid="e23"><Participant sid="s23">我们</Participant>正按恐怖袭击事件<Denoter type="operation" did="d23">处理</Denoter><Object oid="o23">此事</Object></Event>。”</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e23"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3"/>
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e6"/>
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e8"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5-e6"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e12" thoughtcontent_eids="e13"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e14" thoughtcontent_eids="e15-e16"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e17" thoughtcontent_eids="e18-e20"/>
+	<eRelation relType="Follow" bevent_eid="e19" aevent_eid="e20"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e22" thoughtcontent_eids="e23"/>
+</Body>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+ <Title>地中海沿岸5国大火蔓延</Title>
+<ReportTime type="absTime">2009年07月27日</ReportTime>　
+<Content> 
+
+
+<Paragraph>
+  <Sentence>年初发生的澳大利亚森林大火给人们造成的伤痛还未退却，
+      <Event eid="e1">
+        欧洲地中海沿岸5国――
+        <Location lid="l1">意大利、西班牙、法国、希腊和克罗地亚</Location>
+        <Time type="timeInterval" tid="t1">近期</Time>
+        又发生多起
+        <Denoter type="emergency" did="d1">山林火灾</Denoter>
+      </Event>
+      ，
+      <Event eid="e2">
+        <Time type="relTime" tid="t2">目前</Time>
+        已经造成巨大
+        <Object oid="o2">财产</Object>
+        <Denoter type="stateChange" did="d2">损失</Denoter>
+      </Event>
+      。
+  </Sentence>
+  <Sentence>
+    <Event type="thoughtevent" eid="e3">
+      总部设在罗马的
+      <Participant sid="s3">联合国粮农组织</Participant>
+      <Time type="relTime" tid="t3">27日</Time>
+      发出
+      <Denoter type="statement" did="d3">呼吁</Denoter>
+    </Event>
+    ，频频发生的火灾已成为人类面临的一大重要威胁，
+    <Event eid="e4">
+      <Participant sid="s4">各国</Participant>
+      有必要加强火灾
+      <Object oid="o4">早期预警及监控机制</Object>
+      的
+      <Denoter type="operation" did="d4">建立</Denoter>
+    </Event>
+   。
+  </Sentence>
+</Paragraph>
+
+<Paragraph>
+   <Sentence>
+     <Event eid="e5">
+       <Time type="timeInterval" tid="t5">近期</Time>
+       发生在
+       <Location lid="l5">意大利、西班牙、法国、希腊和克罗地亚等地中海沿岸国家</Location>
+       的
+       <Denoter type="emergency" did="d5">山林大火</Denoter>
+    </Event>
+    <Event eid="e6">
+      <Time tid="t6" type="relTime">目前</Time>
+      已造成
+      <Participant sid="s6">8人</Participant>
+      <Denoter type="stateChange" did="d6">死亡</Denoter>
+    </Event>
+    ，
+    <Event eid="e7">
+       <Object oid="o7">数万公顷农田</Object>
+       被
+       <Denoter type="stateChange" did="d7">烧毁</Denoter>
+    </Event>
+    ，财产损失可能高达数亿欧元。
+   </Sentence>
+</Paragraph>
+
+<Paragraph>
+  <Sentence>
+    <Event eid="e8">
+     在
+     <Location lid="l8">意大利撒丁岛</Location>
+     ，
+     <Denoter type="emergency" did="d8">火灾</Denoter>
+     从
+     <Time type="timeInterval" tid="t8">24日开始蔓延至今</Time>
+  </Event>
+  ，
+  <Event eid="e9">
+    <Object oid="o9">超过2.5万公顷田地</Object>
+    被大火
+    <Denoter type="stateChange" did="d9">烧毁</Denoter>
+  </Event>
+  ，
+  <Event eid="e10">
+    已有
+    <Participant sid="s10">2人</Participant>
+    在火灾中
+    <Denoter type="stateChange" did="d10">丧生</Denoter>
+  </Event>
+  ，
+  <Event eid="e11">
+    <Participant oid="o11">数十名游客</Participant>
+    被紧急
+    <Denoter type="operation" did="d11">疏散</Denoter>
+  </Event>
+  ，损失据估算达到8千万欧元。
+</Sentence>
+<Sentence>
+  <Event type="thoughtevent" eid="e12">
+    在
+    <Location lid="l12">西班牙</Location>
+    ，
+    <Participant sid="s12">官方</Participant>
+    <Denoter did="d12" type="perception">估计</Denoter>
+ </Event>
+ <Event eid="e13"> 
+    <Object oid="o13">大约2万公顷农田</Object>
+    被
+    <Denoter type="stateChange" did="d13">烧毁</Denoter>
+ </Event>
+ ，
+ <Event eid="e14">
+   <Participant sid="s14">6名消防队员</Participant>
+   在救火战斗中
+   <Denoter type="stateChange" did="d14">牺牲</Denoter>
+ </Event>
+ 。
+</Sentence>
+<Sentence>
+  除了受灾最重的意大利和西班牙，发生在法国南部的大火过火面积超过6千公顷，
+  <Event eid="e15">
+   不仅
+   <Location lid="l15">科西嘉岛上</Location>
+   发生
+   <Denoter type="emergency" did="d15">火灾</Denoter>
+ </Event>
+ ，
+ <Event eid="e16">
+   <Location lid="l16">马赛附近</Location>
+   的
+   <Object sid="s16">大火</Object>
+   几乎
+  <Denoter type="movement" did="d16">逼近</Denoter>
+   市区
+ </Event>
+ 。
+</Sentence>
+<Sentence>
+  <Event eid="e17">
+    在希腊，大火主要集中在
+    <Location lid="l17">南部</Location>
+    ，仅
+    <Time  type="relTime" tid="t17">26日</Time>
+    就
+    <Denoter type="stateChange" did="d17">出现</Denoter>
+    超过50处
+    <Object oid="o17">火情</Object>
+  </Event>
+  ，
+  <Event eid="e18">
+    <Participant sid="s18">希腊政府</Participant>
+    已在全国
+    <Denoter  type="operation" did="d18">发布</Denoter>
+    <Object oid="o18">火灾警告</Object>
+  </Event>
+  。
+</Sentence>
+<Sentence>
+  <Event eid="e19">
+    而在克罗地亚，
+    <Location lid="l19">契奥沃岛上</Location>
+    <Time type="relTime" tid="t19">26日</Time>
+    烧起
+    <Denoter type="emergency" did="d19">大火</Denoter>
+  </Event>
+  ，
+  <Event eid="e20">
+    <Object oid="o20">超过200公顷林地</Object>
+    遭
+    <Denoter type="stateChange" did="d20">烧毁</Denoter>
+  </Event>
+  。
+ </Sentence>
+</Paragraph>
+
+</Content> 
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eids="e4"/>
+<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>
+<eRelation relType="Causal" cause_eid="e5" effect_eid="e7"/>
+<eRelation relType="Causal" cause_eid="e8" effect_eid="e9"/>
+<eRelation relType="Causal" cause_eid="e8" effect_eid="e10"/>
+<eRelation relType="Causal" cause_eid="e8" effect_eid="e11"/>
+<eRelation relType="Causal" cause_eid="e17" effect_eid="e18"/>
+<eRelation relType="Causal" cause_eid="e19" effect_eid="e20"/>
+</Body>

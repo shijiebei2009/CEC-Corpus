@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="GB2312" ?>
+ <Body>
+  <Title>四川汶川地震致重庆4名学生死亡100多人受伤</Title> 
+  <ReportTime type="absTime">2008年05月12日17:14</ReportTime> 
+<Content>
+<Paragraph>
+  <Sentence><Event eid="e1" type="thoughtevent"><Participant sid="s1">新华社重庆</Participant><Time tid="t" type="relTime">5月12日</Time><Denoter did="d1" type="statement">电</Denoter></Event></Sentence> 
+<Sentence>
+<Event eid="e2">
+  <Participant sid="s2" type="thoughtevent">记者</Participant> 
+  从重庆市有关部门 
+  <Denoter type="perception" did="d2">了解</Denoter> 
+  到 
+  </Event>
+  ， 
+ <Event eid="e3">
+  <Time type="relTime" tid="t3">12日下午</Time> 
+  <Location lid="l3">重庆多数地区</Location> 
+  有明显 
+  <Denoter type="emergency" did="d3">震感</Denoter> 
+   </Event> 。
+  </Sentence>
+  
+  
+ <Sentence>
+<Event eid="e4">
+  <Location lid="l4">梁平县</Location> 
+  <Object oid="o4">两所小学</Object> 
+  <Denoter type="stateChange" did="d4">垮塌</Denoter> 
+  </Event>
+  ， 
+<Event eid="e5">
+  <Participant  oid="o5">4名学生</Participant> 
+  <Denoter type="stateChange" did="d5">死亡</Denoter> 
+  </Event>
+  。 
+  </Sentence>
+  </Paragraph>
+  
+  
+  
+  　　 
+- <Paragraph>
+- <Sentence>
+  截至目前收到的情况， 
+- <Event eid="e6">
+  <Location lid="l6">重庆梁平县礼让镇中心小学</Location> 
+  <Object oid="o6">顶楼</Object> 
+  发生 
+  <Denoter type="stateChange" did="d6">垮塌</Denoter> 
+  </Event>
+  ， 
+- <Event eid="e7">
+  <Participant   oid="o7">10多名学生</Participant> 
+  <Denoter type="stateChange" did="d7">受伤</Denoter> 
+  </Event>
+  ， 
+- <Event eid="e8">
+  其中 
+  <Participant  oid="o8">2人</Participant> 
+  <Denoter type="stateChange" did="d8">重伤</Denoter> 
+  </Event>
+  ； 
+  </Sentence>
+- <Sentence>
+- <Event eid="e9">
+  <Location lid="l9">梁平县文化镇小学</Location> 
+  <Object oid="o9">教学楼</Object> 
+  发生 
+  <Denoter type="stateChange" did="d9">垮塌</Denoter> 
+  </Event>
+  ， 
+- <Event eid="e10">
+  <Participant  oid="o10">100多名学生</Participant> 
+  <Denoter type="stateChange" did="d10">受伤</Denoter> 
+  </Event>
+  ， 
+- <Event eid="e11">
+  <Participant  oid="o11">4名学生</Participant> 
+  <Denoter type="stateChange" did="d11">死亡</Denoter> 
+  </Event>
+  ， 
+- <Event eid="e12">
+  <Object oid="o12">部分学生</Object> 
+  被 
+  <Denoter type="operation" did="d12">掩埋</Denoter> 
+  </Event>
+  。 
+  </Sentence>
+  </Paragraph>
+  　
+  
+  
+  　 
+- <Paragraph>
+  <Sentence>有关情况将随时续报。</Sentence> 
+- <Sentence>
+- <Event eid="e13">
+  <Location lid="l13">梁平县</Location> 
+  出现 
+  <Denoter type="emergency" did="d13">震感</Denoter> 
+  后 
+  </Event>
+  ， 
+ <Event eid="e14" type="thoughtevent"> 
+  <Participant sid="s14">县委书记张道华、县长李志雄</Participant>
+  立即 
+  <Denoter type="operation" did="d14">指示</Denoter> 
+  <Object oid="o14" sid="s15">相关部门和各乡镇</Object> 
+  </Event>
+- <Event eid="e15">
+  <Denoter type="operation" did="d15">收集</Denoter> 
+  <Object oid="o15">震灾情况</Object> 
+  。 
+  </Event>
+  </Sentence>
+- <Sentence>
+- <Event eid="e16">
+  县委书记 
+  <Participant sid="s16,s17" >张道华</Participant> 
+  带领 
+  <Participant sid="s16,s17">相关部门负责人</Participant> 
+  实地 
+  <Denoter type="perception" did="d16">察看</Denoter> 
+  </Event>
+  、 
+- <Event eid="e17">
+  <Denoter type="operation" did="d17">指挥</Denoter> 
+  抢险救灾 
+  </Event>
+  ， 
+- <Event eid="e18">
+  县长 
+  <Participant sid="s18">李志雄</Participant> 
+  负责统一 
+  <Denoter type="operation" did="d18">调度指挥</Denoter> 
+  </Event>
+  ， 
+- <Event eid="e19">
+  <Participant sid="s19,s20">公安、消防 </Participant> 
+  、 
+  <Object  sid="s19,s20">医院120车</Object> 
+  已 
+  <Denoter type="movement" did="d19">赶往</Denoter> 
+  <Location lid="l19">现场</Location> 
+  </Event>
+- <Event eid="e20">
+  <Denoter type="operation" did="d20">施救</Denoter> 
+  </Event>
+  。 
+  </Sentence>
+  </Paragraph>
+  　　 
+  
+  
+  
+- <Paragraph>
+- <Sentence>
+- <Event eid="e21">
+  <Participant sid="s21">记者</Participant> 
+  还 
+  <Denoter type="perception" did="d21">了解</Denoter> 
+  到 
+  </Event>
+  ， 
+- <Event eid="e22">
+  <Time type="relTime" tid="t22">12日14时30分左右</Time> 
+  ， 
+  <Location lid="l22">酉阳县县城</Location> 
+  以及 
+  <Location lid="l22">龙潭</Location>
+  、 
+  <Location lid="l22">酉酬</Location> 
+  、 
+  <Location lid="l22">大溪</Location> 
+  、 
+  <Location lid="l22">丁市</Location> 
+  、 
+  <Location lid="l22">后坪</Location> 
+  等乡镇，普遍感受到 
+  <Denoter type="emergency" did="d22">微震</Denoter> 
+  </Event>
+  ， 
+- <Event eid="e23">
+  <Object oid="o23">房屋</Object> 
+  轻微 
+  <Denoter type="action" did="d23">震动</Denoter> 
+  </Event>
+  ，目前无人员伤亡和财产损失情况。 
+  </Sentence>
+- <Sentence>
+- <Event eid="e24">
+  <Denoter type="emergency" did="d24">情况</Denoter> 
+  发生 
+  </Event>
+  后， 
+- <Event eid="e25">
+  <Participant sid="s25">广大群众</Participant> 
+  纷纷从 
+  <Location type="origin" lid="l25">房屋</Location> 
+  里 
+  <Denoter type="movement" did="d25">跑</Denoter> 
+  到 
+  <Location type="destination" lid="l25">广场</Location> 
+  、 
+  <Location type="destination" lid="l25">户外空地</Location> 
+  等地方 
+  </Event>
+- <Event eid="e26">
+  <Denoter type="operation" did="d26">暂辟</Denoter> 
+  </Event>
+  ，目前，全县生产生活正常，水、电、气供应正常。 
+  </Sentence>
+  </Paragraph>
+  　　 
+  
+  
+  
+- <Paragraph>
+- <Sentence>
+- <Event eid="e27">
+  <Time type="relTime" tid="t27">12日14时30分左右</Time> 
+  ， 
+  <Location lid="l27">云阳县</Location> 
+  出现轻微 
+  <Denoter type="action" did="d27">地动</Denoter> 
+  </Event>
+  ， 
+- <Event eid="e28">
+  县城内 
+  <Participant sid="s28">居民</Participant> 
+  明显 
+  <Denoter type="perception" did="d28">感觉</Denoter> 
+  </Event>
+- <Event eid="e29">
+  <Object oid="o29">楼房</Object> 
+  <Denoter type="action" did="d29">晃动</Denoter> 
+  ，持续时间 
+  <Time type="timeInterval" tid="t29">五分钟左右</Time> 
+  </Event>
+  。 
+  </Sentence>
+- <Sentence>
+- <Event eid="e30">
+  <Time type="relTime" tid="t30">震感出现后</Time> 
+  ，造成联通、移动、小灵通 
+  <Object oid="o30">手机信号</Object> 
+  <Denoter type="stateChange" did="d30">中断</Denoter> 
+  </Event>
+  ， 
+- <Event eid="e31">
+  <Participant sid="s31">居民</Participant> 
+  大多 
+  <Denoter type="action" did="d31">聚集</Denoter> 
+  到 
+  <Location lid="l31">广场</Location> 
+  、 
+  <Location lid="l31">街道</Location> 
+  等空旷地带 
+  </Event>
+- <Event eid="e32">
+  <Denoter type="action" did="d32">观望</Denoter> 
+  </Event>
+  ， 
+- <Event polarity="negative" eid="e33">
+  <Time type="timeInterval" tid="t33">截至目前</Time> 
+  ，没有 
+  <Denoter type="action" did="d33">接到</Denoter> 
+  人员伤亡及财产损失 
+  <Object oid="o33">报告</Object> 
+  </Event>
+  ， 
+- <Event eid="e34">
+  <Participant sid="s34">大多数居民</Participant> 
+  已经消除恐惧 
+  <Denoter type="movement" did="d34">回到</Denoter> 
+  <Location type="destination" lid="l34">家中</Location> 
+  </Event>
+  。 
+  </Sentence>
+- <Sentence>
+  对此， 
+- <Event eid="e34">
+  云 
+  <Participant sid="s34">阳县委县政府</Participant> 
+  高度 
+  <Denoter type="stateChange" did="d34">重视</Denoter> 
+  </Event>
+  ，要求相关部门密切关注事态发展， 
+- <Event eid="e35">
+  <Object oid="o35">受灾情况</Object> 
+  等正在 
+  <Denoter type="operation" did="d35">收集</Denoter> 
+  中 
+  </Event>
+  。 
+  </Sentence>
+  </Paragraph>
+  </Content>
+  <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e35"/>
+  <eRelation relType="Thoughtcontent" thoughtevent_eid="e14" thoughtcontent_eids="e15"/>
+  <eRelation relType="Thoughtcontent" thoughtevent_eid="e21" thoughtcontent_eids="e22-e23"/>
+  <eRelation relType="Causal" cause_eid="e3" effect_eid="e4" /> 
+  <eRelation relType="Causal" cause_eid="e4" effect_eid="e5" /> 
+  <eRelation relType="Causal" cause_eid="e3" effect_eid="e6" /> 
+  <eRelation relType="Causal" cause_eid="e6" effect_eid="e7" /> 
+  <eRelation relType="Causal" cause_eid="e6" effect_eid="e8" /> 
+  <eRelation relType="Causal" cause_eid="e3" effect_eid="e9" /> 
+  <eRelation relType="Causal" cause_eid="e9" effect_eid="e10" /> 
+  <eRelation relType="Causal" cause_eid="e9" effect_eid="e11" /> 
+  <eRelation relType="Causal" cause_eid="e9" effect_eid="e12" /> 
+  <eRelation relType="Causal" cause_eid="e27" effect_eid="e30" /> 
+  </Body>

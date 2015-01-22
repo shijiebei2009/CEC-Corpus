@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+  <Title>南宁步行街起火十几间房子被烧 百人安全疏散</Title>
+	<ReportTime type="absTime">2009-4-26</ReportTime>
+<Content>
+	
+		<Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="relTime">4月25日下午</Time>，<Location lid="l1">南宁市兴宁路步行街上的190号三楼一民房</Location>突然<Denoter did="d1" type="action">起火</Denoter></Event>，<Event eid="e2"><Object sid="s2">火势</Object>迅速<Denoter did="d2" type="movement">蔓延</Denoter></Event>，<Event eid="e3"><Object oid="o3">十几间房子</Object>被<Object sid="s3">大火</Object><Denoter did="d3" type="action">吞噬</Denoter></Event>，<Event eid="e4">市民和店主等<Participant oid="o4">数百人</Participant>被安全<Denoter did="d4" type="operation">疏散</Denoter></Event>。</Sentence><Sentence><Event eid="e5">消防、民警和市政等部门的<Participant sid="s5,s6">150多人</Participant><Denoter did="d5" type="operation">奋战</Denoter><Time tid="t5" type="timeInterval">一个半小时</Time></Event>，<Event eid="e6">终于将<Object oid="o6">大火</Object><Denoter did="d6" type="stateChange">扑灭</Denoter></Event>。</Sentence><Sentence><Event eid="e7"><Denoter did="d7" type="emergency">火灾</Denoter></Event><Event polarity="negative" eid="e8">没有造成<Object sid="s8">人员</Object><Denoter did="d8" type="stateChange">伤亡</Denoter></Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e9"><Time tid="t9" type="relTime">目前</Time>，<Participant sid="s9">消防部门</Participant>正在<Denoter did="d9" type="operation">调查</Denoter><Object oid="o9">火灾原因</Object>和<Object oid="o9">损失</Object></Event>。</Sentence></Paragraph>
+		
+	</Content>   <eRelation relType="Follow" bevent_eid="e1" aevent_eid="e2"/>
+		<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>
+		<eRelation relType="Causal" cause_eid="e7" effect_eid="e8"/>
+</Body>

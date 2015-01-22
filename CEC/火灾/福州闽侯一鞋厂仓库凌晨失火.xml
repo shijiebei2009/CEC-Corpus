@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+<Title>福州闽侯一鞋厂仓库凌晨失火</Title>
+<ReportTime type="absTime">2009-3-31</ReportTime>
+<Content>
+<Paragraph>
+<Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">东南网</Participant><Time tid="t1" type="relTime">3月31日</Time><Denoter type="statement" did="d1">讯</Denoter></Event>（通讯员 容肖）</Sentence>
+<Sentence><Event eid="e2"><Time tid="t2" type="relTime">今日凌晨3时55分许</Time>，<Location lid="l2">福州市闽侯县南屿加油站对面万顺鞋厂内一仓库</Location>突然<Denoter type="emergency" did="d2">失火</Denoter>。</Event></Sentence>
+<Sentence><Event eid="e3"><Participant sid="s3,s4,s5">工厂保安</Participant><Denoter type="perception" did="d3">发现</Denoter><Object>火情</Object></Event>后，立即向消防部门<Event eid="e4"><Denoter type="action" did="d4">报警</Denoter></Event><Event eid="e5"><Denoter type="action" did="d5">求助</Denoter></Event>。<Event eid="e6"><Participant sid="s6">消防官兵</Participant>奋斗了1小时将<Object oid="o6">火</Object><Denoter type="stateChange" did="d6">扑灭</Denoter></Event>。</Sentence>
+</Paragraph>
+<Paragraph><Sentence><Event eid="e7"><Time tid="t7" type="relTime">今日凌晨</Time>，<Participant sid="s7">福州市闽侯县消防大队</Participant><Denoter type="action" did="d7">接警</Denoter></Event>后迅速<Event eid="e8"><Denoter type="action" did="d8">出动</Denoter>６<Participant oid="o8">部消防车、30余名消防官兵</Participant></Event><Event eid="e9"><Denoter type="movement" did="d9">赶赴</Denoter><Location type="destination" lid="l9">现场</Location></Event>进行<Event eid="e10"><Denoter type="operation" did="d10">扑救</Denoter></Event>。</Sentence></Paragraph>
+
+<Paragraph><Sentence>经<Event eid="e11"><Participant sid="s11">到场的消防官兵</Participant><Denoter type="operation" did="d11">侦查</Denoter></Event>，起火的是该鞋厂四楼一仓库，里面堆放着一些纸板箱和半成品的鞋子，<Event eid="e12"><Object oid="o12">火势</Object>正向5楼开始<Denoter type="movement" did="d12">蔓延</Denoter></Event>。</Sentence><Sentence>随后，<Event eid="e13"><Participant sid="s13,s14">消防官兵</Participant>利用<Means type="tool" mid="m13">消防车的水炮</Means>对四楼的<Object oid="o13">火势</Object>进行<Denoter type="operation" did="d13">控制</Denoter>。</Event></Sentence><Sentence>同时，<Event eid="e14"><Denoter type="operation" did="d14">组织</Denoter><Participant oid="o14,s15,s16,s17">两个攻坚小组</Participant></Event><Event eid="e15"><Denoter type="action" did="d15">配带</Denoter>好<Object oid="o15">个人防护装备</Object></Event><Event eid="e16"><Denoter type="movement" did="d16">深入</Denoter>起<Location type="destination" lid="l16">火楼层内部</Location></Event>对<Event eid="e17"><Object oid="o17">火势</Object>进行<Denoter type="operation" did="d17">控制</Denoter></Event>。</Sentence></Paragraph>
+
+<Paragraph><Sentence><Event eid="e18"><Time type="relTime" tid="t18">1小时后</Time>，<Object oid="o18">火灾</Object>被<Denoter type="stateChange" did="d18">扑灭</Denoter></Event>，<Event polarity="negative" eid="e19">没有造成<Participant sid="s19">人员</Participant><Denoter type="stateChange" did="d19">伤亡</Denoter></Event>。</Sentence><Sentence>
+<Event eid="e20"><Time type="relTime" tid="t20">目前</Time>，<Object oid="o20">火灾原因和损失</Object>正在进一步<Denoter type="operation" did="d20">调查</Denoter></Event><Event eid="e21"><Denoter type="operation" did="d21">统计</Denoter></Event>中。</Sentence></Paragraph>
+
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e21"/>
+<eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>
+<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>
+<eRelation relType="Accompany" accompanya_eid="e5" accompanyb_eid="e6"/>
+<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+<eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>
+<eRelation relType="Follow" bevent_eid="e9" aevent_eid="e10"/>
+<eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eid="e12"/>
+<eRelation relType="Accompany" accompanya_eid="e13" accompanyb_eid="e14"/>
+<eRelation relType="Accompany" accompanya_eid="e14" accompanyb_eid="e15"/>
+<eRelation relType="Follow" bevent_eid="e16" aevent_eid="e17"/>
+<eRelation relType="Accompany" accompanya_eid="e18" accompanyb_eid="e19"/>
+
+</Content></Body>

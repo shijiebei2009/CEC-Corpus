@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>贵州罗甸县发生4.0级地震 目前尚无人员伤亡报告</Title>
+	<ReportTime type="absTime">2008年12月27日</ReportTime>
+	<Content>
+		<Paragraph>
+			<Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">新华社</Participant><Location lid="l1">贵阳</Location><Time tid="t1" type="relTime">１２月２６日</Time><Denoter did="d1" type="statement">电</Denoter></Event></Sentence>（记者 黄勇） 
+			<Sentence>
+				<Event eid="e2"><Location lid="l2">贵州省罗甸县</Location><Time type="relTime" tid="t2">２６日２０时０５分</Time>发生４．０级<Denoter type="emergency" did="d2">地震</Denoter></Event>，
+				<Event polarity="negative" eid="e3"><Time type="timeInterval" tid="t3">截至２２时记者发稿时</Time>止，<Location lid="l3">罗甸县</Location>尚无<Denoter type="action" did="d3">接到</Denoter>人员伤亡和房屋倒塌的<Object oid="o3">报告</Object></Event>，全县交通、通讯正常。
+			</Sentence>
+		</Paragraph>
+		<Paragraph>
+			<Sentence>
+				<Event eid="e4" type="thoughtevent">罗甸县委书记<Participant sid="s4">沙先贵</Participant>通过电话<Denoter did="d4" type="statement">告诉</Denoter><Participant oid="o4">记者</Participant></Event>，
+				<Event eid="e5"><Time type="relTime" tid="t5">20时左右</Time>发生<Denoter type="emergency" did="d5">地震</Denoter></Event>时，
+				<Event eid="e6"><Location lid="l6">县城</Location><Denoter type="emergency" did="d6">震感</Denoter>比较明显</Event>。
+			</Sentence>
+			<Sentence>
+				<Event eid="e7"><Denoter type="emergency" did="d7">地震</Denoter>发生</Event>后，
+				<Event eid="e8"><Participant sid="s8,s9,s10">罗甸县委</Participant>、<Participant sid="s8">县政府</Participant>召开全县应急<Denoter type="operation" did="d8">会议</Denoter></Event>，
+				<Event eid="e9"><Denoter type="operation" did="d9">启动</Denoter><Object oid="o9">地震应急预案</Object></Event>，
+				<Event eid="e10">安排<Participant oid="o10" sid="s11">公安</Participant>、<Participant oid="o10" sid="s11">武警</Participant>、<Participant oid="o10" sid="s11">消防</Participant>警力在<Location lid="l10">街道</Location><Denoter type="action" did="d10">巡逻</Denoter></Event>。
+			</Sentence>
+			<Sentence>
+				<Event eid="e11"><Time type="relTime" tid="t11">同时</Time>与<Participant sid="s11">全县２６个乡镇</Participant>电话<Denoter type="operation" did="d11">联系</Denoter></Event>，
+				<Event eid="e12">要求各地<Denoter type="operation" did="d12">摸查</Denoter><Object oid="o12">受灾情况</Object></Event>。
+			</Sentence>
+			<Sentence>
+				<Event eid="e13">全县所有单位<Time type="relTime" tid="t13">２６日晚</Time>安排人员２４小时<Denoter type="operation" did="d13">值班</Denoter></Event>，
+				<Event eid="e14">并通过县电视台的滚动字幕将<Object oid="o14">地震消息</Object>向全县如实<Denoter  type="statement" did="d14">通报</Denoter></Event>，
+				<Event eid="e15"><Denoter  type="statement" did="d15">公布</Denoter>相关<Object oid="o15">应急值班电话</Object></Event>。
+			</Sentence>
+		</Paragraph>
+		<Paragraph>
+			<Sentence>
+				<Event eid="e16" type="thoughtevent"><Participant sid="s16">沙先贵</Participant><Denoter  type="statement" did="d16">说</Denoter></Event>，
+				<Event eid="e17">经与<Participant oid="o17">２６个乡镇</Participant>电话<Denoter type="operation" did="d17">联系</Denoter></Event>，
+				<Event polarity="negative" eid="e18"><Time type="relTime" tid="t18">目前</Time>尚未<Denoter type="action" did="d18">接到</Denoter>有人员伤亡和房屋倒塌的情况<Object oid="o18">报告</Object></Event>。
+			</Sentence>
+		</Paragraph>
+		<Paragraph>
+			<Sentence>
+				<Event eid="e19" type="thoughtevent">贵州省地震局局长<Participant sid="s19">陈本金</Participant><Denoter type="statement" did="d19" >说</Denoter></Event>，此次地震震中位于罗甸县沫阳镇附近。
+				<Event eid="e20"><Participant sid="s20">贵州省地震局</Participant>已派人连夜<Denoter type="movement" did="d20">赶赴</Denoter><Location type="destination" lid="l20">罗甸</Location></Event>。
+			</Sentence>
+		</Paragraph>
+		<Paragraph>
+			<Sentence>罗甸县位于贵州南部，是一个以布依族、苗族为主的少数民族县。南部与广西交界，距贵阳约１６６公里。</Sentence>
+		</Paragraph>
+	</Content>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e2-e20"/>
+        <eRelation relType="Thoughtcontent" thoughtevent_eid="e16" thoughtcontent_eids="e17-e18"/>
+        <eRelation relType="Thoughtcontent" thoughtevent_eid="e19" thoughtcontent_eids="e20"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>
+</Body>

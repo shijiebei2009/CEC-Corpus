@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>　
+<Title>渝邻高速重庆段两车相撞致4人死亡</Title>
+	<ReportTime type="absTime">2008-4-12</ReportTime>
+	
+        <Content>   
+        <Paragraph><Sentence>
+       <Event type="thoughtevent" eid="e1"> <Participant sid="s1">中新社</Participant><Location lid="l1">重庆</Location><Time type="relTime" tid="t1">四月十二日</Time><Denoter did="d1" type="statement">电</Denoter></Event>(郭晋嘉 蒋旭)
+       </Sentence>
+    <Sentence><Event eid="e2" type="thoughtevent"><Participant sid="s2">记者</Participant><Time type="relTime" tid="t2">今日</Time>在<Participant sid="s2">重庆市消防总队</Participant><Denoter type="operation" did="d2">证实</Denoter></Event>，
+    <Event eid="e3"><Time type="relTime" tid="t3">四月十一日晚</Time>，<Location lid="l3">渝邻高速重庆段</Location><Object sid="s3">一辆小轿车</Object>与<Object sid="s3">货车</Object><Denoter type="action" did="d3">相撞</Denoter>，</Event>
+    <Event eid="e4"><Object sid="s4">小轿车</Object><Denoter type="action" did="d4">起火燃烧</Denoter></Event>，
+    致<Event eid="e5"><Participant sid="s5">四人</Participant><Denoter type="stateChange" did="d5">死亡</Denoter></Event>。</Sentence></Paragraph>
+　　
+    <Paragraph><Sentence><Event eid="e6">据<Participant sid="s6">出事货车驾驶员</Participant><Denoter type="statement" did="d6">介绍</Denoter></Event>，
+    <Event eid="e7"><Time type="relTime" tid="t7">当日晚上二十一时零四分</Time>，他<Denoter type="operation" did="d7">驾驶</Denoter>车牌号为渝B二三九四七的<Object oid="o7">大货车</Object></Event>
+    <Event eid="e8">从<Location type="origin" lid="l8">四川邻水</Location><Denoter type="movement" did="d8">驶往</Denoter><Location type="destination" lid="l8">重庆</Location>方向</Event>。</Sentence>
+    <Sentence><Event eid="e9">当<Object sid="s9">车</Object><Denoter type="action" did="d9">行至</Denoter>到<Location lid="l9">重庆大湾收费站两公里处</Location></Event>时，
+    <Event eid="e10">一辆车牌号为渝AW八一七七的<Object sid="s10">福克斯小轿车</Object>从后面飞驰<Denoter type="action" did="d10">撞上</Denoter><Object oid="o10">货车尾部</Object></Event>。</Sentence>
+    <Sentence>当<Event eid="e11"><Participant sid="s11，s12，s13">他</Participant>把<Object oid="o11">车</Object><Denoter type="action" did="d11">停到</Denoter><Location lid="l11">路边</Location></Event>
+    <Event eid="e12">准备<Denoter type="action" did="d12">下车</Denoter></Event>
+    <Event eid="e13"><Denoter type="operation" did="d13">救人</Denoter></Event>时，
+    <Event eid="e14">只<Denoter type="perception" did="d14">听</Denoter>“轰”的一声</Event>，
+    <Event eid="e15"><Object sid="s15">小轿车前部</Object>顿时<Denoter type="action" did="d15">燃烧</Denoter>起来。</Event></Sentence></Paragraph>
+		<Paragraph><Sentence>据悉，<Event eid="e16"><Denoter type="emergency" did="d16">此次事故</Denoter></Event>共造成小轿车上
+                <Event eid="e17"><Participant sid="s17">三名男乘客</Participant>和<Participant sid="s17">一名女乘客</Participant><Denoter type="stateChange" did="d17">死亡</Denoter></Event>。</Sentence>
+                <Sentence><Event eid="e18"><Time type="relTime" tid="t18">目前</Time>，<Object oid="o18">事故原因</Object>还在进一步<Denoter type="operation" did="d18">调查</Denoter>中</Event>。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e18"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e2-e5"/>
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>
+	<eRelation relType="Causal" cause_eid="e4" effect_eid="e5"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7-e15"/>
+	<eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>
+	<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10"/>
+	<eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>
+	<eRelation relType="Follow" bevent_eid="e11" aevent_eid="e12"/>
+	<eRelation relType="Follow" bevent_eid="e12" aevent_eid="e13"/>
+	<eRelation relType="Accompany" accompanya_eid="e14" accompanyb_eid="e15"/>
+	<eRelation relType="Causal" cause_eid="e16" effect_eid="e17"/>              
+</Body>

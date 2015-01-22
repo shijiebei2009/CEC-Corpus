@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+<Title>澳大利亚2014年火灾:高温致一夜间发生几百起火灾</Title>
+<ReportTime  type="absTime">2014年1月15日</ReportTime>
+<Content>
+<Paragraph>
+<Sentence>
+ <Event  eid="e1"  type="thoughtevent">
+ <Time  tid="t1"  type="relTime">1月15日，</Time>
+ 据外媒
+ <Participant  sid="s1">《俄罗斯报》</Participant>
+ 报道
+ <Denoter  type="statement"  did="d1">称</Denoter>，
+ </Event>
+
+ <Event  eid="e2">
+ 位于
+ <Location  lid="l2">北半球</Location>的
+ <Participant  sid="s2">澳大利亚</Participant>
+ 现在正
+ <Denoter  did="d2"  type="movement">处于</Denoter>
+ <Object  oid="o2">炎热的夏季</Object>，
+ </Event>
+
+ <Event eid="e3">
+ 而近日也到了高温酷暑的时候，当地时间
+ <Time  tid="t3"  type="relTime">1月14日晚</Time>，
+ <Location  lid="l3">澳大利亚南部</Location>
+ 一夜间发生至少250起
+ <Denoter  type="emergency"  did="d3">火灾</Denoter>。
+ </Event>
+</Sentence>
+<Sentence>
+
+ 受炎热天气及雷雨天气影响，
+ <Event  eid="e4">
+ <Location  lid="l4">澳大利亚南部</Location>一夜间发生至少250起
+ <Denoter  did="d4"  type="emergency">火灾</Denoter>，灾情多集中在维多利亚州。
+ </Event>
+</Sentence>
+<Sentence>
+  <Event  eid="e5">
+  火灾发生后，
+  <Participant  sid="s5">救援人员</Participant>
+  立即
+  <Denoter  did="d5"  type="operation">展开</Denoter>
+  <Object  oid="o5">救灾行动</Object>。
+  </Event>
+</Sentence>
+<Sentence>目前，大部分起火点火势已被控制。</Sentence>
+</Paragraph>
+</Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e5"/>
+<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>
+</Body>

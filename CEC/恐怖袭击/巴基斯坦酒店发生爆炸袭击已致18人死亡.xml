@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>巴基斯坦酒店发生爆炸袭击已致18人死亡</Title>
+	<ReportTime type="absTime">2009年06月10日</ReportTime>
+	<Content>
+		<Paragraph>新华网北京6月10日电 <Sentence><Event eid="e1" type="thoughtevent">综合<Participant sid="s1">新华社驻外记者</Participant><Denoter did="d1" type="statement">报道</Denoter></Event>：<Event eid="e2"><Location lid="l2">巴基斯坦西北边境省首府白沙瓦的一家五星级酒店</Location><Time tid="t2" type="relTime">当地时间9日晚</Time>发生一起<Denoter did="d2" type="emergency">爆炸</Denoter>袭击事件</Event>，<Event eid="e3"><Time tid="t3" type="relTime">目前</Time><Denoter did="d3" type="stateChange">死亡</Denoter>人数已升至<Participant oid="o3">18人</Participant></Event>，<Event eid="e4">另有<Participant oid="o4">约70人</Participant><Denoter did="d4" type="stateChange">受伤</Denoter></Event>。</Sentence><Sentence>由于包括联合国工作人员在内的不少外籍人士当时身处酒店内，<Event eid="e5"><Denoter did="d5"  type="operation">袭击</Denoter></Event><Event eid="e6">造成<Participant oid="o6">多名外籍人士</Participant><Denoter did="d" type="stateChange">伤亡</Denoter></Event>。</Sentence><Sentence><Event eid="e7" type="thoughtevent">据<Participant sid="s7">中国驻巴基斯坦大使馆</Participant><Denoter did="d7" type="statement">说</Denoter></Event>，<Event eid="e8"  polarity="negative">没有<Participant oid="o8">中国人</Participant>在爆炸事件中<Denoter did="d8" type="stateChange">伤亡</Denoter></Event>。</Sentence></Paragraph>
+		
+	
+
+　　<Paragraph><Sentence>
+<Event eid="e9" type="thoughtevent"><Participant sid="s9">联合国在巴基斯坦首都伊斯兰堡的一个新闻中心</Participant><Time tid="t9" type="relTime">10日</Time>发表声明<Denoter did="d9" type="statement">证实</Denoter></Event>，
+<Event eid="e10">一名联合国难民事务高级<Participant oid="o10">专员</Participant>和一名联合国儿童基金会的<Participant oid="o10">官员</Participant>在爆炸中<Denoter did="d10" type="stateChange">身亡</Denoter></Event>
+，<Event eid="e11">另有4名联合国<Participant oid="o11">工作人员</Participant><Denoter did="d11" type="stateChange">受伤</Denoter></Event>。</Sentence>
+<Sentence>
+<Event eid="e12">联合国驻巴基斯坦新闻官<Participant oid="o12"  sid="s13">伊什拉特·里兹维</Participant>在接受<Participant>记者</Participant><Denoter did="d12" type="operation">电话采访</Denoter></Event>
+时<Event eid="e13" type="thoughtevent"><Denoter did="d13" type="statement">说</Denoter></Event>，<Event eid="e14"><Object oid="o14">联合国在白沙瓦的机构</Object><Time tid="t14" type="relTime">10日</Time>都已<Denoter did="d14"   type="stateChange">关门</Denoter></Event>，目前首要任务是保障工作人员的安全。</Sentence><Sentence><Event eid="e15"    type="thoughtevent"><Participant sid="s15">他</Participant><Denoter did="d15" type="statement">说</Denoter></Event>，联合国机构在西北边境省的工作是帮助那些流离失所的人们，将来工作还会继续。</Sentence></Paragraph>
+
+
+
+
+　　<Paragraph><Sentence><Event eid="e16" type="thoughtevent"><Participant sid="s16">巴安全部队官员</Participant><Denoter did="d16" type="statement">说</Denoter></Event>，<Event eid="e17"><Participant sid="s17">几名武装人员</Participant><Time tid="t17" type="relTime">9日晚</Time><Denoter did="d17" type="operation">驾驶</Denoter>一辆载有炸药的<Object oid="o17">卡车</Object>驶向当地的<Location lid="l17" type="destination">珍珠大陆酒店</Location></Event>。</Sentence><Sentence>尽管酒店外围有武装保安把守，<Event eid="e18">但<Participant sid="s18">武装人员</Participant>一边<Denoter did="d18" type="action">开枪</Denoter></Event><Event eid="e19">一边<Denoter did="d19" type="action">突破</Denoter>保安拦截</Event>，<Event eid="e20">并在<Object sid="s20">卡车</Object><Denoter did="d20" type="action">冲</Denoter>到<Location lid="l20">酒店大厅门口</Location></Event>时<Event eid="e21"><Denoter did="d21" type="action">引爆</Denoter>车上<Object oid="o21">炸药</Object></Event>。</Sentence><Sentence><Event eid="e22" type="thoughtevent"><Participant sid="s22">据目击者</Participant><Denoter did="d22" type="statement">说</Denoter></Event>，卡车内当时有3名武装人员，<Event eid="e23">爆炸<Denoter did="d23" type="stateChange">炸坏</Denoter>了<Object oid="o23">酒店大堂和一楼</Object></Event>，<Event eid="e24">酒店外<Object oid="o24">40多辆汽车</Object>被<Denoter did="d24"  type="stateChange">炸毁</Denoter></Event>，其中有挂着联合国牌照的车辆。</Sentence></Paragraph>
+
+
+
+　　<Paragraph><Sentence><Event eid="e25"><Participant  sid="s25">警方</Participant>随后<Denoter did="d25" type="movement">赶到</Denoter><Location lid="l25">爆炸现场</Location></Event>，<Event eid="e26">并<Denoter did="d26" type="operation">封锁</Denoter>了<Location lid="l26">酒店周边地区</Location></Event>。</Sentence><Sentence><Event eid="e27" type="thoughtevent"><Participant sid="s27">救援人员</Participant><Denoter did="d27" type="statement">说</Denoter></Event>，伤者中有外国人。</Sentence><Sentence>当地电视台播放的画面显示，爆炸现场一片混乱，<Event eid="e28"><Participant oid="o28">一些伤者</Participant>被<Participant sid="s28">救援人员</Participant>用<Means mid="m28" type="tool">担架</Means><Denoter did="d28" type="action">抬出</Denoter></Event>，<Event eid="e29"><Object oid="o29">酒店大楼</Object>受到了严重<Denoter did="d29" type="stateChange">损毁</Denoter></Event>。</Sentence><Sentence>当地警方估计，武装人员在袭击中使用了大约500公斤炸药，爆炸产生的破坏力相当大，除珍珠大陆酒店外，<Event eid="e30">附近省议会和白沙瓦高等法院大楼的<Object oid="o30">玻璃</Object>被<Denoter did="d30" type="stateChange">震碎</Denoter></Event>。</Sentence></Paragraph>
+                               
+
+　　<Paragraph><Sentence><Event eid="e31"><Denoter did="d31" type="emergency">袭击</Denoter>发生</Event>后，
+
+<Event eid="e32">巴基斯坦总统<Participant sid="s32">扎尔达里</Participant>和<Participant sid="s32">吉拉尼</Participant>发表<Denoter did="d32" type="statement">声明</Denoter></Event>，
+
+<Event eid="e33">对<Object oid="o33">这起事件</Object>表示强烈<Denoter did="d33" type="action">谴责</Denoter></Event>，
+<Event eid="e34">并要求当地<Participant sid="s34">有关部门</Participant>尽全力<Denoter did="d34" type="operation">救治</Denoter><Participant oid="o34">受伤人员</Participant></Event>。</Sentence>
+
+<Sentence><Event eid="e35" type="thoughtevent">联合国秘书长<Participant sid="s35">潘基文</Participant><Time tid="t35" type="relTime">9日</Time>发表<Denoter did="d35" type="statement">声明</Denoter></Event>，<Event eid="e36">强烈<Denoter did="d36" type="action">谴责</Denoter>当天发生的<Object oid="o36" >这起爆炸袭击事件</Object></Event>。</Sentence><Sentence><Event eid="e37" type="thoughtevent"><Participant sid="s37">潘基文</Participant>在声明中<Denoter did="d37" type="statement">说</Denoter></Event>，<Event eid="e38"><Participant oid="o38">他</Participant>为爆炸袭击事件造成大量人员伤亡感到<Denoter did="d38" type="perception">悲伤</Denoter></Event>。</Sentence></Paragraph>
+
+
+　　<Paragraph><Sentence>目前还没有任何组织或个人声称对这起袭击事件负责。</Sentence></Paragraph>
+	</Content>
+	
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e8"/>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>
+<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8"/>
+
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e9" thoughtcontent_eids="e10-e11"/>
+<eRelation relType="Accompany" accompanya_eid="e12" accompanyb_eid="e13"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e13" thoughtcontent_eids="e14"/>
+<eRelation relType="Follow" bevent_eid="e13" aevent_eid="e15"/>
+
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e16" thoughtcontent_eids="e17-e21"/>
+<eRelation relType="Follow" bevent_eid="e17" aevent_eid="e18"/>
+<eRelation relType="Accompany" accompanya_eid="e18" accompanyb_eid="e19"/>
+<eRelation relType="Accompany" accompanya_eid="e19" accompanyb_eid="e20"/>
+<eRelation relType="Follow" bevent_eid="e20" aevent_eid="e21"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e22" thoughtcontent_eids="e23-e24"/>
+<eRelation relType="Accompany" accompanya_eid="e23" accompanyb_eid="e24"/>
+
+<eRelation relType="Follow" bevent_eid="e25" aevent_eid="e26"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e27" thoughtcontent_eids="e28-e29"/>
+<eRelation relType="Accompany" accompanya_eid="e29" accompanyb_eid="e30"/>
+
+<eRelation relType="Follow" bevent_eid="e31" aevent_eid="e32"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e32" thoughtcontent_eids="e33-e34"/>
+<eRelation relType="Follow" bevent_eid="e34" aevent_eid="e35"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e35" thoughtcontent_eids="e36-e38"/>
+
+
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>
+	
+	
+</Body>

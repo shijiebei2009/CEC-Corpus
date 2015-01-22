@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+   <Title>尼加拉瓜太平洋沿岸 发生6.6级地震</Title>  
+   <ReportTime type="absTime">2014-04-12 13:36:07</ReportTime>
+   <Content>
+      <Paragraph>
+         <Sentence>
+            <Event eid="e1">
+               <Location lid="l1">尼加拉瓜西南部太平洋沿岸</Location>
+               <Time type="relTime" tid="t1">11日下午</Time>
+               发生6.6级
+               <Denoter type="emergency" did="d1">地震</Denoter>
+            </Event>
+            ，目前人员伤亡和财产损失情况不明。
+         </Sentence>
+      </Paragraph>
+      <Paragraph>
+         <Sentence>
+            <Event type="thoughtevent" eid="e2">
+               <Participant sid="s2">尼加拉瓜政府发言人罗萨里奥·穆里略</Participant>
+               <Time type="relTime" tid="t2">当天</Time>
+               通过
+               <Means mid="m2" type="tool">全国电视网络</Means>
+               <Denoter type="statement" did="d2">证实</Denoter>
+            </Event>
+            ，
+            <Event eid="e3">
+               <Denoter type="emergency" did="d3">地震</Denoter>
+               发生在
+               <Time type="relTime" tid="t3">当地时间11日14时29分</Time>
+               （北京时间12日4时29分）
+            </Event>
+            ，震中位于西南部城市楠代梅附近，距离首都马那瓜61公里，震源深度150公里。
+         </Sentence>
+         <Sentence>地震持续时间约10秒，马那瓜、莱昂等多个城市震感非常强烈。</Sentence>
+      </Paragraph>
+
+　　  <Paragraph>
+         <Sentence>
+            <Event eid="e4">
+               <Location lid="l4">尼加拉瓜西北部</Location>
+               <Time type="relTime" tid="t4">10日</Time>
+               刚发生6.2级
+               <Denoter type="emergency" did="d4">地震</Denoter>
+            </Event>
+            <Event eid="e5">
+               及逾百次
+               <Denoter type="emergency" did="d5">余震</Denoter>
+            </Event>
+            ，
+            <Event eid="e6">
+               <Time type="timeInterval" tid="t6">截至目前</Time>
+               已导致
+               <Participant oid="o6">1人</Participant>
+               <Denoter type="stateChange" did="d6">死亡</Denoter>
+            </Event>
+            ，
+            <Event eid="e7">
+               <Participant oid="o7">多人</Participant>
+               <Denoter type="stateChange" did="d7">受伤</Denoter>
+            </Event>
+            ，
+            <Event eid="e8">
+               <Object oid="o8">800多间房屋</Object>
+               遭受不同程度
+               <Denoter type="stateChange" did="d8">损坏</Denoter>
+            </Event>
+            。
+         </Sentence>
+         <Sentence>
+            <Event type="thoughtevent" eid="e9">
+               <Participant sid="s9">尼总统奥尔特加</Participant>
+               <Time type="relTime" tid="t9">11日凌晨</Time>
+               <Denoter type="statement" did="d9">宣布</Denoter>
+            </Event>
+            该国进入紧急状态，
+            <Event eid="e10">
+               <Participant oid="o10">数千名震区内的危房住户</Participant>
+               被紧急
+               <Denoter type="operation" did="d10">转移</Denoter>
+            </Event>
+            ，
+            <Event eid="e11">
+               <Location lid="l11">当地</Location>
+               <Participant sid="s11">所有学校</Participant>
+               <Denoter type="stateChange" did="d11">停课</Denoter>
+            </Event>
+            ，
+            <Event eid="e12">
+               主要
+               <Object sid="s12">商业设施</Object>
+               <Denoter type="stateChange" did="d12">关闭</Denoter>
+            </Event>
+            。
+         </Sentence>
+      </Paragraph>
+
+　　  <Paragraph>
+         <Sentence>
+            <Event eid="e13">
+               <Participant sid="s13">记者</Participant>
+               在
+               <Location lid="l13">首都街头</Location>
+               <Denoter type="action" did="d13">看</Denoter>
+               到
+            </Event>
+            ，
+            <Event eid="e14">
+               <Denoter type="emergency" did="d14">地震</Denoter>
+               发生后
+            </Event>
+            <Event eid="e15">
+               <Participant sid="s15,s16">人们</Participant>
+               纷纷
+               <Denoter type="action" did="d15">涌</Denoter>
+               上
+               <Location type="destination" lid="l15">街头</Location>
+               和
+               <Location type="destination" lid="l15">附近空地</Location>
+            </Event>
+            <Event eid="e16">
+               <Denoter type="action" did="d16">避</Denoter>
+               <Object oid="o16">险</Object>
+            </Event>
+            ，
+            <Event eid="e17">
+               <Participant sid="s17">许多民众</Participant>
+               <Time type="timeInterval" tid="t17">自10日晚到现在</Time>
+               一直没敢
+               <Denoter type="movement" did="d17">回</Denoter>
+               <Location lid="l17">家</Location>
+            </Event>
+            ，
+            <Event eid="e18">
+               <Location lid="l">首都地区</Location>
+               的
+               <Object sid="s18">许多住宅墙体</Object>
+               <Denoter type="stateChange" did="d18">开裂</Denoter>
+            </Event>
+            。
+         </Sentence>
+      </Paragraph>
+   </Content>
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3"/>
+   <eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>
+   <eRelation relType="Causal" cause_eid="e4" effect_eid="e6"/>
+   <eRelation relType="Causal" cause_eid="e5" effect_eid="e7"/>
+   <eRelation relType="Causal" cause_eid="e5" effect_eid="e8"/>
+   <eRelation relType="Follow" bevent_eid="e4" aevent_eid="e10"/>
+   <eRelation relType="Follow" bevent_eid="e4" aevent_eid="e11"/>
+   <eRelation relType="Follow" bevent_eid="e4" aevent_eid="e12"/>
+   <eRelation relType="Follow" bevent_eid="e14" aevent_eid="e15"/>
+   <eRelation relType="Follow" bevent_eid="e14" aevent_eid="e16"/>
+   <eRelation relType="Accompany" accompanya_eid="e15" accompanyb_eid="e16"/>
+   <eRelation relType="Causal" cause_eid="e14" effect_eid="e17"/>
+   <eRelation relType="Causal" cause_eid="e14" effect_eid="e18"/>
+</Body>

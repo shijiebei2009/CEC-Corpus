@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>重庆发生强烈震感 学生慌忙逃出寝室楼(图)</Title>
+	<ReportTime type="absTime">2008年05月12日16:00</ReportTime>　 
+<Content>
+		<Paragraph><Sentence>
+		<Event eid="e1"><Time  type="absTime" tid="t1">2008年5月12日，北京时间14点28分</Time>，<Location lid="l1">重庆市合川区</Location>发生强烈<Denoter type="emergency" did="d1">震感</Denoter>，</Event>
+		<Event eid="e2"><Object oid="o2">房子</Object><Denoter type="action" did="d2">摇晃</Denoter></Event>，
+		<Event eid="e3"><Object oid="o3">室内东西</Object><Denoter type="stateChange" did="d3">倾倒</Denoter></Event>，
+		<Event eid="e4"><Denoter type="emergency" did="d4">震感</Denoter>持续时间达<Time  type="timeInterval" tid="t4">5分钟</Time></Event>。</Sentence><Sentence>
+		<Event eid="e5"><Object oid="o5">通讯</Object>全部<Denoter type="stateChange" did="d5">中断</Denoter></Event>。</Sentence><Sentence>
+		<Event eid="e6"><Participant  sid="s6">西南大学育才学院众多学生</Participant>正在<Denoter type="action" did="d6">午睡</Denoter></Event>，
+		<Event eid="e7"><Participant sid="s7">许多学生</Participant>没穿衣服<Denoter type="movement" did="d7">逃出</Denoter><Location  lid="l7">寝室</Location></Event>。</Sentence><Sentence>
+		<Event eid="e8">据<Participant  sid="s8">相关人士</Participant><Denoter type="statement" did="d8">介绍</Denoter></Event>，此震感类似与4-5级地震。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e5"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e7"/>
+</Body>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>海口小货车商务车相撞致2死4伤 事故原因正在调查</Title>
+	<ReportTime type="absTime">2014年03月14日 09:55　来源：海南特区报　</ReportTime>
+	<Content>
+　　<Paragraph>
+<Sentence><Event eid="e1"><Time type="relTime" tid="t1">昨日凌晨1时44分</Time>，<Location lid="l1">海口市灵山镇往机场老路方向3公里处</Location>发生一起<Denoter type="emergency" did="d1">交通事故</Denoter></Event>，
+<Event eid="e2"><Object sid="s2">两车</Object><Denoter type="action" did="d2">相撞</Denoter></Event>
+<Event eid="e3">造成<Participant sid="s3">2</Participant><Denoter type="stateChange" did="d3">死</Denoter></Event>
+<Event eid="e4"><Participant sid="s4">4</Participant><Denoter type="stateChange" did="d4">伤</Denoter></Event>。
+</Sentence></Paragraph>
+　　<Paragraph><Sentence>
+<Event eid="e5"><Time type="relTime" tid="t5">1时56分</Time>，<Participant sid="s5">消防官兵</Participant><Denoter type="action" did="d5">到</Denoter><Location type="destination" lid="l5">现场</Location>时</Event>，
+<Event eid="e6"><Participant sid="s6">110民警和120医务人员</Participant>已开展<Denoter type="operation" did="d6">救援</Denoter></Event>。</Sentence>
+<Sentence><Event eid="e7"><Participant sid="s7">一辆小货车</Participant>与<Participant sid="s7">一辆商务车</Participant>
+<Denoter type="action" did="d7">相撞</Denoter></Event>，
+<Event eid="e8"><Object oid="o8">两车车头</Object>严重<Denoter type="stateChange" did="d8">变形</Denoter></Event>。
+
+<Event eid="e9"><Location lid="l9">商务车驾驶室内</Location>有<Participant oid="o9">2名男子</Participant>被
+<Denoter type="action" did="d9">困</Denoter></Event>，
+<Event eid="e10">另外<Location lid="l10">现场</Location>还有<Participant sid="s10">3男1女</Participant>共4名人员不同程度<Denoter type="stateChange" did="d10">受伤</Denoter></Event>，
+<Event eid="e11"><Object oid="o11">小货车</Object>有<Denoter type="action" did="d11">漏油</Denoter>现象</Event>。</Sentence>
+			<Sentence><Event eid="e12">随后，<Participant sid="s12,s13">消防官兵</Participant>利用<Means mid="m12" type="tool">无齿锯和铁梃等</Means>破拆工具，对<Object oid="o12">商务车的副驾驶室</Object>进行<Denoter type="action" did="d12">破拆</Denoter></Event>。</Sentence>
+			<Sentence><Event eid="e13">同时，用<Means mid="m13" type="tool">水枪</Means>对<Object oid="o13">小货车泄漏的汽油</Object>进行<Denoter type="action" did="d13">稀释</Denoter></Event>。</Sentence>
+			<Sentence><Event eid="e14"><Time type="relTime" tid="t14">2时23分</Time>，<Participant sid="s14,s15">消防官兵</Participant>成功将<Participant oid="o14">2名被困人员</Participant><Denoter type="action" did="d14">救出</Denoter></Event><Event eid="e15">并<Denoter type="operation" did="d15">转交</Denoter><Participant oid="o15">120医务人员</Participant></Event>。</Sentence>
+			<Sentence><Event type="thoughtevent" eid="e16">但经<Participant sid="s16">医务人员</Participant><Denoter type="statement" did="d16">确认</Denoter></Event>，2名被困人员已无生命迹象。</Sentence>
+			<Sentence><Event eid="e17"><Time tid="t17" type="relTime">目前</Time>，<Object oid="o17">事故原因</Object>还在<Denoter type="action" did="d17">调查</Denoter>中</Event>。</Sentence>（通讯员 吕书圣 记者 钟起的）</Paragraph>
+	</Content>
+ <eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>  
+ <eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>    
+ <eRelation relType="Accompany" accompanya_eid="e5" accompanyb_eid="e6"/> 
+ <eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+ <eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10"/>
+ <eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11"/>
+ <eRelation relType="Accompany" accompanya_eid="e12" accompanyb_eid="e13"/>
+ <eRelation relType="Follow" bevent_eid="e14" aevent_eid="e15"/>  
+ </Body>

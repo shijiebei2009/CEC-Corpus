@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+
+<Title>俄西伯利亚一民宅火灾致7人死亡</Title>
+<ReportTime type="absTime">2014年03月31日 14:22:00</ReportTime> 来源： 新华网
+<Content>
+<Paragraph><Sentence>
+<Event type="thoughtevent" eid="e1"><Participant sid="s1">新华网</Participant><Location lid="l1">莫斯科</Location><Time type="relTime" tid="t1">３月３１日</Time><Denoter  did="d1" type="statement">电</Denoter></Event>（记者曹妍）
+
+<Event eid="e2"><Location lid="l2">俄罗斯西伯利亚西部秋明州一座私人住宅</Location><Time type="relTime" tid="t2">３月３１日</Time>因<Object sid="s2">天然气罐</Object><Denoter type="emergency" did="d2">爆炸</Denoter></Event>而
+<Event eid="e3"><Denoter type="emergency" did="d3">起火</Denoter></Event>，
+导致<Event eid="e4"><Participant sid="s4">７人</Participant><Denoter type="stateChange" did="d4">死亡</Denoter></Event>，其中包括５名儿童。</Sentence></Paragraph>
+    <Paragraph>
+    <Sentence>
+    <Event type="thoughtevent" eid="e5">据<Participant sid="s5">国际文传电讯社</Participant><Denoter type="statement" did="d5">报道</Denoter></Event>，
+    <Event eid="e6"><Location lid="l6">秋明州卡斯马卡瓦村一幢单层小木屋</Location><Time type="relTime" tid="t6">３１日凌晨</Time>发生<Denoter type="emergency" did="d6">火灾</Denoter>。</Event></Sentence>
+    <Sentence>
+    <Event eid="e7"><Object oid="o7">大火</Object>被<Denoter type="stateChange" did="d7">扑灭</Denoter></Event>后，
+    <Event eid="e8"><Location lid="l8">在烧毁房屋中</Location><Denoter type="perception" did="d8">发现</Denoter><Participant oid="o8">７具尸体</Participant></Event>，其中包括５名不满１０岁的儿童。</Sentence>
+    <Sentence>此外，<Event eid="e9"><Denoter type="emergency" did="d9">火灾</Denoter></Event>还导致<Event eid="e10"><Participant sid="s10">２名女性</Participant><Denoter type="stateChange" did="d10">受伤</Denoter></Event>。</Sentence></Paragraph>
+    <Paragraph><Sentence>据<Event type="thoughtevent" eid="e11"><Denoter type="operation" did="d11">调查</Denoter></Event>，<Event eid="e12"><Denoter type="emergency" did="d12">火灾</Denoter></Event>是由<Event eid="e13"><Object sid="s13">３个天然气罐</Object><Denoter type="emergency" did="d13">爆炸</Denoter></Event>引起的。</Sentence></Paragraph>
+    
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-13"/>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/> 
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eids="e6-e13"/>
+<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>  
+<eRelation relType="Causal" cause_eid="e9" effect_eid="e10"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e11" thoughtcontent_eids="e12-e13"/> 
+<eRelation relType="Causal" cause_eid="e13" effect_eid="e12"/>
+    
+    </Content></Body>

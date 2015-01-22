@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+  
+  <Title>比利时养老院火灾9名老人死亡</Title>
+ <ReportTime type="absTime">2009-08-07</ReportTime>
+<Content>
+ 
+ <Paragraph>
+  <Sentence>
+  <Event type="thoughtevent" eid="e1">国际在线<Denoter did="d1" type="statement">消息</Denoter></Event>
+  (记者 金力)：
+    
+       <Event eid="e2">
+         <Location lid="l2">比利时一家养老院</Location>
+         <Time type="relTime" tid="t2">6日晚</Time>
+         发生
+         <Denoter type="emergency" did="d2">火灾</Denoter>
+       </Event>
+       ，
+       <Event eid="e3">
+       造成
+         <Participant oid="o3">9名老人</Participant>
+         <Denoter type="stateChange" did="d3">死亡</Denoter>
+       </Event>
+         ，
+         <Event eid="e4">
+          <Participant oid="o4">3名老人</Participant>
+          <Denoter type="stateChange" did="d4">伤势严重</Denoter>
+         </Event>
+         。
+    </Sentence>
+  </Paragraph>
+
+<Paragraph>
+  <Sentence>
+    <Event eid="e5">
+      <Denoter type="emergency" did="d5">火灾</Denoter>
+      发生在
+      <Location lid="l5">比利时首都布鲁塞尔以西大约50公里的梅勒</Location>
+    </Event>
+    。
+  </Sentence>
+  <Sentence>
+  据初步调查，起火原因为内部设备过热。
+  </Sentence>
+  <Sentence>
+   <Event eid="e6">
+     <Denoter type="emergency" did="d6">火灾</Denoter>
+     发生 时，
+     <Location lid="l6">养老院内</Location>
+     有大约
+     <Participant sid="s6,s7,s8,s9">100名老人</Participant>
+     ，
+  </Event>
+  <Event eid="e7">
+     <Participant sid="s7">他们</Participant>
+     大部分已经
+     <Denoter type="action" did="d8">休息</Denoter>
+  </Event>
+  ，但由于当天是今年入夏以来比利时最热的一天，气温达到了摄氏30度，因此
+  <Event eid="e8">
+    <Participant sid="s8">他们</Participant>
+    <Denoter type="action" did="d8">睡觉</Denoter>
+  </Event>
+  时都
+  <Event eid="e9">
+    <Denoter type="action" did="d9">开着</Denoter>
+    <Object oid="o9">房门</Object>
+  </Event>
+  。
+</Sentence>
+<Sentence>这使得事故的伤亡人数大为减少。</Sentence>
+</Paragraph>
+
+<Paragraph>
+ <Sentence>
+   <Event eid="e10">
+     <Time type="relTime" tid="t10">目前</Time>
+     <Participant sid="s10">警方</Participant>
+     仍在对
+     <Object oid="o10">事故原因</Object>
+     作进一步
+     <Denoter type="operation" did="d10">调查</Denoter>
+   </Event>
+   。
+ </Sentence>
+</Paragraph>
+
+  </Content> 
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e10"/>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>
+<eRelation relType="Concurrency" concurrencya_eid="e8" concurrencyb_eid="e7"/>      
+</Body>

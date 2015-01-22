@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>                                             
+<Title>印度发生假酒集体中毒事件 32人亡50人送医治疗</Title>
+<ReportTime type="absTime">2013年10月19日 14:46　</ReportTime>
+   来源：中国新闻网
+<Content>   
+<Paragraph>
+<Sentence>
+<Event eid="e1" type="thoughtevent">
+<Participant sid="s1">中新网</Participant>
+<Time tid="t1" type="relTime">10月19日</Time>
+<Denoter did="d1" type="statement">电</Denoter></Event>
+<Event eid="e2" type="thoughtevent">
+据
+<Participant sid="s2">外媒</Participant>
+<Time tid="t2" type="relTime">19日</Time>
+<Denoter did="d2" type="statement">报道</Denoter></Event>
+，
+<Event eid="e3">
+<Participant sid="s3">印度警方</Participant>
+<Denoter did="d3" type="statement">说</Denoter></Event>
+，
+<Event eid="e4">
+<Time tid="t4" type="relTime">近日</Time>
+，
+<Location lid="l4">印度北部</Location>
+发生假酒集体
+<Denoter did="d4" type="emergency">中毒事件</Denoter></Event>
+，
+<Event eid="e5">
+<Time tid="t5" type="relTime">目前</Time>
+至少<Participant sid="s5">32人</Participant>
+因饮用含有毒物质的自酿酒<Denoter did="d5" type="emergency">丧生</Denoter></Event>
+，
+<Event eid="e6">另有<Participant sid="s6" oid="o7">50人</Participant><Denoter did="d6" type="perception">感到</Denoter>不适
+</Event>
+<Event eid="e7">被<Denoter did="d7" type="action">送</Denoter><Location lid="l7" type="destination">医</Location></Event>。
+</Sentence></Paragraph>
+<Paragraph>　　
+<Sentence>
+<Event eid="e8" type="thoughtevent">据<Denoter did="d8" type="statement">报道</Denoter></Event>
+，<Event eid="e9" type="thoughtevent">
+印度<Participant sid="s9">一名警官</Participant><Denoter did="d9" type="statement">说</Denoter></Event>
+，
+<Event eid="e10">
+<Participant sid="s10">这起事件</Participant>
+<Denoter did="d10" type="action">发生</Denoter>在<Time tid="t10" type="relTime">周四(17日)</Time>
+，地点在<Location lid="l10">北方邦阿桑加尔地区一处山村</Location></Event>
+，
+<Event eid="e11">
+<Participant sid="s11,s12,s13,s14">数十村民</Participant>
+在<Denoter did="d11" type="action">饮用</Denoter><Object oid="o11">一处商店买来的自酿酒</Object>后</Event>
+，<Event eid="e12">感到<Denoter did="d12" type="perception">身体不适</Denoter></Event>，
+<Event eid="e13">被<Denoter did="d13" type="movement">送往</Denoter><Location lid="l13" type="destination">当地医院</Location></Event>
+<Event eid="e14">接受<Denoter did="d14" type="operation">治疗</Denoter></Event>。</Sentence>
+<Sentence>
+<Event eid="e15">
+<Time tid="t15" type="relTime">截止目前</Time>
+，已有<Participant sid="s15">32人</Participant>不治<Denoter did="d15" type="emergency">身亡</Denoter></Event>
+，死者大多数是劳工。</Sentence></Paragraph>
+<Participant>
+<Sentence>
+<Event eid="e16">
+<Time tid="t16" type="relTime">目前</Time>还有<Participant sid="s16">50人</Participant>
+在饮用“毒酒”后在
+<Location lid="l16">医院内</Location><Denoter did="d16" type="operation">接受治疗</Denoter></Event>。</Sentence></Participant>
+<Paragraph
+><Sentence>
+<Event eid="e17"><Participant sid="s17,s18">当局</Participant>针对<Object oid="o17">此事</Object>展开
+<Denoter did="d17" type="operation">调查</Denoter></Event>
+，
+<Event eid="e18">
+并将<Participant oid="o18">8名政府官员</Participant>和<Participant oid="o18">4名警察</Participant>
+暂时<Denoter did="d18" type="stateChange">停职</Denoter></Event>。</Sentence></Paragraph>
+<Paragraph>
+<Sentence>
+<Event eid="e19" type="thoughtevent">分析<Denoter did="d19" type="statement">称</Denoter></Event>，
+<Event eid="e20"><Location lid="l20">印度</Location><Time tid="t20" type="timeInterval">近年来</Time>
+<Denoter did="d20" type="emergency">假酒中毒事件</Denoter>频发</Event>。</Sentence>
+<Sentence>为了增加酒的“烈度”，
+<Event eid="e21">
+<Participant sid="s21">没有取得酿酒执照的非法商家</Participant>
+在酒中<Denoter did="d21" type="action">添加</Denoter><Object oid="o21">化学物质</Object></Event>
+，往往损害人的健康，严重时可致人死亡。</Sentence></Paragraph></Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e21"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eids="e9-e16"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e19" thoughtcontent_eids="e20-e21"/>
+<eRelation relType="Accompany" accompanya_eid="e5" accompanyb_eid="e6"/>
+<eRelation relType="Follow" bevent_eid="e11" aevent_eid="e12"/>
+<eRelation relType="Follow" bevent_eid="e12" aevent_eid="e13"/>
+<eRelation relType="Follow" bevent_eid="e13" aevent_eid="e14"/>
+<eRelation relType="Causal" cause_eid="e11" effect_eid="e4"/>
+<eRelation relType="Accompany" accompanya_eid="e17" accompanyb_eid="e18"/>
+<eRelation relType="Causal" cause_eid="e21" effect_eid="e20"/>
+</Body>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>山东青岛:上坟烧纸引发6起山火 5处火灾已扑灭</Title>
+	<ReportTime  type="absTime">2014-04-07 07:56:41</ReportTime>
+	<Content><Paragraph><Sentence><Event eid="e1" type="thoughtevent"><Time tid="t1" type="relTime">4月6日下午13时</Time>,<Participant sid="s1">山东省青岛市林业局</Participant><Denoter did="d1" type="statement">通报</Denoter><Object oid="o1">清明节期间全市森林火灾情况</Object></Event>,<Event eid="e2"><Time tid="t2" type="timeInterval">截至今天7时</Time>,<Location lid="l2">青岛市</Location>共发生<Denoter did="d2" type="emergency">森林火灾</Denoter>6起</Event>,<Event eid="e3">其中<Object oid="o3">5处火灾</Object>已经<Denoter did="d3" type="operation">扑灭</Denoter></Event>,<Event eid="e4"><Object oid="o4">1处火灾</Object>得到<Denoter did="d4" type="operation">控制</Denoter></Event>。</Sentence><Sentence><Event eid="e5">已有涉及2起案件的<Participant oid="o5">5名嫌疑人</Participant>被<Denoter did="d5" type="operation">控制</Denoter></Event>。经核查,已查明的火灾和火情均因<Event eid="e6"><Denoter did="d6" type="operation">上坟烧纸烧香</Denoter></Event>引起,<Event eid="e7" polarity="negative">火灾及火情并未造成<Participant sid="s7">人员</Participant><Denoter did="d7" type="stateChange">伤亡</Denoter></Event>。</Sentence></Paragraph></Content>
+        
+        <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e7"/>
+        <eRelation relType="Composite" fevent_eid="e2" sevent_eids="e3-e4"/>
+        <eRelation relType="Follow" bevent_eid="e2" aevent_eid="e5"/>
+        <eRelation relType="Causal" cause_eid="e6" effect_eid="e2"/>
+        
+        </Body>

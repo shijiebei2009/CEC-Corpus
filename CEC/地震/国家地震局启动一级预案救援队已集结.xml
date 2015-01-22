@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>国家地震局启动一级预案　救援队已集结</Title>
+	<ReportTime type="absTime">2008年05月12日16:33</ReportTime>
+	<Content>
+		<Paragraph>
+			<Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">新华网北京</Participant><Title tid="t1" type="relTime">5月12日</Title><Denoter did="d1" type="statement">电</Denoter></Event></Sentence>
+			<Sentence>
+				<Event eid="e2" type="thoughtevent">中国地震局新闻发言人<Participant sid="s2">张宏卫</Participant><Time type="relTime" tid="t2">12日下午</Time><Denoter  type="statement" did="d2">通报</Denoter></Event>，
+			<Event eid="e3">针对<Location lid="l3">四川汶川</Location><Denoter type="emergency" did="d3">地震</Denoter></Event>，
+			<Event eid="e4"><Participant sid="s4">中国地震局</Participant>已<Denoter type="operation" did="d4">启动</Denoter><Object oid="o4">一级预案</Object></Event>，
+			<Event eid="e5">一支180人的<Participant sid="s5">救援队</Participant>已经<Denoter type="operation" did="d5">集结</Denoter></Event>。
+		</Sentence>
+		</Paragraph>
+
+　　<Paragraph>
+			<Sentence>
+				<Event eid="e6" type="thoughtevent">据<Participant sid="s6">国家地震台网</Participant><Denoter type="operation" did="d6">测定</Denoter></Event>，
+			<Event eid="e7"><Time type="relTime" tid="t6">12日14时48分</Time>，<Location lid="l6">四川省汶川县</Location>（温江西北55公里，北纬31．0度，东经103．4度）发生7．8级<Denoter type="emergency" did="d6">地震</Denoter></Event>。
+		</Sentence>
+		</Paragraph>
+
+　　<Paragraph>
+			<Sentence>
+				<Event eid="e8" type="thoughtevent">中国地震局新闻发言人<Participant sid="s8">张宏卫</Participant><Denoter  type="statement" did="d8">说</Denoter></Event>，此次地震强度大，波及面广。最新测得的震级为7．8级，
+			<Event eid="e9"><Location lid="l9">宁夏</Location>、<Location lid="l9">青海</Location>、<Location lid="l9">甘肃</Location>、<Location lid="l9">河南</Location>、<Location lid="l9">山西</Location>、<Location lid="l9">陕西</Location>、<Location lid="l9">山东</Location>、<Location lid="l9">云南</Location>、<Location lid="l9">湖南</Location>、<Location lid="l9">湖北</Location>、<Location lid="l9">上海</Location>、<Location lid="l9">重庆</Location>等省市均有<Denoter type="emergency" did="d9">震感</Denoter></Event>。
+		</Sentence>
+		</Paragraph>
+
+　　<Paragraph>
+			<Sentence>
+				<Event eid="e10" type="thoughtevent"><Participant sid="s10">张宏卫</Participant><Denoter  type="statement" did="d10">说</Denoter></Event>，
+			<Event eid="e11"><Participant sid="s11">中国地震局</Participant>已<Denoter type="operation" did="d11">启动</Denoter><Object oid="o11">一级预案</Object></Event>，
+			<Event eid="e12">一支180的<Participant sid="s12,s13,s14">救援队伍</Participant>已经<Denoter type="operation" did="d12">集结</Denoter></Event>，
+			<Event eid="e13">准备<Denoter type="movement" did="d13">开往</Denoter><Location lid="l13">灾区</Location></Event>
+				<Event eid="e14">投入<Denoter type="operation" did="d14">救援</Denoter></Event>。
+		</Sentence>
+			<Sentence>
+				<Event eid="e15">地震造成的<Object oid="o15">人员财产损失</Object>正在进一步<Denoter type="operation" did="d15">统计</Denoter>中</Event>。
+		</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e15"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e5"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eids="e9"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eids="e15"/>
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e5"/>
+	<eRelation relType="Causal" cause_eid="e7" effect_eid="e9"/>
+</Body>

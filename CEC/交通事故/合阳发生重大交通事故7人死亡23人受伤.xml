@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>  <Title>合阳发生重大交通事故 7人死亡23人受伤 </Title>
+	<ReportTime type="absTime">2007-9-10</ReportTime>
+	<Content>
+	
+    <Paragraph>
+    	<Sentence>
+    		<Event type="thoughtevent" eid="e1"><Participant sid="s1">西部网</Participant><Denoter type="statement" did="d1">讯</Denoter></Event>
+    		<Event eid="e2">
+    			<Time type="relTime" tid="t2">9月8日下午</Time>,在
+    			<Location lid="l2">渭南合阳县境内</Location>发生一起重大
+    			<Denoter type="emergency" did="d2">交通事故</Denoter>
+    		</Event>，
+    		<Event eid="e3">
+    			<Object sid="s3">一辆中巴车</Object>在
+    			<Location lid="l3">合阳一乡村公路</Location>
+    			<Denoter type="action" did="d3">行驶</Denoter>
+    		</Event>中因
+    		<Event eid="e4">刹车失灵
+    			<Denoter type="action" did="d4">冲入</Denoter>
+    			<Location lid="l4">108国道</Location>
+    		</Event>，
+    		<Event eid="e5">与
+    			<Object oid="o5">公路左侧土崖</Object>
+    			<Denoter type="action" did="d5">相撞</Denoter>
+    		</Event>，造成
+    		<Event eid="e6">
+    			<Participant oid="o6">7人</Participant>
+    			<Denoter type="stateChange" did="d6">死亡</Denoter>
+    		</Event>，
+    		<Event eid="e7">
+    			<Participant oid="o7">23人</Participant>
+    			<Denoter type="stateChange" did="d7">受伤</Denoter>
+    		</Event>。
+    	</Sentence>
+    	<Sentence>
+    		<Event eid="e8">
+    			<Denoter type="emergency" did="d8">事故</Denoter>发生
+    		</Event>后，
+    		<Event eid="e9">
+    			<Participant sid="s9,s10,s11">合阳县交警大队</Participant>立即
+    			<Denoter type="movement" did="d9">赶赴</Denoter>
+    			<Location lid="l9">事故现场</Location>
+    		</Event>
+    		<Event eid="e10">进行
+    			<Denoter type="operation" did="d10">处理</Denoter>
+    		</Event>，
+    		<Event eid="e11">并
+    			<Denoter type="operation" did="d11">启动</Denoter>
+    			<Object oid="o11">重大交通事故处置应急预案</Object>
+    		</Event>。
+    		<Event eid="e12">
+    			<Participant sid="s12">合阳县相关领导</Participant>以及
+    			<Participant sid="s12">公安、交通、卫生、安监等部门</Participant>相继
+    			<Denoter type="movement" did="d12">赶到</Denoter>
+    			<Location type="destination" lid="l12">现场</Location>
+    		</Event>，
+    		<Event eid="e13">全力
+    			<Denoter type="operation" did="d13">组织开展</Denoter>伤病救治
+    			<Object oid="o13">工作</Object>
+    		</Event>。
+    	</Sentence>
+    	<Sentence>目前23名伤者的情况基本稳定。
+    	</Sentence>
+    </Paragraph>
+    <Paragraph>
+    	<Sentence>
+    		<Event  type="thoughtevent" eid="e14">据<Denoter type="statement" did="d14">了解</Denoter>，肇事
+    			<Object oid="o14">中巴车</Object>是
+    			<Object oid="o14">西安铁路局</Object>咸阳工务段在合阳上洼火车站的施工车辆
+    		</Event>，
+    		<Event eid="e15">
+    			<Location lid="l15">车上</Location>
+    			<Denoter did="d15" type="stateChange">乘坐</Denoter>的都是
+    			<Participant oid="o15">工人</Participant>和
+    			<Participant oid="o15">农民工</Participant>
+    		</Event>，
+    		<Event eid="e16">
+    			<Denoter did="d16" type="action">善后处置</Denoter>工作正在进行中。
+    		</Event>
+    	</Sentence>
+    </Paragraph>
+</Content>
+<eRelation relType="Causal" cause_eid="e4" effect_eid="e5"/>
+<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>
+<eRelation relType="Causal" cause_eid="e5" effect_eid="e7"/>
+<eRelation relType="Follow" bevent_eid="e9" aevent_eid="e8"/>
+<eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11"/>
+<eRelation relType="Follow" bevent_eid="e13" aevent_eid="e12"/>
+</Body>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>四川绵阳化工厂发生火灾 浓烟遮天蔽日</Title>
+	<ReportTime type="absTime">2014年04月30日 13:34</ReportTime>
+	<Content><Paragraph><Sentence><Event eid="e1"><Time tid="t" type="absTime">2014年4月29日</Time>，<Location lid="l1">四川德阳绵竹市新市镇的龙蟒集团一生产硫酸亚铁的车间</Location>发生<Denoter did="d1" type="emergency">火灾</Denoter></Event>，<Event eid="e2"><Object sid="s2-s3">12台消防车</Object>和<Participant sid="s2-s3">30多名官兵</Participant><Denoter did="d2" type="movement">赶到</Denoter><Location lid="l2" type="destination">现场</Location></Event><Event eid="e3"><Denoter did="d3" type="operation">救火</Denoter></Event>。</Sentence><Sentence>经初步调查，过火面积约800平方米，燃烧物质主要为PP管、电缆、橡胶皮带、机电设备等物质。<Event type="thoughtevent" eid="e4"><Denoter did="d4" type="perception">据悉</Denoter></Event>，<Event polarity="negative" eid="e5"><Location lid="l5">现场</Location>未发生<Denoter did="d5" type="emergency">爆炸</Denoter></Event>也<Event eid="e6">无<Participant sid="s6">人员</Participant><Denoter did="d6" type="emergency">伤亡</Denoter></Event>，<Event eid="e7"><Object oid="o7">起火原因</Object>和<Object oid="o7">财产损失</Object><Participant sid="s7">当地有关部门</Participant>正在<Denoter did="d7" type="operation">调查</Denoter>中</Event>。</Sentence></Paragraph></Content>
+        
+<eRelation relType="Follow" bevent_eid="e1" aevent_eid="e2"/>
+<eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>        
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5-e7"/>
+        </Body>

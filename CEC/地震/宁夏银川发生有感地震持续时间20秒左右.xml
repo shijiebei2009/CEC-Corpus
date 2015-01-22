@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>宁夏银川发生有感地震 持续时间20秒左右</Title>
+	<ReportTime type="absTime">2008年05月12日16:12</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1"><Time type="relTime" tid="t1">今天14时35分</Time>，<Location lid="l1">宁夏回族自治区首府银川市</Location>发生有感<Denoter type="emergency" did="d1">地震</Denoter>，震动时间持续20秒左右。</Event></Sentence></Paragraph>
+    　　
+    <Paragraph><Sentence><Event eid="e2" type="thoughtevent"><Time type="relTime" tid="t2">14时35分左右</Time>，<Participant sid="s2,s3,s4,s5,s7">记者</Participant>在<Location lid="l2">办公室</Location>里忽然<Denoter  type="perception" did="d2">觉得</Denoter>有震感</Event>，以为发生错觉，
+    <Event eid="e3">待<Denoter type="action" did="d3">抬头</Denoter></Event>
+    <Event eid="e4"><Denoter  type="perception" did="d4">看</Denoter>悬挂着的<Object oid="o4">日光灯</Object>时</Event>，
+    <Event eid="e5"><Denoter  type="perception" did="d5">发现</Denoter></Event>
+    <Event eid="e6"><Object oid="o6">灯</Object>在<Denoter type="action" did="d6">晃动</Denoter></Event>，<Event eid="e7">后<Denoter  type="perception" did="d7">发现</Denoter></Event>
+    <Event eid="e8">水桶里的<Object oid="o8">矿泉水</Object>也在<Denoter type="action" did="d8">晃动</Denoter></Event>。</Sentence>
+    <Sentence>
+    <Event eid="e9"><Participant sid="s9">记者</Participant>急忙<Denoter type="movement" did="d9">跑</Denoter>到<Location type="destination" lid="l9">楼道</Location></Event>，此时的感觉就像楼在水中漂。</Sentence>
+    <Sentence>
+    <Event eid="e10"><Participant sid="s10,s11">记者</Participant>从<Location type="origin" lid="l10">四楼</Location><Denoter type="movement" did="d10">跑</Denoter>到<Location type="destination" lid="l10">楼下</Location></Event>，
+    <Event eid="e11" type="thoughtevent"><Denoter  type="perception" did="d11">发现</Denoter></Event>
+    <Event eid="e12"><Location lid="l12">楼下</Location>已经<Denoter type="action" did="d12">站</Denoter>满了<Participant oid="o12">人</Participant></Event>，
+    <Event eid="e13"><Participant sid="s13">大家</Participant>都在<Denoter type="action" did="d13">议论</Denoter></Event>刚才发生的地震。</Sentence><Sentence>
+    <Event eid="e14">与记者站邻近的一家学校已把<Participant  oid="o14">所有学生</Participant>全部<Denoter type="movement" did="d14">疏散</Denoter>到<Location type="destination"  lid="l14">空旷的场地</Location></Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence>此次有感地震震级多少，震中在哪里，目前尚未得知。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e6"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e8"/>
+	<eRelation relType="Accompany" accompanya_eid="e6" accompanyb_eid="e8"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e11" thoughtcontent_eids="e12-e14"/>
+</Body>

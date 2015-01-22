@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>俄罗斯今年第一季度挫败恐怖袭击19起</Title>
+	<ReportTime type="absTime">2014年4月8日</ReportTime>
+	<Content><Paragraph><Sentence><Event eid="e1" type="thoughtevent"><Participant sid="s1">人民网</Participant><Time tid="t1" type="relTime">4月8日</Time><Denoter did="d1" type="statement">讯</Denoter></Event> 据俄新网消息，
+        <Event eid="e2" type="thoughtevent">俄罗斯联邦安全局局长<Participant sid="s2">博尔特尼科夫</Participant><Time tid="t2" type="relTime">日前</Time><Denoter did="d2" type="statement">表示</Denoter></Event>，
+        <Event eid="e3"><Participant sid="s3">俄安全局</Participant><Time tid="t3" type="timeInterval">2014年第一季度</Time>成功<Denoter did="d3" type="action">阻止</Denoter><Object oid="o3">恐怖袭击19起</Object>。</Event></Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e4" type="thoughtevent"><Participant sid="s4">博尔特尼科夫</Participant><Denoter did="d4" type="statement">指出</Denoter></Event>，
+                <Event eid="e5"><Participant sid="s5">俄</Participant><Time tid="t5" type="timeInterval">一季度</Time><Denoter did="d5" type="action">缴获</Denoter>非法贩运的自制<Object oid="o5">爆炸装置79个</Object>、<Object oid="o5">炸药250多公斤</Object>以及<Object oid="o5">500多支武器</Object>。</Event></Sentence></Paragraph></Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3"/>
+<eRelation relType="Accompany" accompanya_eid="e2" accompanyb_eid="e4"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5"/>                
+                
+                
+                </Body>

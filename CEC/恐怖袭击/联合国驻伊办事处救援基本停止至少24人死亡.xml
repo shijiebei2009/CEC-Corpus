@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>联合国驻伊办事处救援基本停止 至少24人死亡</Title>
+	<ReportTime type="absTime">2003年8月20日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="absTime">2003年8月19日</Time>，<Location lid="l1">联合国驻伊拉克办事处</Location>遭汽车炸弹<Denoter did="d1" type="emergency">袭击</Denoter></Event>，<Event eid="e2">造成<Participant oid="o2">至少24人</Participant><Denoter did="d2" type="stateChange">死亡</Denoter></Event>，<Event eid="e3"><Participant oid="o3">100多人</Participant><Denoter did="d3" type="stateChange">受伤</Denoter></Event>。</Sentence><Sentence><Event eid="e4"><Time tid="t4" type="relTime">一周后</Time>，联合国安理会一致<Denoter did="d4" type="action">通过</Denoter><Object oid="o4">第1502号决议</Object></Event>，要求加强世界各地联合国职员和其他人道救援人员的安全保障。</Sentence></Paragraph>
+		
+
+
+
+
+
+
+		
+		
+		<Paragraph><Sentence>新华网巴格达8月20日电（记者邵杰李骥志）<Event eid="e5">经过<Participant sid="s5">救援人员</Participant><Time tid="t5" type="timeInterval">彻夜</Time>的<Denoter did="d5" type="operation">工作</Denoter></Event>之后，<Event eid="e6">联合国驻伊拉克办事处遭汽车炸弹袭击现场的<Object oid="o6">搜救工作</Object><Time tid="t6" type="relTime">20日上午</Time>已基本<Denoter did="d6" type="stateChange">停止</Denoter></Event>，看来找到生还者的可能性已经变得极其渺茫。</Sentence></Paragraph>
+		
+		
+		<Paragraph><Sentence><Event eid="e7" type="thoughtevent"><Participant sid="s7">新华社记者</Participant>在<Location lid="l7">现场</Location><Denoter did="d7" type="perception">看到</Denoter></Event>，<Event eid="e8"><Object sid="s8">铲车等工程机械</Object>已经<Denoter did="d8" type="movement">进入</Denoter><Location lid="l8" type="destination">现场</Location></Event>，<Event eid="e9">并开始对<Object oid="o9">废墟</Object>进行<Denoter did="d9" type="operation">清理</Denoter></Event>。</Sentence>
+		
+                <Sentence><Event eid="e10" type="thoughtevent"><Participant  sid="s10">救援人员</Participant>对<Participant  oid="o10">记者</Participant><Denoter did="d10" type="statement">说</Denoter></Event>，在废墟下有可能还会发现遇难者的尸体。</Sentence><Sentence>据最新收到的消息，<Event eid="e11" type="thoughtevent"><Participant sid="s11">一位联合国高级官员</Participant><Denoter did="d11" type="statement">说</Denoter></Event>，<Event eid="e12"><Denoter did="d12" type="emergency">爆炸</Denoter></Event>至少造成<Event eid="e13"><Participant oid="o13">24人</Participant><Denoter did="d" type="stateChange">死亡</Denoter></Event>，<Event eid="e14"><Participant oid="o14">100多人</Participant><Denoter did="d14" type="stateChange">受伤</Denoter></Event>。</Sentence></Paragraph>
+                
+                
+		<Paragraph><Sentence><Event eid="e15"><Participant sid="s15">美国调查人员</Participant>早已<Denoter did="d15" type="movement">抵达</Denoter><Location lid="l15" type="destination">现场</Location></Event><Event eid="e16">并开始<Denoter did="d16" type="operation">寻找</Denoter><Object oid="o16">破案线索</Object></Event>。</Sentence><Sentence>但是现在尚无任何组织或个人宣布对这起爆炸事件负责。</Sentence></Paragraph>
+
+		<Paragraph><Sentence><Event eid="e17" type="thoughtevent"><Participant sid="s17">伊拉克临时管理委员会</Participant><Time tid="t17" type="relTime">20日</Time>在<Location lid="l17">巴格达</Location>发表声明<Denoter did="d17" type="statement">说</Denoter></Event>，<Event eid="e18"><Object oid="o18">爆炸事件</Object>是由“（伊拉克前总统）萨达姆的追随者或渗透到伊拉克境内的<Participant  sid="s18">外国恐怖分子</Participant>”
+                
+                <Denoter did="d18" type="operation">制造</Denoter>的</Event>。</Sentence><Sentence>声明强调，<Event eid="e19"><Participant sid="s19">伊拉克人民</Participant>决心同<Participant oid="o19">恐怖分子</Participant>作<Denoter did="d19" type="operation">斗争</Denoter></Event>。</Sentence><Sentence>声明还呼吁“联合国内的兄弟国家和朋友为伊拉克实现稳定与安全发挥积极作用”。</Sentence></Paragraph>
+                
+		<Paragraph><Sentence><Event eid="e20" type="thoughtevent">另据<Denoter did="d20" type="statement">报道</Denoter></Event>，
+                <Event eid="e21"><Location lid="l21">伊拉克</Location><Time tid="t21" type="relTime">20日</Time>再次发生<Denoter did="d21" type="emergency">袭击</Denoter><Object oid="o21">驻伊美军</Object>事件</Event>。
+                </Sentence><Sentence><Event eid="e22" type="thoughtevent"><Participant sid="s22">美军第四步兵师一名发言人</Participant><Denoter did="d22" type="statement">说</Denoter></Event>，
+                <Event eid="e23"><Participant oid="o23" >美军车队</Participant><Time tid="t23" type="relTime">当天</Time>在萨达姆家乡提<Location lid="l23">克里特地区</Location>遭到火箭弹<Denoter did="d23" type="emergency">袭击</Denoter></Event>，
+                导致<Event eid="e24"><Participant oid="o24">一名随军工程承包商</Participant><Denoter did="d24" type="stateChange">死亡</Denoter></Event>，
+                <Event eid="e25"><Participant oid="o25">两名士兵</Participant><Denoter did="d25" type="stateChange">受伤</Denoter></Event>。
+                </Sentence><Sentence><Event eid="e26" polarity="negative">但是<Participant sid="s26">这名发言人</Participant>没有<Denoter did="d26" type="statement">透露</Denoter>该承包商的国籍</Event>。</Sentence><Sentence>这是本月以来在提克里特地区遇袭身亡的第二位承包商。</Sentence></Paragraph>
+		
+	</Content>
+	
+	
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+<eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+<eRelation relType="Follow" bevent_eid="e1" aevent_eid="e4"/>
+<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8-e9"/>
+<eRelation relType="Follow" bevent_eid="e8" aevent_eid="e9"/>
+<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10"/>
+<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e11"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e11" thoughtcontent_eids="e12-e14"/>
+<eRelation relType="Causal" cause_eid="e12" effect_eid="e13"/>
+<eRelation relType="Causal" cause_eid="e12" effect_eid="e14"/>
+<eRelation relType="Follow" bevent_eid="e15" aevent_eid="e16"/>
+<eRelation relType="Follow" bevent_eid="e15" aevent_eid="e7"/>
+<eRelation relType="Follow" bevent_eid="e15" aevent_eid="e17"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e17" thoughtcontent_eids="e18-e19"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e20" thoughtcontent_eids="e21"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e22" thoughtcontent_eids="e23-e26"/>
+	<eRelation relType="Causal" cause_eid="e23" effect_eid="e24"/>
+	<eRelation relType="Causal" cause_eid="e23" effect_eid="e25"/>
+</Body>

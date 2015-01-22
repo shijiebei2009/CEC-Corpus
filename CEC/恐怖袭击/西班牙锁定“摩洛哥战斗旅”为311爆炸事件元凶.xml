@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>西班牙锁定“摩洛哥战斗旅”为311爆炸事件元凶</Title>
+	<ReportTime type="absTime">2004年3月17日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1"><Time type="absTime" tid="t1">2004年3月11日</Time>，<Location lid="l1">西班牙首都马德里中部的一个火车站</Location>发生<Denoter type="emergency" did="d1">爆炸</Denoter>，</Event><Event eid="e2">造成<Participant oid="o2">200人</Participant><Denoter type="stateChange" did="d2">死亡</Denoter></Event>，其中包括14个国家的43名外国人。</Sentence>警方锁定“摩洛哥战斗旅”为311爆炸事件元凶。</Paragraph>
+		<Paragraph><Sentence><Event type="thoughtevent" eid="e3"><Participant sid="s3">新华网</Participant><Location lid="l3">马德里</Location><Time tid="t3" type="relTime">3月17日</Time><Denoter type="statement" did="d3">电</Denoter>（记者刘瑞常）</Event></Sentence><Sentence><Event eid="e4"><Object sid="s4">西班牙报纸</Object><Time type="relTime" tid="t4">17日</Time>报道<Denoter type="statement" did="d4">说</Denoter></Event>，<Event eid="e5"><Participant sid="s5,s6">西班牙警方</Participant>经过初步<Denoter type="operation" did="d5">调查</Denoter></Event>后<Event type="thoughtevent" eid="e6"><Denoter type="perception" did="d6">认为</Denoter></Event>，本月11日在马德里制造旅客列车连环爆炸血案的凶犯可能是与“基地”组织有密切联系的“摩洛哥战斗旅”。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event type="thoughtevent" eid="e7"><Object sid="s7">报道</Object>引用相关调查材料<Denoter type="statement" did="d7">说</Denoter></Event>，<Event eid="e8"><Participant sid="s8">“摩洛哥战斗旅”</Participant><Time type="relTime" tid="t8">去年</Time>曾在<Location lid="l8">摩洛哥</Location><Denoter type="operation" did="d8">制造</Denoter>了<Object oid="o8">卡萨布兰卡连环爆炸事件</Object></Event>。</Sentence><Sentence><Event eid="e9"><Time type="relTime" tid="t9">今年2月</Time>，<Participant sid="s9">该组织</Participant>在<Location lid="l9">西班牙北部布尔戈斯省西班牙炸药联盟工厂</Location><Denoter type="action" did="d9">获得</Denoter>了<Object oid="o9">炸药</Object></Event>。</Sentence><Sentence><Event eid="e10"><Time type="relTime" tid="t10">本月11日</Time>，该组织的<Participant sid="s10">6人</Participant>将每包12公斤左右的<Object oid="o10">13包炸药</Object><Denoter type="action" did="d10">安放</Denoter>在<Location lid="l10">马德里的4辆近郊区旅客列车里</Location></Event>，<Event eid="e11">然后<Denoter type="action" did="d11">引爆</Denoter>了<Object oid="o11">炸药</Object></Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event type="thoughtevent" eid="e12"><Participant sid="s12">西班牙警方</Participant><Denoter type="statement" did="d12">说</Denoter></Event>，<Event eid="e13">参加马德里爆炸事件的6名摩洛哥嫌疑分子中只有<Participant  oid="o13">索甘姆1人</Participant>被<Denoter type="operation" did="d13">逮捕</Denoter></Event>。</Sentence><Sentence>西班牙还有不少“潜伏”下来的“摩洛哥战斗旅”成员。</Sentence><Sentence><Event type="thoughtevent" eid="e14"><Participant sid="s14">有一些人</Participant>曾直言不讳地<Denoter type="statement" did="d14">说</Denoter>“要进行圣战”</Event>。</Sentence><Sentence><Event type="thoughtevent" eid="e15"><Participant sid="s15">有的</Participant>甚至<Denoter type="statement" did="d15">扬言</Denoter>要让横贯马德里的卡斯特亚纳大街“尸横遍野，血流成河”</Event>，但这却没有引起警方的重视。</Sentence></Paragraph>
+		<Paragraph><Sentence>
+                <Event type="thoughtevent" eid="e16">另据<Denoter type="statement" did="d16">报道</Denoter></Event>，
+                <Event eid="e17"><Participant sid="s17">西班牙国家情报中心</Participant>早在
+               发生之前1个月就从意大利情报人员处<Denoter type="action" did="d17">得到</Denoter><Object oid="o17">消息</Object></Event>， 
+               <Event eid="e18"><Location lid="l18">马德里</Location><Denoter type="emergency" did="d18">爆炸事件</Denoter></Event>
+               <Event eid="e19"><Participant sid="s19">一名伊拉克上校</Participant>准备在<Location lid="l19">马德里</Location><Denoter type="operation" did="d19">制造</Denoter><Object oid="o19">爆炸事件</Object></Event>。</Sentence><Sentence><Event eid="e20"><Participant  sid="s20">国家情报中心</Participant>将此<Object oid="o20">秘密情报</Object><Denoter type="action" did="d20">报告</Denoter>了<Participant  oid="o20">西班牙内政部</Participant></Event>，但未引起重视。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e21"><Denoter type="operation" did="d21">成立</Denoter>于<Time type="absTime" tid="t21">1993年</Time>的<Participant sid="s21">“摩洛哥战斗旅”</Participant></Event><Event eid="e22">在<Location lid="l22">伊拉克南部库尔德地区</Location>接受<Denoter type="operation" did="d22">训练</Denoter></Event>，其中一部分成员是阿富汗老兵，懂得爆破技术。</Sentence><Sentence><Event eid="e23"><Object sid="s23">该组织</Object>从“基地”组织<Denoter did="d23" type="action">获得</Denoter><Object oid="o23">资金支持和训练条件</Object>。</Event></Sentence><Sentence>目前，该组织在西班牙、英国、意大利、丹麦、爱尔兰和土耳其都有分支组织。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eids="e4-e23"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5-e6"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8-e11"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e12" thoughtcontent_eids="e3-e15"/>
+        <eRelation relType="Follow" bevent_eid="e18" aevent_eid="e17"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e16" thoughtcontent_eids="e17-e20"/>
+	
+</Body>

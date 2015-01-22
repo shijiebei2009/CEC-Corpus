@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>渭南发生一起疑似食物中毒事件</Title>
+	<ReportTime type="absTime">2008-7-27</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event type="thoughtevent" eid="e1"><Location lid="l1">三秦</Location><Object oid="o1">都市报</Object><Participant sid="s1">记者张军建</Participant>、陕西台<Participant sid="s1">记者华林</Participant>、<Participant sid="s1">杜鹏</Participant><Denoter did="d1" type="statement">报道</Denoter></Event>：</Sentence><Sentence><Event eid="e2"><Time tid="t2" type="relTime">7月26号中午</Time>，渭南市民<Participant sid="s2">沈老先生家人</Participant>和<Participant sid="s2">亲戚21人</Participant>，在<Location lid="l2">渭南市三贤庄餐饮有限责任公司</Location><Denoter did="d2" type="action">用过</Denoter>沈老先生78岁<Object oid="o2">寿餐</Object>后</Event>，<Event eid="e3">下午有<Participant sid="s3,s4,s5">6人</Participant><Denoter did="d3" type="stateChange">出现</Denoter><Object oid="o3">疑似中毒症状</Object></Event><Event eid="e4">被<Denoter did="d4" type="movement">送</Denoter><Location lid="l4">院</Location></Event><Event eid="e5"><Denoter did="d5" type="operation">治疗</Denoter></Event>，其中包括3名儿童。</Sentence><Sentence><Event eid="e6"><Time tid="t6" type="timeInterval">截止今天（27号）下午</Time>，<Participant sid="s6">一名10岁儿童</Participant>已<Denoter did="d6" type="operation">出院</Denoter></Event>，<Event eid="e7">还有<Participant sid="s7">5名患者</Participant>在<Location lid="l7">医院</Location>接受<Denoter did="d7" type="operation">观察治疗</Denoter></Event>，<Event eid="e8"><Participant sid="s8">他们</Participant>病情稳定，均无<Denoter did="d8" type="stateChange" polarity="negative">生命危险</Denoter></Event>。</Sentence><Sentence><Event eid="e9"><Participant sid="s9">当地卫生监督部门</Participant>已介入<Denoter did="d9" type="operation">调查</Denoter><Object oid="o9">此事</Object></Event>。</Sentence></Paragraph>　(网络编辑：马艾莉)  
+             </Content>
+	        <eRelation thoughtcontent_eids="e2-e9" thoughtevent_eid="e1" relType="Thoughtcontent"/>
+		<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+		<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>
+		<eRelation relType="Follow" aevent_eid="e5" bevent_eid="e4"/>
+		<eRelation relType="Accompany" accompanyb_eid="e6" accompanya_eid="e7"/>
+		<eRelation relType="Accompany" accompanyb_eid="e7" accompanya_eid="e8"/>
+	
+</Body>

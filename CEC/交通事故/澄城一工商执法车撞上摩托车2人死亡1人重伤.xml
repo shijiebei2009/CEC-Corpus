@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>澄城一工商执法车撞上摩托车 2人死亡1人重伤</Title>
+	<ReportTime type="absTime">2007年07月16日09:04</ReportTime>
+	<Content>
+    <Paragraph><Sentence><Event eid="e1" type="thoughtevent"><Participant sid="s1">本报</Participant><Location lid="l1">渭南</Location><Denoter did="d1" type="statement">讯</Denoter></Event>（党博 记者 张军建）</Sentence><Sentence><Event eid="e2"><Time tid="t2" type="relTime">7月14日晚22时30分</Time>，<Location lid="l2">澄城县古徽街九路口</Location>发生一起重大<Denoter did="d2" type="emergency">交通事故</Denoter></Event>，<Event eid="e3">该县工商局一名工作人员驾驶的<Object sid="s3,s4">一辆面包车</Object>与<Object sid="s3">一辆摩托车</Object><Denoter did="d3" type="action">相撞</Denoter></Event>后<Event eid="e4"><Denoter did="d4" type="action">翻车</Denoter></Event>，<Event eid="e5"><Denoter did="d5" type="emergency">车祸</Denoter></Event>造成<Event eid="e6"><Participant sid="s6">2人</Participant><Denoter did="d6" type="stateChange">死亡</Denoter></Event>，<Event eid="e7"><Participant sid="s7">1人</Participant><Denoter did="d7" type="stateChange">重伤</Denoter></Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e8"><Time tid="t8" type="relTime">7月14日晚22时30分左右</Time>，在<Location lid="l8">澄城县古徽街九路口</Location>，一辆车牌号为陕EA1572车身喷有“12315”的<Object sid="s8">白色面包车</Object>，由北向南行驶中，与迎面而来的<Object sid="s8">一辆摩托车</Object><Denoter did="d8" type="action">相撞</Denoter></Event>，<Event eid="e9"><Object sid="s9">两车</Object><Denoter did="d9" type="action">相撞</Denoter></Event>后，<Event eid="e10"><Object sid="s10,s11">面包车</Object><Denoter did="d10" type="action">翻倒</Denoter>在地</Event><Event eid="e11">将<Participant oid="o11">摩托司机</Participant><Denoter did="d11" type="action">压</Denoter>在<Location lid="l11">车下</Location></Event>。</Sentence><Sentence><Event eid="e12"><Denoter did="d12" type="emergency">车祸</Denoter></Event>造成<Event eid="e13">面包车司机<Participant sid="s13">马正平</Participant>以及摩托车上的<Participant sid="s13">张某和殷某</Participant>身负<Denoter did="d13" type="stateChange">重伤</Denoter>，</Event><Event eid="e14"><Participant sid="s14">民警</Participant>和<Object sid="s14,s15">120急救车</Object>先后<Denoter did="d14" type="movement">赶到</Denoter><Location lid="l14">现场</Location></Event>，<Event eid="e15"><Participant oid="o15,o16">三名伤者</Participant>被紧急<Denoter did="d15" type="movement">送到</Denoter><Location lid="l5">澄城县人民医院</Location></Event><Event eid="e16"><Denoter did="d16" type="operation">抢救</Denoter></Event>。<Event eid="e17"><Participant sid="s17">马正平与殷某</Participant>经抢救无效<Denoter did="d17" type="stateChange">死亡</Denoter></Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e18" type="thoughtevent">据<Participant sid="s18">目击者</Participant><Denoter did="d18" type="statement">称</Denoter></Event>，<Event eid="e19"><Denoter did="d19" type="emergency">事</Denoter>发</Event>时，<Event eid="e20"><Object sid="s20">面包车</Object>由北向南<Denoter did="d20" type="action">行驶</Denoter></Event>，当时车速很快，车身摇摆的很厉害，<Event eid="e21"><Denoter did="d21" type="emergency">车祸</Denoter>发生</Event>时，<Event eid="e22"><Object sid="s22">面包车</Object>完全靠着路南逆向<Denoter did="d22" type="action">行驶</Denoter></Event>，致使惨剧发生。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e23" type="thoughtevent"><Time tid="t23" type="relTime">昨日下午</Time>，在<Location lid="l23">澄城县人民医院</Location>，据一位姓张的<Participant sid="s23">医务人员</Participant><Denoter did="d23" type="statement">告诉</Denoter><Participant oid="o23">记者</Participant></Event>，<Event eid="e24"><Time tid="t24" type="relTime">7月14日晚上22时、7月15日凌晨5时</Time><Participant sid="s24">马正平与殷某</Participant>因伤势严重经抢救无效<Denoter did="d24" type="stateChange">死亡</Denoter></Event>，<Event eid="e25"><Participant oid="o25">伤者张某</Participant>因<Event eid="e26"><Object sid="s26">头骨</Object><Denoter did="d26" type="stateChange">骨折</Denoter></Event>，<Time tid="t25" type="relTime">目前</Time>还在<Denoter did="d25" type="operation">抢救</Denoter></Event>中。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e27" type="thoughtevent">据<Denoter did="d27" type="statement">了解</Denoter></Event>，面包车司机马正平为澄城县工商局大市场工商所聘用的工作人员，其主要负责澄城县交通乡、雷家洼乡的工商管理费征收工作。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e27"/> 
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e7"/>
+	<eRelation relType="Causal" cause_eid="e9" effect_eid="e10"/>
+	<eRelation relType="Causal" cause_eid="e10" effect_eid="e11"/>
+	<eRelation relType="Causal" cause_eid="e12" effect_eid="e13"/>
+        <eRelation relType="Follow" bevent_eid="e13" aevent_eid="e14"/>
+        <eRelation relType="Follow" bevent_eid="e14" aevent_eid="e15"/>
+        <eRelation relType="Follow" bevent_eid="e15" aevent_eid="e16"/>
+        <eRelation relType="Follow" bevent_eid="e16" aevent_eid="e17"/>
+        <eRelation relType="Thoughtcontent" thoughtevent_eid="e18" thoughtcontent_eids="e19-e22"/>
+        <eRelation relType="Thoughtcontent" thoughtevent_eid="e23" thoughtcontent_eids="e24-e26"/>
+        <eRelation relType="Causal" cause_eid="e26" effect_eid="e25"/>	
+</Body>

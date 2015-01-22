@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>101国道密云段现惨祸 客车农用车相撞致6人亡</Title>
+	<ReportTime type="absTime">2008年04月05日 09:12</ReportTime>　京华时报
+<Content>
+		<Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="relTime">昨天下午1点多</Time>，<Location lid="l1">101国道密云县庄头峪村附近路段上</Location>，一辆开往承德、载有20多名乘客的<Object sid="s1">依维柯车</Object>与一辆拉矿石的<Object sid="s1">农用车</Object><Denoter did="d1" type="action">相撞</Denoter></Event>，事故还殃及一辆捷达轿车,<Event eid="e2">事故共造成<Participant sid="s2">6人</Participant><Denoter did="d2" type="stateChange">死亡</Denoter></Event>，<Event eid="e3"><Participant sid="s3">3人</Participant><Denoter did="d3" type="stateChange">重伤</Denoter></Event>，<Event eid="e4"><Participant sid="s4">14人</Participant><Denoter did="d4" type="stateChange">轻微伤</Denoter></Event>。</Sentence></Paragraph>　
+    
+    <Paragraph><Sentence><Event eid="e5"><Denoter did="d5" type="emergency">事</Denoter>发</Event>后，<Event eid="e6"><Participant sid="s6,s7,s8,s9">市领导</Participant>及<Participant sid="s6,s7,s8,s9">相关单位负责人</Participant><Denoter did="d6" type="movement">赶往</Denoter><Location lid="l6">现场</Location></Event><Event eid="e7"><Denoter did="d7" type="operation">指挥</Denoter>救援</Event>，并<Event eid="e8"><Denoter did="d8" type="movement">前往</Denoter><Location lid="l8">医院</Location></Event><Event eid="e9"><Denoter did="d9" type="operation">探望</Denoter><Participant oid="o9">伤者</Participant></Event>。</Sentence><Sentence><Event eid="e10" type="thoughtevent">据<Denoter did="d10" type="statement">了解</Denoter></Event>，<Event eid="e11"><Object sid="s11">事发客车</Object>涉嫌<Denoter did="d11" type="action">超载</Denoter></Event>，<Event eid="e12"><Participant oid="o12,o13">农用车司机</Participant>已被<Participant sid="s12,s13">警方</Participant><Denoter did="d12" type="action">带走</Denoter></Event><Event eid="e13"><Denoter did="d13" type="action">讯问</Denoter></Event>。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e4"/>
+        <eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+        <eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>
+        <eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+        <eRelation relType="Follow" bevent_eid="e8" aevent_eid="e9"/>
+        <eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eids="e11-e13"/>
+        <eRelation relType="Follow" bevent_eid="e12" aevent_eid="e13"/>
+</Body>

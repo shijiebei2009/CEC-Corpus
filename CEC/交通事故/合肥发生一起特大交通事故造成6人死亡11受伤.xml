@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>合肥发生一起特大交通事故造成6人死亡11受伤</Title>
+	<ReportTime type="absTime">2007-7-8</ReportTime>
+	<Content>
+    <Paragraph>
+    	<Sentence>
+    		<Event  type="thoughtevent" eid="e1"><Participant sid="s1">中安在线</Participant><Time type="relTime" tid="t1">7月7日</Time><Denoter type="statement" did="d1">讯</Denoter>：</Event>
+    		<Event eid="e2">
+    			<Time type="relTime" tid="t2">7月7日下午</Time>，在
+    			<Location lid="l2">省城徽州大道2公里牌石处</Location>，发生一起特大
+    			<Denoter type="emergency" did="d2">交通事故</Denoter>
+    		</Event>，
+    		<Event eid="e3">
+    			<Object oid="o3">两辆货车</Object>发生
+    			<Denoter type="action" did="d3">相碰</Denoter>
+    		</Event>，
+    		<Event eid="e4">导致
+    			<Participant oid="o4">6人</Participant>当场
+    			<Denoter type="stateChange" did="d4">死亡</Denoter>
+    		</Event>，
+    		<Event eid="e5">
+    			<Participant oid="o5">11人</Participant>
+    			<Denoter type="stateChange" did="d5">受伤</Denoter>
+    		</Event>，其中3人伤势较为严重。
+    	</Sentence>
+		<Sentence>
+			<Event eid="e6">
+				<Participant oid="o6,s7,s8">市公安局交警支队三大队6、滨湖中队</Participant>
+				<Denoter type="action" did="d6">接到</Denoter>
+				<Object oid="o6">报警</Object>
+			</Event>
+			<Event eid="e7">迅速
+				<Denoter type="movement" did="d7">赶到</Denoter>
+				<Location type="destination" lid="l7">现场</Location>，
+			</Event>
+			<Event eid="e8">紧急
+				<Denoter type="operation" did="d8">展开</Denoter>救援和事故勘察
+				<Object oid="o8">工作</Object>
+			</Event>。
+		</Sentence>
+		<Sentence>
+			<Event eid="e9">
+				<Participant sid="s9">合肥市政府</Participant>、
+				<Participant sid="s9">市公安局有关领导</Participant>高度
+				<Denoter type="stateChange" did="d9">重视</Denoter>
+			</Event>，
+			<Event eid="e10">分别
+				<Denoter type="movement" did="d10">赶往</Denoter>
+				<Location type="destination" lid="l10">事故现场</Location>
+			</Event>，并
+			<Event eid="e11">
+				<Denoter type="statement" did="d11">责成</Denoter>
+				<Participant oid="o11">有关部门</Participant>
+			</Event>
+			<Event eid="e12">妥善
+				<Denoter type="operation" did="d12">处理</Denoter>
+				<Object oid="o12">善后事宜</Object>
+			</Event>。
+		</Sentence>
+	</Paragraph>
+	<Paragraph>
+		<Sentence>
+			<Event eid="e13">
+				<Time type="relTime" tid="t13">当日下午2时14分许</Time>，驾驶人
+				<Participant sid="s13">杜中伟</Participant>(男、音)
+				<Denoter type="action" did="d13">驾驶</Denoter>皖A6A843号江淮牌轻型厢式
+				<Object oid="o13">货车</Object>
+			</Event>，
+			<Event eid="e14">沿
+				<Location type="origin" lid="l14">徽州大道</Location>由北向南
+				<Denoter type="action" did="d14">行驶</Denoter>至
+				<Location type="destination" lid="l14">徽州大道与方二路口南100米处</Location>
+			</Event>时，与
+			<Event eid="e15">长丰县造甲乡驾驶人
+				<Participant sid="s15">尹卫国</Participant>
+				<Denoter type="action" did="d15">驾驶</Denoter>的皖A10840号东风牌重型普通
+				<Object oid="o15">货车</Object>
+			</Event>，
+			<Event eid="e16">由南向北逆向停在
+				<Location lid="l16">西侧路边</Location>
+				<Object oid="o16">道路</Object>
+				<Denoter type="operation" did="d16">施工</Denoter>
+			</Event>(车前放置了施工标志)，
+			<Event eid="e17">发生正面
+				<Denoter type="action" did="d17">相碰</Denoter>
+			</Event>，
+			<Event eid="e18">造成
+				<Participant oid="o18">6人</Participant>当场
+				<Denoter type="stateChange" did="d18">死亡</Denoter>
+			</Event>，
+			<Event eid="e19">另有
+				<Participant  oid="o19">11人</Participant>
+				<Denoter type="stateChange" did="d19">受伤</Denoter>
+			</Event>，其中3人伤势较为严重，均无生命危险。
+			</Sentence>
+			<Sentence>
+				<Event eid="e20">皖A6A843号江淮牌轻型厢式货车上
+					<Participant oid="o20">1</Participant>
+					<Denoter type="stateChange" did="d20">死</Denoter>
+				</Event>
+				<Event eid="e21">
+					<Participant oid="o21">1</Participant>
+					<Denoter type="stateChange" did="d21">伤</Denoter>
+				</Event>，其余死伤者为道路施工人员。
+			</Sentence>
+			<Sentence>
+				<Event eid="e22">
+					<Time type="relTime" tid="t22">目前</Time>
+					<Object sid="s22">合肥市第三人民医院</Object>
+					<Denoter type="operation" did="d22">收治</Denoter>
+					<Participant oid="o22">7名伤者</Participant>
+				</Event>，
+				<Event eid="e23">
+					<Object sid="s23">武警医院南区</Object>
+					<Denoter type="stateChange" did="d23">收治</Denoter>
+					<Participant oid="o23">4名伤者</Participant>
+				</Event>。
+			</Sentence>
+			<Sentence>
+				<Event eid="e24">据
+					<Participant sid="s24">交警三大队事故处理人员</Participant>初步
+					<Denoter type="perception" did="d24">判断</Denoter>
+				</Event>，
+				<Event eid="e25">
+					<Participant sid="s25">皖A6A843货车驾驶人</Participant>系
+					<Denoter type="action" did="d25">超速</Denoter>
+				</Event>和疲劳驾驶而引发
+				<Event eid="e26">
+					<Denoter type="emergency" did="d26">交通事故</Denoter>
+				</Event>。
+			</Sentence>
+			<Sentence>
+				<Event eid="e27">
+					<Time type="relTime" tid="t27">目前</Time>
+					<Object oid="o27">这起交通事故</Object>仍在进一步
+					<Denoter type="operation" did="d27">处理</Denoter>中
+				</Event>。
+			</Sentence>
+		</Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e5"/>
+	<eRelation relType="Follow" bevent_eid="e8" aevent_eid="e7"/>
+	<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10"/>
+	<eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11"/>
+	<eRelation relType="Causal" cause_eid="e17" effect_eid="e18"/>
+	<eRelation relType="Causal" cause_eid="e17" effect_eid="e19"/>
+	<eRelation relType="Causal" cause_eid="e17" effect_eid="e20"/>
+	<eRelation relType="Causal" cause_eid="e17" effect_eid="e21"/>
+	<eRelation relType="Causal" cause_eid="e25" effect_eid="e26"/>
+	
+</Body>

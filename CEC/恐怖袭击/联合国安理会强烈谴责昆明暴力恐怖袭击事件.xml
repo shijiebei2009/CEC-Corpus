@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>联合国安理会强烈谴责昆明暴力恐怖袭击事件</Title>
+	<ReportTime type="absTime">2014年03月04日</ReportTime>
+	<Content><Paragraph><Sentence><Event eid="e1" type="thoughtevent"><Participant sid="s1">新华社联合国</Participant><Time tid="t1" type="relTime">3月2日</Time><Denoter did="d1" type="statement">电</Denoter></Event>
+				<Event eid="e2" type="thoughtevent"><Participant sid="s2">联合国安理会</Participant><Time tid="t2" type="relTime">2日</Time>发表<Means mid="m2" type="method">媒体</Means><Denoter did="d2" type="statement">声明</Denoter></Event>，“
+ <Event eid="e3" type="thoughtevent">以最强烈的<Means mid="m3" type="method">言辞</Means>”<Denoter did="d3" type="statement">谴责</Denoter></Event>
+				<Event eid="e4"><Time tid="t4" type="relTime">1日</Time>发生在<Location lid="l4">中国昆明火车站</Location>、造成大量无辜平民死伤的<Denoter did="d4" type="emergency">恐怖袭击</Denoter>事件</Event>，
+ <Event eid="e5" type="thoughtevent"><Denoter did="d5" type="statement">呼吁</Denoter></Event>
+				<Event eid="e6">将恐怖袭击<Participant oid="o6">实施者、组织者、资助者和支持者</Participant><Denoter did="d6" type="operation">绳之以法</Denoter>。</Event></Sentence></Paragraph>
+
+　　<Paragraph><Sentence><Event eid="e7" type="thoughtevent"><Denoter did="d7" type="statement">声明</Denoter>说</Event>，
+<Event eid="e8"><Participant sid="s8,s9">安理会</Participant>向“这起非常丑恶的恐怖袭击”的<Participant oid="o8,o9">受害者及其家人，以及中国人民和政府</Participant>表示最深切的<Denoter did="d8" type="perception">同情</Denoter></Event>
+和
+<Event eid="e9"><Denoter did="d9" type="perception">慰问</Denoter></Event>。</Sentence></Paragraph></Content>
+
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eids="e4"/>
+<eRelation relType="Accompany" accompanya_eid="e3" accompanyb_eid="e5"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eids="e6"/>
+<eRelation relType="Accompany" accompanya_eid="e2" accompanyb_eid="e7"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8-e9"/>
+<eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>
+
+
+</Body>

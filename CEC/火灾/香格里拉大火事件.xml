@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+<Title>香格里拉大火事件</Title>
+<ReportTime  type="absTime">2014-01-14 10:07:39</ReportTime>
+<Content>
+<Paragraph>
+<Sentence>
+<Event  eid="e1">
+<Time  tid="t1"  type="absTime">2014年1月11日凌晨1时27分</Time>，
+位于<Location  lid="1l">云南迪庆藏族自治州州府香格里拉县的独克宗古城</Location>发生
+<Denoter  type="emergency"  did="d1">大火</Denoter>，
+</Event>
+
+<Event  eid="e2">
+<Object  oid="o2">起火原因</Object>
+已经
+<Denoter  did="d2"  type="operation">查明</Denoter>，
+</Event>
+
+<Event  eid="e3">为
+<Participant  sid="s3">客栈管理者</Participant>
+<Denoter  did="d3"  type="operation">用火</Denoter>
+<Object  oid="o3">不慎</Object>
+引起
+</Event>
+
+<Event  eid="e4">
+<Denoter  did="d4"  type="emergency">火灾</Denoter>。
+</Event>
+</Sentence>
+<Sentence>
+<Event  eid="e5">
+截至<Time  tid="t5"  type="absTime">2014年1月11日17时46分</Time>，
+古城内<Object  oid="o5">明火</Object>已经被
+<Denoter  did="d5"  type="operation">扑灭</Denoter>，
+</Event>
+
+<Event  eid="e6">
+<Participant  sid="s6">消防官兵</Participant>还在
+<Denoter  did="d6"  type="operation">搜寻</Denoter>
+是否有<Participant  oid="o6">人员</Participant>被困。
+</Event>
+</Sentence>
+<Sentence>
+<Event  eid="e7">据初步统计
+<Object  sid="s7">火灾</Object>
+<Denoter  did="d7"  type="stateChange">烧毁</Denoter>
+<Object  oid="o7">房屋100多栋</Object>，
+</Event>
+
+初步测算已造成
+<Event  eid="e8">
+<Denoter  did="d8"  type="operation">经济损失</Denoter>达
+<Object  oid="o8">1亿多元人民币</Object>。
+</Event>
+</Sentence>
+</Paragraph>
+</Content>
+<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>
+<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+ <eRelation relType="Causal" cause_eid="e7" effect_eid="e8"/>
+</Body>

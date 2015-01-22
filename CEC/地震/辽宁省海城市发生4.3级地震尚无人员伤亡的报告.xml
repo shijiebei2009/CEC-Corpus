@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>辽宁省海城市发生4.3级地震 尚无人员伤亡的报告</Title>
+	<ReportTime type="absTime">2008年11月14日</ReportTime>
+	<Content>
+		<Paragraph>
+			<Sentence>
+				<Event eid="e1">据<Participant sid="s1">国家地震台网</Participant><Denoter type="operation" did="d1">测定</Denoter>，</Event>
+				<Event eid="e2"><Time type="absTime" tid="t2">北京时间2008年11月14日06时53分</Time>，在<Location lid="l2">辽宁省海城市</Location>(北纬40.6度，东经122.9度)发生4.3级<Denoter type="emergency" did="d2">地震</Denoter></Event>，震源深度约10公里。
+			</Sentence>
+			<Sentence>
+				震中距海城市区33公里，距鞍山市区57公里，距沈阳市区146公里。
+			</Sentence>
+			<Sentence>
+				<Event eid="e3" type="thoughtevent"><Object oid="o3">详细情况</Object>正在<Denoter  type="statement" did="d3">了解</Denoter>中</Event>。
+			</Sentence>
+		</Paragraph>
+		<Paragraph>
+			<Sentence>
+				<Event eid="e4" type="thoughtevent">据<Participant sid="s4">国家地震台网</Participant><Denoter type="operation" did="d4">测定</Denoter></Event>，
+				<Event eid="e5"><Time type="absTime" tid="t5">北京时间2008年11月14日06时53分</Time>，在<Location lid="l5">辽宁省海城市</Location>发生4.3级<Denoter type="emergency" did="d5">地震</Denoter></Event>。
+			</Sentence>
+			<Sentence>
+				<Event  type="thoughtevent" eid="e6">据了解，<Location lid="l6">海城地区</Location><Denoter type="emergency" did="d6">震感</Denoter>明显</Event>，
+				<Event eid="e7"><Location lid="l7">营口</Location>、<Location lid="l7">鞍山</Location>、<Location lid="l7">辽阳</Location>、<Location lid="l7">盘锦</Location>、<Location lid="l7">本溪</Location>、<Location lid="l7">丹东</Location>、<Location lid="l7">沈阳</Location>、<Location lid="l7">大连</Location>部分地区有<Denoter type="emergency" did="d7">震感</Denoter></Event>。
+			</Sentence>
+			<Sentence>
+				<Event eid="e8"><Denoter type="emergency" did="d8">震</Denoter></Event>后，
+				<Event eid="e9"><Participant  sid="s9">辽宁省地震局</Participant>立即<Denoter type="operation" did="d9">派出</Denoter><Participant  oid="o9">现场工作队</Participant></Event>
+				<Event eid="e10"><Denoter type="movement" did="d10">赶赴</Denoter><Location type="destination" lid="l10">震区</Location></Event>
+				<Event eid="e11">开展现场<Denoter type="operation" did="d11">工作</Denoter></Event>。
+			</Sentence>
+			<Sentence>
+				<Event polarity="negative" eid="e12"><Time type="relTime" tid="t12">目前</Time>尚无人员伤亡和破坏情况的<Denoter  type="statement" did="d12">报告</Denoter></Event>。
+			</Sentence>
+		</Paragraph>
+	</Content>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5"/>
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>      
+        <eRelation relType="Causal" cause_eid="e5" effect_eid="e7"/>
+         <eRelation relType="Causal" cause_eid="e5" effect_eid="e9"/>
+          <eRelation relType="Causal" cause_eid="e5" effect_eid="e10"/>
+           <eRelation relType="Causal" cause_eid="e5" effect_eid="e11"/>
+       </Body>

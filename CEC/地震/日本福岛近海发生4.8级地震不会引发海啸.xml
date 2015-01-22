@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+   <Title>日本福岛近海发生4.8级地震 不会引发海啸</Title>
+   <ReportTime type="absTime"> 2014年02月08日 11:28:37</ReportTime>
+   <Content>
+      <Paragraph>
+         <Sentence>
+            <Event type="thoughtevent" eid="e1">
+               <Participant sid="s1">中新网</Participant>
+               <Time type="relTime" tid="t1">2月8日</Time>
+               <Denoter type="statement" did="d1">电</Denoter>
+            </Event>
+            <Event type="thoughtevent" eid="e2">
+            据
+            <Participant sid="s2">日本新闻网</Participant>
+            <Denoter type="statement" did="d2">报道</Denoter>
+         </Event>
+         ，
+         <Event eid="e3">
+            当地时间
+            <Time type="relTime" tid="t3">8日11时34分左右</Time>
+            ，
+            <Location lid="l3">日本福岛县近海</Location>
+            发生4级
+            <Denoter type="emergency" did="d3">地震</Denoter>
+         </Event>
+         。
+         </Sentence>
+      </Paragraph>
+
+      <Paragraph>
+         <Sentence>
+            <Event type="thoughtevent" eid="e4">
+               <Object oid="s4">日本气象厅的地震速报</Object>
+               <Denoter type="statement" did="d4">称</Denoter>
+            </Event>
+            ，震源深50公里，最大震级为4.8级。
+         </Sentence>
+      </Paragraph>
+
+      <Paragraph>
+         <Sentence>
+            <Event eid="e5">
+               受此
+               <Denoter type="emergency" did="d5">地震</Denoter>    
+            </Event>   
+            <Event eid="e6">
+               <Denoter type="perception" did="d6">影响</Denoter>
+            </Event>
+            ，福岛县部分地区的震级为4级，宫城县的震级为3级。
+         </Sentence>
+         <Sentence>
+            <Event eid="e7">
+               本次
+               <Denoter type="emergency" did="d7">地震</Denoter>
+            </Event>
+            <Event eid="e8" polarity="negative">
+               不会
+               <Denoter type="operation" did="d8">引发</Denoter>
+               <Object oid="o8">海啸</Object>
+            </Event>
+            。
+         </Sentence>
+         
+      </Paragraph>
+
+      <Paragraph>
+         <Sentence>
+            <Event eid="e9">
+               当地时间
+               <Time type="relTime" tid="t9">8日凌晨2点18分左右</Time>
+               ，
+               <Location lid="l9">日本福岛县近海</Location>
+               曾发生5级
+               <Denoter type="emergency" did="d9">地震</Denoter>
+            </Event>
+            ，地震震源深40公里。受地震影响，福岛县相马市和新地町的震级为4级。
+         </Sentence>
+      </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e9"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3"/>
+</Body>

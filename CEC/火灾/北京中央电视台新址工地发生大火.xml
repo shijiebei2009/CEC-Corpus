@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>  	<Title>北京中央电视台新址工地发生大火</Title>
+	<ReportTime type="absTime">2009年02月09日</ReportTime>
+<Content>
+	
+<Paragraph>
+<Sentence>
+<Event type="thoughtevent" eid="e1">
+<Participant sid="s1">新华网</Participant>
+<Location lid="l1">北京</Location>
+<Time type="relTime" tid="t1">２月９日</Time>
+<Denoter type="statement" did="d1">电</Denoter>
+</Event>
+（记者李江涛、李舒、孙晓胜）
+<Event eid="e2">
+<Time type="relTime" tid="t2">９日２０时２７分</Time>
+，
+<Location lid="l2">北京市朝阳区东三环中央电视台新址园区在建的附属文化中心大楼工地</Location>
+发生
+<Denoter type="emergency" did="d2">火灾</Denoter>
+</Event>
+，
+<Event eid="e3">
+<Object sid="s3">火势</Object>
+迅速
+<Denoter type="movement" did="d3">蔓延</Denoter>
+</Event>
+。
+</Sentence>
+<Sentence>
+<Event eid="e4">
+<Time type="timeInterval" tid="t4">至当日２２时３０分</Time>
+，
+<Object sid="s4">大火</Object>
+仍在
+<Denoter did="d4" type="stateChange">燃烧</Denoter>
+</Event>
+，但
+<Event eid="e5"><Object sid="s5">火势</Object>逐渐<Denoter type="stateChange" did="d5">减弱</Denoter></Event>
+。
+</Sentence>
+<Sentence>
+<Event polarity="negative" eid="e6">
+<Time type="relTime" tid="t6">目前</Time>尚无<Participant oid="o6">人员伤亡</Participant><Denoter  type="operation" did="d6">报告</Denoter></Event>。</Sentence></Paragraph>
+		
+  <Paragraph>
+  <Sentence>
+  <Event type="thoughtevent" eid="e7">
+  据
+  <Participant sid="s7">北京市新闻办</Participant>
+  <Denoter type="statement" did="d7">通报</Denoter>
+</Event>
+，
+<Event eid="e8">
+<Participant sid="s8,s9">北京市１１９指挥中心</Participant>
+<Denoter type="action" did="d8">接到</Denoter>
+<Object oid="o8">报警</Object>
+</Event>
+后，
+<Event eid="e9">
+迅速
+<Denoter type="operation" did="d9">调派</Denoter>
+<Participant  oid="o9">１６个中队</Participant>
+、
+<Object  oid="o9">５４辆消防车</Object>
+</Event>
+<Event eid="e10">
+<Denoter type="movement" did="d10">赶赴</Denoter>
+<Location type="destination" lid="l10">现场</Location>
+</Event>
+，
+<Event eid="e11">
+<Participant sid="s11">北京市委、市政府</Participant>
+<Denoter type="operation" did="d11">启动</Denoter>
+了
+<Object oid="o11">应急预案</Object>
+</Event>
+，
+<Event eid="e12">
+<Location lid="l12">现场</Location>
+已
+<Denoter type="operation" did="d12">设置</Denoter>
+<Object oid="o12">应急指挥中心</Object>
+</Event>
+。
+</Sentence>
+<Sentence>
+<Event eid="e13">
+<Participant sid="s13">消防、武警、民警</Participant>
+迅速
+<Denoter type="movement" did="d13">赶赴</Denoter>
+<Location type="destination" lid="l13">现场</Location>
+</Event>
+，
+<Event eid="e14">
+<Denoter type="operation" did="d14">疏散</Denoter>
+<Participant  oid="o14">周边群众</Participant>
+</Event>
+，
+<Event eid="e15">
+<Denoter type="operation" did="d15">扑救</Denoter>
+<Object oid="o15">大火</Object>
+</Event>
+。
+</Sentence>
+<Sentence>
+<Event eid="e16">
+<Participant sid="s16">中共中央政治局委员、北京市委书记刘淇，中共中央政治局委员、中宣部部长刘云山，北京市委副书记、市长郭金龙，中央电视台台长赵化勇</Participant>
+等迅速
+<Denoter type="movement" did="d16">赶赴</Denoter>
+<Location type="destination" lid="l16">现场</Location>
+</Event>
+<Event eid="e17">
+<Denoter  type="operation" did="d17">指挥</Denoter>
+<Object oid="o17">扑救</Object>
+</Event>
+。
+</Sentence>
+</Paragraph>
+	
+ <Paragraph>
+ <Sentence>
+ <Event eid="e18">
+ <Location lid="l18">火灾现场周边的东三环、朝阳路</Location>
+ 已经
+ <Denoter type="operation" did="d18">实施</Denoter>
+ <Object oid="o18">交通管制</Object>
+ </Event>
+ 。
+ </Sentence>
+ </Paragraph>
+		
+<Paragraph>
+<Sentence>
+<Event type="thoughtevent" eid="e19">
+据现场一位周姓
+<Participant sid="s19">目击者</Participant>
+<Denoter type="statement" did="d19">称</Denoter>
+</Event>
+，
+<Event eid="e20">
+<Time type="relTime" tid="t20">２０时许</Time>
+，
+<Location lid="l20">央视新大楼附近</Location>
+开始
+<Denoter  type="operation" did="d20">燃放</Denoter>
+<Object oid="o20">焰火</Object>
+</Event>
+，
+<Event eid="e21">
+<Participant sid="s21">一些群众</Participant>
+聚集在
+<Location lid="l21">京广桥附近</Location>
+<Denoter type="perception" did="d21">观看</Denoter>
+</Event>
+。
+</Sentence>
+<Sentence>
+<Event eid="e22">
+<Time type="timeInterval" tid="t22">至２０时３０分许</Time>
+，就看见<Location lid="l22">北配楼顶部</Location><Denoter type="stateChange" did="d22">出现</Denoter><Object oid="o22">火光</Object></Event>。</Sentence></Paragraph>
+	
+<Paragraph>
+<Sentence>
+<Event eid="e23"><Time type="timeInterval" tid="t23">截至２２时４５分</Time>
+，
+<Object sid="s23">火势</Object>
+已经逐渐
+<Denoter type="stateChange" did="d23">减弱</Denoter>
+</Event>
+
+，
+<Event eid="e24">周围<Participant  oid="o24">大部分围观群众</Participant>
+已被
+<Denoter type="operation" did="d24">疏散</Denoter>
+</Event>
+。</Sentence>
+</Paragraph>
+ 
+	</Content>
+ <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e24"/>
+ <eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8-e17"/>
+ <eRelation relType="Follow" bevent_eid="e8" aevent_eid="e9"/>
+ <eRelation relType="Follow" bevent_eid="e13" aevent_eid="e14"/>
+ <eRelation relType="Accompany" accompanya_eid="e15" accompanyb_eid="e14"/>
+ <eRelation relType="Follow" bevent_eid="e16" aevent_eid="e17"/>
+ <eRelation relType="Thoughtcontent" thoughtevent_eid="e19" thoughtcontent_eids="e20-e24"/>
+</Body>

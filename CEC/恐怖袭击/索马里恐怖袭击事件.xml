@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>索马里恐怖袭击事件</Title>
+	<ReportTime type="absTime">2006年9月19日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1"><Time type="relTime" tid="t1">9月18日</Time>，位于<Location lid="l1">索马里过渡政府所在地索南部城市拜多阿的议会大楼前</Location>发生<Denoter type="emergency" did="d1">汽车炸弹爆炸</Denoter>事件</Event>，造成<Event eid="e2"><Participant oid="o2">至少6人</Participant><Denoter type="stateChange" did="d2">死亡</Denoter></Event>和<Event eid="e3"><Participant oid="o3">多人</Participant><Denoter type="stateChange" did="d3">受伤</Denoter></Event>，袭击目标索临时总统优素福则幸免于难。</Sentence></Paragraph>
+　　<Paragraph><Sentence><Event eid="e4">当优素福的<Object oid="o4">车队</Object><Denoter type="movement" did="d4">行驶</Denoter>至<Location type="destination" lid="l4">议会大厦门口</Location>时</Event>，<Event eid="e5"><Object oid="o5">一辆装有炸药的汽车</Object>在<Location lid="l5">总统车队附近</Location><Denoter type="emergency" did="d5">爆炸</Denoter></Event>，<Event eid="e6"><Participant oid="o6">至少有6人</Participant><Denoter type="stateChange" did="d6">死亡</Denoter></Event>，其中包括3名议会保安和3名平民。</Sentence><Sentence><Event eid="e7"><Denoter did="d7" type="emergency" oid="o7">爆炸</Denoter></Event><Event eid="e8">还造成<Participant oid="o8">多人</Participant><Denoter did="d8" type="stateChange" oid="o8">受伤</Denoter></Event>，但目前还不能确定伤者人数，<Event polarity="negative" eid="e9"><Participant oid="o9">优素福</Participant>本人并未在袭击中<Denoter type="stateChange" did="d9">受伤</Denoter></Event>。</Sentence><Sentence><Event type="thoughtevent" eid="e10"><Participant sid="s10">目击者</Participant><Denoter type="statement" did="d10">称</Denoter></Event>，<Event eid="e11">爆炸引发的<Object sid="s11">火球</Object><Denoter type="movement" did="d11">冲入</Denoter>天空</Event>，<Event eid="e12">周围<Object oid="o12">多辆汽车</Object>被<Denoter type="stateChange" did="d12">毁</Denoter></Event>。</Sentence><Sentence><Event eid="e13">在这起<Denoter type="emergency" did="d13">爆炸</Denoter>发生</Event>后大约15分钟，<Event eid="e14"><Location lid="l14">议会大楼附近</Location>又发生了<Denoter type="emergency" did="d14">第二起爆炸</Denoter></Event>，伤亡情况尚不清楚。</Sentence></Paragraph> 
+
+　　<Paragraph><Sentence><Event type="thoughtevent" eid="e15">索马里过渡政府发言人<Participant sid="s15">迪纳里</Participant><Time type="relTime" tid="t15">当天</Time><Denoter type="statement" did="d15">说</Denoter></Event>，可以确信袭击的目标就是优素福总统。</Sentence><Sentence><Event type="thoughtevent" eid="e16"><Participant sid="s16">他</Participant><Denoter type="statement" did="d16">说</Denoter></Event>，<Event eid="e17"><Denoter type="emergency" did="d17">爆炸</Denoter>发生</Event>前，<Event eid="e18"><Participant sid="s18">优素福</Participant>刚在过渡议会发表完<Denoter type="action" did="d18">讲话</Denoter></Event>。</Sentence><Sentence><Event type="thoughtevent" eid="e19">索马里过渡政府外长<Participant sid="s19">伊斯梅尔·胡雷·布巴</Participant><Denoter type="statement" did="d19">说</Denoter></Event>，<Event eid="e20"><Object oid="o20">汽车炸弹</Object>由<Object sid="s20">遥控器</Object><Denoter type="operation" did="d20">引爆</Denoter></Event>，明显“具有‘基地’组织袭击的特征”。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>
+	<eRelation relType="Causal" cause_eid="e7" effect_eid="e8"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eids="e11-e12"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e16" thoughtcontent_eids="e17-e18"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e19" thoughtcontent_eids="e20"/>
+</Body>

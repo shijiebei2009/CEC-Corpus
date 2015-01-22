@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>车臣体育场爆炸案两嫌疑人被抓获 均为车臣居民</Title>
+	<ReportTime type="absTime">2005年6月10日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="absTime">2005年5月9日</Time>，俄罗斯车臣共和国首府格罗兹尼一座<Location lid="l1">体育场</Location>发生恐怖<Denoter did="d1" type="emergency">爆炸</Denoter></Event>，<Event eid="e2">造成<Participant oid="o2">30余人</Participant><Denoter did="d" type="stateChange">死亡</Denoter></Event>，包括车臣总统艾哈迈德·卡德罗夫。</Sentence></Paragraph>
+		
+		
+		
+		<Paragraph> 新华网莫斯科6月10日电 （记者张金海）<Sentence><Event eid="e3" type="thoughtevent">俄罗斯总统驻南部联邦区全权代表<Participant sid="s3">雅科夫列夫</Participant><Time tid="t3" type="relTime">10日</Time><Denoter did="d3" type="statement">宣布</Denoter></Event>，<Event eid="e4">参与车臣首府格罗兹尼狄纳莫体育场恐怖爆炸案的<Participant  oid="o4">两名嫌疑人</Participant>已被<Denoter did="d4" type="operation">抓获</Denoter></Event>。</Sentence></Paragraph>
+		
+		
+		<Paragraph><Sentence><Event eid="e5" type="thoughtevent">据<Participant sid="s5">俄媒体</Participant><Denoter did="d5" type="statement">报道</Denoter></Event>，<Event eid="e6" type="thoughtevent"><Participant sid="s6">雅科夫列夫</Participant>在卡巴尔达－巴尔卡尔共和国首府纳尔奇克举行的记者招待会上<Denoter did="d6" type="statement">说</Denoter></Event>，被抓获的两名嫌疑人都是车臣居民，一人22岁，另一人28岁。</Sentence><Sentence>调查证实，他们与狄纳莫体育场恐怖事件有直接关系。</Sentence><Sentence><Event eid="e7" type="thoughtevent">俄副总检察长<Participant sid="s7">弗里金斯基</Participant><Time tid="t7" type="relTime">10日</Time>也<Denoter did="d7" type="statement">证实</Denoter></Event>，<Event eid="e8">被拘押的这<Participant sid="s8">两人</Participant>组织和<Denoter did="d8" type="operation">实施</Denoter>了<Object oid="o8">狄纳莫体育场爆炸案</Object></Event>。</Sentence></Paragraph>
+		
+
+		
+		<Paragraph><Sentence><Event eid="e9"><Location lid="l9">车臣首府格罗兹尼的狄纳莫体育场</Location><Time tid="t9" type="relTime">5月9日</Time>发生<Denoter did="d9" type="emergency">爆炸</Denoter></Event>，<Event eid="e10"><Denoter did="d10" type="stateChange">炸死</Denoter>车臣总统<Participant oid="o10">卡德罗夫</Participant>、车臣国务委员会主席<Participant oid="o10">伊萨耶夫</Participant>等<Participant oid="o10">7人</Participant></Event>。
+                </Sentence><Sentence>调查表明，<Event eid="e11"><Object oid="o11">爆炸物</Object>是事先<Denoter did="d11" type="operation">安置</Denoter>在<Location lid="l11">主席台下</Location>的</Event>。</Sentence><Sentence><Event eid="e12"><Denoter did="d12" type="emergency">爆炸事件</Denoter>发生前</Event><Event eid="e13"><Participant sid="s13">车臣有关部门</Participant>专门对<Object oid="o13">狄纳莫体育场的主席台</Object>和<Object oid="o13">看台</Object>进行了<Denoter did="d13" type="operation">维修</Denoter></Event>，
+                <Event eid="e14"><Object oid="o14">工程</Object>直至<Time tid="t14" type="relTime">5月8日</Time>才<Denoter did="d14" type="stateChange">结束</Denoter></Event>，
+                <Event eid="e15"><Time tid="t15" type="relTime">5月29日</Time>，<Participant sid="s15">俄警方</Participant>在车<Location lid="l15">臣乌鲁斯马尔坦区</Location><Denoter did="d15" type="operation">抓获</Denoter>了一名参与体育场修复工作、涉嫌恐怖事件的<Participant  oid="o15">建筑工人</Participant></Event>。</Sentence></Paragraph>
+	</Content>
+	
+<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>	
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eids="e4"/>	
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eids="e6-e8"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7-e8"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8"/>	
+	
+	<eRelation relType="Causal" cause_eid="e9" effect_eid="e10"/>
+	<eRelation relType="Follow" bevent_eid="e11" aevent_eid="e12"/>
+	<eRelation relType="Follow" bevent_eid="e13" aevent_eid="e11"/>
+	<eRelation relType="Follow" bevent_eid="e13" aevent_eid="e14"/>
+	<eRelation relType="Follow" bevent_eid="e14" aevent_eid="e11"/>
+	<eRelation relType="Follow" bevent_eid="e9" aevent_eid="e15"/>
+	
+</Body>

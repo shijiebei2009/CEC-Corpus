@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>浙江杭州：高楼震感明显 不会造成进一步影响</Title>
+	<ReportTime type="absTime">2008年05月12日16:59</ReportTime>　 
+<Content>
+　　<Paragraph><Sentence><Event eid="e1" type="thoughtevent"><Participant sid="s1">人民网</Participant><Location lid="l1">杭州</Location><Time tid="t1" type="relTime">2008年5月12日</Time><Denoter did="d1" type="statement">电</Denoter></Event></Sentence> <Sentence>
+<Event eid="e2"><Time type="relTime" tid="t2">今天14时40分左右</Time>，<Participant sid="s2,s3">杭州市许多市民</Participant><Denoter type="perception" did="d2">感觉</Denoter>到</Event> 
+<Event eid="e3"><Denoter type="action" did="d3">摇晃</Denoter></Event>，
+<Event eid="e4">特别是7层以上的<Object oid="o4">高层建筑</Object><Denoter type="action" did="d4">晃动</Denoter>感明显</Event>，
+<Event eid="e5">一些10层以上<Object oid="o5">高楼</Object><Denoter type="emergency" did="d5">震感</Denoter>较强</Event>。</Sentence><Sentence>
+<Event eid="e6">不少高层写字楼<Participant sid="s6">工作人员</Participant><Denoter type="operation" did="d6">暂避</Denoter><Location lid="l6">室外空地</Location></Event>。</Sentence><Sentence>地震对杭州的影响大约持续了5分钟时间。</Sentence><Sentence>
+<Event eid="e7"><Time type="relTime" tid="t7">目前</Time>，<Object oid="o7">杭州市民群众生活工作秩序</Object>基本<Denoter type="stateChange" did="d7">恢复</Denoter>正常</Event>。</Sentence></Paragraph>
+    
+　  <Paragraph><Sentence>
+<Event eid="e8" type="thoughtevent"><Participant sid="s8">浙江省地震局、杭州市地震局</Participant><Denoter  type="statement" did="d8">表示</Denoter></Event>，
+<Event eid="e9">受<Location lid="l9">四川汶川</Location><Denoter type="emergency" did="d9">地震</Denoter>影响，</Event>
+<Event eid="e10"><Location lid="l10">浙江全省大部分地区</Location><Denoter type="emergency" did="d10">震感</Denoter>明显，</Event>
+<Event eid="e11"><Object oid="o11">高层建筑</Object><Denoter type="emergency" did="d11">震感</Denoter>强烈</Event>；但此次地震震中距离浙江1800多公里，不会对浙江群众生活工作造成影响，
+<Event eid="e12"><Participant  sid="s12">地震部门</Participant><Denoter type="statement" did="d12">吁请</Denoter><Participant oid="o12">市民</Participant></Event>不要恐慌。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence>
+<Event eid="e13" type="thoughtevent">据<Participant sid="s13">当地媒体</Participant><Denoter  type="statement" did="d13">报道</Denoter></Event>，
+<Event eid="e14"><Time type="relTime" tid="t14">下午14时40分左右</Time>，<Participant sid="s14,s15,s16,s17">许多市民</Participant><Denoter type="action" did="d14">拨打</Denoter>媒体咨询<Object oid="o14">电话</Object></Event>，
+<Event eid="e15" type="thoughtevent"><Denoter  type="statement" did="d15">表示</Denoter></Event>
+<Event eid="e16" type="thoughtevent"><Time type="relTime" tid="t16">之前</Time><Denoter  type="perception" did="d16">感受</Denoter>到明显的摇晃</Event>，
+<Event eid="e17" type="thoughtevent"><Denoter  type="statement" did="d17">询问</Denoter>是否发生地震</Event>。</Sentence><Sentence>
+<Event eid="e18" type="thoughtevent"><Participant sid="s18">杭州日报一位记者</Participant><Denoter  type="statement" did="d18">说</Denoter></Event>，他们所在的19楼也感觉到了摇晃，很多同事表示头晕。</Sentence><Sentence>在没有风、也没有开空调的情况下，
+<Event eid="e19">挂在天花板上的<Object oid="o19">红灯笼</Object>较大幅度左右<Denoter type="action" did="d19">摇晃</Denoter></Event>。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence>
+<Event eid="e20" ><Participant sid="s20">浙江省地震局</Participant>介绍<Denoter  type="statement" did="d20">说</Denoter></Event>，由于高层楼房的自振周期长，容易与长周期的地震波产生轻微共振，四川省汶川县强地震的长周期地震波，经过长时间、长距离的搬运，造成了高层楼房对地震波的反映。</Sentence></Paragraph>
+
+　　<Paragraph><Sentence>
+<Event eid="e21"><Participant sid="s21">浙江省地震局</Participant>还在网站上公开辟谣<Denoter  type="statement" did="d21">说</Denoter></Event>，此前新浪、搜狐等网站刊登浙江嘉兴等地发生5.7级地震的消息，纯属谣传。</Sentence><Sentence>本次地震的震中距离浙江1800多公里，对浙江的影响仅仅是有轻微摇晃而已，即使有余震，也会非常轻微，不会对群众的生活工作造成影响，请广大群众尽可安心。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e9" effect_eid="e10"/>
+	<eRelation relType="Causal" cause_eid="e9" effect_eid="e11"/>	
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e21"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eids="e9-e12"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e13" thoughtcontent_eids="e14-e17"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e15" thoughtcontent_eids="e16-e17"/>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e18" thoughtcontent_eids="e19"/>
+	
+	
+	
+	
+</Body>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>包固公路发生五死特大交通事故</Title>
+	<ReportTime>包头新闻网 发布时间： 2013年12月30日 10:24</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">包头晚报
+                </Participant><Denoter type="statement" did="d1">讯</Denoter></Event>（记者 贾荣） 
+                <Event eid="e2"><Time type="relTime" tid="t2">12月26日20时左右</Time>，在<Location lid="l2">包固一级公路公益民段</Location>发生一起特大<Denoter type="emergency" did="d2">交通事故</Denoter></Event>，
+                <Event eid="e3">一辆<Object sid="s3">尼桑轿车</Object><Denoter type="operation" did="d3">追尾</Denoter>一辆<Object oid="o3">重型货车</Object></Event>，
+                <Event eid="e4"><Location lid="l4">尼桑轿车</Location>内的<Participant sid="s4">三男两女</Participant>全部<Denoter type="stateChange" did="d4">死亡</Denoter></Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e5"><Time type="relTime" tid="t5">当日20时左右</Time>，一辆牌照为蒙BTQ4××的<Object sid="s5">尼桑轿车</Object>沿<Location lid="l5">包固一级公路</Location>由西向东<Denoter type="movement" did="d5">行驶</Denoter>，行至<Location type="destination" lid="l5">包固一级公路与固察路交叉路口</Location>时，</Event>
+                <Event  eid="e6"><Denoter  did="d6" type="action">撞</Denoter>上了一辆停在道路右侧的<Object oid="o6">运铁粉的大货车</Object></Event>。</Sentence>
+			<Sentence><Event type="thoughtevent" eid="e7">据<Participant sid="s7">目击者</Participant><Denoter type="statement" did="d7">介绍</Denoter></Event>，
+                        <Event eid="e8"><Denoter type="emergency" did="d8">事故</Denoter>发生后</Event>，
+                        <Event eid="e9"><Object sid="s9">尼桑轿车大部分车体</Object><Denoter type="action" did="d9">嵌入</Denoter><Object oid="o9">大货车尾部</Object></Event>，
+                        <Event eid="e10"><Object sid="s10">碎片</Object><Denoter type="operation" did="d10">遍布</Denoter><Location lid="l10">现场</Location></Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e11"><Denoter type="emergency" did="d11">事故</Denoter>发生后</Event>，
+                <Event eid="e12"><Participant sid="s12，s13">固阳交管大队</Participant>及时<Denoter type="movement" did="d12">赶到</Denoter><Location type="destination" lid="l12">现场</Location></Event>
+				<Event eid="e13">展开<Denoter type="operation" did="d13">调查</Denoter></Event>，
+                <Event eid="e14"><Participant sid="s14，s15">消防固阳中队</Participant>也<Denoter type="movement" did="d14">赶到</Denoter><Location type="destination" lid="l14">现场</Location></Event>
+				<Event eid="e15">施<Denoter type="action" did="d15">救</Denoter></Event>，
+                <Event eid="e16">因<Object sid="s16">轿车和大货车尾部</Object>紧紧<Denoter type="action" did="d16">“咬”</Denoter>在一起</Event>，<Event eid="e17"><Participant sid="s17,s18">消防官兵</Participant>只能将<Object oid="o17">轿车</Object><Denoter type="action" did="d17">拖</Denoter>出</Event>后<Event eid="e18">再实施<Denoter type="action" did="d18">救援</Denoter></Event>。</Sentence>
+			<Sentence>
+				<Event eid="e19">经过<Time type="timeInterval" tid="t19">五分钟</Time><Denoter type="operation" did="d19">牵引</Denoter></Event>，<Event eid="e20"><Object oid="o20">轿车</Object>被<Object sid="s20">消防救援车</Object><Denoter type="action" did="d20">拖出</Denoter></Event>。</Sentence>
+			<Sentence>
+				<Event eid="e21"><Time type="timeInterval" tid="t21">约20分钟</Time>后，<Participant oid="o21">两男一女三名伤者</Participant>被<Denoter type="action" did="d21">救出</Denoter></Event>。</Sentence>
+			<Sentence>
+				<Event eid="e22">由于<Object sid="s22">轿车</Object>严重<Denoter type="stateChange" did="d22">变形</Denoter></Event>，<Event polarity="negative" eid="e23"><Object sid="s23">车门</Object>无法<Denoter type="action" did="d23">打开</Denoter></Event>，
+                                <Event eid="e24"><Participant sid="s24">消防官兵</Participant>使用<Means mid="m24" type="tool">扩张器</Means><Denoter type="operation" did="d24">扩张</Denoter><Object oid="o24">车内空间</Object></Event>，
+                                <Event eid="e25">又使用<Means mid="m25" type="tool">破拆工具</Means>将<Object oid="o25">前门</Object><Denoter type="action" did="d25">破拆</Denoter></Event>。</Sentence>
+			<Sentence>
+				<Event eid="e26"><Time type="relTime" tid="t26">当日21时50分</Time>，<Participant oid="o26">轿车主副驾驶的一男一女</Participant>被<Denoter type="action" did="d26">救出</Denoter></Event>。<Event eid="e27">经<Participant sid="s27,s28">医务人员</Participant><Denoter type="operation" did="d27">检查</Denoter></Event><Event eid="e28"><Denoter type="statement" did="d28">确认</Denoter></Event>，五人已经没有生命体征。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event type="thoughtevent" eid="e29"><Participant sid="s29">记者</Participant>从<Object oid="o29">固阳县交管大队</Object><Denoter type="statement" did="d29">获悉</Denoter></Event>，
+                <Event eid="e30"><Object sid="s30">尼桑轿车</Object>是<Participant oid="o30">固阳县公益民铁矿职工叶某某</Participant>个人<Denoter type="operation" did="d30">所有</Denoter></Event>，
+                <Event eid="e31"><Object oid="o31">大型货车</Object>是<Participant oid="o31">包头市金利丰运输有限公司</Participant><Denoter type="operation" did="d31">所有</Denoter></Event>，驾驶员李某某。
+                <Event eid="e32"><Denoter type="emergency" did="d32">事故</Denoter>发生后</Event>，
+                <Event eid="e33"><Participant sid="s33,s34,s35">大型货车车主李某某</Participant><Denoter type="action" did="d33">报警</Denoter></Event>后<Event eid="e34"><Denoter type="action" did="d34">弃车</Denoter></Event><Event eid="e35"><Denoter type="action" did="d35">离开</Denoter><Location lid="l35">现场</Location></Event>。<Event eid="e36"><Time type="relTime" tid="t36">12月27日凌晨3时左右</Time>，<Participant sid="s36">李某某</Participant>到<Location type="destination" lid="l36">固阳交管大队</Location><Denoter type="action" did="d36">投案</Denoter></Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence><Event eid="e37"><Time type="relTime" tid="t37">目前</Time>，<Object oid="o37">事故</Object>仍在进一步<Denoter type="action" did="d37">调查</Denoter>中</Event>。</Sentence></Paragraph>
+	</Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e37"/>
+<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>
+<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8-e10"/>
+<eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>	
+<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10"/>
+<eRelation relType="Follow" bevent_eid="e11" aevent_eid="e12"/>
+<eRelation relType="Accompany" accompanya_eid="e12" accompanyb_eid="e13"/>
+<eRelation relType="Accompany" accompanya_eid="e14" accompanyb_eid="e15"/>
+<eRelation relType="Causal" cause_eid="e16" effect_eid="e17"/>
+<eRelation relType="Follow" bevent_eid="e17" aevent_eid="e18"/>
+<eRelation relType="Follow" bevent_eid="e19" aevent_eid="e20"/>
+<eRelation relType="Follow" bevent_eid="e20" aevent_eid="e21"/>
+<eRelation relType="Causal" cause_eid="e22" effect_eid="e23"/>
+<eRelation relType="Causal" cause_eid="e23" effect_eid="e24"/>
+<eRelation relType="Follow" bevent_eid="e24" aevent_eid="e25"/>
+<eRelation relType="Follow" bevent_eid="e26" aevent_eid="e27"/>
+<eRelation relType="Accompany" accompanya_eid="e27" accompanyb_eid="e28"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e29" thoughtcontent_eids="e30-e31"/>
+<eRelation relType="Follow" bevent_eid="e32" aevent_eid="e33"/>
+<eRelation relType="Follow" bevent_eid="e33" aevent_eid="e34"/>
+<eRelation relType="Accompany" accompanya_eid="e34" accompanyb_eid="e35"/>       	
+</Body>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+   <Title>智利7.6地震后再发6场余震 4次震级为5级以上</Title> 
+   <ReportTime type="absTime">2014-04-03 12:54</ReportTime>
+   <Content>
+      <Paragraph>
+         <Sentence>
+            <Event type="thoughtevent" eid="e1">
+               <Participant sid="s1">中新网</Participant>
+               <Time type="relTime" tid="t1">4月3日</Time>
+               <Denoter type="statement" did="d1">电</Denoter>
+            </Event> 
+            <Event type="thoughtevent" eid="e2">
+               据
+               <Object sid="s2">美国国家地震勘探局网站</Object>
+               <Denoter type="statement" did="d2">消息</Denoter>
+            </Event>
+            ，
+            <Event eid="e3">
+               <Location lid="l3">智利</Location>
+               <Time type="relTime" tid="t3">2日</Time>
+               发生8.3级强烈
+               <Denoter type="emergency" did="d3">地震</Denoter>
+               后
+            </Event>
+            <Event eid="e4">
+               <Denoter type="emergency" did="d4">余震</Denoter>
+               不断
+            </Event>
+            ，
+            <Event eid="e5">
+               继
+               <Time type="relTime" tid="t5">3日上午10点32分</Time>
+               发生7.6级
+               <Denoter type="emergency" did="d5">余震</Denoter>
+               后
+            </Event>
+            ，
+            <Event eid="e6">
+               又发生6次
+               <Denoter type="emergency" did="d6">余震</Denoter>
+            </Event>
+            ，其中4次震级为5级以上。
+         </Sentence>
+      </Paragraph>
+
+      <Paragraph>
+         <Sentence>
+            <Event type="thoughtevent" eid="e7">
+               据
+               <Denoter type="statement" did="d7">悉</Denoter>
+            </Event>
+            ，
+            <Event eid="e8">
+               <Location lid="l8">智利</Location>
+               <Time type="relTime" tid="t8">北京时间3日上午10点56分06秒</Time>
+               发生5.6级
+               <Denoter type="emergency" did="d8">地震</Denoter>
+            </Event>
+            ，
+            <Event eid="e9">
+               <Time type="relTime" tid="t9">此后</Time>
+               又于
+               <Time type="relTime" tid="t9">北京时间11点11分14秒</Time>
+               发生5.8级
+               <Denoter type="emergency" did="d9">余震</Denoter>
+            </Event>
+            ，震源深度分别为16.7公里和10公里。
+         </Sentence>
+         <Sentence>两次地震震中分别位于前一天地震影响最严重的伊基克市西南部71公里和76公里。</Sentence>
+      </Paragraph>
+
+      <Paragraph>
+         <Sentence>
+            <Event eid="e10">
+               <Time type="relTime" tid="t10">此后</Time>
+               ，
+               <Location lid="l10">智利</Location>
+               又于
+               <Time type="relTime" tid="t10">北京时间上午11点40分32秒</Time>
+               发生4.9级
+               <Denoter type="emergency" did="d10">地震</Denoter>
+            </Event>
+            ，震源深度31.5公里，震中距离伊基克市西南部79公里。
+         </Sentence>
+      </Paragraph>
+
+      <Paragraph>
+         <Sentence>
+            <Event eid="e11">
+               <Time type="relTime" tid="t11">随后</Time>
+               ，
+               <Time type="relTime" tid="t11">北京时间11点45分55秒</Time>
+               和
+               <Time type="relTime" tid="t11">12点4分45秒</Time>
+               ，
+               <Location lid="l11">智利</Location>
+               又再次发生5.1和4.5级
+               <Denoter type="emergency" did="d11">地震</Denoter>
+            </Event>，震源深度分别为21.3公里和20公里，震中分别位于伊基克市西北部77公里和西南部50公里处。
+         </Sentence>
+      </Paragraph>
+
+      <Paragraph>
+         <Sentence>
+            <Event eid="e12">
+               <Time type="relTime" tid="t12">北京时间12点17分57秒</Time>
+               ，
+               <Location lid="l12">智利</Location>
+               发生5.2级
+               <Denoter type="emergency" did="d12">地震</Denoter>
+            </Event>
+            ，震源深度18.2公里，震中位于伊基克市西北部海域82公里处。
+         </Sentence>
+      </Paragraph>
+
+      <Paragraph>
+         <Sentence>
+            <Event eid="e13">
+               <Time type="relTime" tid="t13">北京时间4月2日7时46分</Time>
+               ，
+               <Location lid="l13">智利西部海岸</Location>
+               发生8.2级
+               <Denoter type="emergency" did="d13">地震</Denoter>
+            </Event>
+            ，
+            <Event eid="e14">
+               <Denoter type="emergency" did="d14">地震</Denoter>
+            </Event>
+            <Event eid="e15">
+               <Time type="relTime" tid="t15">迄今</Time>
+               造成
+               <Participant oid="o15">6人</Participant>
+               <Denoter type="stateChange" did="d15">死亡</Denoter>
+            </Event>
+            。
+         </Sentence>
+         <Sentence>
+            <Event type="thoughtevent" eid="e16">
+               <Participant sid="s16">智利总统巴切莱特</Participant>
+               <Time type="relTime" tid="t16">2日</Time>
+               <Denoter type="statement" did="d16">宣布</Denoter>
+            </Event>
+            该国北部受到8.2级地震影响的地区为灾区。
+         </Sentence>
+      </Paragraph>
+    </Content>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e16"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e6"/>
+    <eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>
+    <eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+    <eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8-e9"/>
+    <eRelation relType="Follow" bevent_eid="e8" aevent_eid="e9"/>
+    <eRelation relType="Follow" bevent_eid="e9" aevent_eid="e10"/>
+    <eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>
+    <eRelation relType="Causal" cause_eid="e14" effect_eid="e15"/>
+</Body>

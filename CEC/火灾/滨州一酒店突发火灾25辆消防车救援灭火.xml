@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+ 
+  <Title>滨州一酒店突发火灾 25辆消防车救援灭火</Title>
+<ReportTime type="absTime">2009-08-08</ReportTime>
+<Content>
+
+  <Paragraph>
+    <Sentence>
+      <Event type="thoughtevent" eid="e1">
+        <Participant sid="s1">齐鲁网</Participant>
+        <Denoter type="statement" did="d1">讯</Denoter>
+      </Event>
+      <Event eid="e2">
+        <Time type="absTime" tid="t2">2009年8月8日下午</Time>
+        ，
+        <Location lid="l2">滨州一正在装修的格林豪泰酒店</Location>
+        发生
+        <Denoter type="emergency" did="d2">火灾</Denoter>
+      </Event>
+      ，
+      <Event eid="e3">
+        <Participant sid="s3">齐鲁电视台独家栏目组</Participant>
+        <Denoter type="movement" did="d3">奔赴</Denoter>
+        <Location lid="l3">滨州</Location>
+      </Event>
+      <Event eid="e4">
+       进行火灾的现场
+       <Denoter type="statement" did="d4">报道</Denoter>
+      </Event>
+      。
+    </Sentence>
+    <Sentence>
+     <Event eid="e5">
+      <Time type="timeInterval" tid="t5">到目前为止</Time>
+      <Object oid="o5">大火</Object>
+      已经被
+      <Denoter type="stateChange" did="d5">扑灭</Denoter>
+    </Event>
+      。
+  </Sentence>
+</Paragraph>
+
+<Paragraph>
+  <Sentence>
+    <Event type="thoughtevent" eid="e6">
+      <Location lid="l6">在火灾后的新闻发布会上</Location>
+      ，
+      <Participant sid="s6">我们</Participant>
+      <Denoter type="perception" did="d6">了解</Denoter>
+      到
+    </Event>
+    ，此次火灾过火面积达1500平方米，
+    <Event eid="e7">
+      <Participant sid="s7">滨州消防支队</Participant>
+      共
+      <Denoter type="action" did="d7">出动</Denoter>
+      <Object oid="o7,s8">25辆消防车</Object>
+      <Participant oid="o7,s8,s9,s10">120多名消防官兵</Participant>
+    </Event>
+    ，
+    <Event eid="e8">
+      进行
+      <Denoter type="operation" did="d8">灭火</Denoter>
+    </Event>
+    。
+</Sentence>
+<Sentence>
+  <Event eid="e9">
+    <Denoter type="operation" did="d9">疏散</Denoter>
+    <Participant  oid="o9">群众33名</Participant>
+  </Event>
+  ，
+  <Event eid="e10">
+    <Denoter type="operation" did="d10">救出</Denoter>
+    <Participant  oid="o10">被困人员2名</Participant>
+  </Event>
+  。
+</Sentence>
+<Sentence>
+ 此次火灾
+ <Event polarity="negative" eid="e11">
+   并没有造成
+   <Participant oid="o11">人员</Participant>
+   <Denoter type="stateChange" did="d11">伤亡</Denoter>
+ </Event>
+ 。
+</Sentence>
+<Sentence>
+<Event eid="e12">
+  <Object oid="o12">起火原因</Object>
+  <Time type="relTime" tid="t12">目前</Time>
+  正在进一步
+  <Denoter type="operation" did="d12">调查</Denoter>
+  之中
+</Event>
+。
+ </Sentence>
+</Paragraph>
+
+</Content>  <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e12"/>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>
+<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7-e12"/>
+<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e8"/>
+<eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e9"/>
+</Body>

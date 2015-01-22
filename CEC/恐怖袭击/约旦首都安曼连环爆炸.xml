@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>约旦首都安曼连环爆炸</Title>
+	<ReportTime type="absTime">2005年11月10日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1"><Time type="relTime" tid="t1">１１月９日晚</Time>，<Location lid="l1">约旦首都安曼三家酒店</Location>发生<Denoter type="emergency" did="d1">自杀式爆炸袭击</Denoter>事件</Event>，<Event eid="e2">造成<Participant oid="o2">５７人</Participant><Denoter type="stateChange" did="d2">死亡</Denoter></Event>，<Event eid="e3"><Participant oid="o3">３００多人</Participant><Denoter type="stateChange" did="d3">受伤</Denoter></Event>。</Sentence><Sentence>伤亡者中有很多外国人，<Event eid="e4">正在<Location lid="l4">安曼</Location><Denoter type="action" did="d4">访问</Denoter>的<Participant sid="s4" oid="o5,o6">中国国防大学学员代表团</Participant></Event>也有<Event eid="e5">３名成员<Denoter type="stateChange" did="d5">死亡</Denoter></Event>，<Event eid="e6">１人<Denoter type="stateChange" did="d6">受伤</Denoter></Event>。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+</Body>

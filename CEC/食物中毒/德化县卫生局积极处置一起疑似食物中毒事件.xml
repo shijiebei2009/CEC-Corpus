@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+ <Title>德化县卫生局积极处置一起疑似食物中毒事件</Title>
+ 德化网 
+ <ReportTime type="absTime">2014-03-31 09:40</ReportTime>
+ <Content>
+  <Paragraph>
+   <Sentence>
+    <Event eid="e1">
+     <Time tid="t1" type="relTime">3月30日凌晨</Time>
+     ，
+     我县
+     <Participant sid="s1">两家县级医院</Participant>
+     陆续
+     <Denoter did="d1" type="action">接收</Denoter>
+     多名因腹痛、腹泻、呕吐等症状就医的
+     <Object oid="o1">病人</Object>
+    </Event>
+    。
+   </Sentence>
+   <Sentence>
+    <Event eid="e2">
+     <Participant sid="s2,s3" >县卫生局</Participant>
+     立即
+     <Denoter did="d2" type="action">组织</Denoter>
+     <Participant oid="o2">卫生监督所监督员</Participant>
+     、
+     <Participant oid="o2">疾控中心流调人员</Participant>
+    </Event>
+    <Event eid="e3">
+    开展 
+     <Denoter did="d3" type="operation">调查</Denoter>
+    </Event>
+    ，初步
+    <Event eid="e4">
+     确定为
+     <Denoter did="d4" type="emergency">疑似食物中毒</Denoter>
+    </Event>
+    。
+   </Sentence>
+   <Sentence>
+    <Event eid="e5">
+    经
+     <Participant sid="s5">门诊</Participant>
+     <Denoter did="d5" type="operation">对症治疗</Denoter> 
+    </Event>
+    ，
+    <Event eid="e6">
+     <Participant sid="s5">大部分患者</Participant>
+     <Denoter did="d6" type="stateChange">痊愈</Denoter> 
+    </Event>
+    。
+   </Sentence>
+   <Sentence>
+    <Event eid="e7">
+     <Time tid="t7" type="relTime">截至3月30日20:00</Time>
+     ，尚有
+     <Participant sid="s7">4人</Participant>
+     <Denoter did="d7" type="operation">住院治疗</Denoter>
+    </Event>
+    ，
+    <Event eid="e8">
+     <Object sid="s8">症状</Object>
+     均已明显
+     <Denoter did="d8" type="stateChange">好转</Denoter>
+    </Event>
+    ，无危重病例。
+   </Sentence>
+  </Paragraph>
+  [憨鼠责编：阿九]
+ </Content>
+ <eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
+ <eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>
+ <eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>
+ <eRelation relType="Causal" cause_eid="e7" effect_eid="e8"/>
+</Body>

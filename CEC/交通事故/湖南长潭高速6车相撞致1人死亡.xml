@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>  	<Title>湖南长潭高速6车相撞致1人死亡</Title>
+	<ReportTime type="absTime">2007-4-7</ReportTime>
+	<Content>
+
+    <Paragraph>
+    	<Sentence> 
+    		    <Event eid="e1"><Participant sid="s1">中新网</Participant><Time type="relTime" tid="t1">4月7日</Time><Denoter type="statement" did="d1">电</Denoter></Event>  据中国消防在线消息，
+                    <Event eid="e2">
+    			<Time type="relTime" tid="t2">4月4日晚上7时30分左右</Time>，
+    			<Location lid="l2">湖南长潭高速公路</Location>上发生一起
+    			<Object oid="o2">6车</Object>连环
+    			<Denoter type="action" did="d2">相撞</Denoter>失火事故
+    		</Event>。
+    	</Sentence>
+    	<Sentence>
+    		<Event eid="e3">
+    			<Participant sid="s3">长株潭三地消防部门</Participant>共
+    			<Denoter type="operation" did="d3">出动</Denoter>
+    			<Object oid="o3">消防车21台</Object>，
+    			<Participant oid="o3">警力100余人</Participant>
+    		</Event>。
+    	</Sentence>
+    	<Sentence>经过
+    		<Event eid="e4">
+    			<Participant sid="s4">消防官兵</Participant>
+    			<Time type="timeInterval" tid="t4">近2个小时</Time>奋力
+    			<Denoter type="operation" did="d4">扑救</Denoter>，
+    		</Event>
+    		<Event eid="e5">
+    			<Object oid="o5">大火</Object>被成功
+    			<Denoter type="stateChange" did="d5">扑灭</Denoter>
+    		</Event>。
+    	</Sentence>
+    	<Sentence>据
+    		<Event eid="e6">初步
+    			<Denoter type="operation" did="d6">调查</Denoter>
+    		</Event>，
+    		<Event eid="e7">有
+    			<Participant oid="o7">1人</Participant>在此次事故中
+    			<Denoter type="stateChange" did="d7">死亡</Denoter>
+    		</Event>。
+    	</Sentence>
+    </Paragraph>
+	</Content>
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e3"/>
+<eRelation relType="Causal" cause_eid="e4" effect_eid="e5"/>	
+<eRelation relType="Causal" cause_eid="e2" effect_eid="e7"/>	
+
+</Body>

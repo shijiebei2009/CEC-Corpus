@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>广西柳州两车相撞致10人死亡2人重伤</Title>
+	<ReportTime type="absTime">2008-3-27</ReportTime>
+	<Content> 
+    <Paragraph><Sentence><Event eid="e1" type="thoughtevent"><Participant sid="s1">中新社</Participant><Location lid="l1">南宁</Location><Time tid="t1" type="relTime">三月二十七日</Time><Denoter did="d1" type="statement">电</Denoter></Event> (记者 周丹 钰王刚)</Sentence><Sentence><Event eid="e2">一辆从<Location lid="l2" type="origin">贵州</Location>开往<Location lid="l2" type="destination">广东</Location>的<Object sid="s2">小车</Object>与<Object sid="s2">一辆大客车</Object>迎面<Denoter did="d2" type="action">相撞</Denoter></Event>，<Event eid="e3">造成小车上包括司机在内的六男四女共<Participant sid="s3">十人</Participant><Time tid="t3" type="relTime">当场</Time><Denoter did="d3" type="stateChange">死亡</Denoter></Event>，另外<Event eid="e4"><Participant sid="s4">两男子</Participant><Denoter did="d4" type="stateChange">受重伤</Denoter></Event>。</Sentence></Paragraph>
+　
+    <Paragraph><Sentence><Event eid="e5"><Time tid="t5" type="relTime">今日凌晨</Time>，<Location lid="l5">广西柳州市鹿寨县寨沙镇</Location>发生特大<Denoter did="d5" type="emergency">交通事故</Denoter></Event>，<Event eid="e6">造成<Participant sid="s6">十人</Participant><Time tid="t6" type="relTime">当场</Time><Denoter did="d6" type="stateChange">死亡</Denoter></Event>，<Event eid="e7"><Participant sid="s7">二人</Participant><Denoter did="d7" type="stateChange">受重伤</Denoter></Event>。</Sentence></Paragraph>
+
+　   <Paragraph><Sentence><Event eid="e8"><Time tid="t8" type="relTime">凌晨六时四十分左右</Time>，在<Location lid="l8">三二三国道九百四十八公里处</Location>，<Object sid="s8,s9">一辆粤籍大客车</Object>与一辆相向行驶的<Object sid="s8,s9">旅行小客车</Object><Denoter did="d8" type="action">交会</Denoter></Event>时<Event eid="e9">发生<Denoter did="d9" type="action">碰撞</Denoter></Event>，<Event eid="e10">造成小客上的十二名旅客中的<Participant sid="s10">十人</Participant>(六男四女)<Time tid="t10" type="relTime">当场</Time><Denoter did="d10" type="stateChange">死亡</Denoter></Event>，<Event eid="e11"><Participant sid="s11">两人</Participant><Denoter did="d11" type="stateChange">受重伤</Denoter></Event>。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e11"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e7"/>
+	<eRelation relType="Follow" bevent_eid="e8" aevent_eid="e9"/>
+        <eRelation relType="Causal" cause_eid="e9" effect_eid="e10"/>	
+        <eRelation relType="Causal" cause_eid="e9" effect_eid="e11"/>
+</Body>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>潍坊一辆捷达轿车为躲过路行人 六车接连相撞</Title>
+	<ReportTime type="absTime">2013-12-31 09:14:00</ReportTime>
+	<Content>
+		<Paragraph>
+                <Sentence>
+                <Event type="thoughtevent" eid="e1"><Participant sid="s1">潍坊新闻网</Participant><Time type="relTime" tid="t1">12月31日</Time><Denoter type="statement" did="d1">讯</Denoter></Event>
+		<Event eid="e2"><Time type="absTime" tid="t2">12月30日上午11时许</Time>，在<Location lid="l2">奎文区文化路与东风东街交叉口西侧200米</Location>处发生一起<Denoter type="emergency" did="d2">交通事故</Denoter></Event>，
+                <Event eid="e3"><Object sid="s3,s5">一辆捷达轿车</Object>为<Denoter type="operation" did="d3">躲避</Denoter></Event>
+                <Event eid="e4">一名骑着电动车<Denoter type="action" did="d4">横穿</Denoter>马路的<Participant sid="s4,o3">行人</Participant></Event>紧急
+                <Event eid="e5"><Denoter type="action" did="d5">刹车</Denoter></Event>，
+                <Event polarity="negative" eid="e6"><Object sid="s6">后车</Object><Denoter type="action" did="d6">避让</Denoter>不及</Event>，
+                导致了<Event eid="e7">一场<Object sid="s7">6车</Object>连环<Denoter type="action" did="d7">追尾</Denoter></Event>
+                <Event eid="e8"><Denoter type="emergency" did="d8">事故</Denoter></Event>，
+                所幸<Event polarity="negative" eid="e9">并未造成<Participant sid="s9">人员</Participant><Denoter type="stateChange" did="d9">伤亡</Denoter></Event>。</Sentence></Paragraph>
+　<Paragraph>　
+<Sentence>
+<Event eid="e10"><Participant sid="s10,s11">记者</Participant><Denoter type="movement" did="d10">赶到</Denoter><Location type="destination" lid="l10">现场</Location></Event>
+<Event eid="e11"><Denoter type="action" did="d11">看到</Denoter></Event>，
+<Event eid="e12"><Object sid="s12">6辆事故车</Object>仍<Denoter did="d12" type="operation">停放</Denoter>在<Location lid="l12">马路中间</Location></Event>，
+所幸<Event polarity="negative" eid="e13">并未造成<Participant sid="s13">人员</Participant><Denoter type="stateChange" did="d13">伤亡</Denoter></Event>。
+</Sentence>
+		<Sentence>由于当时<Event eid="e14">恰好是<Time tid="t14" type="relTime">中午</Time><Denoter type="stateChange" did="d14">下班</Denoter>的高峰时间</Event>，
+                过往车辆很多，
+                <Event eid="e15"><Denoter type="emergency" did="d15">事故</Denoter></Event>
+                导致<Event eid="e16">轻微<Denoter type="stateChange" did="d16">堵车</Denoter></Event>。
+                </Sentence>
+                </Paragraph>
+　　<Paragraph>
+<Sentence><Event eid="e17"><Participant type="thoughtevent" sid="s17">记者</Participant><Denoter type="action" did="d17">留意</Denoter>到</Event>，
+<Event eid="e18"><Object sid="s18">6辆车</Object>均不同程度<Denoter type="stateChange" did="d18">受损</Denoter></Event>，其中排在最前面的是一辆捷达轿车，紧随其后的是两辆出租车。
+</Sentence>
+		<Sentence><Event eid="e19"><Object sid="s19">两辆出租车</Object><Denoter type="stateChange" did="d19">受损</Denoter>均较为严重</Event>，
+                其中<Event eid="e20"><Object sid="s20">前面的出租车车前盖</Object>发生<Denoter type="stateChange" did="d20">变形</Denoter></Event>，
+                <Event eid="e21"><Object sid="s21">前保险杠左侧</Object><Denoter type="stateChange" did="d21">脱落</Denoter></Event>，
+                <Event eid="e22"><Object sid="s22">左前车灯</Object><Denoter type="stateChange" did="d22">粉碎</Denoter></Event>；
+                <Event eid="e23"><Object sid="s23">后面的出租车后保险杠</Object><Denoter type="stateChange" did="d23">破裂</Denoter></Event>
+                <Event eid="e24"><Denoter type="stateChange" did="d24">脱落</Denoter></Event>、
+                <Event eid="e25"><Object sid="s25">尾灯</Object>几乎<Denoter type="stateChange" did="d25">报废</Denoter></Event>，
+                <Event polarity="negative" eid="e26"><Object sid="s26">车左后门</Object>已<Denoter type="action" did="d26">关</Denoter>不严</Event>，
+                据<Event type="thoughtevent" eid="e27"><Participant sid="s27">该车司机</Participant><Denoter type="statement" did="d27">估计</Denoter></Event>
+                <Event eid="e28"><Denoter type="operation" did="d28">维修</Denoter>费需要几千元</Event>。
+                </Sentence>
+                </Paragraph>
+　<Paragraph>　
+<Sentence><Event eid="e29"><Denoter type="operation" did="d29">驾驶</Denoter><Object oid="o29">捷达轿车</Object>的是<Participant sid="s29">一名年轻小伙</Participant></Event>，
+<Event eid="e30">在<Location lid="l30">路口</Location><Participant sid="s30">有名男子</Participant><Denoter type="action" did="d30">推着</Denoter><Object oid="o30">电动车</Object></Event>就
+<Event eid="e31">往前<Denoter type="action" did="d31">走</Denoter></Event>，
+<Event eid="e32"><Participant sid="s32,s33,s34">捷达轿车司机</Participant>急<Denoter type="action" did="d32">踩</Denoter></Event>
+<Event eid="e33"><Denoter type="action" did="d33">刹车</Denoter></Event>
+<Event eid="e34"><Denoter type="action" did="d34">躲避</Denoter></Event>。</Sentence>
+		<Sentence><Event eid="e35">刚<Denoter type="action" did="d35">刹住</Denoter>车</Event>，
+                <Event eid="e36">就<Denoter type="action" did="d36">听见</Denoter></Event>
+                <Event eid="e37">后边<Denoter did="d37" type="perception">传来</Denoter>“砰”的一声</Event>。
+                </Sentence>
+                </Paragraph>
+　　<Paragraph>
+<Sentence><Event eid="e38"><Participant sid="s38,s39">交警</Participant>经<Location lid="l38">现场</Location><Denoter type="operation" did="d38">勘查</Denoter></Event>
+<Event eid="e39"><Denoter type="action" did="d39">发现</Denoter></Event>，
+<Event eid="e40">本次<Denoter type="emergency" did="d40">事故</Denoter>的主要原因</Event>是
+<Event polarity="negative" eid="e41"><Participant sid="s41,s42">司机</Participant>没有<Denoter type="operation" did="d41">保持</Denoter>好车距</Event>，
+<Event polarity="negative" eid="e42">没有及时<Denoter type="operation" did="d42">规避</Denoter><Object oid="o42">前车</Object></Event>。</Sentence></Paragraph>
+　　<Paragraph><Sentence><Event eid="e43"><Time type="timeInterval" tid="t43">事发半小时</Time>后，<Participant sid="s43,s44">保险公司的工作人员</Participant><Denoter type="movement" did="d43">赶到</Denoter><Location type="destination" lid="l43">现场</Location></Event>，
+<Event eid="e44">迅速进行了<Denoter type="operation" did="d44">处理</Denoter></Event>，
+<Event eid="e45">路面恢复<Denoter type="stateChange" did="d45">通畅</Denoter></Event>。
+</Sentence></Paragraph>
+	</Content>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e45"/>	
+<eRelation relType="Accompany" accompanya_eid="e3" accompanyb_eid="e4"/>
+<eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5"/>
+<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+<eRelation relType="Causal" cause_eid="e6" effect_eid="e7"/>
+<eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>
+<eRelation relType="Causal" cause_eid="e8" effect_eid="e9"/>
+<eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11"/>
+<eRelation relType="Accompany" accompanya_eid="e12" accompanyb_eid="e13"/>
+<eRelation relType="Causal" cause_eid="e15" effect_eid="e16"/>
+<eRelation relType="Thoughtcontent" thoughtevent_eid="e17" thoughtcontent_eids="e18-e37"/>
+<eRelation relType="Accompany" accompanya_eid="e18" accompanyb_eid="e19"/>
+<eRelation relType="Accompany" accompanya_eid="e20" accompanyb_eid="e21"/>
+<eRelation relType="Accompany" accompanya_eid="e21" accompanyb_eid="e22"/>
+<eRelation relType="Accompany" accompanya_eid="e22" accompanyb_eid="e23"/>
+<eRelation relType="Accompany" accompanya_eid="e23" accompanyb_eid="e24"/>
+<eRelation relType="Accompany" accompanya_eid="e24" accompanyb_eid="e25"/>
+<eRelation relType="Accompany" accompanya_eid="e25" accompanyb_eid="e26"/>
+<eRelation relType="Causal" cause_eid="e26" effect_eid="e28"/>
+<eRelation relType="Accompany" accompanya_eid="e29" accompanyb_eid="e30"/>
+<eRelation relType="Accompany" accompanya_eid="e30" accompanyb_eid="e31"/>
+<eRelation relType="Accompany" accompanya_eid="e31" accompanyb_eid="e32"/>
+<eRelation relType="Accompany" accompanya_eid="e32" accompanyb_eid="e33"/>
+<eRelation relType="Accompany" accompanya_eid="e33" accompanyb_eid="e34"/>
+<eRelation relType="Accompany" accompanya_eid="e35" accompanyb_eid="e36"/>
+<eRelation relType="Accompany" accompanya_eid="e36" accompanyb_eid="e37"/>
+<eRelation relType="Accompany" accompanya_eid="e38" accompanyb_eid="e39"/>
+<eRelation relType="Causal" cause_eid="e41" effect_eid="e40"/>
+<eRelation relType="Accompany" accompanya_eid="e41" accompanyb_eid="e42"/>
+<eRelation relType="Follow" bevent_eid="e43" aevent_eid="e44"/>
+<eRelation relType="Accompany" accompanya_eid="e44" accompanyb_eid="e45"/>
+</Body>

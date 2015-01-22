@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>香港长青隧道5车相撞1人亡</Title>
+	<ReportTime type="absTime">2006-8-22 8:39:05</ReportTime>
+  
+	<Content>
+        <Paragraph>
+  <Sentence><Event eid="e1" type="thoughtevent">据<Participant sid="s1">新华社</Participant> <Location lid="l1">香港</Location><Time type="relTime" tid="t1">8月21日</Time><Denoter did="d1" type="statement">电</Denoter></Event> 
+   </Sentence>
+   <Sentence><Event eid="e2">位于<Location lid="l2">香港新界区的长青隧道通往九龙方向的管道内</Location>，
+   <Time type="relTime" tid="t2">21日上午</Time>发生一起<Object sid="s2">5车</Object><Denoter type="action" did="d2">相撞</Denoter>的严重交通事故</Event>，
+   造成<Event eid="e3"><Participant sid="s3">1人</Participant><Denoter type="stateChange" did="d3">死亡</Denoter></Event>，
+   <Event eid="e4"><Participant sid="s4">20多人</Participant><Denoter type="stateChange" did="d4">受伤</Denoter></Event>，其中<Event eid="e5"><Participant sid="s5">2人</Participant><Denoter  type="emergency" did="d5">受伤严重</Denoter>。</Event></Sentence></Paragraph>
+ 
+　　<Paragraph><Sentence><Event eid="e6"><Denoter type="emergency" did="d6">事故</Denoter>发生在<Time type="relTime" tid="t6">早上8时30分左右</Time></Event>，
+<Event eid="e7">一辆载客量为26人的<Object sid="s7">小巴</Object>，在<Location lid="l7">长青隧道通往九龙方向的管道内</Location>慢线<Denoter type="action" did="d7">行驶</Denoter></Event>时
+<Event eid="e8">突然<Denoter type="stateChange" did="d8">停下</Denoter></Event>，
+<Event eid="e9">尾随的<Object sid="s9">4辆车</Object><Denoter type="action" did="d9">刹车</Denoter>不及</Event><Event eid="e10">向前<Denoter type="action" did="d10">撞</Denoter>去</Event>。</Sentence>
+<Sentence>死亡者是40岁的机场巴士司机。</Sentence></Paragraph>
+	</Content>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e10"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e5"/>
+	<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>
+         <eRelation relType="Causal" cause_eid="e8" effect_eid="e9"/>
+         <eRelation relType="Causal" cause_eid="e9" effect_eid="e10"/>      
+</Body>

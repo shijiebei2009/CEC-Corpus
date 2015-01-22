@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Body>
+   <Title>甘肃天祝发生4.3级地震 青海门源震感强烈</Title>   
+   <ReportTime type="absTime">2014年02月22日 19:59</ReportTime>
+   <Content>
+      <Paragraph>
+         <Sentence>
+            <Event type="thoughtevent" eid="e1">
+               <Participant sid="s1">中新网西宁</Participant>
+               <Time type="relTime" tid="t1">2月22日</Time>
+               <Denoter type="statement" did="d1">电</Denoter>
+            </Event>
+            <Event type="thoughtevent" eid="e2">
+               <Participant sid="s2">记者</Participant>
+               <Time type="relTime" tid="t2">刚刚</Time>
+               从
+               <Participant oid="o2">青海省地震局</Participant>
+               <Denoter type="perception" did="d2">获悉</Denoter>
+            </Event>
+            ，
+            <Event eid="e3">
+               <Location lid="l3">甘肃省天祝县</Location>
+               发生4.3级
+               <Denoter type="emergency" did="d3">地震</Denoter>
+               后
+            </Event>
+            ，青海省海北州门源县朱固乡震感强烈。
+         </Sentence>
+      </Paragraph>
+      <Paragraph>
+        <Sentence> <Event eid="e4">
+            <Time type="relTime" tid="t4">2月22日12时56分</Time>
+            在
+            <Location lid="l4">甘肃省武威市天祝藏族自治县</Location>
+            (北纬37.6度，东经102.3度)发生4.3级
+            <Denoter type="emergency" did="d4">地震</Denoter>
+         </Event>
+         ，震源深度6千米。</Sentence>
+      </Paragraph>
+      <Paragraph>
+         <Sentence><Event type="thoughtevent" eid="e5">
+            <Participant sid="s5">记者</Participant>
+            从
+            <Participant oid="o5" sid="s6">青海省政府应急办</Participant>
+            <Denoter type="perception" did="d5">了解</Denoter>
+            到
+         </Event>，
+         <Event eid="e6" polarity="negative">
+            <Time type="timeInterval" tid="t6">截至目前</Time>
+            ，尚未
+            <Denoter type="action" did="d6">收</Denoter>
+            到关于门源县人员伤亡和财产损失的
+            <Object oid="o6">报告</Object>
+         </Event>
+         。
+      </Sentence></Paragraph>
+   </Content>
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e6"/>
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3"/>
+   <eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eids="e6"/>
+</Body>

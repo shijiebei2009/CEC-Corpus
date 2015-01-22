@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body><Title>云南瑞丽地震19人受伤 紧急转移受灾群众9496人</Title>
+	<ReportTime type="absTime">2008年12月26日</ReportTime>
+	<Content>
+		<Paragraph><Sentence><Event eid="e1" type="thoughtevent"><Participant sid="s1">新华社</Participant><Location lid="l1">昆明</Location><Time tid="t1" type="relTime">12月26日</Time><Denoter did="d1" type="statement">电</Denoter></Event>（记者屈明光、李怀岩）
+			<Event eid="e2" type="thoughtevent"><Time type="relTime" tid="t2">26日</Time>，<Participant sid="s2">记者</Participant>从云南瑞丽市抗震救灾指挥部<Denoter  type="perception" did="d2">了解</Denoter>到</Event>，截至17时，
+			<Event eid="e3"><Location  lid="l3">瑞丽</Location>4.9级<Denoter type="emergency" did="d3">地震</Denoter></Event>已造成
+			<Event eid="e4"><Participant sid="s4,s5,s6">19人</Participant><Denoter type="stateChange" did="d4">受伤</Denoter></Event>，其中
+			<Event eid="e5"><Denoter type="stateChange" did="d5">重伤</Denoter><Participant sid="s5">3人</Participant></Event>，
+			<Event eid="e6"><Denoter type="stateChange" did="d6">轻伤</Denoter><Participant sid="s6">16人</Participant></Event>，
+			<Event polarity="negative" eid="e7">暂无人员死亡<Denoter  type="statement" did="d7">报告</Denoter></Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence>
+			<Event eid="e8"><Time type="relTime" tid="t8">26日4时20分和5时25分</Time>，位于中缅边境地区的<Location lid="l8,l9">云南省德宏傣族景颇族自治州瑞丽市</Location>先后发生4.9级<Denoter type="emergency" did="d8">地震</Denoter></Event>和
+			<Event eid="e9">4.0级<Denoter type="emergency" did="d9">地震</Denoter></Event>，
+			<Event eid="e10"><Location lid="l10">全市</Location><Denoter type="emergency" did="d10">震感</Denoter>强烈。</Event></Sentence></Paragraph>
+		<Paragraph><Sentence>
+			<Event eid="e11" type="thoughtevent"><Participant sid="s11">记者</Participant>从瑞丽市抗震救灾指挥部<Denoter  type="perception" did="d11">了解</Denoter>到</Event>，
+			<Event eid="e12">全市共有<Participant sid="s12">10512户49789人</Participant><Denoter type="stateChange" did="d12">受灾</Denoter></Event>，
+			<Event eid="e13"><Time type="relTime" tid="t13">目前</Time>，已紧急<Denoter type="operation" did="d13">转移安置</Denoter><Participant oid="o13">灾区群众2919户9496人</Participant></Event>。</Sentence><Sentence>据初步核查的情况，此次地震损失较为严重的主要是民房、学校以及党政机关、企事业单位办公和居民住房。</Sentence><Sentence>
+			<Event eid="e14"><Denoter type="emergency" did="d14">地震</Denoter></Event>共造成
+			<Event eid="e15"><Object sid="s15,s16,s17,s18">房屋</Object><Denoter type="stateChange" did="d15">倒塌</Denoter><Object oid="o15">30户99间</Object></Event>，
+			<Event eid="e16"><Denoter type="stateChange" did="d16">重损</Denoter><Object oid="o16">2769户9626间</Object></Event>，
+			<Event eid="e17"><Denoter type="stateChange" did="d17">中损</Denoter><Object oid="o17">2440户7750间</Object></Event>，
+			<Event eid="e18"><Denoter type="stateChange" did="d18">轻损</Denoter><Object oid="o18">5406户17406间</Object></Event>，
+			<Event eid="e19"><Object sid="s19">32所中小学校</Object>受到不同程度的<Denoter type="stateChange" did="d19">损坏</Denoter></Event>，
+			<Event eid="e20"><Object sid="s20">卫生</Object>、<Object sid="s20">水利</Object>、<Object sid="s20">交通</Object>、<Object sid="s20">电力</Object>、<Object sid="s20">通信</Object>等基础设施也不同程度受到<Denoter type="stateChange" did="d20">损坏</Denoter></Event>。</Sentence></Paragraph>
+		<Paragraph><Sentence>
+			<Event eid="e21"><Time type="relTime" tid="t21">目前</Time>，瑞丽市民族医院等<Participant  sid="s21">医疗卫生部门</Participant>积极开展<Participant  oid="o21">受伤人员</Participant><Denoter type="operation" did="d21">救治</Denoter></Event>，
+			<Event eid="e22"><Participant oid="o22">各受伤人员</Participant>已得到妥善<Denoter type="operation" did="d22">医治</Denoter></Event>。</Sentence><Sentence>
+			<Event eid="e23"><Participant sid="s23">民政部门</Participant>在抓紧<Denoter type="operation" did="d23">核查</Denoter>灾情的同时</Event>，正在积极开展
+			<Event eid="e24">帐篷等<Object oid="o24" sid="s25">救灾物资</Object>的<Denoter type="movement" did="d24">调运</Denoter></Event>、
+			<Event eid="e25"><Denoter type="operation" did="d25">发放</Denoter>工作</Event>。</Sentence><Sentence>
+			<Event eid="e26"><Time type="relTime" tid="t26">26日</Time>，<Participant sid="s26">州、市党委政府</Participant>已<Denoter type="operation" did="d27">安排</Denoter><Object oid="o26">专项应急经费30万元</Object>用于抗震救灾工作</Event>。</Sentence></Paragraph>
+	</Content>    
+        <eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/> 
+        <eRelation relType="Causal" cause_eid="e3" effect_eid="e5"/>
+        <eRelation relType="Causal" cause_eid="e3" effect_eid="e6"/>
+        <eRelation relType="Causal" cause_eid="e8" effect_eid="e10"/>
+        <eRelation relType="Causal" cause_eid="e9" effect_eid="e10"/>
+        <eRelation relType="Causal" cause_eid="e3" effect_eid="e12"/>
+        <eRelation relType="Causal" cause_eid="e14" effect_eid="e15"/>
+        <eRelation relType="Causal" cause_eid="e14" effect_eid="e16"/>
+        <eRelation relType="Causal" cause_eid="e14" effect_eid="e17"/>
+        <eRelation relType="Causal" cause_eid="e14" effect_eid="e18"/>
+        <eRelation relType="Causal" cause_eid="e14" effect_eid="e19"/>
+        <eRelation relType="Causal" cause_eid="e14" effect_eid="e20"/>
+        <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e26"/>
+        <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e6"/>
+        <eRelation relType="Thoughtcontent" thoughtevent_eid="e11" thoughtcontent_eids="e12-e20"/>
+        
+</Body>

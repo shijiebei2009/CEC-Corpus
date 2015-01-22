@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>11月14日06时53分辽宁省海城市发生4.3级地震</Title>
+	<ReportTime type="absTime">2008年11月14日</ReportTime>
+	<Content>
+		<Paragraph>
+			<Sentence>
+				<Event eid="e1" type="thoughtevent">据<Participant sid="s1">国家地震台网</Participant><Denoter type="operation" did="d1">测定</Denoter></Event>，
+				<Event eid="e2"><Time type="absTime" tid="t2">北京时间2008年11月14日06时53分</Time>，在<Location lid="l2">辽宁省海城市</Location>(北纬40.6度，东经122.9度)发生4.3级<Denoter type="emergency" did="d2">地震</Denoter>，震源深度约10公里。</Event>
+			</Sentence>
+			<Sentence>
+				震中距海城市区33公里，距鞍山市区57公里，距沈阳市区146公里。
+			</Sentence>
+			<Sentence>
+				<Event eid="e3"><Object oid="o3">详细情况</Object>正在<Denoter  type="statement" did="d3">统计</Denoter>中</Event>。
+			</Sentence>
+		</Paragraph>
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2"/>	
+	</Content>
+</Body>

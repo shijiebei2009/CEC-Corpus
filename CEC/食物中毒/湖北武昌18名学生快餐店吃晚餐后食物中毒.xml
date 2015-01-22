@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Body>
+	<Title>湖北武昌18名学生快餐店吃晚餐后食物中毒</Title>
+	<ReportTime type="absTime">2008年6月11日</ReportTime>
+	<Content>
+		<Paragraph>
+			<Sentence>
+				<Event eid="e1"><Participant sid="s1">荆楚网</Participant><Time tid="t1" type="relTime">6月11日</Time><Denoter did="d1" type="statement">信息</Denoter>：</Event>  </Sentence>
+			<Sentence> <Event eid="e2"><Time tid="t2" type="relTime">前日下午</Time>，在<Location lid="l2">武昌粮道街“楚街坊”快餐店</Location><Denoter did="d2" type="action">吃</Denoter><Object oid="o2">晚饭</Object>后
+                </Event>，
+                <Event eid="e3"><Participant sid="s3">多名学生</Participant><Denoter did="d3" type="stateChange">出现</Denoter><Object oid="o3">食物中毒的症状</Object>
+				</Event>。
+                </Sentence>
+			<Sentence>
+				<Event eid="e4"><Time tid="t4" type="relTime">目前</Time>，<Participant sid="s4">中毒学生</Participant>已<Denoter did="d4" type="stateChange">增至</Denoter>18人。</Event>
+			</Sentence>
+			<Sentence>
+				<Event eid="e5"><Time tid="t5" type="relTime">昨日凌晨</Time>，<Participant sid="s5">武昌卫生执法部门</Participant><Denoter did="d5" type="operation">封存</Denoter>了该<Location lid="l5">快餐店</Location>的<Object oid="o5">原材料</Object>
+				</Event>。
+                </Sentence>
+		</Paragraph> 
+    
+　　<Paragraph>
+			<Sentence>
+				<Event eid="e6"><Time tid="t6" type="relTime">昨日下午</Time>，<Participant sid="s6">记者</Participant><Denoter did="d6" type="movement">来到</Denoter><Location lid="l6">该快餐店</Location>
+				</Event>，
+              <Event eid="e7"><Denoter did="d7" type="perception">看到</Denoter>
+				</Event>
+				<Event eid="e8"><Object sid="s1">餐馆</Object>的经营面积只有三四十平方米，已经<Denoter did="d7" type="stateChange">停业</Denoter>
+				</Event>，
+              <Event eid="e9">厨房的<Object sid="s9">冰柜</Object>等处被<Denoter did="d9" type="action">贴上</Denoter>武昌区疾控中心的<Object oid="o9">封条</Object>
+				</Event>。
+              </Sentence>
+		</Paragraph> 
+
+　　<Paragraph>
+			<Sentence>
+				<Event type="thoughtevent" eid="e10">店老板<Participant sid="s10" type="agent">向某</Participant><Denoter did="d10" type="statement">告诉</Denoter><Participant oid="o10" type="recipient">记者</Participant>
+				</Event>，
+              <Event eid="e11"><Time tid="t11" type="relTime">昨日凌晨</Time>，<Participant sid="s11,s12">执法人员</Participant>进店对<Object oid="o11">食品原材料</Object><Denoter did="d11" type="operation">抽样</Denoter>后
+              </Event>，
+              <Event eid="e12">便进行了<Denoter did="d12" type="operation">封存</Denoter>
+				</Event>。
+              </Sentence>
+			<Sentence>由于
+                        <Event eid="e13"><Participant sid="s13,s14">学生们</Participant><Denoter did="d13" type="action">吃</Denoter>的<Object oid="o13">食物</Object>不一样
+                        </Event>，
+                        <Event eid="e14"><Denoter did="d14" type="stateChange">中毒症状</Denoter>却一样
+                        </Event>，
+                        <Event eid="e15"><Participant sid="s15">医生</Participant>初步<Denoter did="d15" type="perception">判断</Denoter>
+				</Event>是
+                        <Event eid="e16"><Object oid="o16">亚硝酸盐</Object><Denoter did="d16" type="emergency">中毒</Denoter>
+				</Event>。
+                       
+			</Sentence>
+			<Sentence>对此，
+              <Event type="thoughtevent" eid="e17"><Participant sid="s17">向某</Participant><Denoter did="d17" type="statement">称</Denoter>
+				</Event>，
+              <Event eid="e18">店里<Denoter did="d18" type="action">使用</Denoter>的是从正常渠道购进的<Object oid="o18">正规盐</Object>
+				</Event>。
+              </Sentence>
+		</Paragraph> 
+
+　　<Paragraph>
+			<Sentence>
+				<Event type="thoughtevent" eid="e19">据<Participant sid="s19">武昌区卫生监督所的负责人</Participant><Denoter did="d19" type="statement">介绍</Denoter>
+				</Event>，
+              <Event eid="e20"><Time tid="t20" type="relTime">前晚11时许</Time>，又有<Participant sid="s20">一些湖北美术学院的学生</Participant>到<Location lid="l20">医院</Location><Denoter did="d20" type="operation">治疗</Denoter>
+				</Event>。
+              </Sentence>
+			<Sentence>据初步统计，
+              <Event eid="e21">共有<Location lid="l21">粮道街中学</Location>和<Location lid="l21">湖北美术学院</Location>的<Participant sid="s21">18名学生</Participant><Denoter did="d21" type="emergency">中毒</Denoter>
+				</Event>。
+              </Sentence>
+			<Sentence>
+				<Event eid="e22"><Time tid="t22" type="relTime">昨日</Time>，<Participant sid="s22">大部分学生</Participant>已<Denoter did="d22" type="operation">出院</Denoter>
+				</Event>，
+              <Event eid="e23">只有<Participant sid="s23">少数学生</Participant>仍<Denoter did="d" type="operation">留院观察</Denoter>
+				</Event>。
+              </Sentence>
+		</Paragraph> 
+
+　　<Paragraph>
+			<Sentence>
+				<Event type="thoughtevent" eid="e24"><Participant sid="s24">武昌区疾控中心的有关负责人</Participant><Denoter did="d24" type="statement">介绍</Denoter>
+				</Event>，
+                                <Event eid="e25">经<Denoter did="d25" type="action">检验</Denoter>
+				</Event>，
+                                <Event eid="e26"><Location lid="l26">“楚街坊”</Location>使用的<Object oid="o26">盐</Object><Denoter did="d26" type="statement">有问题</Denoter>
+				</Event>，“
+                                <Event eid="e27">但具体情况还要等<Object oid="o27">调查报告</Object><Denoter did="d27" type="operation">出来</Denoter>了
+                                </Event>
+				<Event eid="e28">再<Denoter did="d28" type="action">通报</Denoter>
+				</Event>。”
+              </Sentence>
+		</Paragraph> 
+          </Content>
+		<eRelation thoughtcontent_eids="e2-e28" thoughtevent_eid="e1" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e11-e12" thoughtevent_eid="e10" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e18" thoughtevent_eid="e17" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e20-e23" thoughtevent_eid="e19" relType="Thoughtcontent"/>
+		<eRelation thoughtcontent_eids="e25-e28" thoughtevent_eid="e24" relType="Thoughtcontent"/>
+		<eRelation relType="Follow" aevent_eid="e3" bevent_eid="e2"/>
+		<eRelation relType="Follow" aevent_eid="e7" bevent_eid="e6"/>
+		<eRelation relType="Follow" aevent_eid="e12" bevent_eid="e11"/>
+		<eRelation relType="Follow" aevent_eid="e28" bevent_eid="e27"/>
+
+</Body>
