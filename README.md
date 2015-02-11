@@ -4,13 +4,12 @@
 
 CEC 采用了 XML 语言作为标注格式，其中包含了六个最重要的数据结构（标记）：Event、Denoter、Time、Location、Participant 和 Object。Event用于描述事件；Denoter、Time、Location、Participant 和 Object用于描述事件的指示词和要素。此外，我们还为每一个标记定义了与之相关的属性。与ACE和TimeBank语料库相比，CEC语料库的规模虽然偏小，但是对事件和事件要素的标注却最为全面。
 
+具体内容可参见上海大学公开发表的相关硕士博士论文，以及期刊会议论文等。如：
+面向事件的知识处理研究-付剑锋
+事件本体构建中几个关键问题的研究-张旭洁
+
 在此感谢上海大学语义智能实验室为CEC的标注工作作出贡献的各位硕士、博士研究生。
 
-具体内容可参见上海大学公开发表的相关硕士博士论文，以及期刊会议论文等。如：
-
-面向事件的知识处理研究-付剑锋
-
-事件本体构建中几个关键问题的研究-张旭洁
 <b>Chinese Emergency Corpus (CEC)</b>
 
 Chinese Emergency Corpus (CEC) is built by Data Semantic Laboratory in Shanghai University. This corpus is divided into 5 categories – earthquake, fire, traffic accident, terrorist attack and intoxication of food. There are totally 332 texts in CEC.
