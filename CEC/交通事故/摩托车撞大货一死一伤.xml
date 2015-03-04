@@ -1,59 +1,80 @@
-<?xml version="1.0" encoding="GB2312"?>
-<Body>    
-	<Title>Ħ�г�ײ���һ��һ��</Title>
-	<ReportTime type="absTime" >2006��8��24��</ReportTime> 
- <Content>        
- <Paragraph>
-   <Sentence>
-    <Event type="thoughtevent" eid="e1">
-       <Participant sid="s1">����</Participant>
-         <Denoter did="d1" type="statement">Ѷ</Denoter>
-    </Event> 
-    ��ʵϰ���ռ��� 
-    </Sentence>
-   <Sentence> 
-   <Event eid="e2">
-      <Time type="relTime" tid="t2">��</Time>
-      ��
-      <Location lid="l2">������ׯ������һ·��</Location>
-      ����
-      <Denoter type="emergency" did="d2">����</Denoter>
-      ��
-   </Event>
- </Sentence>
- <Sentence>
-   <Event eid="e3">
-      <Object sid="s3">һ��Ħ�г�</Object>��<Object  sid="s3">����</Object>
-         <Denoter type="action"  did="d3">��ײ</Denoter></Event>
-          ��
-          <Event eid="e4">���Ħ�г�����Ա
-          <Participant sID="s4">һ</Participant><Denoter type="stateChange"  did="d4">��</Denoter></Event>
-          <Event eid="e5"><Participant sID="s5">һ</Participant><Denoter type="stateChange" did="d5">��</Denoter></Event>
-          ��
-   </Sentence>
- </Paragraph>    
-��<Paragraph>
-    <Sentence>
-      <Event eid="e6"><Denoter type="emergency" did="d6">�¹�</Denoter>
-      ������<Location lid="l6">ͬ����·�뾰԰���ཻ��ʮ��·�ڴ�</Location>
-      ��</Event></Sentence>
-      <Sentence><Event eid="e7" type="thoughtevent" >Ŀ����<Participant sid="s7">������</Participant>
-      <Denoter type="statement" did="d7">˵</Denoter>
-      </Event>��
-      <Event eid="e8"><Time type="relTime" tid="t8">����7�������</Time>
-      ��<Object sid="s8">һ��Ħ�г�</Object>��<Object sid="s8">һ��·�������</Object>
-      <Denoter type="action" did="d8">��ײ</Denoter></Event>
-      ��
-    <Event eid="e9">Ħ�г���<Participant sid="s9">����</Participant><Denoter type="action" did="d9">ˤ</Denoter>�˳�ȥ</Event> ��</Sentence>
-    <Sentence><Event eid="e10" type="thoughtevent" ><Participant sid="s10">������</Participant><Denoter type="statement" did="d10">˵</Denoter>
-    </Event>��
-    <Event polarity="negative" eid="e11"><Participant sid="s11">����</Participant><Time type="relTime" tid="t11">��ʱ</Time>��û<Denoter type="action" did="d11">��</Denoter><Object oid="o11">ͷ��</Object></Event>��</Sentence>
-</Paragraph>  
-</Content>
-<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e11"/>    
-<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>
-<eRelation relType="Causal" cause_eid="e3" effect_eid="e5"/>
-<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8-e9"/>
-<eRelation relType="Causal" cause_eid="e8" effect_eid="e9"/>
- <eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eids="e11"/>     	
- </Body>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>摩托车撞大货一死一伤</Title>  
+	<ReportTime type="absTime">2006年8月24日</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event type="thoughtevent" eid="e1"> 
+					<Participant sid="s1">本报</Participant>  
+					<Denoter did="d1" type="statement">讯</Denoter> 
+				</Event> （实习生苏季）
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e2"> 
+					<Time type="relTime" tid="t2">昨晨</Time> ， 
+					<Location lid="l2">大兴亦庄开发区一路口</Location> 发生 
+					<Denoter type="emergency" did="d2">车祸</Denoter> 。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e3"> 
+					<Object sid="s3">一辆摩托车</Object>与
+					<Object sid="s3">货车</Object>  
+					<Denoter type="action" did="d3">相撞</Denoter>
+				</Event> ， 
+				<Event eid="e4">造成摩托车上人员 
+					<Participant sID="s4">一</Participant>
+					<Denoter type="stateChange" did="d4">死</Denoter>
+				</Event>  
+				<Event eid="e5">
+					<Participant sID="s5">一</Participant>
+					<Denoter type="stateChange" did="d5">伤</Denoter>
+				</Event> 。
+			</Sentence> 
+		</Paragraph> 　 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e6">
+					<Denoter type="emergency" did="d6">事故</Denoter> 发生在
+					<Location lid="l6">同济南路与景园街相交的十字路口处</Location> 。
+				</Event>
+			</Sentence>  
+			<Sentence>
+				<Event eid="e7" type="thoughtevent">目击者
+					<Participant sid="s7">张先生</Participant>  
+					<Denoter type="statement" did="d7">说</Denoter> 
+				</Event>， 
+				<Event eid="e8">
+					<Time type="relTime" tid="t8">早上7点半左右</Time> ，
+					<Object sid="s8">一辆摩托车</Object>和
+					<Object sid="s8">一辆路过大货车</Object>  
+					<Denoter type="action" did="d8">相撞</Denoter>
+				</Event> ， 
+				<Event eid="e9">摩托车上
+					<Participant sid="s9">两人</Participant>
+					<Denoter type="action" did="d9">摔</Denoter>了出去
+				</Event> 。
+			</Sentence>  
+			<Sentence>
+				<Event eid="e10" type="thoughtevent">
+					<Participant sid="s10">张先生</Participant>
+					<Denoter type="statement" did="d10">说</Denoter> 
+				</Event>， 
+				<Event polarity="negative" eid="e11">
+					<Participant sid="s11">两人</Participant>
+					<Time type="relTime" tid="t11">当时</Time>都没
+					<Denoter type="action" did="d11">戴</Denoter>
+					<Object oid="o11">头盔</Object>
+				</Event>。
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e11"/>  
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>  
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e5"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8-e9"/>  
+	<eRelation relType="Causal" cause_eid="e8" effect_eid="e9"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eids="e11"/> 
+</Body>

@@ -1,11 +1,46 @@
-<?xml version="1.0" encoding="GB2312"?>
-<Body>
-	<Title>����һӡˢ��40�๤��ʳδ����ⶹ���ж�</Title>
-	<ReportTime type="absTime">2008��9��18��</ReportTime>
-	<Content>
-		<Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="relTime">9��16������</Time>��������̨��÷�пڱ����ӡˢ��<Participant sid="s1">40��Ա��</Participant><Denoter did="d1" type="stateChange">����</Denoter>Ż�º͸�к<Object oid="o1">֢״</Object></Event>��</Sentence><Sentence><Event eid="e2">��<Participant sid="s2">�侯��ҽԺ����ҽ��</Participant><Denoter did="d2" type="statement">����</Denoter></Event>��<Event eid="e3"><Participant sid="s3">ӡˢ��Ա��</Participant><Denoter did="d3" type="stateChange">����</Denoter>��<Object oid="o3">֢״</Object></Event>��<Event eid="e4">ϵ<Denoter did="d4" type="action">ʳ��</Denoter><Object oid="o4">δ����ıⶹ</Object></Event><Event eid="e5">��<Denoter did="d5" type="emergency">ʳ���ж�</Denoter></Event>��</Sentence><Sentence><Event eid="e6">��<Participant sid="s6">��̨������</Participant>��<Participant sid="s6">��������</Participant>���ڶԴ��½���<Denoter did="d6" type="operation">����</Denoter></Event>��</Sentence></Paragraph>
-	</Content>
-	<eRelation relType="Causal" cause_eid="e4" effect_eid="e3"/>
-	<eRelation relType="Causal" cause_eid="e4" effect_eid="e5"/>
-	<eRelation relType="Causal" cause_eid="e5" effect_eid="e1"/>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>北京一印刷厂40余工人食未炒熟扁豆致中毒</Title>  
+	<ReportTime type="absTime">2008年9月18日</ReportTime>  
+	<Content> 
+		<Paragraph>
+			<Sentence>
+				<Event eid="e1">
+					<Time tid="t1" type="relTime">9月16日下午</Time>，北京丰台区梅市口北京宇海印刷厂
+					<Participant sid="s1">40余员工</Participant>
+					<Denoter did="d1" type="stateChange">出现</Denoter>呕吐和腹泻
+					<Object oid="o1">症状</Object>
+				</Event>。
+			</Sentence>
+			<Sentence>
+				<Event eid="e2">据
+					<Participant sid="s2">武警总医院急诊医生</Participant>
+					<Denoter did="d2" type="statement">介绍</Denoter>
+				</Event>，
+				<Event eid="e3">
+					<Participant sid="s3">印刷厂员工</Participant>
+					<Denoter did="d3" type="stateChange">出现</Denoter>此
+					<Object oid="o3">症状</Object>
+				</Event>，
+				<Event eid="e4">系
+					<Denoter did="d4" type="action">食用</Denoter>
+					<Object oid="o4">未炒熟的扁豆</Object>
+				</Event>
+				<Event eid="e5">致
+					<Denoter did="d5" type="emergency">食物中毒</Denoter>
+				</Event>。
+			</Sentence>
+			<Sentence>
+				<Event eid="e6">现
+					<Participant sid="s6">丰台区公安</Participant>、
+					<Participant sid="s6">卫生部门</Participant>正在对此事进行
+					<Denoter did="d6" type="operation">调查</Denoter>
+				</Event>。
+			</Sentence>
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Causal" cause_eid="e4" effect_eid="e3"/>  
+	<eRelation relType="Causal" cause_eid="e4" effect_eid="e5"/>  
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e1"/> 
 </Body>

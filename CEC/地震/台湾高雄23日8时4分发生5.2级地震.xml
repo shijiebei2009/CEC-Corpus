@@ -1,11 +1,29 @@
-<?xml version="1.0" encoding="GB2312"?>
-<Body><Title>¹ú¼ÒµØÕðÌ¨Íø:Ì¨Íå¸ßÐÛ23ÈÕ8Ê±4·Ö·¢Éú5.2¼¶µØÕð</Title>
-	<ReportTime type="absTime">2008Äê12ÔÂ23ÈÕ</ReportTime>¡¡
-<Content>
-		<Paragraph><Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">ÐÂ»ªÉç±±¾©</Participant><Time tid="t1" type="absTime">12ÔÂ23ÈÕ</Time><Denoter did="d1" type="statement">µç</Denoter></Event></Sentence>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body>
+	<Title>å›½å®¶åœ°éœ‡å°ç½‘:å°æ¹¾é«˜é›„23æ—¥8æ—¶4åˆ†å‘ç”Ÿ5.2çº§åœ°éœ‡</Title>  
+	<ReportTime type="absTime">2008å¹´12æœˆ23æ—¥</ReportTime> ã€€ 
+	<Content> 
+		<Paragraph>
 			<Sentence>
-				<Event eid="e2">¾Ý<Participant sid="s2">¹ú¼ÒµØÕðÌ¨Íø</Participant><Denoter type="operation" did="d2">²â¶¨</Denoter></Event>,
-		<Event eid="e3"><Time type="relTime" tid="t3">12ÔÂ23ÈÕ8Ê±4·Ö</Time>ÔÚ<Location lid="l3">Ì¨ÍåÊ¡¸ßÐÛÏØ</Location>(±±Î³23.0¶È,¶«¾­120.6¶È)·¢Éú5.2¼¶<Denoter type="emergency" did="d3">µØÕð</Denoter></Event>¡£</Sentence></Paragraph>
-		<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e3"/>
-	</Content>
+				<Event type="thoughtevent" eid="e1">
+					<Participant sid="s1">æ–°åŽç¤¾åŒ—äº¬</Participant>
+					<Time tid="t1" type="absTime">12æœˆ23æ—¥</Time>
+					<Denoter did="d1" type="statement">ç”µ</Denoter>
+				</Event>
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e2">æ®
+					<Participant sid="s2">å›½å®¶åœ°éœ‡å°ç½‘</Participant>
+					<Denoter type="operation" did="d2">æµ‹å®š</Denoter>
+				</Event>, 
+				<Event eid="e3">
+					<Time type="relTime" tid="t3">12æœˆ23æ—¥8æ—¶4åˆ†</Time>åœ¨
+					<Location lid="l3">å°æ¹¾çœé«˜é›„åŽ¿</Location>(åŒ—çº¬23.0åº¦,ä¸œç»120.6åº¦)å‘ç”Ÿ5.2çº§
+					<Denoter type="emergency" did="d3">åœ°éœ‡</Denoter>
+				</Event>ã€‚
+			</Sentence>
+		</Paragraph>  
+		<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e3"/> 
+	</Content> 
 </Body>

@@ -1,13 +1,43 @@
-<?xml version="1.0" encoding="GB2312"?>
-<Body><Title>╪рюО╣дт║╟тве╩Пак пр╨цт║йрюОц╩спхк</Title>
-	<ReportTime type="absTime">2014-04-09 15:40</ReportTime>
-	<Content>║║║║<Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="relTime">╫ЯлЛионГ8╣Ц43╥ж</Time>ё╛<Location lid="l1">вБв║тзйпгЬ╫с╧ым╓п║гЬ</Location>╣д<Participant sid="s1,s3-s5">╡ле╝й©</Participant>уЩ<Denoter did="d1" type="action">в╪╠╦ЁЖцеио╟Ю</Denoter></Event>ё╛<Event eid="e2">м╩х╩<Location lid="l2">╪ржпт║йр</Location>ф╝ЁЖ<Denoter did="d2" type="emergency">уСуСе╗ял</Denoter></Event>ё╛уБ©и╟якЩ<Event eid="e3"><Denoter did="d3" type="perception">ое</Denoter>акр╩лЬ</Event>║ё</Sentence><Sentence><Event eid="e4"><Denoter did="d4" type="action">мф</Denoter><Object oid="o4">це</Object></Event><Event eid="e5">р╩<Denoter did="d5" type="perception">гф</Denoter></Event>ё╛т╜ю╢йг<Event eid="e6"><Object sid="s6">т║╟т</Object><Denoter did="d6" type="emergency">ве╩П</Denoter></Event>акё║</Sentence></Paragraph></Content>
-        
-        <eRelation relType="Accompany" accompanya_eid="e1" accompanyb_eid="e2"/>
-        <eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
-        <eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>
-        <eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5"/>
-        <eRelation relType="Causal" cause_eid="e6" effect_eid="e2"/>
-        
-        
-        </Body>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body>
+	<Title>Е╝╤И┤▄Г └Ф╣╢И°╦Г²─Г│╚Д╨├ Е╧╦Е╔╫Ф╣╢Е╝╓И┤▄Ф╡║Ф°┴Д╨╨</Title>  
+	<ReportTime type="absTime">2014-04-09 15:40</ReportTime>  
+	<Content>Ц──Ц── 
+		<Paragraph>
+			<Sentence>
+				<Event eid="e1">
+					<Time tid="t1" type="relTime">Д╩┼Е╓╘Д╦┼Е█┬8Г┌╧43Е┬├</Time>О╪▄
+					<Location lid="l1">Г╖÷Д╫▐Е°╗Е╦┌Е▄╨Ф▌╔Е╝≤Д╨╜Е╟▐Е▄╨</Location>Г └
+					<Participant sid="s1,s3-s5">Х■║Е╔ЁЕё╚</Participant>Ф╜ё
+					<Denoter did="d1" type="action">Е┤├Е╓┤Е┤╨И≈╗Д╦┼Г▐╜</Denoter>
+				</Event>О╪▄
+				<Event eid="e2">Г╙│Г└╤
+					<Location lid="l2">Е╝╤Д╦╜Ф╣╢Е╝╓</Location>Иё≤Е┤╨
+					<Denoter did="d2" type="emergency">И≤╣И≤╣Ф╣⌠Г┐÷</Denoter>
+				</Event>О╪▄Х©≥Е▐╞Ф┼┼Е╔╧
+				<Event eid="e3">
+					<Denoter did="d3" type="perception">Е░⌠</Denoter>Д╨├Д╦─Х╥Ё
+				</Event>Ц─┌
+			</Sentence>
+			<Sentence>
+				<Event eid="e4">
+					<Denoter did="d4" type="action">Ф▌╗</Denoter>
+					<Object oid="o4">И≈╗</Object>
+				</Event>
+				<Event eid="e5">Д╦─
+					<Denoter did="d5" type="perception">Г·╖</Denoter>
+				</Event>О╪▄Е▌÷Ф²╔Ф≤╞
+				<Event eid="e6">
+					<Object sid="s6">Ф╣╢И°╦</Object>
+					<Denoter did="d6" type="emergency">Г²─Г│╚</Denoter>
+				</Event>Д╨├О╪│
+			</Sentence>
+		</Paragraph>
+	</Content>  
+	<eRelation relType="Accompany" accompanya_eid="e1" accompanyb_eid="e2"/>  
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>  
+	<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>  
+	<eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5"/>  
+	<eRelation relType="Causal" cause_eid="e6" effect_eid="e2"/> 
+</Body>

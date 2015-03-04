@@ -1,11 +1,46 @@
-<?xml version="1.0" encoding="GB2312"?>
-<Body>
-	<Title>±ÈÑÇµÏÖØ´óÊ³ÎïÖÐ¶¾ÊÂ¼þ</Title>
-	<ReportTime type="absTime">2009Äê2ÔÂ23ÈÕ</ReportTime>
-	<Content>
-		<Paragraph><Sentence><Event eid="e1"><Location lid="l1">ÉîÛÚ±ÈÑÇµÏ¹«Ë¾</Location><Time tid="t1" type="relTime">2ÔÂ23ÈÕ</Time>Ëù·¢ÉúµÄ<Participant sid="s1">63ÃûÔ±¹¤</Participant><Denoter did="d1" type="emergency">ÒÉËÆÊ³ÎïÖÐ¶¾</Denoter></Event>£¬<Event eid="e2">Ä¿Ç°ÒÑÔì³É<Participant sid="s2">2ÈË</Participant><Denoter did="d2" type="stateChange">ËÀÍö</Denoter></Event>¡£</Sentence><Sentence><Event eid="e3"><Time tid="t3" type="timeInterval">½ØÖÁ24ÈÕ</Time>£¬<Participant oid="o3">19ÈË</Participant>ÈÔ<Denoter did="d3" type="operation">ÁôÔºÖÎÁÆ</Denoter></Event>£¬<Event eid="e4">ÁíÍâ<Participant sid="4s">42ÈË</Participant>ÒÑ<Denoter did="d4" type="operation">³öÔº</Denoter></Event>¡£</Sentence><Sentence><Event eid="e5"><Participant oid="o5" type="recipient">ËùÓÐ»¼Õß</Participant>¾­<Participant sid="s5" type="agent">Ò½»¤ÈËÔ±</Participant>µÄÈ«Á¦<Denoter did="d5" type="operation"> ¾ÈÖÎ</Denoter></Event>,Ä¿Ç°²¡ÇéÎÈ¶¨,<Event polarity="negative" eid="e6">¾ùÎÞ<Denoter did="d6" type="stateChange">ÉúÃüÎ£ÏÕ</Denoter></Event>¡£</Sentence></Paragraph>
-	</Content>
-	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
-	<eRelation relType="Accompany" accompanya_eid="e3" accompanyb_eid="e4"/>
-        <eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>æ¯”äºšè¿ªé‡å¤§é£Ÿç‰©ä¸­æ¯’äº‹ä»¶</Title>  
+	<ReportTime type="absTime">2009å¹´2æœˆ23æ—¥</ReportTime>  
+	<Content> 
+		<Paragraph>
+			<Sentence>
+				<Event eid="e1">
+					<Location lid="l1">æ·±åœ³æ¯”äºšè¿ªå…¬å¸</Location>
+					<Time tid="t1" type="relTime">2æœˆ23æ—¥</Time>æ‰€å‘ç”Ÿçš„
+					<Participant sid="s1">63åå‘˜å·¥</Participant>
+					<Denoter did="d1" type="emergency">ç–‘ä¼¼é£Ÿç‰©ä¸­æ¯’</Denoter>
+				</Event>ï¼Œ
+				<Event eid="e2">ç›®å‰å·²é€ æˆ
+					<Participant sid="s2">2äºº</Participant>
+					<Denoter did="d2" type="stateChange">æ­»äº¡</Denoter>
+				</Event>ã€‚
+			</Sentence>
+			<Sentence>
+				<Event eid="e3">
+					<Time tid="t3" type="timeInterval">æˆªè‡³24æ—¥</Time>ï¼Œ
+					<Participant oid="o3">19äºº</Participant>ä»
+					<Denoter did="d3" type="operation">ç•™é™¢æ²»ç–—</Denoter>
+				</Event>ï¼Œ
+				<Event eid="e4">å¦å¤–
+					<Participant sid="4s">42äºº</Participant>å·²
+					<Denoter did="d4" type="operation">å‡ºé™¢</Denoter>
+				</Event>ã€‚
+			</Sentence>
+			<Sentence>
+				<Event eid="e5">
+					<Participant oid="o5" type="recipient">æ‰€æœ‰æ‚£è€…</Participant>ç»
+					<Participant sid="s5" type="agent">åŒ»æŠ¤äººå‘˜</Participant>çš„å…¨åŠ›
+					<Denoter did="d5" type="operation">æ•‘æ²»</Denoter>
+				</Event>,ç›®å‰ç—…æƒ…ç¨³å®š,
+				<Event polarity="negative" eid="e6">å‡æ— 
+					<Denoter did="d6" type="stateChange">ç”Ÿå‘½å±é™©</Denoter>
+				</Event>ã€‚
+			</Sentence>
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>  
+	<eRelation relType="Accompany" accompanya_eid="e3" accompanyb_eid="e4"/>  
+	<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/> 
 </Body>

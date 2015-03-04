@@ -1,14 +1,36 @@
-<?xml version="1.0" encoding="GB2312"?>
-<Body>
-	<Title>���嵺������ը���202��ɥ��</Title>
-	<ReportTime type="absTime">2002��10��14��</ReportTime>
-	<Content>
-		<Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="absTime">2002��10��13��ҹ��</Time>��<Location lid="l1">ӡ������ʤ�ذ��嵺</Location >���������ֲ�<Denoter did="d1" type="emergency">��ը</Denoter></Event>
-                <Event eid="e2">���<Participant oid="o2">202��</Participant><Denoter did="d2" type="stateChange">ɥ��</Denoter></Event>�����о��󲿷���ǰ�����ε�����ο͡�</Sentence><Sentence><Event eid="e3" type="thoughtevent">ӡ�ᾯ���ܼ�<Participant sid="s3">�ͺյ��Ƕ�</Participant><Denoter did="d3" type="statement">��</Denoter></Event>���<Event eid="e4"><Denoter did="d4" type="emergency">��ը</Denoter></Event>�¼��Ǹù���ʷ�������ص� <Event eid="e5"><Denoter did="d5" type="emergency">�ֲ�Ϯ��</Denoter></Event> �¼���</Sentence></Paragraph>
-	</Content>
-	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
-	<eRelation relType="Follow" bevent_eid="e1" aevent_eid="e3"/>
-	<eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eids="e4-e5"/>
-	
+<?xml version="1.0" encoding="UTF-8"?>
 
+<Body> 
+	<Title>巴厘岛连环爆炸造成202人丧生</Title>  
+	<ReportTime type="absTime">2002年10月14日</ReportTime>  
+	<Content> 
+		<Paragraph>
+			<Sentence>
+				<Event eid="e1">
+					<Time tid="t1" type="absTime">2002年10月13日夜晚</Time>，
+					<Location lid="l1">印尼旅游胜地巴厘岛</Location>发生连环恐怖
+					<Denoter did="d1" type="emergency">爆炸</Denoter>
+				</Event>  
+				<Event eid="e2">造成
+					<Participant oid="o2">202人</Participant>
+					<Denoter did="d2" type="stateChange">丧生</Denoter>
+				</Event>，其中绝大部分是前来旅游的外国游客。
+			</Sentence>
+			<Sentence>
+				<Event eid="e3" type="thoughtevent">印尼警察总监
+					<Participant sid="s3">巴赫蒂亚尔</Participant>
+					<Denoter did="d3" type="statement">称</Denoter>
+				</Event>这次
+				<Event eid="e4">
+					<Denoter did="d4" type="emergency">爆炸</Denoter>
+				</Event>事件是该国历史上最严重的 
+				<Event eid="e5">
+					<Denoter did="d5" type="emergency">恐怖袭击</Denoter>
+				</Event> 事件。
+			</Sentence>
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>  
+	<eRelation relType="Follow" bevent_eid="e1" aevent_eid="e3"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eids="e4-e5"/> 
 </Body>

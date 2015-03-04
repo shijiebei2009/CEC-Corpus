@@ -1,17 +1,58 @@
-<?xml version="1.0" encoding="GB2312"?>
-<Body><Title>ÄÏÌ«Æ½ÑóÐÂ¿¦Àï¶àÄáÑÇ·¢Éú6.8¼¶µØÕð</Title>
-	<ReportTime type="absTime">2009Äê01ÔÂ19ÈÕ</ReportTime>
-	<Content>
-		<Paragraph><Sentence><Event type="thoughtevent" eid="e1"><Participant sid="s1">ÐÂ»ªÉç»ÝÁé¶Ù</Participant><Time tid="t1" type="relTime">£±ÔÂ£±£¹ÈÕ</Time><Denoter did="d1" type="statement">µç</Denoter></Event></Sentence>£¨¼ÇÕßÁõ½àÇï£©<Sentence><Event eid="e2" type="thoughtevent">¾Ý<Participant sid="s2">ÃÀ¹úµØÖÊ¿±Ì½¾Ö</Participant><Denoter  type="statement" did="d2">±¨¸æ</Denoter></Event>£¬
-                <Event eid="e3">Î»ÓÚÄÏÌ«Æ½ÑóµÄ<Location lid="l3">ÐÂ¿¦Àï¶àÄáÑÇ¸½½üº£Óò</Location><Time type="relTime" tid="t3">£±£¹ÈÕ</Time>·¢ÉúÀïÊÏ£¶£®£¸¼¶<Denoter type="emergency" did="d3">µØÕð</Denoter></Event>£¬
-                <Event polarity="negative" eid="e4"><Time type="relTime" tid="t4">Ä¿Ç°</Time>ÉÐÎ´ÓÐÈËÔ±ÉËÍö»ò²Æ²úËðÊ§µÄ<Denoter type="statement" did="d4">±¨¸æ</Denoter></Event>¡£</Sentence></Paragraph>
-		<Paragraph><Sentence>
-				<Event eid="e5">µ±ÌìµÄ<Denoter type="emergency" did="d5">µØÕð</Denoter>·¢ÉúÔÚ<Time type="relTime" tid="t5">±±¾©Ê±¼ä£±£±Ê±£³£µ·Ö</Time>£¬ÕðÖÐÔÚ<Location lid="l5">ÂåÑÇµÙÈºµº¸½½ü</Location>£¬ÕðÔ´Éî¶ÈÔ¼£³£³¹«Àï¡£</Event></Sentence></Paragraph>
-		<Paragraph><Sentence>
-				<Event polarity="negative" eid="e6">Î»ÓÚÏÄÍþÒÄµÄ<Object sid="s6">Ì«Æ½Ñóº£Ð¥Ô¤¾¯ÖÐÐÄ</Object>Ã»ÓÐ<Denoter  type="statement" did="d6">·¢²¼</Denoter><Object>º£Ð¥¾¯±¨</Object>¡£</Event></Sentence></Paragraph>
-		<Paragraph><Sentence>ÐÂ¿¦Àï¶àÄáÑÇÎ»ÓÚÄÏÌ«Æ½Ñó£¬Ãæ»ý£±£¸£µ£·£µÆ½·½¹«Àï£¬ÓÉÐÂ¿¦Àï¶àÄáÑÇµº¡¢ÂåÑÇµÙÈºµººÍÎÞÈË¾Ó×¡µÄÇÐË¹ÌØ·Æ¶ûµÂÈºµº×é³É¡£</Sentence></Paragraph>
-		<Paragraph><Sentence>ÐÂ¿¦Àï¶àÄáÑÇÊÇ·¨¹úµÄº£ÍâÊôµØ¡£</Sentence></Paragraph>
-		<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e6"/>
-		<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e4"/>
-	</Content>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body>
+	<Title>å—å¤ªå¹³æ´‹æ–°å–€é‡Œå¤šå°¼äºšå‘ç”Ÿ6.8çº§åœ°éœ‡</Title>  
+	<ReportTime type="absTime">2009å¹´01æœˆ19æ—¥</ReportTime>  
+	<Content> 
+		<Paragraph>
+			<Sentence>
+				<Event type="thoughtevent" eid="e1">
+					<Participant sid="s1">æ–°åŽç¤¾æƒ çµé¡¿</Participant>
+					<Time tid="t1" type="relTime">ï¼‘æœˆï¼‘ï¼™æ—¥</Time>
+					<Denoter did="d1" type="statement">ç”µ</Denoter>
+				</Event>
+			</Sentence>ï¼ˆè®°è€…åˆ˜æ´ç§‹ï¼‰
+			<Sentence>
+				<Event eid="e2" type="thoughtevent">æ®
+					<Participant sid="s2">ç¾Žå›½åœ°è´¨å‹˜æŽ¢å±€</Participant>
+					<Denoter type="statement" did="d2">æŠ¥å‘Š</Denoter>
+				</Event>ï¼Œ 
+				<Event eid="e3">ä½äºŽå—å¤ªå¹³æ´‹çš„
+					<Location lid="l3">æ–°å–€é‡Œå¤šå°¼äºšé™„è¿‘æµ·åŸŸ</Location>
+					<Time type="relTime" tid="t3">ï¼‘ï¼™æ—¥</Time>å‘ç”Ÿé‡Œæ°ï¼–ï¼Žï¼˜çº§
+					<Denoter type="emergency" did="d3">åœ°éœ‡</Denoter>
+				</Event>ï¼Œ 
+				<Event polarity="negative" eid="e4">
+					<Time type="relTime" tid="t4">ç›®å‰</Time>å°šæœªæœ‰äººå‘˜ä¼¤äº¡æˆ–è´¢äº§æŸå¤±çš„
+					<Denoter type="statement" did="d4">æŠ¥å‘Š</Denoter>
+				</Event>ã€‚
+			</Sentence>
+		</Paragraph>  
+		<Paragraph>
+			<Sentence> 
+				<Event eid="e5">å½“å¤©çš„
+					<Denoter type="emergency" did="d5">åœ°éœ‡</Denoter>å‘ç”Ÿåœ¨
+					<Time type="relTime" tid="t5">åŒ—äº¬æ—¶é—´ï¼‘ï¼‘æ—¶ï¼“ï¼•åˆ†</Time>ï¼Œéœ‡ä¸­åœ¨
+					<Location lid="l5">æ´›äºšè’‚ç¾¤å²›é™„è¿‘</Location>ï¼Œéœ‡æºæ·±åº¦çº¦ï¼“ï¼“å…¬é‡Œã€‚
+				</Event>
+			</Sentence>
+		</Paragraph>  
+		<Paragraph>
+			<Sentence> 
+				<Event polarity="negative" eid="e6">ä½äºŽå¤å¨å¤·çš„
+					<Object sid="s6">å¤ªå¹³æ´‹æµ·å•¸é¢„è­¦ä¸­å¿ƒ</Object>æ²¡æœ‰
+					<Denoter type="statement" did="d6">å‘å¸ƒ</Denoter>
+					<Object>æµ·å•¸è­¦æŠ¥</Object>ã€‚
+				</Event>
+			</Sentence>
+		</Paragraph>  
+		<Paragraph>
+			<Sentence>æ–°å–€é‡Œå¤šå°¼äºšä½äºŽå—å¤ªå¹³æ´‹ï¼Œé¢ç§¯ï¼‘ï¼˜ï¼•ï¼—ï¼•å¹³æ–¹å…¬é‡Œï¼Œç”±æ–°å–€é‡Œå¤šå°¼äºšå²›ã€æ´›äºšè’‚ç¾¤å²›å’Œæ— äººå±…ä½çš„åˆ‡æ–¯ç‰¹è²å°”å¾·ç¾¤å²›ç»„æˆã€‚</Sentence>
+		</Paragraph>  
+		<Paragraph>
+			<Sentence>æ–°å–€é‡Œå¤šå°¼äºšæ˜¯æ³•å›½çš„æµ·å¤–å±žåœ°ã€‚</Sentence>
+		</Paragraph>  
+		<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e6"/>  
+		<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e4"/> 
+	</Content> 
 </Body>

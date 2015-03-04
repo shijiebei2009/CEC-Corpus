@@ -1,76 +1,60 @@
-<?xml version="1.0" encoding="GB2312" ?>
-<Body>                                                   
- <Title>ÔÆÄÏÇð±±Ò»Ó×¶ùÔ°32Ñ§ÉúÒÉËÆÊ³ÎïÖÐ¶¾</Title>
- <ReportTime type="absTime">2014-03-27 02:09:11</ReportTime>
+<?xml version="1.0" encoding="UTF-8"?>
 
- <Content>
-  <Paragraph>
-   <Sentence>
-    <Event eid="e1" type="thoughtevent">
-     <Participant sid="s1">³¤½­ÉÌ±¨</Participant>
-     <Denoter did="d1" type="statement">ÏûÏ¢</Denoter>
-    </Event> 
-    <Event eid="e2">
-     Á½Ãû
-     <Object oid="o2">Å®º¢</Object>
-     ¾­
-     <Denoter did="d2" type="operation">ÇÀ¾È</Denoter>
-     ÎÞÐ§
-    </Event>  
-    <Event eid="e3">
-     <Denoter did="d3" type="stateChange">ËÀÍö</Denoter>
-    </Event> 
-     À´ ×Ô Î÷ Â½ ¾ü ÊÂ http://www.xilu.com
-   </Sentence>
-  </Paragraph>
-  <Paragraph>
-   <Sentence>                                            
-    <Event eid="e4"><Participant sid="s4">ÐÂ»ªÉçµç¼ÇÕß</Participant>
-     ´Ó
-     <Object oid="o4">ÔÆÄÏÊ¡ÎÄÉ½×³×åÃç×å×ÔÖÎÖÝÇð±±ÏØÎ¯Ðû´«²¿</Object>
-     <Denoter did="d4"  type="action">»ñÏ¤</Denoter>
-    </Event>
-     £¬
-    <Event eid="e5">
-     <Time tid="t5" type="relTime">19ÈÕ</Time>
-     Çð±±ÏØË«ÁúÓªÕòÆ½Áú´å¼Ñ¼ÑÓ×¶ùÔ°
-     <Participant sid="s5">32ÃûÑ§Éú</Participant>
-     <Denoter did="d5" type="emergency">ÒÉËÆÊ³ÎïÖÐ¶¾</Denoter>
-    </Event>
-     ¡£
-   </Sentence>
-   <Sentence>
-     ÆäÖÐ£¬Çé¿ö½ÏÎªÑÏÖØÕß7ÈË£¬
-    <Event eid="e6">
-     <Time tid="t6" type="relTime">Ä¿Ç°</Time>
-     <Object oid="o6">2ÈË</Object>
-     <Denoter did="d6" type="operation">ÇÀ¾È</Denoter>
-    </Event>
-     ÎÞÐ§
-    <Event eid="e7">
-     <Denoter did="d7" type="stateChange">ËÀÍö</Denoter>
-    </Event>
-     £¬
-    <Event eid="e8">
-     ÆäÓà
-     <Object oid="o8">5ÈË</Object>
-     ÕýÔÚÈ«Á¦
-     <Denoter did="d8" type="operation">¾ÈÖÎ</Denoter>
-     ÖÐ
-    </Event>¡£
-   </Sentence>
-   <Sentence>
-    <Event eid="e9">
-     <Object oid="o9">ÖÐ¶¾Ô­Òò</Object>
-     ÕýÔÚ½øÒ»²½
-     <Denoter  did="d9" type="operation">µ÷²é</Denoter>
-     ÖÐ
-    </Event>
-     ¡£
-   </Sentence>
-  </Paragraph>
- </Content>
- <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e3"/>
- <eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>
- <eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>
+<Body> 
+	<Title>äº‘å—ä¸˜åŒ—ä¸€å¹¼å„¿å›­32å­¦ç”Ÿç–‘ä¼¼é£Ÿç‰©ä¸­æ¯’</Title>  
+	<ReportTime type="absTime">2014-03-27 02:09:11</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1" type="thoughtevent"> 
+					<Participant sid="s1">é•¿æ±Ÿå•†æŠ¥</Participant>  
+					<Denoter did="d1" type="statement">æ¶ˆæ¯</Denoter> 
+				</Event>  
+				<Event eid="e2">ä¸¤å 
+					<Object oid="o2">å¥³å­©</Object> ç» 
+					<Denoter did="d2" type="operation">æŠ¢æ•‘</Denoter> æ— æ•ˆ
+				</Event>  
+				<Event eid="e3"> 
+					<Denoter did="d3" type="stateChange">æ­»äº¡</Denoter> 
+				</Event> æ¥ è‡ª è¥¿ é™† å†› äº‹ http://www.xilu.com
+			</Sentence> 
+		</Paragraph>  
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e4">
+					<Participant sid="s4">æ–°åŽç¤¾ç”µè®°è€…</Participant> ä»Ž 
+					<Object oid="o4">äº‘å—çœæ–‡å±±å£®æ—è‹—æ—è‡ªæ²»å·žä¸˜åŒ—åŽ¿å§”å®£ä¼ éƒ¨</Object>  
+					<Denoter did="d4" type="action">èŽ·æ‚‰</Denoter> 
+				</Event> ï¼Œ 
+				<Event eid="e5"> 
+					<Time tid="t5" type="relTime">19æ—¥</Time> ä¸˜åŒ—åŽ¿åŒé¾™è¥é•‡å¹³é¾™æ‘ä½³ä½³å¹¼å„¿å›­ 
+					<Participant sid="s5">32åå­¦ç”Ÿ</Participant>  
+					<Denoter did="d5" type="emergency">ç–‘ä¼¼é£Ÿç‰©ä¸­æ¯’</Denoter> 
+				</Event> ã€‚
+			</Sentence>  
+			<Sentence>å…¶ä¸­ï¼Œæƒ…å†µè¾ƒä¸ºä¸¥é‡è€…7äººï¼Œ 
+				<Event eid="e6"> 
+					<Time tid="t6" type="relTime">ç›®å‰</Time>  
+					<Object oid="o6">2äºº</Object>  
+					<Denoter did="d6" type="operation">æŠ¢æ•‘</Denoter> 
+				</Event> æ— æ•ˆ 
+				<Event eid="e7"> 
+					<Denoter did="d7" type="stateChange">æ­»äº¡</Denoter> 
+				</Event> ï¼Œ 
+				<Event eid="e8">å…¶ä½™ 
+					<Object oid="o8">5äºº</Object> æ­£åœ¨å…¨åŠ› 
+					<Denoter did="d8" type="operation">æ•‘æ²»</Denoter> ä¸­
+				</Event>ã€‚
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e9"> 
+					<Object oid="o9">ä¸­æ¯’åŽŸå› </Object> æ­£åœ¨è¿›ä¸€æ­¥ 
+					<Denoter did="d9" type="operation">è°ƒæŸ¥</Denoter> ä¸­
+				</Event> ã€‚
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e3"/>  
+	<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>  
+	<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/> 
 </Body>

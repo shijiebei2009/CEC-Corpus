@@ -1,56 +1,45 @@
-<?xml version="1.0" encoding="GB2312" ?>
-<Body>
-   <Title>ÔÆÄÏÎ÷Ë«°æÄÉ·¢Éú4.6¼¶µØÕð ÔÝÎÞÈËÔ±ÉËÍö</Title> 
-   <ReportTime type="absTime">2014Äê01ÔÂ28ÈÕ21:57</ReportTime>
-   <Content>
-      <Paragraph>
-         <Sentence>
-            <Event type="thoughtevent" eid="e1">
-               <Participant sid="s1">ÖÐÐÂÍøÀ¥Ã÷</Participant>
-               <Time type="relTime" tid="t1">1ÔÂ28ÈÕ</Time>
-               <Denoter type="statement" did="d1">µç</Denoter>
-            </Event>
-            (ÓàÑ©±ò)
-            <Event type="thoughtevent" eid="e2">
-               <Participant sid="s2">ÔÆÄÏÊ¡Î÷Ë«°æÄÉ´ö×å×ÔÖÎÖÝÎ¯Ðû´«²¿</Participant>
-               <Denoter type="statement" did="d2">Ö¤Êµ</Denoter>
-            </Event>
-            £¬
-            <Event eid="e3">
-               <Time type="relTime" tid="t3">28ÈÕ20Ê±01·Ö</Time>
-               £¬
-               <Location lid="l3">¸ÃÖÝ¾°ºéÊÐ</Location>
-               (±±Î³22.5¶È£¬¶«¾­101.1¶È)·¢Éú4.6¼¶
-               <Denoter type="emergency" did="d3">µØÕð</Denoter>
-            </Event>
-            £¬ÕðÔ´Éî¶È10Ç§Ã×¡£
-         </Sentence>
-      </Paragraph>
+<?xml version="1.0" encoding="UTF-8"?>
 
-¡¡¡¡  <Paragraph>
-         <Sentence>
-            <Event type="thoughtevent" eid="e4">
-               <Participant sid="s4">Î÷Ë«°æÄÉÖÝÎ¯Ðû´«²¿¸±²¿³¤¶Î½ð»ª</Participant>
-               <Denoter type="statement" did="d4">Ëµ</Denoter>
-            </Event>
-            £¬ÕðÖÐµØµãÎ»ÓÚ¾°ºéÊÐ¶«±±69¹«ÀïµÄÆÕÎÄÕò£¬ÕðÇøÕð¸ÐÇ¿ÁÒ£¬
-            <Event polarity="negative" eid="e5">
-               <Time type="relTime" tid="t5">Ä¿Ç°</Time>
-               ÔÝÎÞÈËÔ±ÉËÍöºÍ²Æ²úËðÊ§
-               <Denoter type="statement" did="d5">±¨¸æ</Denoter>
-            </Event>
-            ¡£
-         </Sentence>
-      </Paragraph>
-
-¡¡¡¡  <Paragraph>
-         <Sentence>ÆÕÎÄÕòµØ´¦¾°ºéÊÐ×î±±²¿£¬¾à¾°ºé97¹«Àï¡¢¾àÆÕ¶ý34¹«Àï¡¢¾àÀ¥Ã÷ÊÐ530¹«Àï£¬¹úµÀ213ÏßÀ¥Âü¹ú¼Ê´óÍ¨µÀºá´©°Ó×Ó£¬ÊÇÄÚµØ½øÈëÎ÷Ë«°æÄÉµÄµÚÒ»ÃÅ»§ÖØÕò£¬ËØÓÐ¡°°æÄÉ±±´óÃÅ¡±Ö®³Æ¡£
-         </Sentence>
-         <Sentence>Î÷Ë«°æÄÉÎ»ÓÚµØÖÐº£Ï²ÂíÀ­ÑÅµØÕð´ø±ßÚï£¬ÒÔÍù·¢ÉúµØÕðÕð¼¶Ò»°ã²»¸ßÓÚ5¼¶¡£
-         </Sentence>
-      </Paragraph>
-   </Content>
-   <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e5"/>
-   <eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3"/>
-   <eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5"/>
+<Body> 
+	<Title>äº‘å—è¥¿åŒç‰ˆçº³å‘ç”Ÿ4.6çº§åœ°éœ‡ æš‚æ— äººå‘˜ä¼¤äº¡</Title>  
+	<ReportTime type="absTime">2014å¹´01æœˆ28æ—¥21:57</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event type="thoughtevent" eid="e1"> 
+					<Participant sid="s1">ä¸­æ–°ç½‘æ˜†æ˜Ž</Participant>  
+					<Time type="relTime" tid="t1">1æœˆ28æ—¥</Time>  
+					<Denoter type="statement" did="d1">ç”µ</Denoter> 
+				</Event> (ä½™é›ªå½¬) 
+				<Event type="thoughtevent" eid="e2"> 
+					<Participant sid="s2">äº‘å—çœè¥¿åŒç‰ˆçº³å‚£æ—è‡ªæ²»å·žå§”å®£ä¼ éƒ¨</Participant>  
+					<Denoter type="statement" did="d2">è¯å®ž</Denoter> 
+				</Event> ï¼Œ 
+				<Event eid="e3"> 
+					<Time type="relTime" tid="t3">28æ—¥20æ—¶01åˆ†</Time> ï¼Œ 
+					<Location lid="l3">è¯¥å·žæ™¯æ´ªå¸‚</Location> (åŒ—çº¬22.5åº¦ï¼Œä¸œç»101.1åº¦)å‘ç”Ÿ4.6çº§ 
+					<Denoter type="emergency" did="d3">åœ°éœ‡</Denoter> 
+				</Event> ï¼Œéœ‡æºæ·±åº¦10åƒç±³ã€‚
+			</Sentence> 
+		</Paragraph> ã€€ã€€ 
+		<Paragraph> 
+			<Sentence> 
+				<Event type="thoughtevent" eid="e4"> 
+					<Participant sid="s4">è¥¿åŒç‰ˆçº³å·žå§”å®£ä¼ éƒ¨å‰¯éƒ¨é•¿æ®µé‡‘åŽ</Participant>  
+					<Denoter type="statement" did="d4">è¯´</Denoter> 
+				</Event> ï¼Œéœ‡ä¸­åœ°ç‚¹ä½äºŽæ™¯æ´ªå¸‚ä¸œåŒ—69å…¬é‡Œçš„æ™®æ–‡é•‡ï¼Œéœ‡åŒºéœ‡æ„Ÿå¼ºçƒˆï¼Œ 
+				<Event polarity="negative" eid="e5"> 
+					<Time type="relTime" tid="t5">ç›®å‰</Time> æš‚æ— äººå‘˜ä¼¤äº¡å’Œè´¢äº§æŸå¤± 
+					<Denoter type="statement" did="d5">æŠ¥å‘Š</Denoter> 
+				</Event> ã€‚
+			</Sentence> 
+		</Paragraph> ã€€ã€€ 
+		<Paragraph> 
+			<Sentence>æ™®æ–‡é•‡åœ°å¤„æ™¯æ´ªå¸‚æœ€åŒ—éƒ¨ï¼Œè·æ™¯æ´ª97å…¬é‡Œã€è·æ™®æ´±34å…¬é‡Œã€è·æ˜†æ˜Žå¸‚530å…¬é‡Œï¼Œå›½é“213çº¿æ˜†æ›¼å›½é™…å¤§é€šé“æ¨ªç©¿åå­ï¼Œæ˜¯å†…åœ°è¿›å…¥è¥¿åŒç‰ˆçº³çš„ç¬¬ä¸€é—¨æˆ·é‡é•‡ï¼Œç´ æœ‰â€œç‰ˆçº³åŒ—å¤§é—¨â€ä¹‹ç§°ã€‚</Sentence>  
+			<Sentence>è¥¿åŒç‰ˆçº³ä½äºŽåœ°ä¸­æµ·å–œé©¬æ‹‰é›…åœ°éœ‡å¸¦è¾¹é™²ï¼Œä»¥å¾€å‘ç”Ÿåœ°éœ‡éœ‡çº§ä¸€èˆ¬ä¸é«˜äºŽ5çº§ã€‚</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e5"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5"/> 
 </Body>

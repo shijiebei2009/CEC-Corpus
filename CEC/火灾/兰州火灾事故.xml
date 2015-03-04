@@ -1,62 +1,57 @@
-<?xml version="1.0" encoding="GB2312" ?>
-<Body>
-<Title>À¼ÖÝ»ðÔÖÊÂ¹Ê</Title>  
-<ReportTime  type="absTime">2014Äê1ÔÂ2ÈÕ</ReportTime>
-<Content><Paragraph>
-<Sentence>
-<Event  eid="e1">
-<Time  type="absTime">2014Äê1ÔÂ2ÈÕ</Time>£¬
-<Location  lid="l1">À¼ÖÝ</Location>
-<Participant  sid="s1">Ïû·À¹Ù±ø</Participant>ÔÚ½ô¼±
-<Denoter  type="operation"  did="d1">´¦ÖÃ</Denoter>
-</Event>
+<?xml version="1.0" encoding="UTF-8"?>
 
-<Event  eid="e2">
-<Object  oid="o2">Ì©Éú´óÏÃ</Object>
-<Location  type="destination"  lid="l2">¶¥²¿</Location>
-<Denoter  type="emergency"  did="d2">»ðÔÖ</Denoter>¡£
-</Event>
-</Sentence>
-
-<Sentence>
-<Event  eid="e3">
-<Time  type="relTime"  tid="t3">µ±ÈÕ14Ê±20·ÖÐí</Time>£¬Î»ÓÚ
-<Location lid="l3">¸ÊËàÊ¡À¼ÖÝÊÐÕÅÒ´Â·µÄÌ©Éú´óÏÃ¶¥²¿</Location>·¢Éú
-<Denoter did="d3" type="emergency">»ðÔÖ</Denoter>¡£
-</Event>
-</Sentence>
-
-<Sentence>
-<Event  eid="e4">
-<Participant  sid="s4">À¼ÖÝÏû·À</Participant>¹²
-<Denoter  did="d4" type="operation">µ÷¼¯</Denoter>
-<Participant  oid="o4,s5,s6">6¸öÖÐ¶Ó£¬21Ì¨Ïû·À³µ£¬½ü200ÃûÏû·À¹Ù±ø</Participant>
-</Event>
-
-<Event  eid="e5">
-<Denoter  type="movement"  did="d5">Ç°Íù</Denoter>
-</Event>
-
-<Event  eid="e6">
-<Denoter  type="emergency"  did="d6">¾È»ð</Denoter>¡£
-</Event>
-</Sentence>
-
-<Sentence>¾­¹ý2¸öÐ¡Ê±µÄ½ôÕÅÆË¾È£¬»ðÔÖÓÚ16Ê±40·ÖÐíÆËÃð¡£</Sentence>
-<Sentence>
-<Event  eid="e7"  type="thoughtevent">¾Ý
-<Denoter  type="statement"  did="d7">ÁË½â</Denoter>£¬
-</Event>
-<Event eid="e8"  polarity="negative">
-¹ý»ðÃæ»ýÔ¼1000Æ½·½Ã×£¬
-<Object  sid="s8">´ó»ð</Object>Ã»ÓÐÔì³É
-<Participant  oid="o8">ÈËÔ±</Participant>
-<Denoter  did="d8"  type="emergency">ÉËÍö</Denoter>¡£
-</Event>
-</Sentence>
-</Paragraph>
-</Content>
-<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>
-<eRelation relType="Composite" fevent_eid="e4" sevent_eids="e5-e6"/>
-<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8"/>
+<Body> 
+	<Title>å…°å·žç«ç¾äº‹æ•…</Title>  
+	<ReportTime type="absTime">2014å¹´1æœˆ2æ—¥</ReportTime>  
+	<Content>
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Time type="absTime">2014å¹´1æœˆ2æ—¥</Time>ï¼Œ 
+					<Location lid="l1">å…°å·ž</Location>  
+					<Participant sid="s1">æ¶ˆé˜²å®˜å…µ</Participant>åœ¨ç´§æ€¥ 
+					<Denoter type="operation" did="d1">å¤„ç½®</Denoter> 
+				</Event>  
+				<Event eid="e2"> 
+					<Object oid="o2">æ³°ç”Ÿå¤§åŽ¦</Object>  
+					<Location type="destination" lid="l2">é¡¶éƒ¨</Location>  
+					<Denoter type="emergency" did="d2">ç«ç¾</Denoter>ã€‚
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e3"> 
+					<Time type="relTime" tid="t3">å½“æ—¥14æ—¶20åˆ†è®¸</Time>ï¼Œä½äºŽ 
+					<Location lid="l3">ç”˜è‚ƒçœå…°å·žå¸‚å¼ æŽ–è·¯çš„æ³°ç”Ÿå¤§åŽ¦é¡¶éƒ¨</Location>å‘ç”Ÿ 
+					<Denoter did="d3" type="emergency">ç«ç¾</Denoter>ã€‚
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e4"> 
+					<Participant sid="s4">å…°å·žæ¶ˆé˜²</Participant>å…± 
+					<Denoter did="d4" type="operation">è°ƒé›†</Denoter>  
+					<Participant oid="o4,s5,s6">6ä¸ªä¸­é˜Ÿï¼Œ21å°æ¶ˆé˜²è½¦ï¼Œè¿‘200åæ¶ˆé˜²å®˜å…µ</Participant> 
+				</Event>  
+				<Event eid="e5"> 
+					<Denoter type="movement" did="d5">å‰å¾€</Denoter> 
+				</Event>  
+				<Event eid="e6"> 
+					<Denoter type="emergency" did="d6">æ•‘ç«</Denoter>ã€‚
+				</Event> 
+			</Sentence>  
+			<Sentence>ç»è¿‡2ä¸ªå°æ—¶çš„ç´§å¼ æ‰‘æ•‘ï¼Œç«ç¾äºŽ16æ—¶40åˆ†è®¸æ‰‘ç­ã€‚</Sentence>  
+			<Sentence> 
+				<Event eid="e7" type="thoughtevent">æ® 
+					<Denoter type="statement" did="d7">äº†è§£</Denoter>ï¼Œ
+				</Event>  
+				<Event eid="e8" polarity="negative">è¿‡ç«é¢ç§¯çº¦1000å¹³æ–¹ç±³ï¼Œ 
+					<Object sid="s8">å¤§ç«</Object>æ²¡æœ‰é€ æˆ 
+					<Participant oid="o8">äººå‘˜</Participant>  
+					<Denoter did="d8" type="emergency">ä¼¤äº¡</Denoter>ã€‚
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>  
+	<eRelation relType="Composite" fevent_eid="e4" sevent_eids="e5-e6"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8"/> 
 </Body>

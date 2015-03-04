@@ -1,23 +1,139 @@
-<?xml version="1.0" encoding="GB2312"?>
-<Body>
-	<Title>����ͻ������ʳ���ж��¼�</Title>
-	<ReportTime type="absTime">2007-07-23</ReportTime>
-	<Content>
-		<Paragraph>�����߻��֡����� ͨѶԱ�ܺ��ࣩ��<Sentence><Event eid="e1"><Time tid="t1" type="relTime">7��23���賿5��30���</Time>��<Location lid="l1">���ش������¥��</Location>����һ��<Denoter did="d1" type="emergency">����ʳƷ�ж�
-                </Denoter>�¼� </Event>��</Sentence>
-			<Sentence><Event eid="e2"><Time tid="t2" type="timeInterval">��ֹ����10ʱ</Time>����<Participant sid="s2,s3">20����</Participant><Denoter did="d2" type="stateChange">����</Denoter>��ͬ�̶ȵĸ�к<Object oid="o2">֢״</Object></Event>��<Event eid="e3">�ѷֱ���<Location lid="l3">������ҽԺ����ҽҽԺ</Location>����<Denoter did="d3" type="operation">����</Denoter></Event>��<Event eid="e4">����<Participant sid="s4" type="recipient">30����</Participant>��<Denoter did="d4" type="operation">���</Denoter>������֢״</Event>��</Sentence></Paragraph>
-		<Paragraph><Sentence><Event eid="e5"><Time tid="t5" type="relTime">7��22��</Time>�����ش������¥���������<Participant sid="s5,s6">�ߺ�Ⱥ</Participant>Ϊ�丸��<Denoter did="d5" type="operation">����</Denoter><Object oid="o5">ɥ��</Object></Event><Event eid="e6"><Denoter did="d6" type="operation">�ٰ�</Denoter><Object oid="o6">��ϯ</Object></Event>��<Event eid="e7"><Time tid="t7" type="relTime">23���賿5���</Time>���μ���ϯ��<Participant sid="s7">����Ⱥ��</Participant>�Ⱥ�<Denoter did="d7" type="stateChange">����</Denoter>��к<Object oid="o7">֢״</Object></Event>��</Sentence></Paragraph>
-		<Paragraph><Sentence><Event eid="e8"><Denoter did="8d" type="emergency">�¼�</Denoter>����</Event>��<Event eid="e9"><Participant sid="s9">������ί��������</Participant>�߶�<Denoter did="d9" type="operation">����</Denoter></Event>��<Event eid="e10">����<Denoter did="d10" type="operation">����</Denoter>��ͻ��ʳƷ��ȫ�¹ʾ�ԮӦ��<Object oid="o10">Ԥ��</Object>��</Event>��<Event eid="e11">��ί���<Participant sid="s11" type="agent">Ѧ����</Participant><Denoter did="d11" type="statement">ָʾ</Denoter><Participant oid="o11" type="recipient">�йز���</Participant></Event><Event eid="e12">ȫ��<Denoter did="d12" type="operation">��չ</Denoter><Object oid="o12">���ι���</Object></Event>��<Event eid="e13">�����Ͼ��μ����̻��<Participant sid="s13,s14">��ɭ��</Participant>�س�<Denoter did="d13" type="perception">��֪</Denoter>�����</Event>��<Event eid="e14"><Denoter did="d14" type="action">�绰</Denoter>Ҫ��</Event><Event eid="e15">����<Denoter did="d15" type="operation">��չ</Denoter><Object oid="o15">���ι���</Object></Event>��ȷ��Ⱥ��������ȫ��</Sentence><Sentence><Event eid="e16">�����س�<Participant sid="s16,s17">��¼��</Participant>��һʱ��<Denoter did="d16" type="movement">�ϸ�</Denoter><Location lid="l16">��ҽԺ</Location></Event><Event eid="e17"><Denoter did="d17" type="operation">ָ��</Denoter>���ι���</Event>��<Event eid="e18"><Location lid="l18">�ֳ�</Location><Denoter did="d18" type="operation">����</Denoter>��ҽ�ƾȻ����¼����顢��ȫ���������ڱ��ϵ�<Object oid="o18">������</Object></Event>��<Event eid="e19">Ѹ��<Denoter did="d19" type="operation">��չ</Denoter><Object oid="o19">����</Object></Event>����Ҫ��<Event eid="e20"><Participant sid="s20">��������</Participant>��<Location lid="l20">ȫ��</Location>��Χ��<Denoter did="d20" type="operation">����</Denoter><Object oid="o20">ҽ����Դ</Object></Event>��<Event eid="e21">ȫ���Ը�<Denoter did="d21" type="operation">��չ</Denoter><Object oid="o21">���ι���</Object></Event>��<Event eid="e22"><Denoter did="d22" type="operation">ȷ��</Denoter>Ⱥ�ڵ�<Object oid="o22">������ȫ</Object></Event>��</Sentence></Paragraph>
-		<Paragraph><Sentence><Event eid="e23"><Time tid="t23" type="relTime">Ŀǰ</Time>��<Object oid="o23">�¼�ԭ��</Object>����<Denoter did="d23" type="operation">����</Denoter>��</Event>��</Sentence></Paragraph>
-	</Content>
-        	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
-		<eRelation relType="Follow" aevent_eid="e4" bevent_eid="e3"/>
-		<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>
-		<eRelation relType="Follow" aevent_eid="e9" bevent_eid="e8"/>
-		<eRelation relType="Follow" aevent_eid="e10" bevent_eid="e9"/>
-		<eRelation relType="Follow" aevent_eid="e17" bevent_eid="e16"/>
-		<eRelation relType="Follow" aevent_eid="e18" bevent_eid="e17"/>
-		<eRelation relType="Follow" aevent_eid="e19" bevent_eid="e18"/>
-		<eRelation relType="Accompany" accompanyb_eid="e21" accompanya_eid="e22"/>
-	
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>华县突发疑似食物中毒事件</Title>  
+	<ReportTime type="absTime">2007-07-23</ReportTime>  
+	<Content> 
+		<Paragraph>（记者华林、杜鹏 通讯员周海燕）：
+			<Sentence>
+				<Event eid="e1">
+					<Time tid="t1" type="relTime">7月23号凌晨5点30多分</Time>，
+					<Location lid="l1">华县大明镇高楼村</Location>发生一起
+					<Denoter did="d1" type="emergency">疑似食品中毒</Denoter>事件
+				</Event>。
+			</Sentence>  
+			<Sentence>
+				<Event eid="e2">
+					<Time tid="t2" type="timeInterval">截止昨晚10时</Time>，有
+					<Participant sid="s2,s3">20多人</Participant>
+					<Denoter did="d2" type="stateChange">出现</Denoter>不同程度的腹泻
+					<Object oid="o2">症状</Object>
+				</Event>，
+				<Event eid="e3">已分别在
+					<Location lid="l3">县人民医院、中医医院</Location>接受
+					<Denoter did="d3" type="operation">治疗</Denoter>
+				</Event>，
+				<Event eid="e4">另有
+					<Participant sid="s4" type="recipient">30多人</Participant>经
+					<Denoter did="d4" type="operation">检查</Denoter>无明显症状
+				</Event>。
+			</Sentence>
+		</Paragraph>  
+		<Paragraph>
+			<Sentence>
+				<Event eid="e5">
+					<Time tid="t5" type="relTime">7月22号</Time>，华县大明镇高楼村四组村民
+					<Participant sid="s5,s6">高和群</Participant>为其父亲
+					<Denoter did="d5" type="operation">办理</Denoter>
+					<Object oid="o5">丧事</Object>
+				</Event>
+				<Event eid="e6">
+					<Denoter did="d6" type="operation">举办</Denoter>
+					<Object oid="o6">筵席</Object>
+				</Event>，
+				<Event eid="e7">
+					<Time tid="t7" type="relTime">23号凌晨5点多</Time>，参加筵席的
+					<Participant sid="s7">部分群众</Participant>先后
+					<Denoter did="d7" type="stateChange">出现</Denoter>腹泻
+					<Object oid="o7">症状</Object>
+				</Event>。
+			</Sentence>
+		</Paragraph>  
+		<Paragraph>
+			<Sentence>
+				<Event eid="e8">
+					<Denoter did="8d" type="emergency">事件</Denoter>发生
+				</Event>后，
+				<Event eid="e9">
+					<Participant sid="s9">华县县委、县政府</Participant>高度
+					<Denoter did="d9" type="operation">重视</Denoter>
+				</Event>，
+				<Event eid="e10">立即
+					<Denoter did="d10" type="operation">启动</Denoter>《突发食品安全事故救援应急
+					<Object oid="o10">预案</Object>》
+				</Event>，
+				<Event eid="e11">县委书记
+					<Participant sid="s11" type="agent">薛东江</Participant>
+					<Denoter did="d11" type="statement">指示</Denoter>
+					<Participant oid="o11" type="recipient">有关部门</Participant>
+				</Event>
+				<Event eid="e12">全力
+					<Denoter did="d12" type="operation">开展</Denoter>
+					<Object oid="o12">救治工作</Object>
+				</Event>，
+				<Event eid="e13">正在南京参加招商活动的
+					<Participant sid="s13,s14">杨森明</Participant>县长
+					<Denoter did="d13" type="perception">得知</Denoter>情况后
+				</Event>，
+				<Event eid="e14">
+					<Denoter did="d14" type="action">电话</Denoter>要求
+				</Event>
+				<Event eid="e15">尽快
+					<Denoter did="d15" type="operation">开展</Denoter>
+					<Object oid="o15">救治工作</Object>
+				</Event>，确保群众生命安全。
+			</Sentence>
+			<Sentence>
+				<Event eid="e16">常务副县长
+					<Participant sid="s16,s17">简录民</Participant>第一时间
+					<Denoter did="d16" type="movement">赶赴</Denoter>
+					<Location lid="l16">县医院</Location>
+				</Event>
+				<Event eid="e17">
+					<Denoter did="d17" type="operation">指导</Denoter>救治工作
+				</Event>，
+				<Event eid="e18">
+					<Location lid="l18">现场</Location>
+					<Denoter did="d18" type="operation">成立</Denoter>了医疗救护、事件调查、安全保卫、后勤保障等
+					<Object oid="o18">工作组</Object>
+				</Event>，
+				<Event eid="e19">迅速
+					<Denoter did="d19" type="operation">开展</Denoter>
+					<Object oid="o19">工作</Object>
+				</Event>，并要求
+				<Event eid="e20">
+					<Participant sid="s20">县卫生局</Participant>在
+					<Location lid="l20">全县</Location>范围内
+					<Denoter did="d20" type="operation">调配</Denoter>
+					<Object oid="o20">医护资源</Object>
+				</Event>，
+				<Event eid="e21">全力以赴
+					<Denoter did="d21" type="operation">开展</Denoter>
+					<Object oid="o21">救治工作</Object>
+				</Event>，
+				<Event eid="e22">
+					<Denoter did="d22" type="operation">确保</Denoter>群众的
+					<Object oid="o22">生命安全</Object>
+				</Event>。
+			</Sentence>
+		</Paragraph>  
+		<Paragraph>
+			<Sentence>
+				<Event eid="e23">
+					<Time tid="t23" type="relTime">目前</Time>，
+					<Object oid="o23">事件原因</Object>正在
+					<Denoter did="d23" type="operation">调查</Denoter>中
+				</Event>。
+			</Sentence>
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>  
+	<eRelation relType="Follow" aevent_eid="e4" bevent_eid="e3"/>  
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>  
+	<eRelation relType="Follow" aevent_eid="e9" bevent_eid="e8"/>  
+	<eRelation relType="Follow" aevent_eid="e10" bevent_eid="e9"/>  
+	<eRelation relType="Follow" aevent_eid="e17" bevent_eid="e16"/>  
+	<eRelation relType="Follow" aevent_eid="e18" bevent_eid="e17"/>  
+	<eRelation relType="Follow" aevent_eid="e19" bevent_eid="e18"/>  
+	<eRelation relType="Accompany" accompanyb_eid="e21" accompanya_eid="e22"/> 
 </Body>

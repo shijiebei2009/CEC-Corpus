@@ -1,58 +1,45 @@
-<?xml version="1.0" encoding="GB2312" ?>
-<Body>
-   <Title>ÐÂÎ÷À¼¶«±±²¿º£Óò·¢Éú6.6¼¶µØÕð</Title>   
-   <ReportTime type="absTime">2014-02-02 21:32</ReportTime>
-   <Content>
-      <Paragraph>
-         <Sentence>
-            <Event type="thoughtevent" eid="e1">
-               <Participant sid="s1">ÐÂ»ªÍø»ÝÁé¶Ù</Participant>
-               <Time type="relTime" tid="t1">£²ÔÂ£²ÈÕ</Time>
-               <Denoter type="statement" did="d1">µç</Denoter>
-            </Event>
-            £¨¼ÇÕß»ÆÐËÎ°£©
-            <Event eid="e2">
-               ¾Ý
-               <Participant sid="s2">ÃÀ¹úµØÖÊ¿±Ì½¾ÖµØÕðÐÅÏ¢Íø</Participant>
-               <Denoter type="statement" did="d2">ÏûÏ¢</Denoter>
-            </Event>
-            £¬
-            <Event eid="e3">
-               <Location lid="l3">ÐÂÎ÷À¼¶«±±²¿º£Óò</Location>
-               <Time type="relTime" tid="t3">£²ÈÕ</Time>
-               ·¢Éú£¶£®£¶¼¶
-               <Denoter type="emergency" did="d3">µØÕð</Denoter>
-            </Event>
-            £¬µØÕðÎ´Ôì³ÉÈËÔ±ÉËÍö»ò²Æ²úËðÊ§¡£
-         </Sentence>
-      </Paragraph>
+<?xml version="1.0" encoding="UTF-8"?>
 
-¡¡¡¡  <Paragraph>
-         <Sentence>
-            <Event eid="e4">
-               <Denoter type="emergency" did="d4">µØÕð</Denoter>
-               ·¢ÉúÔÚ
-               <Location lid="l4">ÐÂÎ÷À¼</Location>
-               µ±µØÊ±¼ä
-               <Time type="relTime" did="d4">£²ÈÕÍí£²£²Ê±£²£¶·Ö</Time>
-               £¨±±¾©Ê±¼ä£±£·Ê±£²£¶·Ö£©
-            </Event>¡£
-         </Sentence>
-         <Sentence>ÕðÖÐÎ»ÓÚÐÂÎ÷À¼À³Ë¹ÅåÀÊË¹½¸¶«ÄÏ·½Ïò£±£¹£²¹«Àï´¦º£Óò£¬¼´ÐÂÎ÷À¼±±µº±±²¿º£±õ³ÇÕòÍß¿¨ËþÄá¶«±±£·£°£µ¹«Àï´¦º£Óò£¬ÕðÔ´Éî¶ÈÎª£±£³£¹¹«Àï¡£
-         </Sentence>
-      </Paragraph>
-
-¡¡¡¡  <Paragraph>
-         <Sentence>
-            <Event eid="e5">
-               Î»ÓÚ
-               <Location lid="s5">ÏÄÍþÒÄµÄÌ«Æ½Ñóº£Ð¥Ô¤¾¯ÖÐÐÄ</Location>
-               Ã»ÓÐ·¢²¼
-               <Denoter type="emergency" did="d5">º£Ð¥</Denoter>
-               ¾¯±¨
-            </Event>¡£
-         </Sentence>
-      </Paragraph>
-   </Content>
-   <eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e5"/>
+<Body> 
+	<Title>æ–°è¥¿å…°ä¸œåŒ—éƒ¨æµ·åŸŸå‘ç”Ÿ6.6çº§åœ°éœ‡</Title>  
+	<ReportTime type="absTime">2014-02-02 21:32</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event type="thoughtevent" eid="e1"> 
+					<Participant sid="s1">æ–°åŽç½‘æƒ çµé¡¿</Participant>  
+					<Time type="relTime" tid="t1">ï¼’æœˆï¼’æ—¥</Time>  
+					<Denoter type="statement" did="d1">ç”µ</Denoter> 
+				</Event> ï¼ˆè®°è€…é»„å…´ä¼Ÿï¼‰ 
+				<Event eid="e2">æ® 
+					<Participant sid="s2">ç¾Žå›½åœ°è´¨å‹˜æŽ¢å±€åœ°éœ‡ä¿¡æ¯ç½‘</Participant>  
+					<Denoter type="statement" did="d2">æ¶ˆæ¯</Denoter> 
+				</Event> ï¼Œ 
+				<Event eid="e3"> 
+					<Location lid="l3">æ–°è¥¿å…°ä¸œåŒ—éƒ¨æµ·åŸŸ</Location>  
+					<Time type="relTime" tid="t3">ï¼’æ—¥</Time> å‘ç”Ÿï¼–ï¼Žï¼–çº§ 
+					<Denoter type="emergency" did="d3">åœ°éœ‡</Denoter> 
+				</Event> ï¼Œåœ°éœ‡æœªé€ æˆäººå‘˜ä¼¤äº¡æˆ–è´¢äº§æŸå¤±ã€‚
+			</Sentence> 
+		</Paragraph> ã€€ã€€ 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e4"> 
+					<Denoter type="emergency" did="d4">åœ°éœ‡</Denoter> å‘ç”Ÿåœ¨ 
+					<Location lid="l4">æ–°è¥¿å…°</Location> å½“åœ°æ—¶é—´ 
+					<Time type="relTime" did="d4">ï¼’æ—¥æ™šï¼’ï¼’æ—¶ï¼’ï¼–åˆ†</Time> ï¼ˆåŒ—äº¬æ—¶é—´ï¼‘ï¼—æ—¶ï¼’ï¼–åˆ†ï¼‰
+				</Event>ã€‚
+			</Sentence>  
+			<Sentence>éœ‡ä¸­ä½äºŽæ–°è¥¿å…°èŽ±æ–¯ä½©æœ—æ–¯ç¤ä¸œå—æ–¹å‘ï¼‘ï¼™ï¼’å…¬é‡Œå¤„æµ·åŸŸï¼Œå³æ–°è¥¿å…°åŒ—å²›åŒ—éƒ¨æµ·æ»¨åŸŽé•‡ç“¦å¡å¡”å°¼ä¸œåŒ—ï¼—ï¼ï¼•å…¬é‡Œå¤„æµ·åŸŸï¼Œéœ‡æºæ·±åº¦ä¸ºï¼‘ï¼“ï¼™å…¬é‡Œã€‚</Sentence> 
+		</Paragraph> ã€€ã€€ 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e5">ä½äºŽ 
+					<Location lid="s5">å¤å¨å¤·çš„å¤ªå¹³æ´‹æµ·å•¸é¢„è­¦ä¸­å¿ƒ</Location> æ²¡æœ‰å‘å¸ƒ 
+					<Denoter type="emergency" did="d5">æµ·å•¸</Denoter> è­¦æŠ¥
+				</Event>ã€‚
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e5"/> 
 </Body>

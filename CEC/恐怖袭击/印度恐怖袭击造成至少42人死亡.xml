@@ -1,12 +1,35 @@
-<?xml version="1.0" encoding="GB2312"?>
-<Body>
-	<Title>Ó¡¶È¿Ö²ÀÏ®»÷Ôì³ÉÖÁÉÙ42ÈËËÀÍö</Title>
-	<ReportTime type="absTime">2007Äê8ÔÂ26ÈÕ</ReportTime>
-	<Content>
-		<Paragraph><Sentence><Event eid="e1"><Time type="absTime" tid="t1">2007Äê8ÔÂ25ÈÕÒ¹</Time>£¬<Location lid="l1">Ó¡¶ÈÄÏ²¿°²µÃÀ­°îÊ×¸®º£µÃÀ­°Í</Location>·¢Éú4Æð<Denoter type="emergency" did="d1">¿Ö²À±¬Õ¨</Denoter></Event>£¬<Event eid="e2">Ôì³É<Participant oid="o2">42ÈË</Participant><Denoter type="stateChange" did="d2">ËÀÍö</Denoter></Event>£¬<Event eid="e3"><Participant oid="o3">50¶àÈË</Participant><Denoter type="stateChange" did="d3">ÊÜÉË</Denoter></Event>¡£</Sentence>
-               <Sentence> <Event type="thoughtevent" eid="e4"><Participant sid="s4">Ó¡¶ÈÖÐÑëÇé±¨»ú¹¹</Participant >ºÍ<Participant sid="s4">Ó¡¶ÈÄÚÕþ²¿</Participant>ÒÔ¼°<Participant sid="s4">µ±µØ¾¯·½</Participant>¾ù<Denoter type="statement" did="d4">³Æ</Denoter></Event>£¬</Sentence>
-                ÕâÊÇÒ»Æð¾«ÐÄ²ß»®µÄ¿Ö²ÀÏ®»÷ÊÂ¼þ¡£</Paragraph>
-	</Content>
-	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>
-	<eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>å°åº¦ææ€–è¢­å‡»é€ æˆè‡³å°‘42äººæ­»äº¡</Title>  
+	<ReportTime type="absTime">2007å¹´8æœˆ26æ—¥</ReportTime>  
+	<Content> 
+		<Paragraph>
+			<Sentence>
+				<Event eid="e1">
+					<Time type="absTime" tid="t1">2007å¹´8æœˆ25æ—¥å¤œ</Time>ï¼Œ
+					<Location lid="l1">å°åº¦å—éƒ¨å®‰å¾—æ‹‰é‚¦é¦–åºœæµ·å¾—æ‹‰å·´</Location>å‘ç”Ÿ4èµ·
+					<Denoter type="emergency" did="d1">ææ€–çˆ†ç‚¸</Denoter>
+				</Event>ï¼Œ
+				<Event eid="e2">é€ æˆ
+					<Participant oid="o2">42äºº</Participant>
+					<Denoter type="stateChange" did="d2">æ­»äº¡</Denoter>
+				</Event>ï¼Œ
+				<Event eid="e3">
+					<Participant oid="o3">50å¤šäºº</Participant>
+					<Denoter type="stateChange" did="d3">å—ä¼¤</Denoter>
+				</Event>ã€‚
+			</Sentence>  
+			<Sentence> 
+				<Event type="thoughtevent" eid="e4">
+					<Participant sid="s4">å°åº¦ä¸­å¤®æƒ…æŠ¥æœºæž„</Participant>å’Œ
+					<Participant sid="s4">å°åº¦å†…æ”¿éƒ¨</Participant>ä»¥åŠ
+					<Participant sid="s4">å½“åœ°è­¦æ–¹</Participant>å‡
+					<Denoter type="statement" did="d4">ç§°</Denoter>
+				</Event>ï¼Œ
+			</Sentence> è¿™æ˜¯ä¸€èµ·ç²¾å¿ƒç­–åˆ’çš„ææ€–è¢­å‡»äº‹ä»¶ã€‚
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>  
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e3"/> 
 </Body>

@@ -1,57 +1,57 @@
-<?xml version="1.0" encoding="GB2312"?>
-<Body>  	<Title>À¥Ã÷Á¢½»ÇÅ3³µÏà×²ÖÂ5ËÀ2ÉË</Title>
-	<ReportTime type="absTime">2008Äê4ÔÂ14ÈÕ</ReportTime>
-<Content>
+<?xml version="1.0" encoding="UTF-8"?>
 
-	<Paragraph>
-		<Sentence>
-			<Event eid="e1">
-				<Time type="relTime" tid="t1">×òÌìÍíÉÏ8µã20·Ö×óÓÒ</Time>£¬ÔÚ
-				<Location lid="l1">Ð¡ÍÍÁ¢½»ÇÅÉÏÓÉ¶«ÏòÎ÷·½Ïò3¹«Àï´¦</Location>£¬·¢ÉúÒ»ÆðÌØ´ó
-				<Denoter type="emergency" did="d1">³µ»ö</Denoter>¡£
-			</Event>
-		</Sentence>
-		<Sentence>
-			<Event eid="e2">Ò»Á¾×°ÂúÒ¤Äà£¬³µÅÆºÅÎªÔÆA65189µÄ
-				<Object oid="o2">´ó»õ³µ</Object>Óë
-				<Object oid="o2">Ò»Á¾Î¢ÐÍ³µ</Object>¡¢
-				<Object oid="o2">Ò»Á¾¼ªÀû³µ</Object>
-				<Denoter type="action" did="d2">Ïà×²</Denoter>
-			</Event>ºó
-			<Event eid="e3">
-				<Denoter  type="emergency" did="d3">Æð»ð</Denoter>È¼ÉÕ
-			</Event>£¬Ôì³É3Á¾³µµÄ³Ë¿Í
-			<Event eid="e4">
-				<Participant oid="o4">5</Participant>
-				<Denoter type="stateChange" did="d4">ËÀ</Denoter>
-			</Event>
-			<Event eid="e5">
-				<Participant oid="o5">2</Participant>
-				<Denoter type="stateChange" did="d5">ÉË</Denoter>
-			</Event>¡£
-		</Sentence>
-		<Sentence>
-			<Event eid="e6">¾Ý½»
-				<Participant sid="s6">¾¯ËÄ´ó¶ÓÖµÇÚÃñ¾¯</Participant>
-				<Denoter type="statement" did="d6">½éÉÜ</Denoter>
-			</Event>£¬´Ë´Î½»Í¨ÊÂ¹ÊÊÇ¶þ»·±±Â·½¨³ÉÒÔÀ´·¢ÉúµÄ×î´óÒ»Æð³µ»ö¡£
-		</Sentence>
-		<Sentence>
-			<Event eid="e7">
-				<Time type="relTime" tid="t7">Ä¿Ç°</Time>£¬³µ»öÖÐµÄ
-				<Participant oid="o7">2ÃûÐÒ´æÕß</Participant>Õý
-				<Location lid="l7">ÔÚÀ¥Ò½Ôº¸½¶þÔº</Location>½ÓÊÜ
-				<Denoter type="operation" did="d7">ÖÎÁÆ</Denoter>
-			</Event>£¬
-			<Event eid="e8">
-				<Object oid="o8">³µ»öÔ­Òò</Object>ÕýÔÚ
-				<Denoter type="operation" did="d8">µ÷²é</Denoter>ÖÐ
-			</Event>¡£
-		</Sentence>
-	</Paragraph>
-	</Content>
-   <eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>	
-   <eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>
-   <eRelation relType="Causal" cause_eid="e2" effect_eid="e5"/>
-   
+<Body> 
+	<Title>æ˜†æ˜Žç«‹äº¤æ¡¥3è½¦ç›¸æ’žè‡´5æ­»2ä¼¤</Title>  
+	<ReportTime type="absTime">2008å¹´4æœˆ14æ—¥</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Time type="relTime" tid="t1">æ˜¨å¤©æ™šä¸Š8ç‚¹20åˆ†å·¦å³</Time>ï¼Œåœ¨ 
+					<Location lid="l1">å°å±¯ç«‹äº¤æ¡¥ä¸Šç”±ä¸œå‘è¥¿æ–¹å‘3å…¬é‡Œå¤„</Location>ï¼Œå‘ç”Ÿä¸€èµ·ç‰¹å¤§ 
+					<Denoter type="emergency" did="d1">è½¦ç¥¸</Denoter>ã€‚
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e2">ä¸€è¾†è£…æ»¡çª‘æ³¥ï¼Œè½¦ç‰Œå·ä¸ºäº‘A65189çš„ 
+					<Object oid="o2">å¤§è´§è½¦</Object>ä¸Ž 
+					<Object oid="o2">ä¸€è¾†å¾®åž‹è½¦</Object>ã€ 
+					<Object oid="o2">ä¸€è¾†å‰åˆ©è½¦</Object>  
+					<Denoter type="action" did="d2">ç›¸æ’ž</Denoter> 
+				</Event>åŽ 
+				<Event eid="e3"> 
+					<Denoter type="emergency" did="d3">èµ·ç«</Denoter>ç‡ƒçƒ§
+				</Event>ï¼Œé€ æˆ3è¾†è½¦çš„ä¹˜å®¢ 
+				<Event eid="e4"> 
+					<Participant oid="o4">5</Participant>  
+					<Denoter type="stateChange" did="d4">æ­»</Denoter> 
+				</Event>  
+				<Event eid="e5"> 
+					<Participant oid="o5">2</Participant>  
+					<Denoter type="stateChange" did="d5">ä¼¤</Denoter> 
+				</Event>ã€‚
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e6">æ®äº¤ 
+					<Participant sid="s6">è­¦å››å¤§é˜Ÿå€¼å‹¤æ°‘è­¦</Participant>  
+					<Denoter type="statement" did="d6">ä»‹ç»</Denoter> 
+				</Event>ï¼Œæ­¤æ¬¡äº¤é€šäº‹æ•…æ˜¯äºŒçŽ¯åŒ—è·¯å»ºæˆä»¥æ¥å‘ç”Ÿçš„æœ€å¤§ä¸€èµ·è½¦ç¥¸ã€‚
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e7"> 
+					<Time type="relTime" tid="t7">ç›®å‰</Time>ï¼Œè½¦ç¥¸ä¸­çš„ 
+					<Participant oid="o7">2åå¹¸å­˜è€…</Participant>æ­£ 
+					<Location lid="l7">åœ¨æ˜†åŒ»é™¢é™„äºŒé™¢</Location>æŽ¥å— 
+					<Denoter type="operation" did="d7">æ²»ç–—</Denoter> 
+				</Event>ï¼Œ 
+				<Event eid="e8"> 
+					<Object oid="o8">è½¦ç¥¸åŽŸå› </Object>æ­£åœ¨ 
+					<Denoter type="operation" did="d8">è°ƒæŸ¥</Denoter>ä¸­
+				</Event>ã€‚
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>  
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e4"/>  
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e5"/> 
 </Body>

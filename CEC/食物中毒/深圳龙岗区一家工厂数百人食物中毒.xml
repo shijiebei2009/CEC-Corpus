@@ -1,16 +1,92 @@
-<?xml version="1.0" encoding="GB2312"?>
-<Body>
-	<Title>����������һ�ҹ���������ʳ���ж�</Title>
-	<ReportTime type="absTime">2008��1��10��</ReportTime>
-	<Content>
-		<Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="relTime">������������ʱ</Time>��λ��<Location lid="l1">����������ƽ���ֵ�һ�Ҹ��ʳ�</Location>����һ�𺱼���<Participant sid="s1">Ա��</Participant>����<Denoter did="d1" type="emergency">ʳ���ж�</Denoter>�¼�</Event>��<Event type="thoughtevent" eid="e2"><Participant sid="s2">֪����ʿ</Participant><Denoter did="d2" type="statement">͸¶</Denoter><Object oid="o2">�ж�����</Object>Լ700��</Event>����<Event eid="e3"><Participant sid="s3">ƽ���ֵ���</Participant><Denoter did="d3" type="operation">ͳ��</Denoter>��<Object oid="o3">�ж�����</Object>Ϊ308��</Event>��</Sentence><Sentence><Event eid="e4"><Time tid="t4" type="relTime">Ŀǰ</Time>��<Participant sid="s4">�󲿷�Ա��</Participant>����<Denoter did="d4" type="stateChange">����</Denoter></Event><Event eid="e5"><Denoter did="d5" type="movement">�س�</Denoter></Event>����<Event eid="e6"><Participant sid="s6">����</Participant><Denoter did="d6" type="operation">�ظ�</Denoter></Event>ֹ��<Event eid="e7">����<Participant oid="o7" type="recipient">����Ա��</Participant>��<Location lid="l7">ҽԺ</Location>����<Denoter did="d7" type="operation">����</Denoter></Event>��</Sentence></Paragraph>
+<?xml version="1.0" encoding="UTF-8"?>
 
-��  <Paragraph><Sentence><Event eid="e8"><Participant sid="s8">�·��Ĺ���</Participant><Denoter did="d8" type="statement">��</Denoter>һ����Ϊ���ۻ���ǳ�����<Object oid="o8">���ʳ�</Object></Event>����<Event eid="e9">����<Denoter did="d9" type="statement">��</Denoter><Participant oid="o9">Ա��</Participant>����ǧ��</Event>��<Event eid="e10">��Ҫ<Denoter did="d10" type="statement">����</Denoter><Object oid="o10">���</Object></Event>��</Sentence><Sentence><Event eid="e11"><Time tid="t11" type="relTime">������������ʱ��</Time>���ó�<Participant sid="s11">���ٹ���</Participant>½��<Denoter did="d11" type="stateChange">����</Denoter>ͷ�Ρ�ͷʹ��Ż�¡���ʹ����֫��ľ���Ļŵ�<Object oid="o11">֢״</Object></Event>��</Sentence><Sentence>���ڳ��ִ�֢״�Ĺ���Խ��Խ�࣬<Event eid="e12">�ù�����<Participant sid="s12">������</Participant>����<Denoter did="d12" type="operation">��֯</Denoter><Object oid="o12">����</Object></Event><Event eid="e13">������֢״��<Participant sid="s13">Ա��</Participant>�ֱ�<Denoter did="d13" type="movement">����</Denoter><Location lid="l13">ƽ������ҽԺ��ɽ��ҽԺ������ҽԺ���������ҽԺ��ɳ��ҽԺ�����</Location>�ȼ���ҽԺ</Event><Event eid="e14">����<Denoter did="d14" type="operation">ʩ��</Denoter></Event>��</Sentence></Paragraph>
-           </Content>
-                <eRelation thoughtcontent_eids="e3-e14" thoughtevent_eid="e2" relType="Thoughtcontent"/>
-		<eRelation relType="Causal" cause_eid="e1" effect_eid="e4"/>
-		<eRelation relType="Causal" cause_eid="e11" effect_eid="e12"/>
-		<eRelation relType="Follow" aevent_eid="e13" bevent_eid="e12"/>
-		<eRelation relType="Follow" aevent_eid="e14" bevent_eid="e13"/>
-	
+<Body> 
+	<Title>深圳龙岗区一家工厂数百人食物中毒</Title>  
+	<ReportTime type="absTime">2008年1月10日</ReportTime>  
+	<Content> 
+		<Paragraph>
+			<Sentence>
+				<Event eid="e1">
+					<Time tid="t1" type="relTime">昨天下午三四时</Time>，位于
+					<Location lid="l1">深圳龙岗区平湖街道一家港资厂</Location>发生一起罕见的
+					<Participant sid="s1">员工</Participant>集体
+					<Denoter did="d1" type="emergency">食物中毒</Denoter>事件
+				</Event>，
+				<Event type="thoughtevent" eid="e2">
+					<Participant sid="s2">知情人士</Participant>
+					<Denoter did="d2" type="statement">透露</Denoter>
+					<Object oid="o2">中毒人数</Object>约700人
+				</Event>，但
+				<Event eid="e3">
+					<Participant sid="s3">平湖街道办</Participant>
+					<Denoter did="d3" type="operation">统计</Denoter>的
+					<Object oid="o3">中毒人数</Object>为308人
+				</Event>。
+			</Sentence>
+			<Sentence>
+				<Event eid="e4">
+					<Time tid="t4" type="relTime">目前</Time>，
+					<Participant sid="s4">大部分员工</Participant>经已
+					<Denoter did="d4" type="stateChange">治愈</Denoter>
+				</Event>
+				<Event eid="e5">
+					<Denoter did="d5" type="movement">回厂</Denoter>
+				</Event>，至
+				<Event eid="e6">
+					<Participant sid="s6">记者</Participant>
+					<Denoter did="d6" type="operation">截稿</Denoter>
+				</Event>止，
+				<Event eid="e7">仍有
+					<Participant oid="o7" type="recipient">部分员工</Participant>在
+					<Location lid="l7">医院</Location>继续
+					<Denoter did="d7" type="operation">治疗</Denoter>
+				</Event>。
+			</Sentence>
+		</Paragraph> 　 
+		<Paragraph>
+			<Sentence>
+				<Event eid="e8">
+					<Participant sid="s8">事发的工厂</Participant>
+					<Denoter did="d8" type="statement">是</Denoter>一家名为“港华鸿记厂”的
+					<Object oid="o8">港资厂</Object>
+				</Event>，该
+				<Event eid="e9">工厂
+					<Denoter did="d9" type="statement">有</Denoter>
+					<Participant oid="o9">员工</Participant>近三千人
+				</Event>，
+				<Event eid="e10">主要
+					<Denoter did="d10" type="statement">生产</Denoter>
+					<Object oid="o10">相框</Object>
+				</Event>。
+			</Sentence>
+			<Sentence>
+				<Event eid="e11">
+					<Time tid="t11" type="relTime">昨天下午三四时许</Time>，该厂
+					<Participant sid="s11">数百工人</Participant>陆续
+					<Denoter did="d11" type="stateChange">出现</Denoter>头晕、头痛、呕吐、腹痛、四肢麻木、心慌等
+					<Object oid="o11">症状</Object>
+				</Event>。
+			</Sentence>
+			<Sentence>由于出现此症状的工人越来越多，
+				<Event eid="e12">该工厂的
+					<Participant sid="s12">负责人</Participant>马上
+					<Denoter did="d12" type="operation">组织</Denoter>
+					<Object oid="o12">车辆</Object>
+				</Event>
+				<Event eid="e13">将出现症状的
+					<Participant sid="s13">员工</Participant>分别
+					<Denoter did="d13" type="movement">送往</Denoter>
+					<Location lid="l13">平湖人民医院、山厦医院、深联医院、横岗人民医院、沙湾医院急诊科</Location>等几家医院
+				</Event>
+				<Event eid="e14">紧急
+					<Denoter did="d14" type="operation">施救</Denoter>
+				</Event>。
+			</Sentence>
+		</Paragraph> 
+	</Content>  
+	<eRelation thoughtcontent_eids="e3-e14" thoughtevent_eid="e2" relType="Thoughtcontent"/>  
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e4"/>  
+	<eRelation relType="Causal" cause_eid="e11" effect_eid="e12"/>  
+	<eRelation relType="Follow" aevent_eid="e13" bevent_eid="e12"/>  
+	<eRelation relType="Follow" aevent_eid="e14" bevent_eid="e13"/> 
 </Body>

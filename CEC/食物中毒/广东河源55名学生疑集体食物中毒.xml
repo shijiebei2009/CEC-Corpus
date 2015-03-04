@@ -1,20 +1,126 @@
-<?xml version="1.0" encoding="GB2312"?>
-<Body>
-	<Title>¹ã¶«ºÓÔ´55ÃûÑ§ÉúÒÉ¼¯ÌåÊ³ÎïÖÐ¶¾</Title>
-	<ReportTime type="absTime">2008Äê11ÔÂ28ÈÕ</ReportTime>
-	<Content>
-		<Paragraph><Sentence><Event eid="e1"><Time tid="t1" type="relTime">27ÈÕ</Time>£¬<Location lid="l1">ºÓÔ´ÊÐÁ¬Æ½ÏØÉÏÆºÕòµÚ¶þÖÐÑ§</Location>·¢ÉúÒ»×Ú<Denoter did="d1" type="emergency">ÒÉËÆÊ³ÎïÖÐ¶¾</Denoter>ÊÂ¹Ê</Event>£¬<Event eid="e2">¸ÃÐ£<Participant sid="s2">55ÃûÑ§Éú</Participant>ÔÚ<Location lid="l2">Ñ§Ð£</Location>Í³Ò»<Denoter did="d2" type="action">ÓÃ</Denoter>¹ý<Object oid="o2">Ôç²Í</Object>ºó</Event><Event eid="e3">·¢Éú¼¯Ìå<Denoter did="d3" type="emergency">ÒÉËÆÊ³ÎïÖÐ¶¾</Denoter></Event>¡£</Sentence></Paragraph>
-¡¡¡¡
-    <Paragraph><Sentence><Event eid="e4">¾Ý<Participant sid="s4">µ±µØÕþ¸®ÓÐ¹Ø¸ºÔðÈË</Participant><Denoter did="d4" type="statement">½éÉÜ</Denoter></Event>£¬<Event eid="e5"><Time tid="t5" type="relTime">×òÈÕÉÏÎç</Time>£¬<Location lid="l5">Á¬Æ½ÏØÉÏÆº¶þÖÐ</Location>ÓÐ<Participant sid="s5">55ÃûÑ§Éú</Participant><Denoter did="d5" type="action">½øÊ³</Denoter>ÁËÐ£·½Ìá¹©µÄ<Object oid="o5">Ò»ÅÌºìÂÜ²·</Object>ºÍ<Object oid="o5">¼¦µ°³´·ÛË¿</Object></Event>£¬<Event eid="e6"><Time tid="t6" type="relTime">×òÌìÏÂÎç3Ê±10·Ö×óÓÒ</Time>£¬<Participant sid="s6">ÕâÅúÑ§Éú</Participant>ÏÈºó<Denoter did="d6" type="stateChange">³öÏÖ</Denoter>ÉÏÍÂÏÂÐº¡¢¸¹Í´¡¢Í·ÔÎµÈ<Object oid="o6">ÏÖÏó</Object></Event>£¬<Event eid="e7"><Participant sid="s7">Ð£·½</Participant><Denoter did="d7" type="perception">·¢ÏÖ</Denoter></Event>ºó<Event eid="e8">Á¢¼´½«<Participant oid="o8">55ÃûÒÉËÆÊ³ÎïÖÐ¶¾µÄÑ§Éú</Participant>¼±<Denoter did="d8" type="movement">ËÍµ½</Denoter><Location lid="l8">µ±µØÒ½Ôº</Location></Event><Event eid="e9"><Denoter did="d9" type="operation">ÇÀ¾È</Denoter></Event>¡£</Sentence></Paragraph>
-     
-¡¡¡¡<Paragraph><Sentence><Event eid="e10">¾­¹ýÒ½Ôº<Participant sid="s10">Ò½Éú</Participant>ÊäÒº¡¢´ßÍÂµÈ<Denoter did="d10" type="operation">ÖÎÁÆ</Denoter>ºó</Event>£¬<Event eid="e11"><Time tid="t11" type="relTime">×òÍí</Time>ÒÑÓÐ<Participant sid="s11">²¿·ÖÑ§Éú</Participant>Â½Ðø<Denoter did="d11" type="operation">³öÔº</Denoter></Event>£¬µ«½ØÖÁ<Event eid="e12"><Time tid="t12" type="relTime">×òÍí8Ê±35·Ö</Time><Participant sid="s12">¼ÇÕß</Participant><Denoter did="d12" type="action">·¢¸å</Denoter></Event>Ê±Ö¹£¬ÈÔÓÐ<Event eid="e13"><Participant oid="o13">20¶àÃûÑ§Éú</Participant>ÔÚ<Location lid="l13">Ò½Ôº</Location><Denoter did="d13" type="operation">¹Û²ì¾ÈÖÎ</Denoter>ÖÐ</Event>¡£</Sentence></Paragraph> 
+<?xml version="1.0" encoding="UTF-8"?>
 
-¡¡¡¡<Paragraph><Sentence><Event eid="e14"><Time tid="t14" type="relTime">×òÍí8Ê±30·Ö</Time>£¬<Participant sid="s14">Á¬Æ½ÏØÕþ¸®</Participant>ÔÚ<Location lid="l14">¸ÃÏØÉÏÆºÕò</Location><Denoter did="d14" type="operation">ÕÙ¿ª</Denoter>È«ÏØÊ³Æ·°²È«½ô¼±<Object oid="o14">»áÒé</Object></Event>£¬<Event eid="e15"><Denoter did="d15" type="operation">²¿Êð</Denoter>ÓÐ¹ØµØÌºÊ½Çå²é¸÷ÕòÑ§Ð£Ê³Æ·°²È«´ó<Object oid="o15">ÐÐ¶¯</Object>¡£</Event></Sentence></Paragraph>
- 
-¡¡¡¡<Paragraph><Sentence>¾Ý½éÉÜ£¬<Event eid="e16">Õâ´Î<Denoter did="d16" type="emergency">ÒÉËÆÊ³ÎïÖÐ¶¾</Denoter>ÊÂ¹Ê</Event>³õ²½¹À¼ÆÊÇ<Event eid="e17">ÓÉÓÚ<Participant sid="s17">¸ÃÐ£Ñ§Éú</Participant><Denoter did="d17" type="action">½øÊ³</Denoter>ÁË<Object oid="o17">±äÖÊÊ³Îï</Object>ËùÒý·¢µÄ</Event>¡£</Sentence><Sentence><Event eid="e18"><Time tid="t18" type="relTime">×òÍí</Time>£¬<Participant sid="s18">µ±µØÎÀÉú¼à¶½Ëù</Participant>¡¢<Participant sid="s18">¼²¿ØÖÐÐÄ</Participant>µÈ²¿ÃÅÕýÔÚ<Denoter did="d18" type="operation">ÌáÈ¡</Denoter><Object oid="o18">Ïà¹ØÑù±¾</Object></Event><Event eid="e19">½øÐÐ<Denoter did="d19" type="operation">»¯Ñé</Denoter></Event>¡£</Sentence></Paragraph>
-	</Content>
-	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>
-	<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>
-        <eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>
-	<eRelation relType="Causal" cause_eid="e17" effect_eid="e16"/>
+<Body> 
+	<Title>å¹¿ä¸œæ²³æº55åå­¦ç”Ÿç–‘é›†ä½“é£Ÿç‰©ä¸­æ¯’</Title>  
+	<ReportTime type="absTime">2008å¹´11æœˆ28æ—¥</ReportTime>  
+	<Content> 
+		<Paragraph>
+			<Sentence>
+				<Event eid="e1">
+					<Time tid="t1" type="relTime">27æ—¥</Time>ï¼Œ
+					<Location lid="l1">æ²³æºå¸‚è¿žå¹³åŽ¿ä¸Šåªé•‡ç¬¬äºŒä¸­å­¦</Location>å‘ç”Ÿä¸€å®—
+					<Denoter did="d1" type="emergency">ç–‘ä¼¼é£Ÿç‰©ä¸­æ¯’</Denoter>äº‹æ•…
+				</Event>ï¼Œ
+				<Event eid="e2">è¯¥æ ¡
+					<Participant sid="s2">55åå­¦ç”Ÿ</Participant>åœ¨
+					<Location lid="l2">å­¦æ ¡</Location>ç»Ÿä¸€
+					<Denoter did="d2" type="action">ç”¨</Denoter>è¿‡
+					<Object oid="o2">æ—©é¤</Object>åŽ
+				</Event>
+				<Event eid="e3">å‘ç”Ÿé›†ä½“
+					<Denoter did="d3" type="emergency">ç–‘ä¼¼é£Ÿç‰©ä¸­æ¯’</Denoter>
+				</Event>ã€‚
+			</Sentence>
+		</Paragraph> ã€€ã€€ 
+		<Paragraph>
+			<Sentence>
+				<Event eid="e4">æ®
+					<Participant sid="s4">å½“åœ°æ”¿åºœæœ‰å…³è´Ÿè´£äºº</Participant>
+					<Denoter did="d4" type="statement">ä»‹ç»</Denoter>
+				</Event>ï¼Œ
+				<Event eid="e5">
+					<Time tid="t5" type="relTime">æ˜¨æ—¥ä¸Šåˆ</Time>ï¼Œ
+					<Location lid="l5">è¿žå¹³åŽ¿ä¸ŠåªäºŒä¸­</Location>æœ‰
+					<Participant sid="s5">55åå­¦ç”Ÿ</Participant>
+					<Denoter did="d5" type="action">è¿›é£Ÿ</Denoter>äº†æ ¡æ–¹æä¾›çš„
+					<Object oid="o5">ä¸€ç›˜çº¢èåœ</Object>å’Œ
+					<Object oid="o5">é¸¡è›‹ç‚’ç²‰ä¸</Object>
+				</Event>ï¼Œ
+				<Event eid="e6">
+					<Time tid="t6" type="relTime">æ˜¨å¤©ä¸‹åˆ3æ—¶10åˆ†å·¦å³</Time>ï¼Œ
+					<Participant sid="s6">è¿™æ‰¹å­¦ç”Ÿ</Participant>å…ˆåŽ
+					<Denoter did="d6" type="stateChange">å‡ºçŽ°</Denoter>ä¸Šåä¸‹æ³»ã€è…¹ç—›ã€å¤´æ™•ç­‰
+					<Object oid="o6">çŽ°è±¡</Object>
+				</Event>ï¼Œ
+				<Event eid="e7">
+					<Participant sid="s7">æ ¡æ–¹</Participant>
+					<Denoter did="d7" type="perception">å‘çŽ°</Denoter>
+				</Event>åŽ
+				<Event eid="e8">ç«‹å³å°†
+					<Participant oid="o8">55åç–‘ä¼¼é£Ÿç‰©ä¸­æ¯’çš„å­¦ç”Ÿ</Participant>æ€¥
+					<Denoter did="d8" type="movement">é€åˆ°</Denoter>
+					<Location lid="l8">å½“åœ°åŒ»é™¢</Location>
+				</Event>
+				<Event eid="e9">
+					<Denoter did="d9" type="operation">æŠ¢æ•‘</Denoter>
+				</Event>ã€‚
+			</Sentence>
+		</Paragraph> ã€€ã€€ 
+		<Paragraph>
+			<Sentence>
+				<Event eid="e10">ç»è¿‡åŒ»é™¢
+					<Participant sid="s10">åŒ»ç”Ÿ</Participant>è¾“æ¶²ã€å‚¬åç­‰
+					<Denoter did="d10" type="operation">æ²»ç–—</Denoter>åŽ
+				</Event>ï¼Œ
+				<Event eid="e11">
+					<Time tid="t11" type="relTime">æ˜¨æ™š</Time>å·²æœ‰
+					<Participant sid="s11">éƒ¨åˆ†å­¦ç”Ÿ</Participant>é™†ç»­
+					<Denoter did="d11" type="operation">å‡ºé™¢</Denoter>
+				</Event>ï¼Œä½†æˆªè‡³
+				<Event eid="e12">
+					<Time tid="t12" type="relTime">æ˜¨æ™š8æ—¶35åˆ†</Time>
+					<Participant sid="s12">è®°è€…</Participant>
+					<Denoter did="d12" type="action">å‘ç¨¿</Denoter>
+				</Event>æ—¶æ­¢ï¼Œä»æœ‰
+				<Event eid="e13">
+					<Participant oid="o13">20å¤šåå­¦ç”Ÿ</Participant>åœ¨
+					<Location lid="l13">åŒ»é™¢</Location>
+					<Denoter did="d13" type="operation">è§‚å¯Ÿæ•‘æ²»</Denoter>ä¸­
+				</Event>ã€‚
+			</Sentence>
+		</Paragraph> ã€€ã€€ 
+		<Paragraph>
+			<Sentence>
+				<Event eid="e14">
+					<Time tid="t14" type="relTime">æ˜¨æ™š8æ—¶30åˆ†</Time>ï¼Œ
+					<Participant sid="s14">è¿žå¹³åŽ¿æ”¿åºœ</Participant>åœ¨
+					<Location lid="l14">è¯¥åŽ¿ä¸Šåªé•‡</Location>
+					<Denoter did="d14" type="operation">å¬å¼€</Denoter>å…¨åŽ¿é£Ÿå“å®‰å…¨ç´§æ€¥
+					<Object oid="o14">ä¼šè®®</Object>
+				</Event>ï¼Œ
+				<Event eid="e15">
+					<Denoter did="d15" type="operation">éƒ¨ç½²</Denoter>æœ‰å…³åœ°æ¯¯å¼æ¸…æŸ¥å„é•‡å­¦æ ¡é£Ÿå“å®‰å…¨å¤§
+					<Object oid="o15">è¡ŒåŠ¨</Object>ã€‚
+				</Event>
+			</Sentence>
+		</Paragraph> ã€€ã€€ 
+		<Paragraph>
+			<Sentence>æ®ä»‹ç»ï¼Œ
+				<Event eid="e16">è¿™æ¬¡
+					<Denoter did="d16" type="emergency">ç–‘ä¼¼é£Ÿç‰©ä¸­æ¯’</Denoter>äº‹æ•…
+				</Event>åˆæ­¥ä¼°è®¡æ˜¯
+				<Event eid="e17">ç”±äºŽ
+					<Participant sid="s17">è¯¥æ ¡å­¦ç”Ÿ</Participant>
+					<Denoter did="d17" type="action">è¿›é£Ÿ</Denoter>äº†
+					<Object oid="o17">å˜è´¨é£Ÿç‰©</Object>æ‰€å¼•å‘çš„
+				</Event>ã€‚
+			</Sentence>
+			<Sentence>
+				<Event eid="e18">
+					<Time tid="t18" type="relTime">æ˜¨æ™š</Time>ï¼Œ
+					<Participant sid="s18">å½“åœ°å«ç”Ÿç›‘ç£æ‰€</Participant>ã€
+					<Participant sid="s18">ç–¾æŽ§ä¸­å¿ƒ</Participant>ç­‰éƒ¨é—¨æ­£åœ¨
+					<Denoter did="d18" type="operation">æå–</Denoter>
+					<Object oid="o18">ç›¸å…³æ ·æœ¬</Object>
+				</Event>
+				<Event eid="e19">è¿›è¡Œ
+					<Denoter did="d19" type="operation">åŒ–éªŒ</Denoter>
+				</Event>ã€‚
+			</Sentence>
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>  
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>  
+	<eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>  
+	<eRelation relType="Causal" cause_eid="e17" effect_eid="e16"/> 
 </Body>

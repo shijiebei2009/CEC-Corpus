@@ -1,26 +1,68 @@
-<?xml version="1.0" encoding="GB2312"?>
-<Body><Title>ËÄ´¨ãë´¨ÏØ7.8¼¶µØÕðºó·¢ÉúÈý´ÎÓàÕð</Title>
-	<ReportTime type="absTime">2008Äê05ÔÂ12ÈÕ18:06</ReportTime>¡¡ 
-<Content>
-		<Paragraph><Sentence>
-		<Event eid="e1"><Time type="absTime" tid="t1">2008Äê5ÔÂ12ÈÕ14Ê±27·Ö57.9Ãë</Time>£¬ÔÚ<Location lid="l1">ãë´¨ÏØäö¿ÚºÍÎÔÁúÖ®¼ä</Location>·¢ÉúÁË7.8¼¶<Denoter type="emergency" did="d1">µØÕð</Denoter>¡£</Event></Sentence></Paragraph>
-    
-¡¡¡¡<Paragraph><Sentence>
-		<Event eid="e2"><Location lid="l2">Ô­ÕðÖÐ´¦</Location>·¢Éú<Denoter type="emergency" did="d2">ÓàÕð</Denoter>£º</Event>
-		<Event eid="e3"><Time type="relTime" tid="t3">14Ê±43·Ö15.1Ãë</Time>·¢Éú6.0¼¶<Denoter type="emergency" did="d3">ÓàÕð</Denoter>£»</Event>
-		<Event eid="e4"><Time type="relTime" tid="t4">15Ê±34·Ö47.8Ãë</Time>·¢Éú5.0¼¶<Denoter type="emergency" did="d4">ÓàÕð</Denoter>£»</Event>
-		<Event eid="e5"><Time type="relTime" tid="t5">16Ê±08·Ö48Ãë</Time>·¢Éú4.4¼¶<Denoter type="emergency" did="d5">ÓàÕð</Denoter>¡£</Event></Sentence></Paragraph>
+<?xml version="1.0" encoding="UTF-8"?>
 
-¡¡¡¡<Paragraph><Sentence>
-		<Event eid="e6"><Participant sid="s6">ÖÝÈËÃñÕþ¸®</Participant><Denoter type="operation" did="d6">Æô¶¯</Denoter>ÁË<Object oid="o6">µØÕðÓ¦¼±Ô¤°¸</Object></Event>¡£</Sentence><Sentence>
-	<Event eid="e7">È«ÖÝ·ÀÕð¼õÔÖÏµÍ³<Denoter type="operation" did="d7">Æô¶¯</Denoter>ÁË<Object oid="o7">µØÕðÓ¦¼±Ô¤°¸</Object></Event>¡£</Sentence></Paragraph>
-
-¡¡¡¡<Paragraph><Sentence>
-		<Event eid="e8"><Time type="timeInterval" tid="t8">½ØÖ¹16µã30·Ö</Time>µÄÇé¿öÎª£º<Location lid="l8">ÕðÖÐÇø</Location><Object oid="o8">½»Í¨</Object><Object oid="o8">Í¨Ñ¶</Object><Denoter type="stateChange" did="d8">ÖÐ¶Ï</Denoter>¡£</Event></Sentence>(°¢°ÓÖÝ·ÀÕð¼õÔÖ¾Ö)</Paragraph>
-		<eRelation relType="Follow" bevent_eid="e1" aevent_eid="e2"/>
-		<eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>
-		<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>
-		<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>
-		<eRelation relType="Composite" fevent_eid="e2" sevent_eids="e3-e5"/>
-	</Content>
+<Body>
+	<Title>å››å·æ±¶å·åŽ¿7.8çº§åœ°éœ‡åŽå‘ç”Ÿä¸‰æ¬¡ä½™éœ‡</Title>  
+	<ReportTime type="absTime">2008å¹´05æœˆ12æ—¥18:06</ReportTime> ã€€ 
+	<Content> 
+		<Paragraph>
+			<Sentence> 
+				<Event eid="e1">
+					<Time type="absTime" tid="t1">2008å¹´5æœˆ12æ—¥14æ—¶27åˆ†57.9ç§’</Time>ï¼Œåœ¨
+					<Location lid="l1">æ±¶å·åŽ¿æ¼©å£å’Œå§é¾™ä¹‹é—´</Location>å‘ç”Ÿäº†7.8çº§
+					<Denoter type="emergency" did="d1">åœ°éœ‡</Denoter>ã€‚
+				</Event>
+			</Sentence>
+		</Paragraph> ã€€ã€€ 
+		<Paragraph>
+			<Sentence> 
+				<Event eid="e2">
+					<Location lid="l2">åŽŸéœ‡ä¸­å¤„</Location>å‘ç”Ÿ
+					<Denoter type="emergency" did="d2">ä½™éœ‡</Denoter>ï¼š
+				</Event>  
+				<Event eid="e3">
+					<Time type="relTime" tid="t3">14æ—¶43åˆ†15.1ç§’</Time>å‘ç”Ÿ6.0çº§
+					<Denoter type="emergency" did="d3">ä½™éœ‡</Denoter>ï¼›
+				</Event>  
+				<Event eid="e4">
+					<Time type="relTime" tid="t4">15æ—¶34åˆ†47.8ç§’</Time>å‘ç”Ÿ5.0çº§
+					<Denoter type="emergency" did="d4">ä½™éœ‡</Denoter>ï¼›
+				</Event>  
+				<Event eid="e5">
+					<Time type="relTime" tid="t5">16æ—¶08åˆ†48ç§’</Time>å‘ç”Ÿ4.4çº§
+					<Denoter type="emergency" did="d5">ä½™éœ‡</Denoter>ã€‚
+				</Event>
+			</Sentence>
+		</Paragraph> ã€€ã€€ 
+		<Paragraph>
+			<Sentence> 
+				<Event eid="e6">
+					<Participant sid="s6">å·žäººæ°‘æ”¿åºœ</Participant>
+					<Denoter type="operation" did="d6">å¯åŠ¨</Denoter>äº†
+					<Object oid="o6">åœ°éœ‡åº”æ€¥é¢„æ¡ˆ</Object>
+				</Event>ã€‚
+			</Sentence>
+			<Sentence> 
+				<Event eid="e7">å…¨å·žé˜²éœ‡å‡ç¾ç³»ç»Ÿ
+					<Denoter type="operation" did="d7">å¯åŠ¨</Denoter>äº†
+					<Object oid="o7">åœ°éœ‡åº”æ€¥é¢„æ¡ˆ</Object>
+				</Event>ã€‚
+			</Sentence>
+		</Paragraph> ã€€ã€€ 
+		<Paragraph>
+			<Sentence> 
+				<Event eid="e8">
+					<Time type="timeInterval" tid="t8">æˆªæ­¢16ç‚¹30åˆ†</Time>çš„æƒ…å†µä¸ºï¼š
+					<Location lid="l8">éœ‡ä¸­åŒº</Location>
+					<Object oid="o8">äº¤é€š</Object>
+					<Object oid="o8">é€šè®¯</Object>
+					<Denoter type="stateChange" did="d8">ä¸­æ–­</Denoter>ã€‚
+				</Event>
+			</Sentence>(é˜¿åå·žé˜²éœ‡å‡ç¾å±€)
+		</Paragraph>  
+		<eRelation relType="Follow" bevent_eid="e1" aevent_eid="e2"/>  
+		<eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>  
+		<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>  
+		<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>  
+		<eRelation relType="Composite" fevent_eid="e2" sevent_eids="e3-e5"/> 
+	</Content> 
 </Body>
