@@ -19,21 +19,21 @@ CEC 采用了 XML 语言作为标注格式，其中包含了六个最重要的�
 [6]	朱莎莎, 刘宗田, 付剑锋, 朱芳. 基于条件随机场的中文时间短语识别[J]. 计算机工程, 2011, 37(15)：164-167.  
 
 会议：  
-[7]	Tong Wan, Wei Liu, Zongtian Liu. A community discovering method based on event network for topic detection[C]. Advanced Communication Technology (ICACT), 2014 16th International Conference on: 1242-1246.  
-[8]	Xu-jie Zhang, Zong-tian Liu, Wei Liu, Jian-feng Fu. Research on event-based semantic annotation of Chinese[C]. Computer Science and Network Technology (ICCSNT), 2012 2nd International Conference on: 1883-1888.  
-[9]	Fang Zhu, Zongtian Liu, Juanli Yang, Ping Zhu. Chinese event place phrase recognition of emergency event using Maximum Entropy[C]. Cloud Computing and Intelligence Systems (CCIS), 2011 IEEE International Conference on: 614-618.  
-[10]	Lijuan Yang, Zongtian Liu, Fang Zhu, Yang Zhao. The storage mode and query strategy for event ontology[C]. Computer Science and Network Technology (ICCSNT), 2011 International Conference on: 2219-2223.  
-[11]	Jian-feng Fu, Wei Liu, Zong-tian Liu, Sha-sha Zhu. A Study of Chinese Event Taggability[C]. Communication Software and Networks, 2010. ICCSN '10. Second International Conference on: 400-404.  
+[1]	Tong Wan, Wei Liu, Zongtian Liu. A community discovering method based on event network for topic detection[C]. Advanced Communication Technology (ICACT), 2014 16th International Conference on: 1242-1246.  
+[2]	Xu-jie Zhang, Zong-tian Liu, Wei Liu, Jian-feng Fu. Research on event-based semantic annotation of Chinese[C]. Computer Science and Network Technology (ICCSNT), 2012 2nd International Conference on: 1883-1888.  
+[3]	Fang Zhu, Zongtian Liu, Juanli Yang, Ping Zhu. Chinese event place phrase recognition of emergency event using Maximum Entropy[C]. Cloud Computing and Intelligence Systems (CCIS), 2011 IEEE International Conference on: 614-618.  
+[4]	Lijuan Yang, Zongtian Liu, Fang Zhu, Yang Zhao. The storage mode and query strategy for event ontology[C]. Computer Science and Network Technology (ICCSNT), 2011 International Conference on: 2219-2223.  
+[5]	Jian-feng Fu, Wei Liu, Zong-tian Liu, Sha-sha Zhu. A Study of Chinese Event Taggability[C]. Communication Software and Networks, 2010. ICCSN '10. Second International Conference on: 400-404.  
 
 博士论文：  
-[12]	廖涛. 面向事件的文本表示及其应用研究[D]. 上海：上海大学, 2014.  
-[13]	张旭杰. 事件本体构建中几个关键问题的研究[D]. 上海：上海大学, 2012.  
-[14]	单建芳. 面向事件的文本表示研究[D]. 上海：上海大学, 2011.  
-[15]	付剑锋. 面向事件的知识处理研究[D]. 上海：上海大学, 2010.  
+[1]	廖涛. 面向事件的文本表示及其应用研究[D]. 上海：上海大学, 2014.  
+[2]	张旭杰. 事件本体构建中几个关键问题的研究[D]. 上海：上海大学, 2012.  
+[3]	单建芳. 面向事件的文本表示研究[D]. 上海：上海大学, 2011.  
+[4]	付剑锋. 面向事件的知识处理研究[D]. 上海：上海大学, 2010.  
 
 硕士论文：  
-[16]	万通. 基于事件网络的微博个性化信息推荐研究[D]. 上海：上海大学, 2014.  
-[17]	王东. 基于事件网络的话题跟踪研究[D]. 上海：上海大学, 2013.  
+[1]	万通. 基于事件网络的微博个性化信息推荐研究[D]. 上海：上海大学, 2014.  
+[2]	王东. 基于事件网络的话题跟踪研究[D]. 上海：上海大学, 2013.  
 
 
 <b>Chinese Emergency Corpus (CEC)</b>
