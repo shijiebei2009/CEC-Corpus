@@ -36,7 +36,7 @@ CEC 采用了 XML 语言作为标注格式，其中包含了六个最重要的�
 
 Chinese Emergency Corpus (CEC) is built by Data Semantic Laboratory in Shanghai University. This corpus is divided into 5 categories – earthquake, fire, traffic accident, terrorist attack and intoxication of food. There are totally 332 texts in CEC, which are derived from Internet and processed by several steps.
 
-CEC utilizes XML as a formation, including 6 tags -Event, Denoter, Time, Location, Participant and Object- which describe the elements of event. Furthermore, these tags have their own properties. Compared with ACE Corpus and TimeBank Corpus, the scale of CEC is not so large, but CEC has the all-sided annotation of event and event elements.
+CEC utilizes XML as a formation, including 6 tags -Denoter, Time, Location, Participant, Mean and Object- which describe the elements of event(Event). Furthermore, these tags have their own properties. Compared with ACE Corpus and TimeBank Corpus, the scale of CEC is not so large, but CEC has the all-sided annotation of event and event elements.
 
 If you want to know more about CEC, you can refer to the related dissertations and papers, such as<br/> Research on Event-Oriented Knowledge Processing written by Jianfeng Fu<br/> a Study of Several Key Problems in Construction of Event Ontology written by Xujie Zhang.
 
