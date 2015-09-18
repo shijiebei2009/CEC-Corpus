@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>河南现持续大范围雾霾天气 医院门诊量持续上涨</Title>  
+	<ReportTime type="absTime">2013-12-20 10:13:00</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event type="thoughtevent" eid="e1"> 
+					<Participant sid="s1">央广网</Participant>  
+					<Location lid="l1">郑州</Location>  
+					<Time type="relTime">12月20日</Time>  
+					<Denoter did="d1" type="statement">消息</Denoter> 
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event type="thoughtevent" eid="e2">据 
+					<Participant sid="s2">中国之声《央广新闻》</Participant>  
+					<Denoter did="d2" type="statement">报道</Denoter> 
+				</Event>， 
+				<Event eid="e3"> 
+					<Time type="relTime">近日</Time>  
+					<Location lid="l2">河南</Location>出现持续大范围的 
+					<Denoter did="d3" type="stateChange">雾霾</Denoter>天气
+				</Event>，加上 
+				<Event eid="e4"> 
+					<Object sid="s4">温度</Object>不断 
+					<Denoter did="d4" type="stateChange">降低</Denoter> 
+				</Event>， 
+				<Event eid="e5"> 
+					<Location lid="l5">郑州</Location>部分医院的 
+					<Object sid="s5">门诊量</Object>持续 
+					<Denoter did="d5" type="stateChange">飙升</Denoter> 
+				</Event>， 
+				<Event eid="e6"> 
+					<Location lid="l6">郑州市儿童医院</Location>的 
+					<Object sid="s6">门诊量</Object>甚至 
+					<Denoter did="d6" type="stateChange">突破</Denoter>了建院以来 
+					<Object oid="o6">历史记录</Object> 
+				</Event>，其中 
+				<Event eid="e7"> 
+					<Object sid="s7">呼吸道疾病</Object>和 
+					<Object sid="s7">感冒</Object>  
+					<Denoter did="d7" type="stateChange">发病</Denoter>率比较高
+				</Event>。 
+				<Event type="thoughtevent" eid="e8"> 
+					<Participant sid="s8">专家</Participant>  
+					<Denoter did="d8" type="statement">称</Denoter> 
+				</Event>主要原因是 
+				<Event eid="e9"> 
+					<Time tid="t9-t10" type="relTime">近日</Time>持续 
+					<Denoter did="d9" type="stateChange">干燥少雨</Denoter> 
+				</Event>和 
+				<Event eid="e10"> 
+					<Denoter did="d10" type="stateChange">雾霾</Denoter> 
+				</Event>。
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e4"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e4"/>  
+	<eRelation relType="Causal" cause_eid="e3-e4" effect_eid="e5"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eids="e9-e10"/>  
+	<eRelation relType="Causal" cause_eid="e9-e10" effect_eid="e7"/>  
+	<eRelation relType="Accompany" accompanya_eid="e5" accompanyb_eid="e6"/> 
+</Body>

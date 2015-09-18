@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>酸化全球海洋告急</Title>  
+	<ReportTime type="absTime">2010-05-07</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Object sid="s1,s2,s3,s4">珊瑚礁</Object>  
+					<Denoter type="operation" did="d1">孕育</Denoter> 了非同寻常的 
+					<Object oid="o1">生物多样性</Object>，
+				</Event>  
+				<Event eid="e2">但是它们都 
+					<Denoter did="d2" type="operation">遭受</Denoter> 多种力量的 
+					<Object oid="o2">围困</Object>，
+				</Event>  
+				<Event eid="e3">包括 
+					<Denoter type="operation" did="d3">暴露于</Denoter>  
+					<Object oid="o3">有毒化学物质</Object> 
+				</Event>  
+				<Event eid="e4">和 
+					<Denoter type="operation" did="d4">承受</Denoter>  
+					<Object oid="o4">直接物理破坏</Object>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e5">更严峻的威胁是， 
+					<Object sid="s5">化石燃料</Object>  
+					<Denoter type="operation" did="d5">燃烧</Denoter> 
+				</Event>  
+				<Event eid="e6">导致 
+					<Object sid="s6">海洋化学性质</Object>发生 
+					<Denoter type="movement" did="d6">变化</Denoter>，但这种危险却鲜为人知。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e7">如今， 
+					<Object sid="s7">生产过程</Object> 中所 
+					<Denoter type="movement" did="d7">释放</Denoter>的 
+					<Object oid="o7,s8,s9">二氧化碳</Object>，
+				</Event>  
+				<Event eid="e8">其1/3都 
+					<Denoter type="movement" did="d8">进入</Denoter>了 
+					<Object oid="o8">海洋</Object>，
+				</Event>  
+				<Event eid="e9"> 
+					<Denoter type="movement" did="d9">降低</Denoter> 了自然状态下呈碱性的 
+					<Object oid="o9">pH值</Object>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e10">这种向更具 
+					<Object sid="s10">酸性的环境</Object>的转变，似乎 
+					<Denoter type="movement" did="d10">降低</Denoter>了 
+					<Object oid="o10">珊瑚礁（以及许多其他海洋生物）生长发育的能力</Object>。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Accompany" accompanya_eid="e3" accompanyb_eid="e4"/>  
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>  
+	<eRelation relType="Follow" bevent_eid="e8" aevent_eid="e9"/>  
+	<eRelation relType="Follow" bevent_eid="e9" aevent_eid="e10"/> 
+</Body>

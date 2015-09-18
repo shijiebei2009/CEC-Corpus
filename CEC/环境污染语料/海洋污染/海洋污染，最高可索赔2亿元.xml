@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>海洋污染，最高可索赔2亿元</Title>  
+	<ReportTime type="absTime">2011-07-08 04:21:00</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1" type="thoughtevent">时报 
+					<Time type="relTime" tid="t1">7月7日</Time>  
+					<Denoter type="statement" did="d1">讯</Denoter> 
+				</Event>  
+				<Event eid="e2" type="thoughtevent"> 
+					<Participant sid="s2">(记者祝田园 通讯员孟晓清 王海红)记者</Participant>  
+					<Time type="relTime" tid="t2">7日</Time> 从 
+					<Location lid="l2">省财政厅</Location>  
+					<Denoter type="statement" did="d2">获悉</Denoter>，
+				</Event>  
+				<Event eid="e3"> 
+					<Participant sid="s3">我省</Participant>  
+					<Denoter type="statement" did="d3">出台</Denoter> 海洋生态损害赔偿费和损失补偿费管理暂行 
+					<Object oid="o3">办法</Object>  
+					<Time type="relTime" tid="t3">一年来</Time>，
+				</Event>  
+				<Event eid="e4">全省已累计 
+					<Denoter type="operation" did="d4">征缴</Denoter>  
+					<Object oid="o4">海洋生态补偿费</Object> 3000万元，赔偿补偿工作初见成效。
+				</Event> 
+			</Sentence> 
+		</Paragraph>  
+		<Paragraph> 
+			<Sentence>“用海必补，损害必赔”。</Sentence>  
+			<Sentence> 
+				<Event eid="e5">为了 
+					<Denoter type="movement" did="d5">加强</Denoter>  
+					<Object oid="o5">海洋生态环境保护</Object>，
+				</Event>  
+				<Event eid="e6"> 
+					<Participant sid="s6,s7">山东省</Participant>积极 
+					<Denoter type="movement" did="d6">完善</Denoter>  
+					<Object oid="o6">海洋生态补偿赔偿机制</Object>，
+				</Event>  
+				<Event eid="e7">于 
+					<Time type="relTime" tid="t7">去年6月份</Time> 在全国率先 
+					<Denoter type="operation" did="d7">出台</Denoter> 了 
+					<Object oid="o7,s8,s9,s10">《海洋生态损害赔偿费和损失补偿费管理暂行办法》</Object>，
+				</Event>  
+				<Event eid="e8"> 
+					<Denoter type="operation" did="d8">明确</Denoter> 了 
+					<Object oid="o8">用海补偿原则和责任主体</Object>，
+				</Event>  
+				<Event eid="e9"> 
+					<Denoter type="operation" did="d9">确定</Denoter> 了合理的赔偿补偿 
+					<Object oid="o9">标准</Object>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e10">首次 
+					<Denoter type="operation" did="d10">明确</Denoter> 了对海洋溢油等 
+					<Object oid="o10,s11">污染事件</Object> 
+				</Event>  
+				<Event eid="e11">造成的海洋 
+					<Object oid="o11">生态环境</Object>  
+					<Denoter type="emergency" did="d11">损害</Denoter>，最高可索赔2亿元。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e11"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e11"/>  
+	<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>  
+	<eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>  
+	<eRelation relType="Causal" cause_eid="e10" effect_eid="e11"/> 
+</Body>

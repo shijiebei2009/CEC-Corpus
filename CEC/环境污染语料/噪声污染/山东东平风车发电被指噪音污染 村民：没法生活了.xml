@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>山东东平风车发电被指噪音污染 村民：没法生活了</Title>  
+	<ReportTime type="absTime">2014年04月26日 09:30:07</ReportTime>  
+	<Content> 
+		<Paragraph>
+			<Sentence> 
+				<Event eid="e1" type="thoughtevent">
+					<Participant sid="s1">齐鲁网</Participant>
+					<Time tid="t1" type="relTime">4月26日</Time>
+					<Denoter did="d1" type="statement">讯</Denoter>
+				</Event>
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e2" type="thoughtevent">据
+					<Location lid="l2">山东广播电视台</Location>
+					<Participant sid="s2">新闻中心《早安山东》</Participant>
+					<Denoter did="d2" type="statement">报道</Denoter>
+				</Event>， 
+				<Event eid="e3">
+					<Object sid="s3">环境噪声污染</Object>，是指所产生的环境噪声超过国家规定的环境噪声排放标准，并
+					<Denoter did="d3" type="action">干扰</Denoter>他人
+					<Object oid="o3">正常生活、工作和学习</Object>的现象
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e4" type="thoughtevent">
+					<Time tid="t4" type="relTime">最近</Time>，
+					<Location lid="l4">东平县旧县乡山沃村</Location>的
+					<Participant sid="s4">村民</Participant>向记者
+					<Denoter did="d4" type="statement">反映</Denoter>
+				</Event>， 
+				<Event eid="e5">
+					<Location lid="l5">他们那里</Location>
+					<Denoter did="d5" type="emergency">噪声污染</Denoter>很厉害
+				</Event>， 
+				<Event eid="e6">希望
+					<Participant sid="s6">有关部门</Participant>好好
+					<Denoter did="d6" type="operation">管一管</Denoter>
+				</Event>。
+			</Sentence>
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-6"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5-6"/>  
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/> 
+</Body>

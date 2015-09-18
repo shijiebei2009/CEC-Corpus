@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>上海雾霾逼迫学校停止户外活动 橙色预警首次启动</Title>  
+	<ReportTime type="absTime">2013-12-03 09:22</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Time tid="t1" type="relTime">12月1日</Time>起， 
+					<Location lid="l1">上海</Location>出现 
+					<Denoter did="d1" type="emergency">严重雾霾</Denoter>天气
+				</Event>， 
+				<Event eid="e2"> 
+					<Object sid="s2">雾霾预警讯号</Object>也由黄色 
+					<Denoter did="d2" type="stateChange">升级</Denoter> 
+				</Event>  
+				<Event eid="e3">至 
+					<Denoter did="d3" type="stateChange">橙色</Denoter> 
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e4"> 
+					<Location lid="l4">上海市</Location>  
+					<Participant sid="s4,s5">教委</Participant>为此 
+					<Denoter did="d4" type="operation">启动</Denoter>  
+					<Object oid="o4">紧急措施</Object> 
+				</Event>， 
+				<Event type="thoughtevent" eid="e5"> 
+					<Denoter did="d5" type="statement">要求</Denoter> 
+				</Event>  
+				<Event eid="e6"> 
+					<Location lid="l6">全市</Location>  
+					<Participant sid="s6">在校学生</Participant>停止 
+					<Denoter did="d6" type="operation" polarity="negative">户外活动</Denoter> 
+				</Event>， 
+				<Event eid="e7"> 
+					<Denoter did="d7" type="stateChange">迟到缺勤</Denoter>的 
+					<Participant sid="s7" oid="o8">学生</Participant> 
+				</Event>也可以“幸免于难”， 
+				<Event eid="e8">不做 
+					<Denoter did="d8" type="operation" polarity="negative">旷课处理</Denoter> 
+				</Event>。
+			</Sentence> 
+		</Paragraph> 　　 
+		<Paragraph> 
+			<Sentence> 
+				<Event type="thoughtevent" eid="e9">据 
+					<Location lid="l9">上海市</Location>  
+					<Participant sid="s9">环境监测中心</Participant>  
+					<Denoter did="d6" type="statement">表示</Denoter> 
+				</Event>， 
+				<Event eid="e10">截至 
+					<Time tid="t10" type="relTime">12月2日早上11时</Time>  
+					<Object sid="s10">空气质量指数</Object>高 
+					<Denoter did="d10" type="stateChange">达316</Denoter> 
+				</Event>， 
+				<Event eid="e11">属于 
+					<Denoter did="d11" type="emergency">六级严重污染</Denoter> 
+				</Event>， 
+				<Event eid="e12"> 
+					<Denoter did="d12" type="stateChange">主要污染</Denoter>物是 
+					<Object sid="s12">PM2.5</Object> 
+				</Event>， 
+				<Event eid="e13" type="thoughtevent"> 
+					<Denoter did="d13" type="statement">建议</Denoter> 
+				</Event>  
+				<Event eid="e14"> 
+					<Participant sid="s14">儿童</Participant>、 
+					<Participant sid="s14">老人</Participant>及 
+					<Participant sid="s14">病人</Participant>应 
+					<Denoter did="d14">留</Denoter>在 
+					<Location lid="l14">室内</Location> 
+				</Event>，而 
+				<Event eid="e15"> 
+					<Participant sid="s15">一般人</Participant>避免 
+					<Denoter did="d15" type="operation" polarity="negative">户外活动</Denoter> 
+				</Event>。
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Accompany" accompanya_eid="e1" accompanyb_eid="e2"/>  
+	<eRelation relType="Accompany" accompanya_eid="e2" accompanyb_eid="e3"/>  
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e4"/>  
+	<eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eids="e6-e8"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e9" thoughtcontent_eids="e10-e12"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e13" thoughtcontent_eids="e14-e15"/> 
+</Body>

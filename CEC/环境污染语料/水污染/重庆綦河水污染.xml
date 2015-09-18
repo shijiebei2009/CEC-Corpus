@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>重庆綦河水污染</Title>  
+	<ReportTime type="absTime">2005年01月06日</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1">因 
+					<Object oid="o1">取水点</Object> 被 
+					<Denoter type="emergency" did="d1">污染</Denoter> 
+				</Event>  
+				<Event eid="e2">导致 
+					<Participant sid="s2">水厂</Participant>  
+					<Denoter type="movement" did="d2">停止</Denoter>  
+					<Object oid="o2">供水</Object>，
+				</Event>  
+				<Event eid="e3"> 
+					<Location lid="l3">重庆綦江古南街道桥河片区</Location> 近 
+					<Participant sid="s3">3万居民</Participant>， 从 
+					<Time type="timeInterval" tid="t3">2005年1月3日起连续两天</Time> 没有 
+					<Object oid="o3">自来水</Object>， 
+					<Denoter type="action" did="d3">喝</Denoter> 
+				</Event>  
+				<Event eid="e4"> 
+					<Participant sid="s4">綦江齿轮厂</Participant> 也因此 
+					<Denoter type="stateChange" did="d4">暂停</Denoter>  
+					<Object oid="o4">生产</Object>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e5">经 
+					<Paragraph sid="s5">卫生和环保部门</Paragraph>  
+					<Denoter type="operation" did="d5">勘测</Denoter>，
+				</Event>  
+				<Event eid="e6">河水是被綦河上游 
+					<Participant sid="s6">重庆华强化肥有限公司</Participant>  
+					<Denoter type="movement" did="d6">排出</Denoter> 的 
+					<Object oid="o6">废水</Object>所污染。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e7">綦江县 
+					<Participant sid="s7,s9">有关部门</Participant>立即在 
+					<Location lid="l7">綦河水域的桥河段上游和下游</Location>  
+					<Denoter type="action" did="d7">开闸</Denoter>  
+					<Object oid="o7">放水</Object>，
+				</Event>  
+				<Event eid="e8">加速 
+					<Denoter type="operation" did="d8">稀释</Denoter>  
+					<Object oid="o8">受污染水体</Object>，
+				</Event>  
+				<Event eid="e9">并 
+					<Denoter type="operation" did="d9">责成</Denoter> 
+				</Event>  
+				<Event eid="e10"> 
+					<Participant sid="s10,o9,s11">华强化肥有限公司硫酸厂</Participant>  
+					<Denoter did="d10" type="stateChange">停止</Denoter>  
+					<Object oid="o10">生产</Object> 
+				</Event>  
+				<Event eid="e11">并 
+					<Denoter type="operation" did="d11">整改</Denoter>。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>  
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>  
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>  
+	<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>  
+	<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>  
+	<eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>  
+	<eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11"/> 
+</Body>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>土壤污染令人堪忧 催生土壤环境保护行动计划</Title>  
+	<ReportTime type="absTime">2013年10月24日14:12</ReportTime>  
+	<Content> 
+		<Paragraph>
+			<Sentence> 
+				<Event eid="e1">
+					<Participant sid="s1">环保部</Participant>已
+					<Denoter did="d1" type="action">制定完成</Denoter>
+					<Object oid="o1">土壤环境保护行动计划</Object>
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e2">
+					<Object sid="o2">土壤环境保护行动计划内容</Object>将与
+					<Object oid="o2">国务院已发布的《近期土壤环境保护和综合治理工作安排》</Object>
+					<Denoter did="d2" type="action">相衔接</Denoter>
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e3" type="thoughtevent">
+					<Object sid="s3">《安排》</Object>
+					<Denoter did="d3" type="statement">指出</Denoter>
+				</Event>， 
+				<Event eid="e4">
+					<Time tid="t4" type="timeInterval">到2015年</Time>，
+					<Denoter did="d4" type="action">全面摸清</Denoter>
+					<Object oid="o4">我国土壤环境状况</Object>，
+				</Event>  
+				<Event eid="e5">
+					<Denoter did="d5" type="action">建立</Denoter>
+					<Object oid="o5">严格的耕地和集中式饮用水水源地土壤环境保护制度</Object>，
+				</Event>  
+				<Event eid="e6">
+					<Denoter did="d6" type="action">初步遏制</Denoter>
+					<Object oid="o6">土壤污染上升势头</Object>，
+				</Event>  
+				<Event eid="e7">
+					<Denoter did="d7" type="action">确保</Denoter>
+					<Object sid="s7">全国耕地土壤环境质量调查点位达标率不低于80%</Object>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e8">
+					<Denoter did="d8" type="action">建立</Denoter>
+					<Object oid="o8">土壤环境质量定期调查和例行监测制度</Object>
+				</Event>， 
+				<Event eid="e9">
+					<Denoter did="d9" type="action">基本建成</Denoter>
+					<Object oid="o9">土壤环境质量监测网</Object>
+				</Event>， 
+				<Event eid="e10">对
+					<Object oid="o10">全国60%的耕地和服务人口50万以上的集中式饮用水水源地土壤环境</Object>开展
+					<Denoter did="d10" type="action">例行监测</Denoter>
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e11">力争
+					<Time tid="t11" type="relTime">到2020年</Time>，
+					<Denoter did="d11" type="action">建成</Denoter>
+					<Object oid="o11">国家土壤环境保护体系</Object>，
+				</Event>  
+				<Event eid="e12">使
+					<Location lid="l12">全国</Location>
+					<Object oid="o12">土壤环境质量</Object>得到明显
+					<Denoter did="d12" type="action">改善</Denoter>
+				</Event>。
+			</Sentence>
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Follow" bevent_eid="e1" aevent_eid="e2"/>  
+	<eRelation relType="Accompany" accompanya_eid="e2" accompanyb_eid="e3"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eids="e4-12"/>  
+	<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>  
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>  
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e7"/>  
+	<eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>  
+	<eRelation relType="Causal" cause_eid="e9" effect_eid="e10"/>  
+	<eRelation relType="Causal" cause_eid="e11" effect_eid="e12"/> 
+</Body>

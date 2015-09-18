@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>内蒙古赤峰自来水污染致4307人就医 治愈近3千人</Title>  
+	<ReportTime type="absTime">2009-8-2 11:16:34</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event type="thoughtevent" eid="e1">据内蒙古赤峰市 
+					<Participant sid="s1,s2">卫生局</Participant>  
+					<Time type="relTime" tid="t1">2日</Time>提供的最新 
+					<Denoter type="statement" did="d2">消息</Denoter>：
+				</Event>  
+				<Event eid="e2">截至 
+					<Time type="relTime" tid="t2">1日17时</Time>，赤峰市新城区自来水受 
+					<Denoter did="d2" type="emergency">污染事件</Denoter> 已致 
+					<Participant oid="o2,s3">4307人</Participant>，
+				</Event>  
+				<Event eid="e3"> 
+					<Denoter did="d3" type="operation">就医</Denoter> 
+				</Event>  
+				<Event eid="e4"> 
+					<Denoter type="operation" did="d4">治愈</Denoter>近 
+					<Participant oid="o4">3000人</Participant>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e5">其中，现有 
+					<Participant sid="s5">91人</Participant> 住院 
+					<Denoter did="d5" type="operation">治疗</Denoter>，
+				</Event>  
+				<Event eid="e6">正在 
+					<Location lid="l6">门诊</Location>  
+					<Denoter type="operation" did="d6">治疗</Denoter>有 
+					<Participant oid="o6">1290人</Participant>；
+				</Event>  
+				<Event eid="e7"> 
+					<Time type="relTime" tid="t7">目前</Time>已累计 
+					<Denoter type="operation" did="d7">治愈</Denoter>出院为 
+					<Participant oid="o7">47人</Participant>，
+				</Event>  
+				<Event eid="e8">已累计门诊 
+					<Denoter type="operation" did="d8">治愈</Denoter>为 
+					<Participant oid="o8">2879人</Participant>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e9"> 
+					<Time type="timeInterval" tid="t9">7月31日17时到8月1日17时</Time>  
+					<Denoter type="movement" did="d9">新增</Denoter>  
+					<Participant oid="o9">患者</Participant>91例。
+				</Event> 
+			</Sentence>  
+			<Sentence>无重症病例和死亡病例。</Sentence> 
+		</Paragraph>  
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e10">从 
+					<Time type="relTime" tid="t10">2日</Time>起， 
+					<Participant sid="s10,s12">赤峰市政府</Participant> 对自来水 
+					<Denoter type="emergency" did="d10">污染事件</Denoter> 
+				</Event>  
+				<Event eid="e11">导致的 
+					<Participant sid="s11">病人</Participant>  
+					<Object oid="o11">就诊程序</Object>做出了相应 
+					<Denoter type="movement" did="d11">调整</Denoter>，
+				</Event>  
+				<Event eid="e12">由 
+					<Participant sid="s12">8家医疗机构</Participant>同时接诊 
+					<Denoter type="movement" did="d12">转为</Denoter>  
+					<Object oid="o12">梯次接诊</Object>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e13"> 
+					<Location lid="l13">赤峰市新城区</Location>玉龙、王府、锦秀等18个居民小区自 
+					<Time type="relTime" tid="t13">7月25日</Time> 晚以来陆续有部分居民 
+					<Denoter type="movement" did="d13">饮用</Denoter>  
+					<Object oid="o13">自来水</Object>后
+				</Event>  
+				<Event eid="e14"> 
+					<Denoter type="stateChange" did="d14">患病</Denoter>，
+				</Event>  
+				<Event eid="e15"> 
+					<Participant sid="s15">患者</Participant>出现 
+					<Denoter type="action" did="d15">发热</Denoter>、
+				</Event>  
+				<Event eid="e16"> 
+					<Denoter type="action" did="d16">恶心</Denoter>、
+				</Event>  
+				<Event eid="e17"> 
+					<Denoter type="action" did="d17">呕吐</Denoter>、
+				</Event>  
+				<Event eid="e18"> 
+					<Denoter did="d18" type="action">腹泻</Denoter> 
+				</Event> 等症状。
+			</Sentence> 
+		</Paragraph>  
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e19">事件发生后， 
+					<Participant sid="s19,s20">赤峰市委、市政府</Participant>迅速 
+					<Denoter did="d19" type="operation">采取</Denoter>  
+					<Object oid="o19">措施</Object>，
+				</Event>  
+				<Event eid="e20">对发病患者 
+					<Denoter type="operation" did="d20">指定</Denoter> 8家 
+					<Object oid="o20,s21">医疗机构</Object> 
+				</Event>  
+				<Event eid="e21">免费 
+					<Denoter type="operation" did="d21">诊治</Denoter>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e22"> 
+					<Time tid="t22" type="relTime">7月28日</Time>开始， 18辆 
+					<Object sid="s22">消防车</Object>开始向新城区18个小区共5.8万 
+					<Participant oid="o22">居民</Participant>定时 
+					<Denoter type="movement" tid="t22">送水</Denoter>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e23"> 
+					<Time tid="t23" type="relTime">目前</Time>，赤峰市新城区水源井 
+					<Denoter type="emergency" did="d23">污染</Denoter>  
+					<Object oid="o23">处理工作正在有序进行中</Object>，
+				</Event>  
+				<Event eid="e24"> 
+					<Participant sid="s24">有关部门</Participant>正在对 
+					<Object oid="o24">自来水管道</Object>进行 
+					<Denoter type="operation" did="d24">清洗</Denoter> 
+				</Event>  
+				<Event eid="e25"> 
+					<Denoter did="d25" type="operation">消毒</Denoter>。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e25"/>  
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>  
+	<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>  
+	<eRelation relType="Accompany" accompanya_eid="e5" accompanyb_eid="e6"/>  
+	<eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>  
+	<eRelation relType="Causal" cause_eid="e10" effect_eid="e11"/>  
+	<eRelation relType="Follow" bevent_eid="e11" aevent_eid="e12"/>  
+	<eRelation relType="Follow" bevent_eid="e13" aevent_eid="e14"/>  
+	<eRelation relType="Accompany" accompanya_eid="e15" accompanyb_eid="e16-e18"/>  
+	<eRelation relType="Follow" bevent_eid="e18" aevent_eid="e19"/>  
+	<eRelation relType="Follow" bevent_eid="e20" aevent_eid="e21"/>  
+	<eRelation relType="Accompany" accompanya_eid="e24" accompanyb_eid="e25"/> 
+</Body>

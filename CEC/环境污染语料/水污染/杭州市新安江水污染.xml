@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>杭州市新安江水污染</Title>  
+	<ReportTime type="absTime">2011年6月6日</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Time tid="t1" type="absTime">2011年6月4日晚上22时55分</Time>左右， 杭州市辖区建德境内 
+					<Location lid="l1">杭新景高速公路</Location>发生 
+					<Participant sid="s1,s2">苯酚槽罐车</Participant>  
+					<Denoter type="emergency" did="d1">泄漏事故</Denoter>，
+				</Event>  
+				<Event eid="e2">导致部分 
+					<Object oid="o2,s3,s4">苯酚</Object>  
+					<Denoter did="d2" type="emergency">泄漏</Denoter> 
+				</Event>  
+				<Event eid="e3">并随雨水 
+					<Denoter type="movement" did="d3">流入</Denoter>  
+					<Location lid="l3">新安江</Location>，
+				</Event>  
+				<Event eid="e4">造成 
+					<Object oid="o4">部分水体</Object>受到 
+					<Denoter type="emergency" did="d4">污染</Denoter>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e5">事故发生后，杭州 
+					<Participant sid="s5">市民</Participant>超市疯狂 
+					<Denoter type="operation" did="d5">抢购</Denoter>  
+					<Object oid="o5">矿泉水</Object>。
+				</Event>  
+				<Event eid="e6">同时杭州、建德两级 
+					<Participant sid="s6">政府</Participant>立即 
+					<Denoter type="movement" did="d6">启动</Denoter>  
+					<Object oid="o6">应急预案</Object>，
+				</Event>  
+				<Event eid="e7"> 
+					<Participant sid="s7,s8">环保、消防、交警、林水等部门</Participant>第一时间 
+					<Denoter type="movement" did="d7">赶赴</Denoter>  
+					<Location type="destination" lid="l7">现场</Location> 
+				</Event>  
+				<Event eid="e8">进行 
+					<Denoter type="operation" did="d8">处置</Denoter>；
+				</Event>  
+				<Event eid="e9"> 
+					<Participant sid="s9,s10">杭州市委、市政府</Participant>紧急 
+					<Denoter type="operation" did="d9">动员</Denoter>、
+				</Event>  
+				<Event eid="e10">多管齐下，及时果断采取有力措施，全力 
+					<Denoter did="d10" type="operation">保障</Denoter>  
+					<Participant oid="o10">杭州市居民</Participant>  
+					<Object oid="o10">用水</Object>不受影响。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>  
+	<eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>  
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e4-e5"/>  
+	<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>  
+	<eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e9"/> 
+</Body>

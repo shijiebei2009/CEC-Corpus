@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>北京大兴某某镇噪声污染案</Title>  
+	<ReportTime type="absTime">2013-12-26</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Time tid="t" type="absTime">2011年3月</Time>， 
+					<Participant sid="s1">赵某</Participant>  
+					<Denoter did="d1">入住</Denoter>新购的 
+					<Location lid="l1">北京市大兴区</Location>某某镇某处 
+					<Object oid="o1">房屋</Object> 
+				</Event>。 
+				<Event eid="e2"> 
+					<Time tid="t2" type="relTime">当年9月</Time>，某 
+					<Participant did="d2">超市公司兴华大街店</Participant>  
+					<Denoter did="d2" type="operation">营业</Denoter> 
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e3"> 
+					<Time tid="t3" type="relTime">超市营业时</Time>， 
+					<Object sid="s3">冷库外机组</Object>、 
+					<Object sid="s3">油烟排风机</Object>、 
+					<Object sid="s3">装卸货物</Object>的 
+					<Denoter did="d3">噪声</Denoter>非常严重
+				</Event>， 
+				<Event eid="e4">对 
+					<Object oid="o4">赵某的生活</Object>、 
+					<Object oid="o4">健康</Object>产生了 
+					<Denoter did="d4">影响</Denoter> 
+				</Event>，经 
+				<Event eid="e5"> 
+					<Participant sid="s5">医院</Participant>  
+					<Denoter did="d5">诊断</Denoter>为 
+					<Object oid="o6">失眠</Object>、 
+					<Object oid="o6">焦虑抑郁</Object>症状
+				</Event>。
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Follow" bevent_eid="e1" aevent_eid="e2"/>  
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>  
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e5"/> 
+</Body>

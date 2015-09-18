@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>河南省濮阳市居民连续8年喝不上“放心水”</Title>  
+	<ReportTime type="absTime">2005年02月20日</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event type="thoughtevent" eid="e1"> 
+					<Participant sid="s1">新华网</Participant>  
+					<Location lid="l1">郑州</Location>  
+					<Time tid="t1">２月２０日</Time>  
+					<Denoter did="d1" type="statement">电</Denoter> 
+				</Event>  
+				<Event eid="e2">（记者林嵬）自2004年10月以来， 
+					<Location lid="l2">河南省濮阳市黄河取水口</Location>发生持续 
+					<Time type="timeInterval" tid="t2">4个多月</Time>的 
+					<Denoter type="emergency" did="d2">水污染</Denoter>事件，
+				</Event>  
+				<Event eid="e3">城区40多万 
+					<Participant sid="s3">居民</Participant>的 
+					<Denoter type="operation" did="d3">饮水</Denoter>  
+					<Object oid="o3">安全</Object>受到威胁，
+				</Event>  
+				<Event eid="e4"> 
+					<Participant sid="s4">濮阳市</Participant>被迫 
+					<Denoter type="operation" did="d4">启用</Denoter> 备用 
+					<Object oid="o4">地下水源</Object>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event type="thoughtevent" eid="e5">据了解， 
+					<Time type="timeInterval" tid="t5">自1997年以来</Time>， 
+					<Location lid="l5">濮阳市黄河取水口</Location> 已连续多年 
+					<Denoter type="operation" did="d5">遭受污染</Denoter>，
+				</Event> 城市饮用水源每年约有4-5个月受污染影响。
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e5"/>  
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3-e4"/> 
+</Body>

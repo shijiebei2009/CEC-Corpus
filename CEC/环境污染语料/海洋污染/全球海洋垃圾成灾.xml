@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>全球海洋垃圾成灾</Title>  
+	<ReportTime type="absTime">2010-05-07</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1" type="thoughtevent">美国一所 
+					<Participant sid="s1">海洋保护机构</Participant> 在近日 
+					<Denoter type="statement" did="d1">发表</Denoter> 的一份 
+					<Object oid="o1">报告</Object>中警告说，
+				</Event>  
+				<Event eid="e2"> 
+					<Object sid="s2">垃圾</Object>正在严重 
+					<Denoter type="emergency" did="d2">破坏</Denoter>  
+					<Object oid="o2">海洋环境</Object>，
+				</Event>  
+				<Event eid="e3">仅一次不完全的 
+					<Object oid="o3">全球海岸</Object>  
+					<Denoter type="movement" did="d2">清理</Denoter> 活动，就清理出3700吨垃圾。
+				</Event> 
+			</Sentence> 
+		</Paragraph>  
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e4" type="thoughtevent">这家名为 
+					<Participant sid="s4">“海洋保护管理所”</Participant>的机构在报告中 
+					<Denoter type="statement" did="d4">说</Denoter>，
+				</Event>  
+				<Event eid="e5">超过45万名 
+					<Participant sid="s5">志愿者</Participant>  
+					<Time tid="t5" type="relTime">去年9月</Time> 在 
+					<Location lid="l5">全球74个国家</Location>  
+					<Denoter type="movement" did="d5">展开</Denoter> 了一次 
+					<Object oid="o5">海滩垃圾清理活动</Object>，
+				</Event>  
+				<Event eid="e6">为期一日的活动就在长约2.9万公里的 
+					<Location lid="l6">海岸线和水道中</Location>  
+					<Denoter type="movement" did="d6">清理</Denoter> 出 
+					<Object oid="o6">约3700吨垃圾</Object>，
+				</Event>  
+				<Event eid="e7"> 
+					<Denoter type="operation" did="d7">回收</Denoter>的 
+					<Object oid="o7">620万件垃圾</Object>中，香烟(烟头)就有160万支。
+				</Event> 
+			</Sentence> 
+		</Paragraph>  
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e8"> 
+					<Time type="relTime" tid="t8">最近</Time>， 一些地中海沿岸国家的 
+					<Participant sid="s8,s9">环境科学家</Participant> 聚集在一起， 
+					<Denoter type="movement" did="d8">探讨</Denoter> 地中海的 
+					<Object oid="o8">环境保护问题</Object>，
+				</Event>  
+				<Event eid="e9">并向全世界所有 
+					<Participant oid="o9">沿海国家和内陆国家的人们</Participant> 发出 
+					<Denoter type="statement" did="d9">呼吁</Denoter>： 
+					<Object oid="o9">别让美丽的海洋沦为垃圾场</Object>。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e3"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5-e7"/>  
+	<eRelation relType="Follow" bevent_eid="e8" aevent_eid="e9"/> 
+</Body>

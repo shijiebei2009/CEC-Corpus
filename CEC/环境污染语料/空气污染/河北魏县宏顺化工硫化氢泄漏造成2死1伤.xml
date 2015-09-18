@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>河北魏县宏顺化工硫化氢泄漏造成2死1伤</Title>  
+	<ReportTime type="absTime">2013-04-01</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event type="thoughtevent" eid="e1"> 
+					<Participant sid="s1">中化新网</Participant>  
+					<Denoter did="d1">讯</Denoter> 
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e2"> 
+					<Location lid="l2">河北省</Location>  
+					<Participant sid="s2" type="thoughtevent">安全生产监督管理局</Participant>发布的事故快报 
+					<Denoter did="d2" type="statement">称</Denoter> 
+				</Event>， 
+				<Event eid="e3"> 
+					<Time tid="t3" type="relTime">3月29日</Time>， 
+					<Location lid="l3">邯郸市魏县张辉屯村</Location>  
+					<Participant sid="s3">宏顺化工有限责任公司</Participant>发生 
+					<Denoter did="d3" type="emergency">硫化氢中毒</Denoter>事故
+				</Event>，目前，造成 
+				<Event eid="e4">2 
+					<Participant sid="s4">人</Participant>  
+					<Denoter did="d4" type="emergency">死亡</Denoter> 
+				</Event>， 
+				<Event eid="e5">1 
+					<Participant sid="s5">人</Participant>正在 
+					<Denoter did="d5" type="emergency">抢救</Denoter> 
+				</Event>。
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e5"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e5"/>  
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4-e5"/> 
+</Body>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>沱江“3.02”特大水污染事故</Title>  
+	<ReportTime type="absTime">2004年02月26日 14:58:52</ReportTime>  
+	<Content> 
+		<Paragraph>
+			<Sentence> 
+				<Event eid="e1" type="thoughtevent">
+					<Time tid="t1" type="timeInterval">2004年2月底3月初</Time>，
+					<Location lid="l1">沱江两岸</Location>的
+					<Participant sid="s1">居民</Participant>
+					<Denoter did="d1" type="statement">发现</Denoter>
+				</Event>  
+				<Event eid="e2">
+					<Object sid="s2">江水</Object>
+					<Denoter did="d2" type="emergency">变黄变臭</Denoter>
+				</Event>， 
+				<Event eid="e3">
+					<Object sid="s3">许多地方</Object>
+					<Denoter did="d3" type="action">泛着</Denoter>
+					<Object oid="o3">白色泡沫</Object>
+				</Event>， 
+				<Event eid="e4">
+					<Object sid="s4">江面上</Object>还
+					<Denoter did="d4" type="action">漂浮着</Denoter>大量
+					<Object oid="o4">死鱼</Object>
+				</Event>。
+			</Sentence>  
+			<Sentence>紧接着， 
+				<Event eid="e5" type="thoughtevent">
+					<Participant sid="s5">居民</Participant>又
+					<Denoter did="d5" type="statement">发现</Denoter>
+				</Event>  
+				<Event eid="e6">
+					<Object sid="s6">自来水</Object>也
+					<Denoter did="d6" type="stateChange">变成了</Denoter>
+					<Object oid="o6">褐色</Object>
+				</Event>并带有氨水的味道。
+			</Sentence>  
+			<Sentence>川化股份公司第二化肥厂就是这起污染事故的责任者， 
+				<Event eid="e7">
+					<Participant sid="s7">他们</Participant>将大量
+					<Object oid="o7" sid="s8">高浓度工业废水</Object>
+					<Denoter did="d7" type="action">排</Denoter>
+				</Event>  
+				<Event eid="e8">
+					<Denoter did="d8" type="action">进</Denoter>
+					<Object oid="o8">沱江</Object>
+				</Event>， 
+				<Event eid="e9">导致
+					<Location lid="l9">沿江简阳、资中、内江三地</Location>
+					<Participant sid="s9">百万群众</Participant>
+					<Object oid="o9">饮水</Object>
+					<Denoter did="d9" type="emergency">被迫中断</Denoter>
+				</Event>， 
+				<Event eid="e10">50万公斤
+					<Object sid="s10">网箱鱼</Object>
+					<Denoter did="d10" type="stateChange">死亡</Denoter>
+				</Event>， 
+				<Event eid="e11">直接
+					<Object sid="s11">经济</Object>
+					<Denoter did="d11" type="action">损失</Denoter>在3亿元左右
+				</Event>， 
+				<Event eid="e12">被破坏的
+					<Object sid="s12">生态</Object>需要
+					<Time tid="t12" type="timeInterval">5年时间</Time>来
+					<Denoter did="d12" type="operation">恢复</Denoter>
+				</Event>。
+			</Sentence>
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-4"/>  
+	<eRelation relType="Follow" bevent_eid="e1" aevent_eid="e5"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eids="e6"/>  
+	<eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>  
+	<eRelation relType="Causal" cause_eid="e8" effect_eid="e9"/>  
+	<eRelation relType="Causal" cause_eid="e" effect_eid="e10"/>  
+	<eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11"/>  
+	<eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eid="e12"/> 
+</Body>

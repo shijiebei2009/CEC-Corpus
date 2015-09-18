@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>华北平原局部地区地下水污染严重</Title>  
+	<ReportTime type="absTime">2013年02月26日</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event type="thoughtevent" eid="e1"> 
+					<Time type="absTime" tid="t1">2013年5月2日</Time>  
+					<Denoter type="statement" did="d1">消息</Denoter>，
+				</Event>  
+				<Event eid="e2">初步 
+					<Denoter type="operation" did="d2">调查</Denoter>表明， 
+					<Object oid="o2">华北平原浅层地下水综合质量整体较差，几乎已无Ⅰ类地下水</Object>；
+				</Event>  
+				<Event eid="e3">可以直接饮用的Ⅰ-Ⅲ类地下水仅占22.2%；需经专门 
+					<Denoter did="d3" type="operation">处理</Denoter>后才可利用的Ⅴ类 
+					<Object oid="o3">地下水</Object>则占56.55%以上。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e4">因地下水污染严重， 
+					<Location lid="l4">天津翟庄子村</Location>  
+					<Participant sid="s4">村民</Participant>  
+					<Time type="timeInterval" tid="t4">三年来</Time>只能 
+					<Denoter type="action" did="d4">喝</Denoter>每壶0.5元的 
+					<Object oid="o4">专供水</Object>，村里的井水只用来刷锅洗衣服。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e4"/>  
+	<eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>  
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/> 
+</Body>

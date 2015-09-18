@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>土壤污染侵袭东中部</Title>  
+	<ReportTime type="absTime">2014年01月01日 00:51</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1" type="thoughtevent"> 
+					<Participant sid="s1">21世纪经济报</Participant>  
+					<Denoter did="d1" type="statement">道</Denoter> 
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e2"> 
+					<Location lid="l2">全国</Location>  
+					<Object sid="s2">土壤污染状况调查</Object>  
+					<Denoter did="d2" type="stateChange">结束</Denoter> 
+				</Event>后， 
+				<Event eid="e3"> 
+					<Time tid="t3" type="timeInterval">又过了三年</Time>， 
+					<Participant sid="s3">官方</Participant>  
+					<Denoter did="d3" type="action">首次披露</Denoter>  
+					<Object oid="o3">土壤污染的冰山一角</Object> 
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e4">接下来 
+					<Object oid="o4">会否进一步公布明细</Object>， 
+					<Participant sid="s4">公众</Participant>  
+					<Denoter did="d4" type="action">再次寄予期待</Denoter> 
+				</Event>。
+			</Sentence> 
+		</Paragraph>  
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e5" type="thoughtevent"> 
+					<Time tid="t5" type="absTime">2013年12月30日</Time>， 
+					<Location lid="l5">在国务院新闻办的发布会上</Location>， 
+					<Participant sid="s5">国土资源部副部长王世元</Participant>  
+					<Denoter did="d5" type="statement">称</Denoter> 
+				</Event>， 
+				<Event eid="e6"> 
+					<Location lid="l6">全国</Location>  
+					<Denoter did="d6" type="action">中重度污染</Denoter>  
+					<Object oid="o6">耕地大体在5000万亩左右</Object> 
+				</Event>。
+			</Sentence> 
+		</Paragraph>  
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e7"> 
+					<Location lid="l7">全国</Location>  
+					<Object oid="o7">土壤污染状况及预防措施的调查</Object>，由 
+					<Participant sid="s7">国家环保总局（现环保部）和国土资源部</Participant>  
+					<Denoter did="d7" type="action">联合启动</Denoter>， 
+					<Time tid="t7" type="timeInterval">从2006年到2010年，历时4年结束</Time> 
+				</Event>，预算资金达10亿。
+			</Sentence>  
+			<Sentence>而土壤污染调查的相关数据，却一直是“不能说的秘密”。</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-7"/>  
+	<eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>  
+	<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eids="e6"/> 
+</Body>

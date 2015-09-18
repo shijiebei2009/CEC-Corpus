@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>环保中国：为“中毒之土”疗伤</Title>  
+	<ReportTime type="absTime">2013年06月25日 09:33:34</ReportTime>  
+	<Content> 
+		<Paragraph>
+			<Sentence> 
+				<Event eid="e1" type="thoughtevent">
+					<Object oid="o1">“镉米”风波</Object>
+					<Denoter did="d1">引发</Denoter>了
+				</Event>  
+				<Event eid="e2">
+					<Participant sid="s2">人们</Participant>对
+					<Object oid="o2">土壤污染问题</Object>的
+					<Denoter did="d2" type="perception">关注</Denoter>
+				</Event>。
+			</Sentence>  
+			<Sentence>对此， 
+				<Event eid="e3" type="thoughtevent">
+					<Participant sid="s3">国土资源部、中国地质调查局</Participant>已
+					<Denoter did="d3" type="statement">宣布</Denoter>
+				</Event>， 
+				<Event eid="e4">
+					<Participant sid="s4">我国</Participant>
+					<Denoter did="d4">正在绘制</Denoter>
+					<Object oid="o4">土壤重金属元素 “人类污染图”</Object>
+				</Event>， 
+				<Event eid="e5">
+					<Denoter did="d5">全面会诊</Denoter>
+					<Object oid="o5">土壤污染状况</Object>
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e6" type="thoughtevent">
+					<Participant sid="s6">记者</Participant>从
+					<Participant oid="o6">上海有关部门</Participant>
+					<Denoter did="d6" type="statement">获悉</Denoter>
+				</Event>， 
+				<Event eid="e7">
+					<Participant sid="s7">上海</Participant>
+					<Object oid="o7">在土壤修复方面技术</Object>
+					<Denoter did="d7" type="stateChange">日趋成熟</Denoter>
+				</Event>， 
+				<Event eid="e8">
+					<Object oid="o8">相关的土壤污染治理和修复实施方案及规范</Object>也在
+					<Denoter did="d8" type="action">加紧制订</Denoter>中
+				</Event>。
+			</Sentence>
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2"/>  
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eids="e4-5"/>  
+	<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7-8"/>  
+	<eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/> 
+</Body>

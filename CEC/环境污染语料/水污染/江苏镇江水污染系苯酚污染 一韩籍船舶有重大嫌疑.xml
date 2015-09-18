@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>江苏镇江水污染系苯酚污染 一韩籍船舶有重大嫌疑</Title>  
+	<ReportTime type="absTime">2012-02-08</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Time type="absTime" tid="t1">2012年2月4日</Time>于 
+					<Location lid="l1">江苏镇江</Location>发生的 
+					<Object oid="o1">水</Object>  
+					<Denoter type="emergency" did="d1">污染</Denoter>事件，
+				</Event>  
+				<Event eid="e2"> 
+					<Time type="relTime" tid="t2">7日</Time>下午， 
+					<Participant sid="s2">镇江市政府</Participant>应急办公开 
+					<Denoter type="statement" did="d2">回应</Denoter>称，
+				</Event>  
+				<Event eid="e3"> 
+					<Object oid="o3,s4">水源水苯酚</Object>  
+					<Denoter type="emergency" did="d3">污染</Denoter>是
+				</Event>  
+				<Event eid="e4"> 
+					<Denoter did="d4" type="operation">造成</Denoter>此次镇江市 
+					<Object oid="o4">饮用水异味</Object> 事件的主要原因，
+				</Event>  
+				<Event eid="e5">一艘曾 
+					<Denoter type="movement" did="d5">停靠</Denoter>  
+					<Location lid="l">镇江</Location>的韩国籍 
+					<Participant sid="s5">船舶</Participant>有重大嫌疑。
+				</Event>  
+				<Event eid="e6"> 
+					<Time type="relTime" tid="t6">目前</Time>，江苏省 
+					<Participant sid="s6">相关部门</Participant>正在紧张 
+					<Denoter did="d6" type="movement">调查</Denoter>取证。
+				</Event> 
+			</Sentence> 
+		</Paragraph>  
+		<Paragraph> 
+			<Sentence> 
+				<Event type="thoughtevent" eid="e7"> 
+					<Time type="relTime" tid="t7">2月4日</Time>上午，有 
+					<Participant sid="s7">网友</Participant>在微博 
+					<Denoter type="statement" did="d7">发布</Denoter>  
+					<Object oid="o7">消息</Object>称，
+				</Event>  
+				<Event eid="e8"> 
+					<Location lid="l8">镇江</Location>  
+					<Object oid="o8">自来水</Object> 出现 
+					<Denoter type="perception" did="d8">异味</Denoter>，
+				</Event>  
+				<Event eid="e9">并且引发 
+					<Participant sid="s9">市民</Participant>争相 
+					<Denoter type="movement" did="d9">抢购</Denoter>  
+					<Object oid="o9">纯净水</Object>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e10" type="thoughtevent">对此，镇江市 
+					<Participant sid="s10">自来水公司</Participant>曾 
+					<Denoter type="statement" did="d10">表示</Denoter>， 
+					<Object oid="o10">水出现异常</Object>是因为氯气过量。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e11">随后，镇江市政府 
+					<Participant sid="s11">应急办</Participant>  
+					<Denoter did="d11" type="movement">发布</Denoter>  
+					<Object oid="o11">公告</Object>称，
+				</Event>  
+				<Event eid="e12">自来水厂及主城区管网 
+					<Participant oid="o12">水质</Participant>已经 
+					<Denoter type="movement" did="d12">恢复</Denoter>正常。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Follow" bevent_eid="e1" aevent_eid="e2"/>  
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>  
+	<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>  
+	<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8-e12"/>  
+	<eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>  
+	<eRelation relType="Follow" bevent_eid="e10" aevent_eid="e11"/>  
+	<eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eid="e12"/> 
+</Body>

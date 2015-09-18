@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>广东“镉大米”事件7个月仍无新信息公开</Title>  
+	<ReportTime type="absTime">2013年12月26日14:54</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Time tid="t1" type="relTime">今年5月</Time> ， 
+					<Participant sid="s1">广东省食安办</Participant>  
+					<Denoter did="d1" type="action">公布了</Denoter>  
+					<Location lid="l1">广州市等10个地市</Location>  
+					<Object oid="o1">大米镉含量抽检数据</Object> 
+				</Event> ， 
+				<Event eid="e2">有 
+					<Participant sid="s2">120个批次</Participant>  
+					<Denoter did="d2">不合格</Denoter> 
+				</Event> 。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e3"> 
+					<Participant sid="s3">广州</Participant> 共 
+					<Denoter did="d3">抽查</Denoter>  
+					<Object oid="o3">815批次大米及米粉</Object> 
+				</Event> ， 
+				<Event eid="e4">有 
+					<Participant sid="s4">73个批次</Participant>  
+					<Denoter did="d4" type="stateChange">镉含量超标不合格率近9%</Denoter> 
+				</Event> ， 
+				<Event eid="e5"> 
+					<Participant sid="s5">生产企业</Participant>  
+					<Denoter did="d5" type="stateChange">以广东和湖南为主</Denoter> 
+				</Event> 。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e6"> 
+					<Time tid="t6" type="relTime">此前</Time> ，在 
+					<Object sid="s6">媒体</Object> 的 
+					<Denoter did="d6" type="action">一再追问下</Denoter> 
+				</Event> ， 
+				<Event eid="e7"> 
+					<Participant sid="s7">广州食药监局</Participant> 才 
+					<Denoter did="d7" type="action">相继公布</Denoter>  
+					<Object oid="o7">4家被检米及米制品镉超标的使用单位及其镉含量</Object> 
+				</Event> ， 
+				<Event eid="e8">随后又 
+					<Denoter did="d8">公布</Denoter>  
+					<Object oid="o8">镉超标的8批次铬超 标米的品牌及米制品生产厂家</Object> 
+				</Event> ， 
+				<Event eid="e9" polarity="negative">但是没有 
+					<Object oid="o9">更多关于 产品流向及查获数量信息</Object>  
+					<Denoter did="d9">被公开</Denoter> 
+				</Event> 。
+			</Sentence> 
+		</Paragraph>  
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e10"> 
+					<Time tid="t10" type="timeInterval">时隔7个多月</Time> ， 
+					<Participant sid="s10">新京报记者</Participant>  
+					<Denoter did="d10" type="action">查找</Denoter>  
+					<Object oid="o10">广东省食药监局、湖南省食药监局网站</Object> 
+				</Event>  
+				<Event eid="e11" polarity="negative">都未 
+					<Denoter did="d11">发现</Denoter>  
+					<Object oid="o11">有关“镉大米”事件任何新的信息公开</Object> 
+				</Event> 。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e12"> 
+					<Time tid="t12" type="relTime">近日</Time>  
+					<Participant sid="s12">记者</Participant>  
+					<Denoter did="d12" type="action">再次致电</Denoter>  
+					<Object oid="o12">广东、湖南食药监局办公电话</Object> 
+				</Event>， 
+				<Event eid="e13" polarity="negative">均无 
+					<Participant sid="s13">人</Participant>  
+					<Denoter did="d13" type="action">接听</Denoter> 
+				</Event> 。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e14"> 
+					<Time tid="t14" type="timeInterval">在经历了五六月份</Time>的媒体风暴后， 
+					<Participant sid="s14">有关部门</Participant> 对 公众 
+					<Object oid="o14">有关“镉大米”事件调查、处理的追问</Object>  
+					<Denoter did="d14" type="stateChange">如石沉大海</Denoter>。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Accompany" accompanya_eid="e1" accompanyb_eid="e2"/>  
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e1"/>  
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>  
+	<eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5"/>  
+	<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e1"/>  
+	<eRelation relType="Causal" cause_eid="e6" effect_eid="e7"/>  
+	<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>  
+	<eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>  
+	<eRelation relType="Follow" bevent_eid="e9" aevent_eid="e10"/>  
+	<eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11"/>  
+	<eRelation relType="Follow" bevent_eid="e11" aevent_eid="e12"/>  
+	<eRelation relType="Causal" cause_eid="e12" effect_eid="e13"/>  
+	<eRelation relType="Accompany" accompanya_eid="e12" accompanyb_eid="e14"/> 
+</Body>

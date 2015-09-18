@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>河北晋州一化工厂发生氯气泄露多人中毒</Title>  
+	<ReportTime type="absTime">2013-09-06 15:08</ReportTime>  
+	<Content>　 
+		<Paragraph>　 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Time type="relTime" tid="t1">8月31日上午</Time>， 
+					<Location lid="l1">河北省晋州市</Location>一家化工厂发生 
+					<Denoter did="d1" type="emergency">氯气泄露</Denoter>事故
+				</Event>，造成 
+				<Event eid="e2">该厂 
+					<Participant sid="s2">工人</Participant>及附近 
+					<Participant sid="s2">村民</Participant>多人 
+					<Denoter did="d2" type="emergency">中毒</Denoter> 
+				</Event>。
+			</Sentence>  
+			<Sentence>事故发生后， 
+				<Event eid="e3"> 
+					<Participant oid="o3-o4">伤者</Participant>陆续被 
+					<Denoter did="d3" type="movement">送往</Denoter>  
+					<Location lid="l3" type="destination">当地医院</Location> 
+				</Event>  
+				<Event eid="e4">进行 
+					<Denoter did="d4" type="operation">救治</Denoter> 
+				</Event>， 
+				<Event eid="e5"> 
+					<Time tid="t5" type="relTime">目前</Time>， 
+					<Object oid="o5">伤者身体状况</Object>、 
+					<Object oid="o5">人数</Object>等具体情况， 
+					<Location lid="l5">晋州市</Location>  
+					<Participant sid="s5">官方</Participant>尚未对外 
+					<Denoter did="d5" type="statement" polarity="negative">公布</Denoter> 
+				</Event>。
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>  
+	<eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>  
+	<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/> 
+</Body>

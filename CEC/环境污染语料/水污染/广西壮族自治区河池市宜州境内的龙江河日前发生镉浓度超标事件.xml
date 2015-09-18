@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>广西壮族自治区河池市宜州境内的龙江河镉浓度超标事件</Title>  
+	<ReportTime type="absTime">2012年01月21日</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event type="thoughtevent" eid="e1"> 
+					<Participant sid="s1">新华社</Participant>  
+					<Location lid="l1">南宁</Location>  
+					<Time type="relTime" tid="t1">1月21日</Time>  
+					<Denoter type="statement" did="d1">电</Denoter> 
+				</Event>  
+				<Event eid="e2" type="thoughtevent"> 
+					<Participant sid="s2">（记者 吴小康）记者</Participant>从广西河池市消防部门 
+					<Denoter type="statement" did="d2">了解</Denoter>到，位于 
+					<Location lid="l2">广西河池市宜州市境内的龙江河</Location>  
+					<Object oid="o2">发生镉浓度超标</Object>３倍后，
+				</Event>  
+				<Event eid="e3">当地 
+					<Participant sid="s3,s4">消防部门</Participant>紧急 
+					<Denoter type="emergency" did="d3">救援</Denoter>，
+				</Event>  
+				<Event eid="e4">通过投放中和物等方式， 
+					<Denoter type="operation" did="d4">确保</Denoter>当地 
+					<Object oid="o4">饮水安全</Object>。
+				</Event> 
+			</Sentence> 
+		</Paragraph>  
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e5" type="thoughtevent"> 
+					<Participant sid="s5">河池市公安消防支队一位负责人</Participant>  
+					<Denoter type="statement" did="d5">介绍</Denoter>，
+				</Event>  
+				<Event eid="e6"> 
+					<Participant sid="s6,s7,s8,s9">消防官兵</Participant>通过 
+					<Denoter type="action" did="d6">将</Denoter>  
+					<Object oid="o6">编织袋装满氯化铝粉</Object> 
+				</Event>  
+				<Event eid="e7"> 
+					<Denoter type="action" did="d7">倒入</Denoter>  
+					<Object oid="o7">河中</Object>，
+				</Event>  
+				<Event eid="e8">还将氯化铝液体 
+					<Denoter type="action" did="d8">倒入</Denoter>  
+					<Object oid="o8">消防水罐车内</Object>，
+				</Event>  
+				<Event eid="e9">再用消防车把液体 
+					<Denoter type="action" did="d9">喷入</Denoter>  
+					<Object oid="o9">河内</Object>等方式，中和过滤河内超标的镉。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e4"/>  
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>  
+	<eRelation relType="Accompany" accompanya_eid="e3" accompanyb_eid="e4"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eids="e6-e9"/>  
+	<eRelation relType="Follow" bevent_eid="e6" aevent_eid="e7"/>  
+	<eRelation relType="Follow" bevent_eid="e8" aevent_eid="e9"/> 
+</Body>

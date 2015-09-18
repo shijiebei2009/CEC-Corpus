@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>桃园县氨气外泄25位民众不适送医</Title>  
+	<ReportTime type="absTime">2013年09月13日20:25</ReportTime>  
+	<Content>　　 
+		<Paragraph> 
+			<Sentence> 
+				<Event type="thoughtevent" eid="e1"> 
+					<Participant sid="s1">台海网</Participant>  
+					<Time tid="t1" type="relTime">9月13日</Time>  
+					<Denoter did="d1" type="statement">讯</Denoter> 
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event type="thoughtevent" eid="e2">据 
+					<Location lid="l2">台湾</Location>  
+					<Participant sid="s2">TVBS网站</Participant>  
+					<Denoter did="d2" type="statement">报道</Denoter> 
+				</Event>， 
+				<Event eid="e3"> 
+					<Location lid="l3">台湾桃园杨梅市</Location>发生 
+					<Denoter did="d3" type="emergency">氨气外泄</Denoter>事件
+				</Event>， 
+				<Event eid="e4"> 
+					<Participant sid="s4-s6" oid="o7-o8">25位民众</Participant>  
+					<Denoter did="d4" type="stateChange">身体不适</Denoter> 
+				</Event>、 
+				<Event eid="e5"> 
+					<Denoter did="d5" type="stateChange">头晕</Denoter> 
+				</Event>、 
+				<Event eid="e6"> 
+					<Denoter did="d6" type="stateChange">呕吐</Denoter> 
+				</Event>，已 
+				<Event eid="e7">陆续 
+					<Denoter did="d7" type="movement">送往</Denoter>  
+					<Location lid="l7" type="destination">医院</Location> 
+				</Event>  
+				<Event eid="e8"> 
+					<Denoter did="d8">治疗</Denoter> 
+				</Event>。
+			</Sentence> 
+		</Paragraph> 　　 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e9"> 
+					<Location lid="l9">杨梅市新农街2段</Location>，发生 
+					<Denoter did="d9" type="emergency">氨气外泄</Denoter>事件
+				</Event>， 
+				<Event eid="e10"> 
+					<Time tid="t10" type="relTime">目前</Time>  
+					<Location lid="l10">现场</Location>有 
+					<Participant sid="s10">25位民众</Participant>  
+					<Denoter did="d10" type="stateChange">身体不适</Denoter> 
+				</Event>、 
+				<Event eid="e11"> 
+					<Denoter did="d11" type="stateChange">头晕</Denoter> 
+				</Event>、 
+				<Event eid="e12"> 
+					<Denoter did="d12" type="stateChange">呕吐</Denoter> 
+				</Event>情形， 
+				<Event eid="e13">已经陆续 
+					<Denoter did="d13" type="movement">送至</Denoter>附近的 
+					<Location lid="l13" type="destination">天成</Location>、 
+					<Location lid="l13" type="destination">坜新</Location>、 
+					<Location lid="l13" type="destination">怡仁</Location>等 
+					<Location lid="l13" type="destination">医院</Location> 
+				</Event>。
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e13"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-e8"/>  
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>  
+	<eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5-e6"/>  
+	<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e7"/>  
+	<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>  
+	<eRelation relType="Causal" cause_eid="e9" effect_eid="e10"/>  
+	<eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11-12"/>  
+	<eRelation relType="Follow" bevent_eid="e10" aevent_eid="e13"/> 
+</Body>

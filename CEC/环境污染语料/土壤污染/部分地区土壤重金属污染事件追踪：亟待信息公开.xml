@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>部分地区土壤重金属污染事件追踪：亟待信息公开</Title>  
+	<ReportTime type="absTime">2013-06-21 17:00:20</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1" type="thoughtevent"> 
+					<Participant sid="s1">新华社</Participant>  
+					<Location lid="l1">北京</Location>  
+					<Time tid="t1" type="relTime">６月２１日</Time>  
+					<Denoter did="d1" type="statement">电</Denoter> 
+				</Event>（记者欧甸丘、姜刚）
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e2"> 
+					<Participant sid="s2">记者</Participant>  
+					<Denoter did="d2" type="action">查阅</Denoter>  
+					<Object oid="o2">权威部门的官方网站</Object> 
+				</Event>， 
+				<Event eid="e3"> 
+					<Object sid="s3">有关重金属污染的信息</Object>  
+					<Denoter did="d3" type="action">披露</Denoter>还是 
+					<Time tid="t3" type="relTime">在２００６年７月</Time> 
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e4" type="thoughtevent"> 
+					<Time tid="t4" type="relTime">当时</Time>的 
+					<Participant sid="s4">环保总局有关负责人</Participant>在一次 
+					<Denoter did="d4" type="statement">讲话中透露</Denoter> 
+				</Event>， 
+				<Event eid="e5">据 
+					<Denoter did="d5" type="action">不完全调查</Denoter>， 
+					<Time tid="t5" type="relTime">目前</Time>  
+					<Location lid="l5">全国</Location>  
+					<Object oid="o5">受污染的耕地约有１．５亿亩，合计约占耕地总面积的十分之一</Object> 
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e6"> 
+					<Location lid="l6">全国</Location>  
+					<Time tid="t6" type="timeInterval">每年</Time>因 
+					<Object sid="s6">重金属</Object>  
+					<Denoter did="d6" type="action">污染</Denoter>的 
+					<Object oid="o6">粮食达１２００万吨</Object> 
+				</Event>， 
+				<Event eid="e7">造成的 
+					<Denoter did="d7" type="stateChange">直接经济损失</Denoter>  
+					<Object oid="o7">超过２００亿元</Object> 
+				</Event>。
+			</Sentence> 
+		</Paragraph>  
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e8" type="thoughtevent"> 
+					<Participant sid="s8">这位负责人</Participant>还 
+					<Denoter did="d8" type="statement">透露</Denoter> 
+				</Event>， 
+				<Event eid="e9"> 
+					<Participant sid="s9">全国土壤现状调查及污染防治项目由环保和国土部门</Participant>  
+					<Denoter did="d9" type="action">共同承担</Denoter>， 
+					<Object oid="o9">总经费预算约１０亿元</Object> 
+				</Event>。
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-9"/>  
+	<eRelation relType="Accompany" accompanya_eid="e2" accompanyb_eid="e3"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5"/>  
+	<eRelation relType="Causal" cause_eid="e6" effect_eid="e7"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eids="e9"/> 
+</Body>

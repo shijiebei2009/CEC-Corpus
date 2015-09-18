@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>2006湖南岳阳砷污染事件</Title>  
+	<ReportTime type="absTime">2006-09-10</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Time type="absTime" tid="t1">2006年9月8日</Time>， 
+					<Location lid="l1">湖南省岳阳县城</Location> 饮用水源地 
+					<Participant sid="s1">新墙河</Participant>发生 
+					<Denoter type="emergency" did="d1">水污染</Denoter>事件，
+				</Event>  
+				<Event eid="e2"> 
+					<Object sid="s2">砷</Object>  
+					<Denoter type="operation" did="d2">超标</Denoter>10倍左右，
+				</Event>  
+				<Event eid="e3">8万居民的 
+					<Object oid="o3">饮用水</Object>安全受到 
+					<Denoter type="operation" did="d3">威胁和影响</Denoter>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e4">最终经 
+					<Denoter type="operation" did="d4">核查</Denoter>发现，
+				</Event>  
+				<Event eid="e5">污染发生的为河流上游3家 
+					<Participant sid="s5">化工厂</Participant>的 
+					<Object oid="o5">工业污水</Object>日常性 
+					<Denoter type="movement" did="d5">排放</Denoter>，
+				</Event>  
+				<Event eid="e6">致使大量高浓度 
+					<Participant sid="s6">含砷废水</Participant>  
+					<Denoter type="movement" did="d6">流入</Denoter>  
+					<Object oid="o6">新墙河</Object>。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Follow" bevent_eid="e1" aevent_eid="e2"/>  
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>  
+	<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>  
+	<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/> 
+</Body>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>比利时马斯河谷烟雾事件</Title>  
+	<ReportTime type="absTime">2012年05月30日 11:34:12</ReportTime>  
+	<Content> 
+		<Paragraph>
+			<Sentence> 
+				<Event eid="e1">
+					<Time tid="t1" type="timeInterval">1930年12月1日至5日</Time>，时值隆冬，
+					<Object sid="s1">大雾</Object>
+					<Denoter did="d1">笼罩了</Denoter>
+					<Object oid="o1">整个比利时大地</Object>
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e2">由于
+					<Object sid="s2">该工业区</Object>
+					<Denoter did="d2">位于</Denoter>狭长的
+					<Object oid="o2">河谷地带</Object>
+				</Event>， 
+				<Event eid="e3">
+					<Location lid="l3">马斯河谷</Location>
+					<Object sid="s3">上空</Object>
+					<Denoter did="d3" type="action">出现了</Denoter>很强的
+					<Object oid="o3">逆温层</Object>
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e4">由于
+					<Location lid="l4">逆温层</Location>
+					<Object sid="s4">低层空气温度</Object>比
+					<Object oid="o4">高层空气温度</Object>还
+					<Denoter did="d4" type="stateChange">低</Denoter>
+				</Event>， 
+				<Event eid="e5">
+					<Denoter did="d5" type="action">影响</Denoter>
+					<Object oid="o5">空气对流</Object>
+				</Event>， 
+				<Event eid="e6">致使
+					<Object sid="s6">工厂</Object>
+					<Denoter did="d6" type="action">排出</Denoter>的
+					<Object oid="o6">有害气体和煤烟粉尘</Object>
+				</Event>  
+				<Event eid="e7">
+					<Location lid="l7">在地面上</Location>大量
+					<Denoter did="d7" type="action">积累</Denoter>
+				</Event>， 
+				<Event eid="e8">无法
+					<Denoter did="d8" type="action" polarity="negative">扩散</Denoter>
+				</Event>， 
+				<Event eid="e9">
+					<Object sid="s9">二氧化硫的浓度</Object>也
+					<Denoter did="d9" type="statement">高</Denoter>得惊人
+				</Event>。
+			</Sentence>
+		</Paragraph>  
+		<Paragraph>
+			<Sentence> 
+				<Event eid="e10">在这种
+					<Object sid="s10">气候</Object>
+					<Denoter did="d10" type="stateChange">反常变化</Denoter>
+				</Event>  
+				<Event eid="e11">的
+					<Time tid="t11" type="relTime">第3天</Time>，
+					<Location lid="l11">这一河谷地段</Location>的
+					<Participant sid="s11">居民</Participant>有几千人
+					<Denoter did="d11" type="emergency">呼吸道发病</Denoter>
+				</Event>， 
+				<Event eid="e12">
+					<Participant sid="s12">有63人</Participant>
+					<Denoter did="d12" type="stateChange">死亡</Denoter>
+				</Event>，为同期正常死亡人数的10.5倍。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e13">
+					<Participant sid="s13-s20">发病者</Participant>包括不同年龄的男女，症状是：
+					<Denoter did="d13" type="emergency">流泪</Denoter>
+				</Event>、 
+				<Event eid="e14">
+					<Denoter did="d14" type="emergency">喉痛</Denoter>
+				</Event>、 
+				<Event eid="e15">
+					<Denoter did="d15" type="emergency">声嘶</Denoter>
+				</Event>、 
+				<Event eid="e16">
+					<Denoter did="d16" type="emergency">咳嗽</Denoter>
+				</Event>、 
+				<Event eid="e17">
+					<Denoter did="d17" type="emergency">呼吸短促</Denoter>
+				</Event>、 
+				<Event eid="e18">
+					<Object sid="s18">胸口</Object>
+					<Denoter did="d18" type="emergency">窒闷</Denoter>
+				</Event>、 
+				<Event eid="e19">
+					<Denoter did="d19" type="emergency">恶心</Denoter>
+				</Event>、 
+				<Event eid="e20">
+					<Denoter did="d20" type="emergency">呕吐</Denoter>
+				</Event>。
+			</Sentence>  
+			<Sentence>咳嗽与呼吸短促是主要发病症状。</Sentence>  
+			<Sentence>死者大多是年老和有慢性心脏病与肺病的患者。</Sentence>  
+			<Sentence> 
+				<Event eid="e21" type="thoughtevent">
+					<Object sid="s21">尸体解剖结果</Object>
+					<Denoter did="d21" type="statement">证实</Denoter>
+				</Event>： 
+				<Event eid="e22">
+					<Object sid="s22">刺激性化学物质</Object>
+					<Denoter did="d22" type="action">损害</Denoter>
+					<Object oid="o22">呼吸道内壁</Object>
+				</Event>  
+				<Event eid="e23">是
+					<Denoter did="d23">致死</Denoter>的原因
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e24">
+					<Object sid="s24">其他组织与器官</Object>没有
+					<Denoter did="d24" type="action" polarity="negative">毒物效应</Denoter>
+				</Event>。
+			</Sentence>
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>  
+	<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>  
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>  
+	<eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>  
+	<eRelation relType="Accompany" accompanya_eid="e8" accompanyb_eid="e9"/>  
+	<eRelation relType="Causal" cause_eid="e10" effect_eid="e11"/>  
+	<eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eid="e12"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e21" thoughtcontent_eids="e22-24"/>  
+	<eRelation relType="Causal" cause_eid="e22" effect_eid="e23"/> 
+</Body>

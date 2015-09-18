@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>江苏盐城水源遭受污染</Title>  
+	<ReportTime type="absTime">2009年02月23日</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Time type="relTime" tid="t1">2月20日</Time>上午， 
+					<Location lid="l1">江苏省盐城市</Location>由于 
+					<Participant sid="s1,s2">城西水厂</Participant>原水受酚类化合物 
+					<Denoter type="emergency" did="d1">污染</Denoter>，
+				</Event>  
+				<Event eid="e2"> 
+					<Denoter type="action" did="d2">致</Denoter>市区大面积 
+					<Object oid="o2">断水</Object>，
+				</Event>  
+				<Event eid="e3">经 
+					<Participant sid="s3">当地政府</Participant>的 
+					<Denoter type="operation" did="d3">协调</Denoter>努力，
+				</Event>  
+				<Event eid="e4"> 
+					<Time tid="t4" type="relTime">21日</Time>  
+					<Denoter type="operation" did="d4">恢复</Denoter>  
+					<Object oid="o4">自来水供应</Object>，水质符合标准。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e5"> 
+					<Location lid="l5">盐城市</Location>  
+					<Participant sid="s5">公安部门</Participant>已 
+					<Denoter type="action" did="d5">对</Denoter>该市 
+					<Object oid="o5,s6">标新化工有限公司</Object> 
+				</Event>  
+				<Event eid="e6"> 
+					<Denoter did="d">涉嫌</Denoter>重大 
+					<Object oid="o">环境污染事故</Object>立案侦查，
+				</Event>  
+				<Event eid="e7">该公司法人代表 
+					<Participant oid="o7">胡文标</Participant>、生产厂长 
+					<Participant oid="o7">丁月生</Participant> 已被依法刑事 
+					<Denoter type="action" did="d7">拘留</Denoter>。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>  
+	<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>  
+	<eRelation relType="Accompany" accompanya_eid="e5" accompanyb_eid="e6"/>  
+	<eRelation relType="Causal" cause_eid="e6" effect_eid="e7"/> 
+</Body>

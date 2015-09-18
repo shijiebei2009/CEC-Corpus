@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>8.7吨苯胺排入浊漳河 山西80公里河道停止人畜饮用自然水</Title>  
+	<ReportTime type="absTime">2013-01-06 11:35</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1" type="thoughtevent">据 
+					<Location lid="l1">山西天脊煤化工集团</Location>  
+					<Participant sid="s1">有关负责人</Participant> 最新 
+					<Denoter type="statement" did="d1">介绍</Denoter>，
+				</Event>  
+				<Event eid="e2"> 
+					<Time type="absTime" tid="t2">2012年12月31日7时40分左右</Time>， 该企业 
+					<Participant sid="s2">巡检人员</Participant> 在例行检查时 
+					<Denoter did="d2" type="perception">发现</Denoter> 
+				</Event>  
+				<Event eid="e3"> 
+					<Location lid="l3">苯胺库区</Location> 一根往成品罐输送苯胺的 
+					<Object sid="s3">软管</Object> 发生 
+					<Denoter type="stateChange" did="d3">爆裂</Denoter>，
+				</Event>  
+				<Event eid="e4"> 
+					<Object oid="o4,s5">苯胺</Object>  
+					<Denoter did="d4" type="movement">沿着</Denoter> 雨水系统
+				</Event>  
+				<Event eid="e5"> 
+					<Denoter type="movement" did="d5">排入</Denoter>  
+					<Object oid="o5">河道</Object>。
+				</Event>  
+				<Event eid="e6">具体 
+					<Denoter did="d6" type="stateChange">爆裂</Denoter>  
+					<Object oid="o6">时间</Object> 尚不清楚。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e7">经过初步 
+					<Denoter type="operation" did="d7">核查</Denoter>，
+				</Event>  
+				<Event eid="e8">当时 
+					<Denoter did="d8" type="movement">泄漏</Denoter> 总量约为38．7吨，
+				</Event>  
+				<Event eid="e9">发现泄漏后， 
+					<Denoter did="d9" type="action">关闭</Denoter>  
+					<Object oid="o9">管道</Object> 入口出口，
+				</Event>  
+				<Event eid="e10">并 
+					<Denoter type="action" did="d10">关闭</Denoter> 了企业排污口下游的一个 
+					<Object oid="o10">干涸水库</Object>，
+				</Event>  
+				<Event eid="e11">此举 
+					<Denoter type="operation" did="d11">截留</Denoter> 了30吨的 
+					<Object oid="o11">苯胺</Object>，
+				</Event>  
+				<Event eid="e12">另有8．7吨苯胺 
+					<Denoter>排入</Denoter> 流向河北方向的 
+					<Object oid="o12">浊漳河</Object>。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-e12"/>  
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4-e5"/>  
+	<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10"/>  
+	<eRelation relType="Accompany" accompanya_eid="e11" accompanyb_eid="e12"/> 
+</Body>

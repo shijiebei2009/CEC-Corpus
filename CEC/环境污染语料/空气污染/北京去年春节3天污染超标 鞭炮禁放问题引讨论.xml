@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>北京去年春节3天污染超标 鞭炮禁放问题引讨论</Title>  
+	<ReportTime type="absTime">2013年01月30日 10:13:00</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Time tid="t1" type="relTime">近期</Time>， 
+					<Location lid="l1">北京</Location>  
+					<Denoter did="d1" type="emergency">雾霾</Denoter>天气断断续续、挥之不去。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e2">转眼就到 
+					<Time tid="t2" type="relTime">春节</Time>， 
+					<Object sid="s2">雾霾</Object>若与 
+					<Object sid="s2">春节</Object>  
+					<Denoter did="d2">叠加</Denoter> 
+				</Event>，烟花爆竹，放还是不放？
+			</Sentence>  
+			<Sentence> 
+				<Event type="thoughtevent" eid="e3"> 
+					<Participant sid="s3">环境专家</Participant>  
+					<Denoter did="d3" type="statement">表示</Denoter> 
+				</Event>， 
+				<Event eid="e4"> 
+					<Time tid="t4" type="relTime">去年春节</Time>因 
+					<Denoter did="d4" type="operation">放烟花爆竹</Denoter> 
+				</Event>  
+				<Event eid="e5"> 
+					<Object sid="s5">污染</Object>  
+					<Denoter did="d5" type="emergency">严重</Denoter> 
+				</Event>， 
+				<Event type="thoughtevent" eid="e6"> 
+					<Denoter did="d6" type="statement">建议</Denoter> 
+				</Event>  
+				<Event eid="e7"> 
+					<Denoter did="d7" type="operation">提供</Denoter>“ 
+					<Object oid="o7">烟花燃放指数</Object>”
+				</Event>  
+				<Event eid="e8"> 
+					<Denoter did="d8" type="operation">引导</Denoter>  
+					<Object oid="o8">燃放</Object> 
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e9">针对 
+					<Object oid="o9">春节放炮仗话题</Object>， 
+					<Time tid="t9" type="relTime">昨天</Time>  
+					<Participant sid="s9">多家门户网站</Participant>  
+					<Denoter did="d9" type="operation">发起话题讨论</Denoter> 
+				</Event>， 
+				<Event eid="e10" type="thoughtevent"> 
+					<Participant sid="s10">多数网友</Participant>  
+					<Denoter did="d10" type="statement">赞成</Denoter> 
+				</Event>  
+				<Event eid="e11">在 
+					<Time tid="t11" type="relTime">春节期间</Time>少放或不 
+					<Denoter did="d11" polarity="negative">放烟花</Denoter> 
+				</Event>。
+			</Sentence> 
+		</Paragraph>  
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e12" type="thoughtevent">据 
+					<Participant sid="s12">北京市环境保护监测中心</Participant>的 
+					<Denoter did="d12" type="statement">监测显示</Denoter> 
+				</Event>， 
+				<Event eid="e13"> 
+					<Time tid="t13" type="relTime">去年除夕当天</Time>， 
+					<Location lid="l13">车公庄站点</Location>  
+					<Object sid="s13">PM2.5的研究性监测的浓度值</Object>分别在 
+					<Time tid="t13" type="relTime">中午</Time>和 
+					<Time tid="t13" type="relTime">晚上</Time>两度 
+					<Denoter did="d13" type="emergency">突破200微克/立方米</Denoter>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e14"> 
+					<Time tid="t14" type="relTime">去年春节期间</Time>  
+					<Location lid="l14">北京</Location>  
+					<Object sid="s14">空气质量</Object>  
+					<Time tid="t14" type="timeInterval">5天</Time>  
+					<Denoter did="d14" type="stateChange">不达标</Denoter> 
+				</Event>，其中 
+				<Event eid="e15"> 
+					<Time tid="t15-t16" type="relTime">初一</Time>、 
+					<Time tid="t15-t16" type="relTime">初五</Time>、 
+					<Time tid="t15-t16" type="relTime">十五</Time>3天受 
+					<Denoter did="d15" type="operation">集中燃放</Denoter>  
+					<Object oid="o15">烟花爆竹</Object>影响
+				</Event>， 
+				<Event eid="e16"> 
+					<Object sid="s16">污染</Object>  
+					<Denoter did="d16" type="emergency">严重</Denoter> 
+				</Event>。
+			</Sentence> 
+		</Paragraph>  
+		<Paragraph> 
+			<Sentence>“ 
+				<Event eid="e17"> 
+					<Denoter did="d17" type="stateChange">超过</Denoter>  
+					<Object oid="o17">200微克/立方米</Object> 
+				</Event>， 
+				<Event eid="e18">已经 
+					<Denoter did="d18">属于</Denoter>  
+					<Object oid="o18">重度污染</Object> 
+				</Event>。” 
+				<Event eid="e19" type="thoughtevent"> 
+					<Participant sid="s19">马军</Participant>  
+					<Denoter did="d19" type="statement">表示</Denoter> 
+				</Event>， 
+				<Event eid="e20"> 
+					<Object sid="s20" type="thoughtevent">监测数据</Object>  
+					<Denoter did="d20" type="statement">显示</Denoter> 
+				</Event>， 
+				<Event eid="e21"> 
+					<Time tid="t21" type="relTime">当晚10点</Time>  
+					<Location lid="l">东城东四站</Location>的 
+					<Object sid="s21">PM10浓度</Object>从晚9时的187微克/立方米迅速 
+					<Denoter did="d21" type="stateChange">飙升</Denoter> 
+				</Event>  
+				<Event eid="e22"> 
+					<Denoter did="d22" type="stateChange">至</Denoter>  
+					<Object oid="o22">507微克/立方米</Object> 
+				</Event>。
+			</Sentence> 
+		</Paragraph>  
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e23" type="thoughtevent"> 
+					<Time tid="t23">春节过后</Time>，时任 
+					<Participant sid="s23S">北京市环保局副局长的杜少中</Participant>也在其 
+					<Denoter did="d23" type="stateChange">微博上发帖称</Denoter> 
+				</Event>， 
+				<Event eid="e24"> 
+					<Time tid="t24" type="relTime">春节期间</Time>  
+					<Location lid="l24">北京</Location>  
+					<Object oid="o24">空气质量</Object>  
+					<Time tid="t24" type="timeInterval">5天</Time>  
+					<Denoter did="d24" type="stateChange">不达标</Denoter> 
+				</Event>，其中 
+				<Event eid="e25"> 
+					<Time tid="t25" type="relTime">初一</Time>、 
+					<Time tid="t25" type="relTime">初五</Time>、 
+					<Time tid="t25" type="relTime">十五</Time>三天受 
+					<Denoter did="d25" type="operation">集中燃放</Denoter>  
+					<Object oid="o25">烟花爆竹</Object>影响
+				</Event>， 
+				<Event eid="e26"> 
+					<Object sid="s26">污染</Object>  
+					<Denoter did="d26" type="emergency">严重</Denoter> 
+				</Event>。 
+				<Event eid="e27" type="thoughtevent"> 
+					<Participant sid="s27">杜少中</Participant>  
+					<Denoter did="d27" type="statement">在微博中呼吁</Denoter> 
+				</Event>， 
+				<Event eid="e28"> 
+					<Time tid="t28" type="relTime">春节</Time>  
+					<Object sid="s28">燃放烟花</Object>应 
+					<Denoter did="d28">讲究度</Denoter> 
+				</Event>， 
+				<Event eid="e29">尽量“还是 
+					<Denoter did="d29">少放</Denoter>点儿好”
+				</Event>。
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eids="e4-e5"/>  
+	<eRelation relType="Causal" cause_eid="e4" effect_eid="e5"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7-d8"/>  
+	<eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eids="e11"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e12" thoughtcontent_eids="e13-e16"/>  
+	<eRelation relType="Causal" cause_eid="e15" effect_eid="e16"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e19" thoughtcontent_eids="e17-e18"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e20" thoughtcontent_eids="e21-e22"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e23" thoughtcontent_eids="e24-e26"/>  
+	<eRelation relType="Causal" cause_eid="e25" effect_eid="e26"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e27" thoughtcontent_eids="e28-e29"/> 
+</Body>

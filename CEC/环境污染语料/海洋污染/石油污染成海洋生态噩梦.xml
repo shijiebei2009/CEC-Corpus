@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>石油污染成海洋生态噩梦</Title>  
+	<ReportTime type="absTime">2010-05-07</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Time type="relTime" tid="t1">5月2日</Time>， 
+					<Participant sid="s1">美国总统奥巴马</Participant> 站在瓢泼大雨中向一群美国人 
+					<Denoter type="operation" did="d1">保证</Denoter>，
+				</Event>  
+				<Event eid="e2"> 
+					<Participant sid="s2">美国政府</Participant> 将 
+					<Denoter type="operation" did="d2">调动</Denoter>  
+					<Object oid="o2,s3">一切力量</Object> 
+				</Event>  
+				<Event eid="e3">来 
+					<Denoter type="operation" did="d3">阻止</Denoter>  
+					<Object oid="o3">一场危机</Object>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e4">这场危机发生于 
+					<Time type="relTime" tid="t4">4月20日</Time>， 在距美国路易斯安那州不远的 
+					<Location lid="l4">墨西哥湾</Location>上， 
+					<Object oid="o4">一个钻井平台</Object>发生 
+					<Denoter type="emergency" did="d4">爆炸</Denoter>，
+				</Event>  
+				<Event eid="e5">导致 
+					<Object oid="o5">石油</Object> 大面积 
+					<Denoter did="d5" type="emergency">泄漏</Denoter>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e6" type="thoughtevent"> 
+					<Participant sid="s6">美媒</Participant>  
+					<Denoter type="statement" did="d6">称</Denoter>，
+				</Event>  
+				<Event eid="e7">此次泄漏入海的 
+					<Object oid="o7">油污</Object> 要用 
+					<Time type="timeInterval" tid="t5">5年</Time> 才能 
+					<Denoter type="operation" did="d7">清理</Denoter> 干净，
+				</Event>而其造成的生态污染更令人胆寒。 
+				<Event eid="e8" type="thoughtevent">有 
+					<Participant sid="s8">相关人士</Participant>  
+					<Denoter type="statement" did="d8">称</Denoter>，
+				</Event>  
+				<Event eid="e9"> 
+					<Participant sid="s9,s10">大海</Participant>  
+					<Denoter type="operation" did="d9">具有</Denoter> 世界上最强的 
+					<Object oid="o9">自我净化功能</Object>，
+				</Event>  
+				<Event eid="e10">但 
+					<Denoter type="operation" did="d10">面对</Denoter>  
+					<Object oid="o10">石油污染</Object> 这个生态杀手，大海也只能为之变色。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Follow" bevent_eid="e2" aevent_eid="e3"/>  
+	<eRelation relType="Causal" cause_eid="e4" effect_eid="e5"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e6" thoughtcontent_eids="e7"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eids="e9-e10"/> 
+</Body>

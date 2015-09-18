@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>日本福岛县计划建设储备设施 封存被核污染土壤</Title>  
+	<ReportTime type="absTime">2013-12-25</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1" type="thoughtevent"> 
+					<Participant sid="s1">中国网</Participant>  
+					<Time tid="t1" type="relTime">12月25日</Time>  
+					<Denoter did="d1" type="statement">讯</Denoter> 
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e2" type="thoughtevent">据 
+					<Participant sid="s2">日本NHK网站</Participant>  
+					<Time tid="t2" type="relTime">12月24日</Time>  
+					<Denoter did="d2" type="statement">报 道</Denoter> 
+				</Event> ， 
+				<Event eid="e3" type="thoughtevent"> 
+					<Participant sid="s3">日本政府</Participant>  
+					<Denoter did="d3" type="action">计划</Denoter> 
+				</Event>  
+				<Event eid="e4"> 
+					<Location lid="l4">在福岛县核电站周边</Location>  
+					<Denoter did="d4" type="action">建设</Denoter>  
+					<Object oid="o4" sid="s5">中期储藏设施</Object> 
+				</Event> ， 
+				<Event eid="e5">用于 
+					<Denoter did="d5" type="action">保存</Denoter> 
+				</Event>  
+				<Event eid="e6"> 
+					<Location lid="l6">核辐射污染作业中</Location>  
+					<Denoter did="d6" type="operation">清理出</Denoter> 的 
+					<Object oid="o5,o6">被污染土壤</Object> 
+				</Event> 。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e7"> 
+					<Time tid="t7" type="relTime">24日</Time> ， 
+					<Location lid="l7">东京都内</Location>  
+					<Denoter did="d7" type="action">召开</Denoter>  
+					<Object oid="o7">专家研讨会</Object> 
+				</Event> ， 
+				<Event eid="e8">就如何 
+					<Denoter did="d8" type="action">运送</Denoter>  
+					<Location lid="l8">福岛县内</Location> 的 
+					<Object oid="o8">污染土壤</Object> 
+				</Event>  
+				<Event eid="e9" type="thoughtevent">进行了 
+					<Denoter did="d9" type="statement">讨论</Denoter> 
+				</Event> 。
+			</Sentence>  
+			<Sentence>会上， 
+				<Event eid="e10" type="thoughtevent"> 
+					<Participant sid="s10">环境省</Participant>  
+					<Denoter did="d10" type="statement">决 定</Denoter> 
+				</Event>  
+				<Event eid="e11">于 
+					<Time tid="t11" type="relTime">明年夏 季</Time>  
+					<Denoter did="d11" type="action">完成</Denoter> 
+				</Event>  
+				<Event eid="e12"> 
+					<Denoter did="d12">运送</Denoter>  
+					<Object oid="o12">污染土壤</Object>  
+					<Object oid="o11">基本计划的制定工作</Object> 
+				</Event> 。
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-11"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-11"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eids="e4-6"/>  
+	<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>  
+	<eRelation relType="Accompany" accompanya_eid="e5" accompanyb_eid="e6"/>  
+	<eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e9" thoughtcontent_eids="e8"/>  
+	<eRelation relType="Accompany" accompanya_eid="e9" accompanyb_eid="e10"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eids="e11-12"/> 
+</Body>

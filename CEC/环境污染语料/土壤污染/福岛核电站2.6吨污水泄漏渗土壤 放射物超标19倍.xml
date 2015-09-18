@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>福岛核电站2.6吨污水泄漏渗土壤 放射物超标19倍</Title>  
+	<ReportTime type="absTime">2013-12-23 16:56</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1" type="thoughtevent">据 
+					<Participant sid="s1">日本媒体</Participant>  
+					<Denoter did="d1" type="statement">报道</Denoter> 
+				</Event>， 
+				<Event eid="e2"> 
+					<Participant sid="s2">东京电力福岛第一核电站</Participant>  
+					<Time tid="t2" type="timeInterval">从21日至22日</Time>，相继发现 
+					<Location lid="l2">污染水储水罐周边的堤坝</Location>  
+					<Denoter did="d2" type="stateChange">有4处漏水</Denoter> 
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e3">预计总共 
+					<Denoter did="d3" type="action">泄漏了</Denoter>  
+					<Object oid="o3">约2.6吨污染水</Object> 
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e4">与因 
+					<Participant sid="s4">大雨涨水</Participant>  
+					<Denoter did="d4" type="stateChange">泄漏污染水不同</Denoter> 
+				</Event>， 
+				<Event eid="e5"> 
+					<Object sid="s5">此</Object>次是从 
+					<Location lid="l5">堤坝底部的接缝及裂纹中</Location>  
+					<Denoter did="d5" type="action">泄漏</Denoter>的
+				</Event>， 
+				<Event eid="e6">因此必须 
+					<Denoter did="d6" type="action">采取</Denoter>  
+					<Object oid="o6">新的应对措施</Object> 
+				</Event>。
+			</Sentence> 
+		</Paragraph>  
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e7">据悉， 
+					<Participant sid="s7">福岛第一核电站</Participant>  
+					<Time tid="t7" type="timeInterval">从21日至22日</Time>，相继发现 
+					<Location lid="l7">污染水储水罐周边堤坝</Location>  
+					<Denoter did="d7" type="stateChange">有4处漏水</Denoter> 
+				</Event>， 
+				<Event eid="e8">且 
+					<Participant sid="s8">污水</Participant>从 
+					<Location lid="l8">水泥堤坝的底部</Location>  
+					<Denoter did="d8">渗进了</Denoter>  
+					<Object oid="o8">周边的土壤</Object> 
+				</Event>， 
+				<Event eid="e9"> 
+					<Participant sid="s9">东电</Participant>已经 
+					<Denoter did="d9">进行了紧急抢修</Denoter> 
+				</Event>。
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-9"/>  
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>  
+	<eRelation relType="Accompany" accompanya_eid="e4" accompanyb_eid="e5"/>  
+	<eRelation relType="Causal" cause_eid="e5" effect_eid="e6"/>  
+	<eRelation relType="Causal" cause_eid="e7" effect_eid="e8"/>  
+	<eRelation relType="Follow" bevent_eid="e8" aevent_eid="e9"/> 
+</Body>

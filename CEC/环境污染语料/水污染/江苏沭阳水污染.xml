@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>2007江苏沭阳水污染</Title>  
+	<ReportTime type="absTime">2012年06月04日13:38</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Time type="absTime" tid="t1">2007年7月2日下午3时</Time>， 
+					<Location lid="l1">江苏省沭阳县</Location> 地面水厂监测 
+					<Denoter type="perception" did="d1">发现</Denoter>，
+				</Event>  
+				<Event eid="e2">短时间、大流量的 
+					<Object sid="s2">污水</Object>  
+					<Denoter type="movement" did="d2">侵入</Denoter> 到位于淮沭河的 
+					<Object oid="o2">自来水厂取水口</Object>，
+				</Event>  
+				<Event eid="e3">城区生活供水 
+					<Object oid="o3">水源</Object> 遭到严重 
+					<Denoter type="emergency" did="d3">污染</Denoter>，
+				</Event>  
+				<Event eid="e4"> 
+					<Object sid="s4">水流</Object> 出现明显 
+					<Denoter type="perception" did="d4">异味</Denoter>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e5">经过 
+					<Object oid="o5">水质</Object>  
+					<Denoter type="operation" did="d5">检测</Denoter>，
+				</Event>  
+				<Event eid="e6">取水口的水氨氮含量为每升28毫克左右，远远 
+					<Denoter did="d6" type="movement">超出</Denoter> 国家取水口 
+					<Object oid="o6">水质标准</Object>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e7">由于 
+					<Object oid="o7">水质</Object> 经 
+					<Denoter did="d7" type="operation">处理</Denoter> 
+				</Event>  
+				<Event eid="e8">后仍不能 
+					<Denoter type="movement" did="d8">达到</Denoter> 饮用水 
+					<Object oid="o8">标准</Object>，
+				</Event>  
+				<Event eid="e9">城区 
+					<Object oid="o9">供水系统</Object> 被迫 
+					<Denoter type="operation" did="d9">关闭</Denoter>，
+				</Event>  
+				<Event eid="e10">城区 
+					<Object oid="o10">20万人口</Object> 吃水、用水受到不同程度 
+					<Denoter type="operation" did="d10">影响</Denoter>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e11">直至7月4日上午，因饮用水源污染而 
+					<Denoter type="operation" did="d11">关闭</Denoter> 的 
+					<Object oid="o11,o12">自来水厂取水口</Object> 
+				</Event>  
+				<Event eid="e12">重新 
+					<Denoter type="operation" did="d12">开启</Denoter>，
+				</Event>  
+				<Event eid="e13"> 
+					<Location lid="l13">沭阳城区</Location>全面 
+					<Denoter type="stateChange" did="d13">恢复</Denoter> 正常 
+					<Object oid="o13">供水</Object>，
+				</Event>  
+				<Event eid="e14">整个 
+					<Location lid="l14">沭阳县城</Location>  
+					<Denoter type="movement" did="d14">停水</Denoter> 超过 
+					<Object oid="o14">40小时</Object>。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Follow" bevent_eid="e1" aevent_eid="e2"/>  
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>  
+	<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>  
+	<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e8"/>  
+	<eRelation relType="Causal" cause_eid="e8" effect_eid="e9"/>  
+	<eRelation relType="Causal" cause_eid="e9" effect_eid="e10"/>  
+	<eRelation relType="Follow" bevent_eid="e11" aevent_eid="e12"/>  
+	<eRelation relType="Follow" bevent_eid="e12" aevent_eid="e13"/> 
+</Body>

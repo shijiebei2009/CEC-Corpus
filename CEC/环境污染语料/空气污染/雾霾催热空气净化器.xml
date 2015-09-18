@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>雾霾催热空气净化器</Title>  
+	<ReportTime type="absTime">2013-12-19 01:36</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Time type="relTime" tid="t1">近日</Time>持续出现 
+					<Denoter did="d1">雾霾</Denoter>天气
+				</Event>， 
+				<Event eid="e2">不少 
+					<Participant sid="s2">市民</Participant>开始 
+					<Denoter did="d2" type="action">关注</Denoter>原本相对陌生的 
+					<Object oid="o2">空气净化类产品</Object> 
+				</Event>， 
+				<Event eid="e3"> 
+					<Denoter did="d3" type="operation">催热</Denoter>了该类产品的 
+					<Object oid="o3">市场销售</Object> 
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e4" type="thoughtevent"> 
+					<Participant sid="s4">记者</Participant>  
+					<Time tid="t4" type="relTime">昨日</Time>走访 
+					<Location lid="l4">市场</Location>  
+					<Denoter did="d4" type="perception">发现</Denoter> 
+				</Event>， 
+				<Event eid="e5">各类 
+					<Object sid="s5">空气净化器</Object>已在 
+					<Location lid="l5">电器城</Location>  
+					<Denoter did="d5" type="operation">抢占</Denoter>了一席之地
+				</Event>。
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>  
+	<eRelation relType="Causal" cause_eid="e2" effect_eid="e3"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e4" thoughtcontent_eids="e5"/> 
+</Body>

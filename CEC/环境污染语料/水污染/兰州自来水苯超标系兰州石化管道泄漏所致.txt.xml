@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>兰州自来水苯超标系兰州石化管道泄漏所致</Title>  
+	<ReportTime type="absTime">2014年04月12日13:13</ReportTime>  
+	<Content> 
+		<Paragraph>
+			<Sentence> 
+				<Event eid="e1" type="thoughtevent">
+					<Participant sid="s1">新华网</Participant>
+					<Location lid="l1">兰州</Location>
+					<Time tid="t1" type="relTime">4月12日</Time>
+					<Denoter did="d1" type="statement">电</Denoter>
+				</Event>
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e2" type="thoughtevent">（记者王衡　白丽萍）
+					<Participant sid="s2">记者</Participant>
+					<Time tid="t2" type="relTime">12日</Time>从兰州有关部门在西固区政府召开的
+					<Means type="method">电视电话会议</Means>上
+					<Denoter did="d2" type="statement">获悉</Denoter>
+				</Event>， 
+				<Event eid="e3">造成
+					<Object sid="s3">自来水</Object>
+					<Denoter did="d3" type="emergency">苯超标</Denoter>
+				</Event>  
+				<Event eid="e4">的
+					<Object oid="o4">原因</Object>已经
+					<Denoter did="d4" type="action">查明</Denoter>
+				</Event>， 
+				<Event eid="e5">系中国石油天然气公司兰州石化分公司一条
+					<Object sid="s5">管道</Object>发生
+					<Object oid="o5">原油</Object>
+					<Denoter did="d5" type="action">泄漏</Denoter>
+				</Event>、 
+				<Event eid="e6">
+					<Denoter did="d6" type="emergency">污染了</Denoter>供水企业的
+					<Object oid="o6">自流沟</Object>
+				</Event>所致。
+			</Sentence>
+		</Paragraph>  
+		<Paragraph>
+			<Sentence> 
+				<Event eid="e7">会上，
+					<Location lid="l7">兰州市</Location>
+					<Participant sid="s7">委市政府主要负责人、相关区县及环保部门负责人</Participant>
+					<Denoter did="d7" type="action">介绍了</Denoter>此次自来水苯超标事件的
+					<Object oid="o7">最新进展情况</Object>
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e8" type="thoughtevent">
+					<Location lid="l8">兰州市</Location>
+					<Participant sid="s8">环保局局长闫子江</Participant>
+					<Denoter did="d8" type="statement">说</Denoter>
+				</Event>， 
+				<Event eid="e9">
+					<Location lid="l9">兰州石化</Location>一条
+					<Object sid="s9">管道</Object>发生
+					<Denoter did="d9" type="action">泄漏</Denoter>
+				</Event>， 
+				<Event eid="e10">
+					<Denoter did="d10" type="emergency">污染了</Denoter>
+					<Object oid="o10">自流沟的4号线</Object>
+				</Event>， 
+				<Event eid="e11">导致
+					<Object sid="s11">苯</Object>
+					<Denoter did="d11" type="statement">超标</Denoter>
+				</Event>。
+			</Sentence>
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-11"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e2" thoughtcontent_eids="e3-6"/>  
+	<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>  
+	<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>  
+	<eRelation relType="Causal" cause_eid="e6" effect_eid="e3"/>  
+	<eRelation relType="Follow" bevent_eid="e7" aevent_eid="e2"/>  
+	<eRelation relType="Accompany" accompanya_eid="e7" accompanyb_eid="e8"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e8" thoughtcontent_eids="e9-11"/>  
+	<eRelation relType="Follow" bevent_eid="e9" aevent_eid="e10"/>  
+	<eRelation relType="Causal" cause_eid="e10" effect_eid="e11"/> 
+</Body>

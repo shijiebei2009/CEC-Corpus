@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>山西长治一化工厂发生苯胺泄漏事故</Title>  
+	<ReportTime type="absTime">2013年01月06日 07:13:46</ReportTime>  
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Time type="absTime">2012年12月31日7时40分</Time>， 位于 
+					<Location lid="l1">长治市潞城市</Location>境内的 
+					<Participant sid="s1">山西天脊煤化工集团股份有限公司</Participant> 发生一起因 
+					<Object oid="o1">输送软管</Object>  
+					<Denoter did="d1" type="stateChange">破裂</Denoter> 
+				</Event>  
+				<Event eid="e2">导致的 
+					<Object oid="o2">苯胺</Object>  
+					<Denoter type="emergency" did="d2">泄漏</Denoter> 事故，
+				</Event>  
+				<Event eid="e3">泄漏 
+					<Object oid="o3">苯胺</Object> 随河水 
+					<Denoter type="movement" did="d3">流出</Denoter> 省外，
+				</Event>  
+				<Event eid="e4">致 
+					<Location lid="l4">漳河流域</Location>  
+					<Object oid="o4">水源</Object>被 
+					<Denoter type="emergency" did="d4">污染</Denoter>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e5">事故造成山西沿途80公里河道停止人畜 
+					<Denoter type="movement" did="d5">饮用</Denoter>  
+					<Object oid="o5">自然水</Object>，
+				</Event>  
+				<Event eid="e6">河北邯郸因 
+					<Object oid="o6">上游来水</Object> 被 
+					<Denoter type="emergency" did="d6">污染</Denoter>，
+				</Event>  
+				<Event eid="e7">致使 
+					<Object oid="o7">大面积</Object>  
+					<Denoter type="stateChange" did="d7">停水</Denoter>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e8">经全力应急 
+					<Denoter type="operation" did="d8">处置</Denoter>，
+				</Event>  
+				<Event eid="e9">截止到 
+					<Time type="absTime" tid="t9">2013年1月6日</Time>  
+					<Location lid="l9">邯郸市</Location> 主城区85%以上居民已 
+					<Denoter type="stateChange" did="d8">恢复</Denoter> 正常 
+					<Object oid="o9">供水</Object>。
+				</Event> 
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e10">受此事件的影响，红旗渠等部分水体有 
+					<Object oid="o10,s11">苯胺、挥发酚等因子</Object>  
+					<Denoter did="d10" type="operation">检出</Denoter> 
+				</Event>  
+				<Event eid="e11">和 
+					<Denoter type="operation" did="d11">超标</Denoter>，
+				</Event>  
+				<Event eid="e12">安阳市 
+					<Participant sid="s12">住建等部门</Participant> 采取了 
+					<Denoter did="d12" type="operation">切断</Denoter>  
+					<Object oid="o12">水源</Object>，
+				</Event>  
+				<Event eid="e13"> 
+					<Denoter type="operation" did="d13">暂停</Denoter> 沿途 
+					<Object oid="o13">人畜饮水</Object> 等
+				</Event>  
+				<Event eid="e14"> 
+					<Object oid="o14">措施</Object> 加以 
+					<Denoter type="operation" did="d14">应对</Denoter>。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Causal" cause_eid="e1" effect_eid="e2"/>  
+	<eRelation relType="Causal" cause_eid="e3" effect_eid="e4"/>  
+	<eRelation relType="Causal" cause_eid="e4" effect_eid="e5"/>  
+	<eRelation relType="Causal" cause_eid="e6" effect_eid="e7"/>  
+	<eRelation relType="Causal" cause_eid="e8" effect_eid="e9"/>  
+	<eRelation relType="Accompany" accompanya_eid="e10" accompanyb_eid="e11"/>  
+	<eRelation relType="Accompany" accompanya_eid="e12" accompanyb_eid="e13"/> 
+</Body>

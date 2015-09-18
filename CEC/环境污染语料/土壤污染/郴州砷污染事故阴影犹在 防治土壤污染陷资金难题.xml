@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>郴州砷污染事故阴影犹在 防治土壤污染陷资金难题</Title>  
+	<ReportTime type="absTime">2011年05月30日 11:54</ReportTime> 　 
+	<Content> 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1" type="thoughtevent"> 
+					<Participant sid="s1">孙六堂</Participant>  
+					<Denoter did="d1" type="statement">告诉</Denoter>  
+					<Participant oid="o1">《瞭望》新闻周刊记者</Participant> 
+				</Event>， 
+				<Event eid="e2"> 
+					<Object sid="s2">水田弃稻植树</Object>， 
+					<Denoter did="d2" type="action">源于</Denoter>  
+					<Object oid="o2">11年前的那场意外</Object>，
+				</Event>  
+				<Event eid="e3" type="thoughtevent"> 
+					<Object oid="o3">整个村庄的生态格局</Object>也被 
+					<Denoter did="d3" type="action">改变</Denoter> 
+				</Event>： 
+				<Event eid="e4"> 
+					<Time tid="t4" type="absTime">2000年1月8日</Time>， 
+					<Location lid="l4">郴州市苏仙区邓家塘乡邓家塘村</Location>发生 
+					<Denoter did="d4" type="stateChange">一起严重砷污染事故</Denoter>。
+				</Event> 
+			</Sentence> 
+		</Paragraph> 　　 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e5" type="thoughtevent">事发后，由 
+					<Participant sid="s5">郴州市、苏仙区两级政府组成的联合调查组</Participant>调查结果 
+					<Denoter did="d5" type="statement">表明</Denoter> 
+				</Event>， 
+				<Event eid="e6"> 
+					<Location lid="l6">离村庄不远</Location>的 
+					<Participant sid="s6">郴州砷制品厂</Participant>，因 
+					<Object oid="o6">生产过程中将不允许外排的闭路循环废水</Object>  
+					<Denoter did="d6" type="action">直接排放</Denoter> 
+				</Event>， 
+				<Event eid="e7">导致 
+					<Participant sid="s7">部分村民</Participant>不同程度地 
+					<Denoter did="d7" type="emergency">发生砷污染急性中毒和亚急性中毒</Denoter> 
+				</Event>， 
+				<Event eid="e8">相继有 
+					<Participant sid="s8">380名村民</Participant>  
+					<Denoter did="d8" type="emergency">住院治疗</Denoter> 
+				</Event>， 
+				<Event eid="e9"> 
+					<Participant sid="s9">两人</Participant>  
+					<Denoter did="d9" type="emergency">死亡</Denoter> 
+				</Event>。
+			</Sentence> 
+		</Paragraph> 　　 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e10" type="thoughtevent">随后，经 
+					<Participant sid="s10">长沙市土地肥料测试中心</Participant>  
+					<Denoter did="d10" type="action">监测</Denoter> 
+				</Event>： 
+				<Event eid="e11"> 
+					<Participant sid="s11">大部分水田</Participant>  
+					<Denoter did="d11" type="stateChange">轻度污染</Denoter> 
+				</Event>， 
+				<Event eid="e12" polarity="negative">暂不能继续 
+					<Denoter did="d12" type="action">种植</Denoter>  
+					<Object oid="o12">水稻</Object> 
+				</Event>， 
+				<Event eid="e13">需要 
+					<Time tid="t13" type="timeInterval">长时间</Time>  
+					<Means type="method">施大量磷肥</Means>  
+					<Denoter did="d13" type="action">改良</Denoter>  
+					<Object oid="o13">土壤</Object> 
+				</Event>或 
+				<Event eid="e14"> 
+					<Denoter did="d14" type="action">改造</Denoter>成 
+					<Object oid="o14">旱地种植其他农作物</Object> 
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e15">其中， 
+					<Denoter did="d15" type="stateChange">轻度污染</Denoter>  
+					<Object oid="o15">189亩</Object> 
+				</Event>、 
+				<Event eid="e16"> 
+					<Denoter did="d16" type="stateChange">中度污染</Denoter>  
+					<Object oid="o16">107亩</Object> 
+				</Event>、 
+				<Event eid="e17"> 
+					<Denoter did="d17" type="stateChange">无污染</Denoter>  
+					<Object oid="o17">175亩</Object> 
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e18"> 
+					<Participant sid="s18">水田污染</Participant>损失以 
+					<Time tid="t18" type="timeInterval">10年</Time>  
+					<Denoter did="d18">间接和直接损失鉴定为84.7万元</Denoter> 
+				</Event>。
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e1" thoughtcontent_eids="e2-4"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e3" thoughtcontent_eids="e4"/>  
+	<eRelation relType="Follow" bevent_eid="e4" aevent_eid="e5"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e5" thoughtcontent_eids="e6-9"/>  
+	<eRelation relType="Causal" cause_eid="e6" effect_eid="e7"/>  
+	<eRelation relType="Causal" cause_eid="e6" effect_eid="e8"/>  
+	<eRelation relType="Causal" cause_eid="e6" effect_eid="e9"/>  
+	<eRelation relType="Follow" bevent_eid="e9" aevent_eid="e10"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eids="e11-18"/>  
+	<eRelation relType="Causal" cause_eid="e11" effect_eid="e12"/>  
+	<eRelation relType="Causal" cause_eid="e11" effect_eid="e13"/>  
+	<eRelation relType="Causal" cause_eid="e11" effect_eid="e14"/>  
+	<eRelation relType="Accompany" accompanya_eid="e15" accompanyb_eid="e16"/>  
+	<eRelation relType="Accompany" accompanya_eid="e15" accompanyb_eid="e17"/>  
+	<eRelation relType="Causal" cause_eid="e15" effect_eid="e18"/>  
+	<eRelation relType="Causal" cause_eid="e16" effect_eid="e18"/> 
+</Body>

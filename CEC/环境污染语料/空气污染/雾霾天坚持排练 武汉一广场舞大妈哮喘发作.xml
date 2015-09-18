@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Body> 
+	<Title>雾霾天坚持排练 武汉一广场舞大妈哮喘发作</Title>  
+	<ReportTime type="absTime">2013-12-13 07:23</ReportTime> 　　 
+	<Content>　　 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e1"> 
+					<Denoter did="d1" type="stateChange">雾霾</Denoter>天
+				</Event>  
+				<Event eid="e2">还坚持不懈地跳 
+					<Denoter did="d2" type="operation">广场舞</Denoter> 
+				</Event>，结果 
+				<Event eid="e3"> 
+					<Participant sid="s2-s4">老伙伴们</Participant>纷纷因为 
+					<Denoter did="d4" type="stateChange">呼吸道疾病</Denoter> 
+				</Event>  
+				<Event eid="e4">到 
+					<Location lid="l4">医院</Location>  
+					<Denoter did="d4" type="operation">就诊</Denoter> 
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e5"> 
+					<Time tid="t5" type="relTime">前天</Time>， 
+					<Location lid="l5">武汉市江岸区</Location>一支广场舞蹈队的领队 
+					<Participant sid="s5">方婆婆</Participant>，因为 
+					<Denoter did="d5">咳喘</Denoter>发作
+				</Event>  
+				<Event eid="e6">到 
+					<Location lid="l6">医院</Location>  
+					<Denoter did="d6" type="operation">看病</Denoter> 
+				</Event>。
+			</Sentence>  
+			<Sentence>在 
+				<Event type="thoughtevent" eid="e7"> 
+					<Denoter did="d7" type="perception">得知</Denoter> 
+				</Event>  
+				<Event eid="e8"> 
+					<Object sid="s8">旧病</Object>  
+					<Denoter did="d8" type="stateChange">复发</Denoter> 
+				</Event>与 
+				<Event eid="e9"> 
+					<Denoter did="d9" type="stateChange">雾霾</Denoter>天气
+				</Event>有关后， 
+				<Event eid="e10"> 
+					<Participant sid="s10">她</Participant>  
+					<Denoter did="d10" type="perception">决定</Denoter> 
+				</Event>  
+				<Event eid="e11">暂停 
+					<Denoter did="d11" type="operation" polarity="negative">广场舞</Denoter> 
+				</Event>， 
+				<Event eid="e12">对 
+					<Participant oid="o12">其他队员</Participant>也下了“ 
+					<Denoter did="d12" type="operation">禁舞</Denoter>令”
+				</Event>。
+			</Sentence> 
+		</Paragraph> 　　 　　 
+		<Paragraph> 
+			<Sentence> 
+				<Event eid="e13"> 
+					<Time tid="t13" type="relTime">近来</Time>， 
+					<Location lid="l13">武汉</Location>持续 
+					<Denoter did="d13" type="stateChange">雾霾</Denoter> 
+				</Event>， 
+				<Event eid="e14"> 
+					<Participant sid="s14-s16">方婆婆</Participant>带着她的 
+					<Participant sid="s14-s16">团队</Participant>仍然坚持每天在 
+					<Location lid="l14">广场</Location>  
+					<Denoter did="d14" type="operation">跳舞</Denoter> 
+				</Event>，还 
+				<Event type="thoughtevent" eid="e15"> 
+					<Denoter did="d15" type="statement">笑称</Denoter> 
+				</Event>  
+				<Event eid="e16">要 
+					<Object sid="s16">雾</Object>与 
+					<Denoter did="d16" type="operation">共舞</Denoter> 
+				</Event>。
+			</Sentence>  
+			<Sentence>可是， 
+				<Event eid="e17"> 
+					<Time tid="t17" type="relTime">这几天</Time>，接二连三有 
+					<Participant sid="s17">人</Participant>  
+					<Denoter did="d17" type="stateChange">缺席</Denoter> 
+				</Event>： 
+				<Event eid="e18"> 
+					<Participant sid="s18-s19">张阿姨</Participant>得了 
+					<Denoter did="d18" type="stateChange">急性支气管炎</Denoter> 
+				</Event>， 
+				<Event eid="e19">在 
+					<Location lid="l19">医院</Location>  
+					<Denoter did="d19" type="operation">打针</Denoter> 
+				</Event>， 
+				<Event type="thoughtevent" eid="e20"> 
+					<Participant sid="s20-s22">王伯伯</Participant>打电话 
+					<Denoter did="d20" type="statement">说</Denoter> 
+				</Event>  
+				<Event eid="e21"> 
+					<Object sid="s21">胸口</Object>  
+					<Denoter did="d21" type="stateChange">闷</Denoter> 
+				</Event>，怕是 
+				<Event eid="e22"> 
+					<Denoter did="d22" type="stateChange">心脏病</Denoter>犯了
+				</Event>， 
+				<Event eid="e23"> 
+					<Participant sid="s23-e24">李阿姨</Participant>也是 
+					<Denoter did="d23" type="stateChange">哮喘</Denoter>发作
+				</Event>  
+				<Event eid="e24"> 
+					<Denoter did="d24" type="operation">请假</Denoter>了
+				</Event>。
+			</Sentence>  
+			<Sentence> 
+				<Event eid="e25"> 
+					<Participant sid="s25-s26">方婆婆</Participant>自己也是 
+					<Denoter did="d25" type="stateChange">咳嗽</Denoter>不止
+				</Event>， 
+				<Event eid="e26"> 
+					<Denoter did="d26" type="operation">就诊</Denoter> 
+				</Event>时问医生，“以后雾霾天是不是就不能活动了？”
+			</Sentence> 
+		</Paragraph> 　　 　　 
+		<Paragraph> 
+			<Sentence> 
+				<Event type="thoughtevent" eid="e27"> 
+					<Participant sid="s27">医生</Participant>  
+					<Denoter did="d27" type="statement">说</Denoter> 
+				</Event>， 
+				<Event eid="e28"> 
+					<Time tid="t28" type="relTime">近日</Time>连续 
+					<Denoter did="d3" type="stateChange">雾霾</Denoter>天气
+				</Event>加重 
+				<Event eid="e29"> 
+					<Location lid="l29">武汉</Location>  
+					<Object sid="s29">空气</Object>  
+					<Denoter did="d29" type="stateChange">污染</Denoter> 
+				</Event>， 
+				<Event eid="e30">就诊的 
+					<Participant sid="s30">心血管及呼吸道疾病患者</Participant>明显 
+					<Denoter did="d30" type="stateChange">增多</Denoter> 
+				</Event>， 
+				<Event eid="e31"> 
+					<Object sid="s31-32">雾霾</Object>对 
+					<Object oid="o31">呼吸系统</Object>和 
+					<Object oid="o31">心血管系统</Object>的 
+					<Denoter did="d31" type="operation">影响</Denoter>是直接的
+				</Event>， 
+				<Event eid="e32">能直接 
+					<Denoter did="d32" type="movement">进入</Denoter>并黏附在 
+					<Location lid="l32" type="destination">人体呼吸道</Location>和 
+					<Location lid="l32" type="destination">肺泡</Location>中
+				</Event>，引起 
+				<Event eid="e33"> 
+					<Denoter did="d33" type="stateChange">急性鼻炎</Denoter> 
+				</Event>和 
+				<Event eid="e34"> 
+					<Denoter did="d34" type="stateChange">急性支气管炎</Denoter> 
+				</Event>等病症，也会使 
+				<Event eid="e35"> 
+					<Object sid="s35-36">老慢支</Object>、 
+					<Object sid="s35-36">慢阻肺</Object>、 
+					<Object sid="s35-36">哮喘</Object>等 
+					<Object sid="s35-36">慢性呼吸系统疾病</Object>急性 
+					<Denoter did="d35" type="stateChange">发作</Denoter> 
+				</Event>或 
+				<Event eid="e36"> 
+					<Denoter did="d36" type="stateChange">加重</Denoter> 
+				</Event>，也容易 
+				<Event eid="e37">诱发 
+					<Object sid="s37">心血管疾病</Object>的急性 
+					<Denoter did="d37" type="stateChange">发作</Denoter> 
+				</Event>。
+			</Sentence> 
+		</Paragraph> 
+	</Content>  
+	<eRelation relType="Causal" cause_eid="e1-e2" effect_eid="e3"/>  
+	<eRelation relType="Follow" bevent_eid="e3" aevent_eid="e4"/>  
+	<eRelation relType="Follow" bevent_eid="e5" aevent_eid="e6"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e7" thoughtcontent_eids="e8-e9"/>  
+	<eRelation relType="Causal" cause_eid="e9" effect_eid="e8"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e10" thoughtcontent_eids="e11-e12"/>  
+	<eRelation relType="Accompany" accompanya_eid="e13" accompanyb_eid="e14"/>  
+	<eRelation relType="Accompany" accompanya_eid="e14" accompanyb_eid="e15"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e15" thoughtcontent_eids="e16"/>  
+	<eRelation relType="Follow" bevent_eid="e14" aevent_eid="e17"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e20" thoughtcontent_eids="e21-e22"/>  
+	<eRelation relType="Thoughtcontent" thoughtevent_eid="e27" thoughtcontent_eids="e28-e37"/>  
+	<eRelation relType="Causal" cause_eid="e28" effect_eid="e29"/>  
+	<eRelation relType="Causal" cause_eid="e29" effect_eid="e30"/>  
+	<eRelation relType="Causal" cause_eid="e32" effect_eid="e33-37"/> 
+</Body>
