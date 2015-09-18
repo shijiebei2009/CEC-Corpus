@@ -33,7 +33,7 @@ CEC 采用了 XML 语言作为标注格式，其中包含了六个最重要的�
 [2] 朱莎莎.面向突发事件领域的事件时间要素抽取与推理研究[D]. 上海：上海大学, 2011.<br/>
 
 
-=======================================时间线=======================================
+===================================时间线===================================
 
 2015年9月18日，我们添加了已标注的环境污染类，环境污染类语料共包括六小类，分别是：海洋污染、空气污染、社会效应、水污染、土壤污染、噪声污染，总规模合计106篇。
 
@@ -50,7 +50,7 @@ If you want to know more about CEC, you can refer to the related dissertations a
 
 Thank you, all of the postgraduates and PhDs in Data Semantic Laboratory in Shanghai University, for making a contribution to CEC.
 
-=======================================Timeline=======================================
+===================================Timeline===================================
 
 September 18, 2015, we added an annotated corpus of environmental pollution, environmental pollution corpus includes six small classes, respectively is: marine pollution, air pollution, the social effect, water pollution, soil pollution, noise pollution, the total size of the corpus is 106.
 
