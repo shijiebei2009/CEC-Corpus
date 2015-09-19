@@ -35,7 +35,7 @@ CEC 采用了 XML 语言作为标注格式，其中包含了六个最重要的�
 
 ===================================时间线===================================
 
-2015年9月18日，我们添加了已标注的环境污染类语料，环境污染类语料共包括六小类，分别是：海洋污染、空气污染、社会效应、水污染、土壤污染、噪声污染，总规模合计106篇。
+2015年9月18日，我们添加了已标注的环境污染类语料，环境污染类语料共包括六小类，分别是：海洋污染、空气污染、社会效应、水污染、土壤污染、噪声污染，总规模合计100篇。
 
 本次语料标注工作主要由王旭、丁宁等完成，其中标注结果格式化、编码转换、错误修正等工作由王旭完成。
 
@@ -52,6 +52,6 @@ Thank you, all of the postgraduates and PhDs in Data Semantic Laboratory in Shan
 
 ===================================Timeline===================================
 
-September 18, 2015, we added an annotated corpus of environmental pollution, environmental pollution corpus includes six small classes, respectively is: marine pollution, air pollution, the social effect, water pollution, soil pollution, noise pollution, the total size of the corpus is 106.
+September 18, 2015, we added an annotated corpus of environmental pollution, environmental pollution corpus includes six small classes, respectively is: marine pollution, air pollution, the social effect, water pollution, soil pollution, noise pollution, the total size of the corpus is 100.
 
 The corpus tagging work mainly completed done by Wang Xu, Ding Ning, etc, which format the annotated results, encoding conversion, error correction and other work done by Wang Xu.
