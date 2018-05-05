@@ -6,7 +6,7 @@
 	<Content> 
 		<Paragraph> 
 			<Sentence>年初发生的澳大利亚森林大火给人们造成的伤痛还未退却， 
-				<Event eid="e1">欧洲地中海沿岸5国�D�D 
+				<Event eid="e1">欧洲地中海沿岸5国
 					<Location lid="l1">意大利、西班牙、法国、希腊和克罗地亚</Location>  
 					<Time type="timeInterval" tid="t1">近期</Time> 又发生多起 
 					<Denoter type="emergency" did="d1">山林火灾</Denoter> 

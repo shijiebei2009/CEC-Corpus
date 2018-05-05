@@ -16,11 +16,12 @@ CEC 采用了 XML 语言作为标注格式，其中包含了六个最重要的�
 [3] 朱莎莎, 刘宗田, 付剑锋, 朱芳. 基于条件随机场的中文时间短语识别[J]. 计算机工程, 2011, 37(15)：164-167. <br/>
 [4] 付剑锋, 刘宗田, 刘炜, 基于特征加权的事件要素识别[J], 计算机科学,2010年03期<br/>
 [5] 刘宗田, 黄美丽等，面向事件的本体研究[J]，计算机科学，2009年11期<br/>
-[6] Xu-jie Zhang, Zong-tian Liu, Wei Liu, Jian-feng Fu. Research on event-based semantic annotation of Chinese[C]. Computer Science and Network Technology (ICCSNT), 2012 2nd International Conference on: 1883-1888.<br/>
-[7] Fang Zhu, Zongtian Liu, Juanli Yang, Ping Zhu. Chinese event place phrase recognition of emergency event using Maximum Entropy[C]. Cloud Computing and Intelligence Systems (CCIS), 2011 IEEE International Conference on: 614-618.<br/>
-[8] Jian-feng Fu, Wei Liu, Zong-tian Liu, Sha-sha Zhu. A Study of Chinese Event Taggability[C]. Communication Software and Networks, 2010. ICCSN '10. Second International Conference on: 400-404.<br/>
-[9] Jianfeng Fu, Zongtian Liu, Wei Liu. Using dual-layer CRFs for event causal relation extraction. IEICE Electronics Express. 2011, Vol.8, No.5, 306–310. (2011，第三作者)<br/>
-[10] Xujie Zhang, Zongtian Liu, Wei Liu, Junhui Yang, Shengnan Fei, Chinese Event Classification for Event Ontology Construction, Journal of Computational Information Systems , JCIS. 9: 9 (2013) 3511–3519<br/>
+[6] 刘炜, 王旭, 张雨嘉, 等. 一种面向突发事件的文本语料自动标注方法[J]. 中文信息学报, 2017, 31(2): 76-85.<br/>
+[7] Xu-jie Zhang, Zong-tian Liu, Wei Liu, Jian-feng Fu. Research on event-based semantic annotation of Chinese[C]. Computer Science and Network Technology (ICCSNT), 2012 2nd International Conference on: 1883-1888.<br/>
+[8] Fang Zhu, Zongtian Liu, Juanli Yang, Ping Zhu. Chinese event place phrase recognition of emergency event using Maximum Entropy[C]. Cloud Computing and Intelligence Systems (CCIS), 2011 IEEE International Conference on: 614-618.<br/>
+[9] Jian-feng Fu, Wei Liu, Zong-tian Liu, Sha-sha Zhu. A Study of Chinese Event Taggability[C]. Communication Software and Networks, 2010. ICCSN '10. Second International Conference on: 400-404.<br/>
+[10] Jianfeng Fu, Zongtian Liu, Wei Liu. Using dual-layer CRFs for event causal relation extraction. IEICE Electronics Express. 2011, Vol.8, No.5, 306–310. (2011，第三作者)<br/>
+[11] Xujie Zhang, Zongtian Liu, Wei Liu, Junhui Yang, Shengnan Fei, Chinese Event Classification for Event Ontology Construction, Journal of Computational Information Systems , JCIS. 9: 9 (2013) 3511–3519<br/>
 
 **博士论文：**  
 [1] 付剑锋. 面向事件的知识处理研究[D]. 上海：上海大学, 2010.<br/>
